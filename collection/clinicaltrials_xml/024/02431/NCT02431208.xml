@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="51849">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02431208</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GO29695</org_study_id>
+    <nct_id>NCT02431208</nct_id>
+  </id_info>
+  <brief_title>A Study of Atezolizumab (Anti-Programmed Death-Ligand 1 [PD-L1] Antibody) Alone or in Combination With an Immunomodulatory Drug and/or Daratumumab in Participants With Multiple Myeloma (MM)</brief_title>
+  <official_title>A Phase Ib Study of the Safety and Pharmacokinetics of Atezolizumab (Anti-PD-L1 Antibody) Alone or in Combination With an Immunomodulatory Drug and/or Daratumumab in Patients With Multiple Myeloma (Relapsed/Refractory and Post-Autologous Stem Cell Transplantation)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hoffmann-La Roche</source>
+  <brief_summary>
+    <textblock>
+      This multicenter, open-label, Phase I study will evaluate the safety, efficacy, and
+      pharmacokinetics of atezolizumab alone or in combination with daratumumab and/or various
+      immunomodulatory agents in participants with MM who have relapsed or who have undergone
+      autologous stem cell transplantation (ASCT). The planned duration of this study is
+      approximately 36 months. Cycle length will be 21 days in Cohorts A to C and 28 days in
+      Cohorts D to F.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 22, 2015</start_date>
+  <completion_date type="Anticipated">August 27, 2019</completion_date>
+  <primary_completion_date type="Anticipated">August 27, 2019</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Participants by Best Overall Response According to International Myeloma Working Group (IMWG) Criteria</measure>
+    <time_frame>From Day 1 of Cycle 2 until progression, withdrawal, or study end (up to 36 months overall)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Recommended Phase II Dose (RP2D) of Lenalidomide in the Combinations Tested</measure>
+    <time_frame>From Baseline until 30 days after last dose (up to approximately 36 months)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>RP2D of Pomalidomide in the Combinations Tested</measure>
+    <time_frame>From Baseline until 30 days after last dose (up to approximately 36 months)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Adverse Events (AEs) or Serious Adverse Events (SAEs)</measure>
+    <time_frame>From Baseline until 30 days after last dose (up to approximately 36 months)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cmax of Lenalidomide</measure>
+    <time_frame>Pre-dose (0 h) and post-dose (1 h) on Day 1 of Cycles 1, 4; pre-dose (0 h) and post-dose (0.5, 1, 2, 4, 8 h) on Day 15 of Cycles 1, 3; pre-dose (0 h) and post-dose (2 h) on Day 15 of Cycles 2, 4, 8 (up to 8 months overall)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmin of Lenalidomide</measure>
+    <time_frame>Pre-dose (0 h) and post-dose (1 h) on Day 1 of Cycles 1, 4; pre-dose (0 h) and post-dose (0.5, 1, 2, 4, 8 h) on Day 15 of Cycles 1, 3; pre-dose (0 h) and post-dose (2 h) on Day 15 of Cycles 2, 4, 8 (up to 8 months overall)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmax of Pomalidomide</measure>
+    <time_frame>Pre-dose (0 h) and post-dose (1, 2, 4, 6, 8 h) on Day 15 of Cycles 1, 3; pre-dose (0 h) and post-dose (4 h) on Day 15 of Cycle 2; pre-dose (0 h) and post-dose (2 h) on Day 15 of Cycles 4, 8 (up to 8 months overall)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmin of Pomalidomide</measure>
+    <time_frame>Pre-dose (0 h) and post-dose (1, 2, 4, 6, 8 h) on Day 15 of Cycles 1, 3; pre-dose (0 h) and post-dose (4 h) on Day 15 of Cycle 2; pre-dose (0 h) and post-dose (2 h) on Day 15 of Cycles 4, 8 (up to 8 months overall)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmax of Daratumumab</measure>
+    <time_frame>Post-dose (0.5 h) on Day 1 of Cycles 1, 3; pre-dose (0 h) on Day 1 of Cycles 1, 2, 3, 4, 8; then every 8 months on treatment (up to 36 months); and up to 90 days after last dose (up to 36 months overall)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmin of Daratumumab</measure>
+    <time_frame>Post-dose (0.5 h) on Day 1 of Cycles 1, 3; pre-dose (0 h) on Day 1 of Cycles 1, 2, 3, 4, 8; then every 8 months on treatment (up to 36 months); and up to 90 days after last dose (up to 36 months overall)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Number of Participants With Anti-Therapeutic Antibody (ATA) Response to Atezolizumab from Baseline to End of Study</measure>
+    <time_frame>From treatment start until study end; assessed pre-dose (0 h) on Day 2 of Cycle 1 and on Day 1 of Cycles 2, 3, 4, 8; then every 6 to 8 months on treatment (up to 36 months); and up to 90 days after last dose (up to 36 months overall)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Number of Participants With ATA Response to Daratumumab from Baseline to End of Study</measure>
+    <time_frame>From treatment start until study end; assessed pre-dose (0 h) on Day 1 of Cycles 1, 2, 3, 4, 8; then every 8 months on treatment (up to 36 months); and up to 90 days after last dose (up to 36 months overall)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DOR) According to IMWG Criteria</measure>
+    <time_frame>From Day 1 of Cycle 2 until progression, withdrawal, or study end (up to 36 months overall)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival (PFS) According to IMWG Criteria</measure>
+    <time_frame>From Day 1 of Cycle 2 until progression, withdrawal, or study end (up to 36 months overall)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Observed Serum Concentration (Cmax) of Atezolizumab</measure>
+    <time_frame>Post-dose (0.5 hours [h]) on Day 2 of Cycle 1 and Day 1 of Cycle 3; pre-dose (0 h) on Day 2 of Cycle 1 and Day 1 of Cycles 2, 3, 4, 8; then every 6 to 8 months on treatment (up to 36 months); and up to 90 days after last dose (up to 36 months overall)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Minimum Observed Serum Concentration (Cmin) of Atezolizumab</measure>
+    <time_frame>Post-dose (0.5 h) on Day 2 of Cycle 1 and Day 1 of Cycle 3; pre-dose (0 h) on Day 2 of Cycle 1 and Day 1 of Cycles 2, 3, 4, 8; then every 6 to 8 months on treatment (up to 36 months); and up to 90 days after last dose (up to 36 months overall)</time_frame>
+  </secondary_outcome>
+  <number_of_arms>10</number_of_arms>
+  <enrollment type="Anticipated">214</enrollment>
+  <condition>Multiple Myeloma</condition>
+  <arm_group>
+    <arm_group_label>Cohort A: ATZ (Run-In)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort A will involve a safety run-in to evaluate atezolizumab administered as a single agent in participants with relapsed or refractory MM who have received up to 3 lines of prior therapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort B1: ATZ + LEN (Dose Escalation)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort B1 will involve a dose escalation to evaluate atezolizumab administered in combination with ascending-dose lenalidomide in participants with relapsed or refractory MM who have received up to 3 lines of prior therapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort B2: ATZ + LEN (Expansion)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort B2 will involve an expansion to evaluate atezolizumab administered in combination with the maximum tolerate dose (MTD) of lenalidomide determined in Cohort B1 in participants with relapsed or refractory MM who have received up to 3 lines of prior therapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort C: ATZ (Post-ASCT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort C will evaluate atezolizumab administered as a single agent in participants with MM who have measurable disease after ASCT.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort D1: ATZ + DAR (Run-In)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort D1 will involve a safety run-in to evaluate atezolizumab administered in combination with daratumumab in participants with relapsed or refractory MM who have received up to 3 lines of prior therapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort D2: ATZ + DAR (Expansion)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort D2 will involve an expansion to evaluate atezolizumab administered in combination with daratumumab in participants with relapsed or refractory MM who have received up to 3 lines of prior therapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort E1: ATZ + DAR + LEN (Dose Escalation)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort E1 will involve a dose escalation to evaluate atezolizumab administered in combination with daratumumab and ascending-dose lenalidomide in participants with relapsed or refractory MM who have received up to 3 lines of prior therapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort E2: ATZ + DAR + LEN (Expansion)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort E2 will involve an expansion to evaluate atezolizumab administered in combination with daratumumab and the MTD of lenalidomide determined in Cohort E1 in participants with relapsed or refractory MM who have received up to 3 lines of prior therapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort F1: ATZ + DAR + POM (Dose Escalation)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort F1 will involve a dose escalation to evaluate atezolizumab administered in combination with daratumumab and ascending-dose pomalidomide in participants with relapsed or refractory MM who have received more than 3 lines of prior therapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort F2: ATZ + DAR + POM (Expansion)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort F2 will involve an expansion to evaluate atezolizumab administered in combination with daratumumab and the MTD of pomalidomide determined in Cohort F1 in participants with relapsed or refractory MM who have received more than 3 lines of prior therapy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Atezolizumab (MPDL3280A) [TECENTRIQ], an engineered anti-PD-L1 antibody</intervention_name>
+    <description>Participants will receive intravenous (IV) atezolizumab until loss of clinical benefit, withdrawal, or study end. Cohorts A to C will receive 1200 milligrams (mg) on Day 1 of each 21-day cycle. Cohorts D to F (combination with daratumumab) will receive 840 mg on Days 2 and 16 of Cycle 1 and on Days 1 and 15 of each 28-day cycle thereafter.</description>
+    <arm_group_label>Cohort A: ATZ (Run-In)</arm_group_label>
+    <arm_group_label>Cohort B1: ATZ + LEN (Dose Escalation)</arm_group_label>
+    <arm_group_label>Cohort B2: ATZ + LEN (Expansion)</arm_group_label>
+    <arm_group_label>Cohort C: ATZ (Post-ASCT)</arm_group_label>
+    <arm_group_label>Cohort D1: ATZ + DAR (Run-In)</arm_group_label>
+    <arm_group_label>Cohort D2: ATZ + DAR (Expansion)</arm_group_label>
+    <arm_group_label>Cohort E1: ATZ + DAR + LEN (Dose Escalation)</arm_group_label>
+    <arm_group_label>Cohort E2: ATZ + DAR + LEN (Expansion)</arm_group_label>
+    <arm_group_label>Cohort F1: ATZ + DAR + POM (Dose Escalation)</arm_group_label>
+    <arm_group_label>Cohort F2: ATZ + DAR + POM (Expansion)</arm_group_label>
+    <other_name>MPDL3280A, &quot;ATZ&quot;</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Daratumumab</intervention_name>
+    <description>Participants will receive 16 milligrams per kilogram (mg/kg) IV daratumumab until loss of clinical benefit, withdrawal, or study end. Treatment will be per the U.S. Package Insert and given on Days 1, 8, 15, 22 of Cycles 1 and 2; on Days 1 and 15 of Cycles 3 to 6; and on Day 1 of each 28-day cycle thereafter.</description>
+    <arm_group_label>Cohort D1: ATZ + DAR (Run-In)</arm_group_label>
+    <arm_group_label>Cohort D2: ATZ + DAR (Expansion)</arm_group_label>
+    <arm_group_label>Cohort E1: ATZ + DAR + LEN (Dose Escalation)</arm_group_label>
+    <arm_group_label>Cohort E2: ATZ + DAR + LEN (Expansion)</arm_group_label>
+    <arm_group_label>Cohort F1: ATZ + DAR + POM (Dose Escalation)</arm_group_label>
+    <arm_group_label>Cohort F2: ATZ + DAR + POM (Expansion)</arm_group_label>
+    <other_name>&quot;DAR&quot;</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lenalidomide</intervention_name>
+    <description>Lenalidomide will be administered orally (PO) until loss of clinical benefit, withdrawal, or study end. Cohort B will receive 10, 15, or 25 mg on Days 1 to 14 of each 21-day cycle. Participants in Cohort B1 will receive ascending-dose lenalidomide, and those in Cohort B2 will receive lenalidomide at the MTD as determined in Cohort B1. Cohort E (combination with daratumumab) will receive 15 or 25 mg on Days 1 to 21 of each 28-day cycle. Participants in Cohort E1 will receive ascending-dose lenalidomide, and those in Cohort E2 will receive lenalidomide at the MTD as determined in Cohort E1.</description>
+    <arm_group_label>Cohort B1: ATZ + LEN (Dose Escalation)</arm_group_label>
+    <arm_group_label>Cohort B2: ATZ + LEN (Expansion)</arm_group_label>
+    <arm_group_label>Cohort E1: ATZ + DAR + LEN (Dose Escalation)</arm_group_label>
+    <arm_group_label>Cohort E2: ATZ + DAR + LEN (Expansion)</arm_group_label>
+    <other_name>&quot;LEN&quot;</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pomalidomide</intervention_name>
+    <description>Pomalidomide will be administered PO until loss of clinical benefit, withdrawal, or study end. Cohort F will receive 2 or 4 mg on Days 1 to 21 of each 28-day cycle. Participants in Cohort F1 will receive ascending-dose pomalidomide, and those in Cohort F2 will receive pomalidomide at the MTD as determined in Cohort F1.</description>
+    <arm_group_label>Cohort F1: ATZ + DAR + POM (Dose Escalation)</arm_group_label>
+    <arm_group_label>Cohort F2: ATZ + DAR + POM (Expansion)</arm_group_label>
+    <other_name>&quot;POM&quot;</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Previous diagnosis of MM with objective evidence of measurable disease
+
+          -  Willing and able to undergo bone marrow aspiration and biopsy tissue sample
+             collection during Screening and on study
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status score less than or equal
+             to (&lt;/=) 2
+
+          -  Left ventricular ejection fraction (LVEF) greater than or equal to (&gt;/=) 40 percent
+             (%)
+
+          -  Receipt of &gt;/=1 but not more than 3 prior lines of therapy (Cohorts A, B, C, D, E)
+
+          -  Receipt of &gt;/=3 lines of prior therapy (Cohort F)
+
+          -  Absolute neutrophil count (ANC) &gt;/=1000 cells per microliter (cells/mcL) (Cohorts A,
+             B, D, E, F)
+
+          -  Transaminase levels &lt;/=2.5 times the upper limit of normal (ULN) (Cohorts A, B, D, E,
+             F)
+
+          -  Platelet count &gt;/=50,000 cells/mcL (Cohorts A, B, D, E, F)
+
+          -  Total bilirubin &lt;/=2 times the ULN (Cohorts A, B, D, E, F)
+
+          -  Creatinine &lt;/=2.0 milligrams per deciliter (mg/dL), with creatinine clearance (CrCl)
+             using the Cockcroft-Gault formula &gt;/=40 milliliters per minute (mL/min) or 60 mL/min
+             for those who receive lenalidomide (Cohorts A, B, D, E, F)
+
+          -  Corrected calcium at or below ULN (Cohorts A, B, D, E, F)
+
+          -  All participants who are prescribed lenalidomide or pomalidomide must be counseled at
+             a minimum of every 21 to 28 days about pregnancy precautions and risks of fetal
+             exposure (Cohorts B, E, F)
+
+          -  Agree to be registered in and comply with all requirements of the Revlimid Risk
+             Evaluation and Mitigation Strategy (REMS) program (Cohorts B and E)
+
+          -  Agree to be registered in and comply with all requirements of the Pomalyst REMS
+             program (Cohort F)
+
+          -  Sufficient recovery from first or second ASCT within 60 to 120 days of transplant
+             (Cohort C)
+
+          -  Off antibiotic/antifungal therapy for &gt;/=14 days (Cohort C)
+
+          -  Completion of any prior radiotherapy (Cohort C)
+
+          -  Platelet count &gt;/=75,000 cells/mcL (Cohort C)
+
+          -  ANC &gt;/=1500 cells/mcL (Cohort C)
+
+        Exclusion Criteria:
+
+          -  Other malignancy within 2 years prior to Screening, with some exceptions
+
+          -  Prior therapy with atezolizumab or other immunotherapies including cluster of
+             differentiation (CD) 137 agonists, anti-programmed death (PD)-1, anti-cytotoxic
+             T-lymphocyte associated protein 4 (CTLA-4), and anti-PD-L1 therapeutic antibodies
+
+          -  Uncontrolled cancer pain
+
+          -  Treatment with any investigational drug within 30 days or 5 half-lives of the
+             investigational drug, whichever is longer
+
+          -  Known hypersensitivity to study drug and/or drug class
+
+          -  History of autoimmune disease excepted controlled, treated thyroidism or Type 1
+             diabetes
+
+          -  Alkylating agents within 28 days or other anti-cancer therapy within 21 days
+
+          -  Polyneuropathy, organomegaly, endocrinopathy, monoclonal protein, and skin changes
+             (POEMS) syndrome
+
+          -  Plasma cell leukemia (greater than 2,000 cells/mcL of circulating plasma cells by
+             standard differential)
+
+          -  Immunosuppressive therapy within 6 weeks of treatment initiation
+
+          -  Daily corticosteroid requirement within 2 weeks of treatment initiation
+
+          -  Prior allogeneic stem cell transplant or solid organ transplant
+
+          -  Active hepatitis B, active hepatitis C, or human immunodeficiency virus (HIV)
+
+          -  Uncontrolled, clinically significant pulmonary disease (for example chronic
+             obstructive pulmonary disease, pulmonary hypertension, idiopathic pulmonary fibrosis)
+             that in the opinion of the investigator would put the participant at significant risk
+             for pulmonary complications during the study
+
+          -  History of pneumonitis
+
+          -  Uncontrolled intercurrent illness including but not limited to uncontrolled
+             infection, disseminated intravascular coagulation, or psychiatric illness/social
+             situations that would limit compliance with study requirements
+
+          -  Pregnant or breastfeeding females
+
+          -  Inability to tolerate thromboprophylaxis (Cohorts B, E, F)
+
+          -  Evidence of progressive MM compared to pre-transplant evaluation (Cohort C)
+
+          -  Prior treatment with anti-CD38 therapy including daratumumab (Cohorts D, E, F)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>Hoffmann-La Roche</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Reference Study ID Number: GO29695 www.roche.com/about_roche/roche_worldwide.htm</last_name>
+    <phone>888-662-6728 (U.S. and Canada)</phone>
+    <email>global.rochegenentechtrials@roche.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35249</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Of Arkansas</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Alaska</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic Can Ctr</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85259</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Scripps Clinic Torrey Pines</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94116</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yale University</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06511</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic Hospital - Florida</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Emory Univ Winship Cancer Inst</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Johns Hopkins Hospital</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Michigan Medical Ctr</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109-0718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Karmanos Cancer Institute.</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mount SInai Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Ohio State University</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology-Baylor Sammons Cancer Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Huntsman Cancer Institute</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84132-0001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fred Hutchinson Cancer Research Center</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Wisconsin-Madison - Carbone Cancer Center</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2017</verification_date>
+  <lastchanged_date>April 4, 2017</lastchanged_date>
+  <firstreceived_date>April 27, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Multiple Myeloma</mesh_term>
+    <mesh_term>Neoplasms, Plasma Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Lenalidomide</mesh_term>
+    <mesh_term>Thalidomide</mesh_term>
+    <mesh_term>Pomalidomide</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+    <mesh_term>Daratumumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

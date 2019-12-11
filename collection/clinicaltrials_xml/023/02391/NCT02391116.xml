@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="54924">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02391116</url>
+  </required_header>
+  <id_info>
+    <org_study_id>17119</org_study_id>
+    <secondary_id>2014-004848-36</secondary_id>
+    <nct_id>NCT02391116</nct_id>
+  </id_info>
+  <brief_title>Phase II Copanlisib in Relapsed/Refractory Diffuse Large B-cell Lymphoma (DLBCL)</brief_title>
+  <official_title>An Open-label, Single-arm Phase II Study in Patients With Relapsed or Refractory Diffuse Large B-cell Lymphoma (DLBCL) to Evaluate Efficacy and Safety of Treatment With Single Agent Copanlisib and the Impact of Biomarkers Thereupon.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bayer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bayer</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To assess the potential efficacy (in terms of objective response) of single agent copanlisib
+      in patients with relapsed or refractory Diffuse large B-cell lymphoma (DLBCL) and assess the
+      relationship between efficacy and a potentially predictive biomarker
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>May 2015</start_date>
+  <completion_date type="Anticipated">January 2018</completion_date>
+  <primary_completion_date type="Actual">July 2016</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Objective Response</measure>
+    <time_frame>24 weeks after the last patient fully evaluable for the primary endpoint started treatment.</time_frame>
+    <description>Number of patients who have at least once a post baseline overall response of CR (complete response) or PR (partial response) during study conduct; according to the criteria defined by Recommendations for Initial Evaluation, Staging, and Response Assessment of Hodgkin and Non-Hodgkin Lymphoma: The Lugano Classification</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Objective response in CD79B mutant patient population</measure>
+    <time_frame>24 weeks after the last patient fully evaluable for the primary endpoint started treatment</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Objective response in CD79B wild-type patient population</measure>
+    <time_frame>24 weeks after the last patient fully evaluable for the primary endpoint started treatment.</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Objective response in cell-of-origin ABC patient population</measure>
+    <time_frame>24 weeks after the last patient fully evaluable for the primary endpoint started treatment</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Objective response in cell-of-origin GCB patient population</measure>
+    <time_frame>24 weeks after the last patient fully evaluable for the primary endpoint started treatment</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Objective response in unclassifiable cell-of-origin patient population</measure>
+    <time_frame>24 weeks after the last patient fully evaluable for the primary endpoint started treatment</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DOR)</measure>
+    <time_frame>Up to 24 weeks after the last patient fully evaluable for the primary endpoint started treatment</time_frame>
+    <description>DOR is defined as the time from the date of first observed overall response (CR or PR) until first subsequent disease progression (PD) or until death (if death occurs before progression is documented) caused by disease progression. Duration of response will be defined for responders only (i.e., patients with CR or PR).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>Up to 24 weeks after the last patient fully evaluable for the primary endpoint started treatment</time_frame>
+    <description>PFS is defined as the time from enrollment (i.e., date of treatment assignment) to disease progression (radiological or clinical, whichever is earlier) or death (if death occurs before progression is documented)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>Up to 24 weeks after the last patient fully evaluable for the primary endpoint started treatment</time_frame>
+    <description>OS is defined as the time from enrollment (i.e., date of treatment assignment) until death from any cause or until the last date the patient is known to be alive</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate (DCR)</measure>
+    <time_frame>Up to 24 weeks after the last patient fully evaluable for the primary endpoint started treatment.</time_frame>
+    <description>DCR is defined as the proportion of patients who have a best response rating of CR, PR, or SD that is achieved during treatment or within 30 days after termination of study treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of stable disease (DOSD)</measure>
+    <time_frame>Up to 24 weeks after the last patient fully evaluable for the primary endpoint started treatment</time_frame>
+    <description>DOSD will only be evaluated in patients failing to achieve a best response of CR or PR, but who achieve SD. DOSD is defined as the time (in days) from date of start of study treatment to the date at which disease progression or death (if death occurs before progression) is first documented</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with adverse events as a measure of safety and tolerability</measure>
+    <time_frame>Up to 24 weeks after the last patient fully evaluable for the primary endpoint started treatment</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">67</enrollment>
+  <condition>Diffuse Large-Cell Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Copanlisib (BAY80-6946)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Copanlisib (BAY80-6946) solution for IV infusion (test drug/investigational medicinal product0</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Copanlisib (BAY80-6946)</intervention_name>
+    <description>Starting dose: 60 mg (Dose reduction due to toxicities to 45 mg is allowed.), will be administered as a slow bolus IV injection on Days 1, 8 and 15 of each 28-day treatment cycle till patient disease progression is observed or patient withdraw treatment for any reason</description>
+    <arm_group_label>Copanlisib (BAY80-6946)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Diagnosis of Diffuse large B-cell lymphoma (DLBCL) (de novo or DLBCL transformed from
+             follicular lymphoma on the basis of a tissue biopsy).
+
+          -  Received at least one prior therapy for aggressive Non-Hodgkin's Lymphoma (NHL)
+             (DLBCL)
+
+          -  Patients must have measurable disease.
+
+          -  ECOG (Eastern Cooperative Oncology Group) performance status (PS) ≤ 2
+
+          -  Left ventricular ejection fraction (LVEF) ≥ the lower limit of normal (LLN) for the
+             Institution (as per local standard of care) as measured by echocardiogram (ECHO) or
+             Multiple gated acquisition (MUGA) scan
+
+          -  Adequate bone marrow, liver and renal function.
+
+        Exclusion Criteria:
+
+          -  Any of the following as the only site(s) of disease: palpable lymph nodes not visible
+             on imaging studies, skin lesions, or bone marrow involvement only
+
+          -  Active CTCAE (Common Terminology Criteria for Adverse Events) Grade 3/4 infection
+
+          -  Known history of human immunodeficiency virus (HIV) infection
+
+          -  Current central nervous system (CNS) involvement by lymphoma
+
+          -  Unstable angina (angina symptoms at rest), new-onset angina (begun within the last 3
+             months). Myocardial infarction within the past 6 months before start of study
+             treatment
+
+          -  Type I or II diabetes mellitus with HbA1c &gt; 8.5% or fasting plasma glucose &gt; 160
+             mg/dL at Screening.
+
+          -  New York Heart Association (NYHA) class III or IV heart disease
+
+          -  Concurrent participation in other clinical studies.
+
+          -  Patients who previously received therapy with copanlisib or other PI3K inhibitors are
+             not eligible for enrollment.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>120 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bayer Study Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Bayer</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <address>
+        <city>Garran</city>
+        <state>Australian Capital Territory</state>
+        <zip>2605</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Ballarat</city>
+        <state>Victoria</state>
+        <zip>3350</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Prahran</city>
+        <state>Victoria</state>
+        <zip>3181</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Box Hill</city>
+        <zip>3128</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kingswood</city>
+        <zip>2747</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Wilrijk</city>
+        <state>Antwerpen</state>
+        <zip>2610</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bruxelles - Brussel</city>
+        <zip>1200</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Edegem</city>
+        <zip>2650</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>St. John's</city>
+        <state>Newfoundland and Labrador</state>
+        <zip>A1B 3V6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Brampton</city>
+        <state>Ontario</state>
+        <zip>L6R 3J7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H1T 2M4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H3T 1E2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Sherbrooke</city>
+        <state>Quebec</state>
+        <zip>J1H 5N4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Aalborg</city>
+        <zip>9100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Aarhus C</city>
+        <zip>8000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Copenhagen</city>
+        <zip>2100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Odense C</city>
+        <zip>5000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Roskilde</city>
+        <zip>DK-4000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Caen Cedex</city>
+        <zip>14033</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Creteil</city>
+        <zip>94010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lille</city>
+        <zip>59037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>PARIS cedex</city>
+        <zip>75475</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Pierre Benite</city>
+        <zip>69310</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Poitiers Cedex</city>
+        <zip>86021</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Rennes Cedex</city>
+        <zip>35033</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Münster</city>
+        <state>Nordrhein-Westfalen</state>
+        <zip>48149</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Mainz</city>
+        <state>Rheinland-Pfalz</state>
+        <zip>55131</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Leipzig</city>
+        <state>Sachsen</state>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Berlin</city>
+        <zip>10967</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bologna</city>
+        <state>Emilia-Romagna</state>
+        <zip>40138</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Udine</city>
+        <state>Friuli-Venezia Giulia</state>
+        <zip>33100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Brescia</city>
+        <state>Lombardia</state>
+        <zip>25123</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Milano</city>
+        <state>Lombardia</state>
+        <zip>20089</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Novara</city>
+        <state>Piemonte</state>
+        <zip>28100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Firenze</city>
+        <state>Toscana</state>
+        <zip>50141</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Seoul</city>
+        <zip>110-744</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Seoul</city>
+        <zip>138-736</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Singapore</city>
+        <zip>169608</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Singapore</city>
+        <zip>169610</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>L'Hospitalet de Llobregat</city>
+        <state>Barcelona</state>
+        <zip>08907</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Majadahonda</city>
+        <state>Madrid</state>
+        <zip>28222</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Madrid</city>
+        <zip>28033</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Salamanca</city>
+        <zip>37007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Gaziantep</city>
+        <zip>27070</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kayseri</city>
+        <zip>38039</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Trabzon</city>
+        <zip>61080</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Truro</city>
+        <state>Cornwall</state>
+        <zip>TR1 3LJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Southampton</city>
+        <state>Hampshire</state>
+        <zip>SO16 6YD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>London</city>
+        <zip>NW1 2PG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>Denmark</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Italy</country>
+    <country>Korea, Republic of</country>
+    <country>Singapore</country>
+    <country>Spain</country>
+    <country>Turkey</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <link>
+    <url>http://www.fda.gov/cder/drug/DrugSafety/DrugIndex.htm</url>
+    <description>Click here and search for drug information provided by the FDA.</description>
+  </link>
+  <link>
+    <url>http://www.fda.gov/medwatch/safety.htm</url>
+    <description>Click here and search for information on any recalls, market or product safety alerts by the FDA which might have occurred with this product.</description>
+  </link>
+  <verification_date>January 2017</verification_date>
+  <lastchanged_date>January 18, 2017</lastchanged_date>
+  <firstreceived_date>February 16, 2015</firstreceived_date>
+  <firstreceived_results_disposition_date>October 13, 2016</firstreceived_results_disposition_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted, but a results disposition has been submitted -->
+</clinical_study>

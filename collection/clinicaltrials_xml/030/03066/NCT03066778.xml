@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3082">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03066778</url>
+  </required_header>
+  <id_info>
+    <org_study_id>3475-604</org_study_id>
+    <secondary_id>2016-004309-15</secondary_id>
+    <nct_id>NCT03066778</nct_id>
+  </id_info>
+  <brief_title>A Study of Pembrolizumab (MK-3475) in Combination With Etoposide/Platinum (Cisplatin or Carboplatin) for Participants With Extensive Stage Small Cell Lung Cancer (MK-3475-604/KEYNOTE-604)</brief_title>
+  <official_title>A Phase III Randomized, Double-Blind, Placebo-controlled Trial of Pembrolizumab (MK-3475/SCH900475) in Combination With Etoposide/Platinum (Cisplatin or Carboplatin) for the First-line Treatment of Subjects With Extensive Stage Small Cell Lung Cancer (KEYNOTE-604)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Merck Sharp &amp; Dohme Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Merck Sharp &amp; Dohme Corp.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess the safety and efficacy of pembrolizumab plus
+      standard of care (SOC) chemotherapy (etoposide/platinum [EP]) in participants with newly
+      diagnosed extensive stage small cell lung cancer (ES-SCLC) who have not previously received
+      systemic therapy for this malignancy.
+
+      The primary study hypotheses are that pembrolizumab+EP prolongs Progression-free Survival
+      (PFS) per Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 by blinded
+      independent central review (BICR) and Overall Survival (OS) compared with placebo+EP in
+      adult participants with ES-SCLC.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date>April 2017</start_date>
+  <completion_date type="Anticipated">October 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 2019</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Care Provider, Investigator, Outcomes Assessor</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free Survival (PFS) per Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST 1.1) as Assessed by Blinded Independent Central Review (BICR)</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate (ORR) per RECIST 1.1 as Assessed by BICR</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DOR) per RECIST 1.1 as Assessed by BICR</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Experiencing an Adverse Event (AE)</measure>
+    <time_frame>Up to approximately 27 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Discontinuing Study Treatment Due to an AE</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Experiencing Any Grade 3 to 5 AE as Assessed by National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events Version 4.0 (CTCAE 4.0)</measure>
+    <time_frame>Up to approximately 27 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">430</enrollment>
+  <condition>Small Cell Lung Cancer (SCLC)</condition>
+  <arm_group>
+    <arm_group_label>Pembrolizumab+EP</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>During each 21-day cycle, participants receive pembrolizumab 200 mg intravenously (IV) Day 1 PLUS etoposide 100 mg/m^2 IV on Days 1, 2 and 3 PLUS investigator's choice of platinum (carboplatin titrated to an area under the plasma drug concentration-time curve [AUC] 5 IV on Day 1 OR cisplatin 75 mg/m^2 IV on Day 1).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo+EP</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>During each 21-day cycle, participants receive placebo (normal saline solution) IV on Day 1 PLUS etoposide 100 mg/m^2 IV on Days 1, 2 and 3 PLUS investigator's choice of platinum (carboplatin titrated to an AUC 5 IV on Day 1 OR cisplatin 75 mg/m^2 IV on Day 1).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Pembrolizumab</intervention_name>
+    <description>IV infusion on Day 1 of each cycle prior to chemotherapy</description>
+    <arm_group_label>Pembrolizumab+EP</arm_group_label>
+    <other_name>MK-3475</other_name>
+    <other_name>KEYTRUDA®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Normal saline solution</intervention_name>
+    <description>IV infusion on Day 1 of each cycle prior to chemotherapy</description>
+    <arm_group_label>Placebo+EP</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carboplatin</intervention_name>
+    <description>IV infusion on Day 1 of each cycle</description>
+    <arm_group_label>Pembrolizumab+EP</arm_group_label>
+    <arm_group_label>Placebo+EP</arm_group_label>
+    <other_name>PARAPLATIN®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cisplatin</intervention_name>
+    <description>IV infusion on Day 1 of each cycle</description>
+    <arm_group_label>Pembrolizumab+EP</arm_group_label>
+    <arm_group_label>Placebo+EP</arm_group_label>
+    <other_name>PLATINOL®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Etoposide</intervention_name>
+    <description>IV infusion on Days 1, 2 and 3 of each cycle</description>
+    <arm_group_label>Pembrolizumab+EP</arm_group_label>
+    <arm_group_label>Placebo+EP</arm_group_label>
+    <other_name>TOPOSAR™</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Has a documented new diagnosis of SCLC by histology or cytology from brushing,
+             washing, or needle aspiration of a defined lesion. Participants who do not have
+             histology samples (defined as core or excisional biopsy, or resections) will need to
+             undergo a new biopsy to provide a tissue sample.
+
+          -  Has extensive-stage disease defined as Stage IV (T any, N any, M 1a/b) by the
+             American Joint Committee on Cancer (AJCC), Seventh Edition
+
+          -  Has ≥1 lesion that meets the criteria for measurable, as defined by RECIST 1.1, and
+             is appropriate for selection as a target lesion, as determined by local site
+             investigator/radiology assessment
+
+          -  Has provided archival tumor tissue sample or newly obtained core or excisional biopsy
+             of a tumor lesion not previously irradiated
+
+          -  Has Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1
+
+          -  Has a life expectancy of ≥3 months
+
+          -  Has adequate organ function
+
+          -  Female and male participants of childbearing potential must be willing to use an
+             adequate method of contraception, starting with the first dose of study treatment
+             through 120 days after the last dose of study treatment and up to 180 days after last
+             dose of chemotherapeutic agents
+
+        Exclusion Criteria:
+
+          -  Has received prior systemic therapy for the treatment of SCLC
+
+          -  Is currently participating and receiving study treatment or has participated in a
+             study of an investigational agent and received study treatment or used an
+             investigational device within 4 weeks of the first dose of treatment for another
+             health-related problem
+
+          -  Is expected to require any other form of antineoplastic therapy for SCLC, including
+             radiation therapy, while on study. (Prophylactic cranial irradiation will be possible
+             for those participants with stable disease or better at the completion of the 4
+             cycles of chemotherapy with or without pembrolizumab.)
+
+          -  Has known active central nervous system (CNS) metastases and/or carcinomatous
+             meningitis.
+
+          -  Has had major surgery within 3 weeks prior to receiving the first dose of study
+             treatment or has not recovered adequately from toxicity and/or complications from an
+             intervention prior to receiving the first dose of study treatment.
+
+          -  Has a history of (non-infectious) pneumonitis that required steroids or has current
+             pneumonitis
+
+          -  Has a known history of interstitial lung disease
+
+          -  Has a known additional malignancy that is progressing or requires active treatment.
+             Exceptions include early stage cancers (carcinoma in situ or Stage 1) treated with
+             curative intent, basal cell carcinoma of the skin, squamous cell carcinoma of the
+             skin, in situ cervical cancer, or in situ breast cancer that has undergone
+             potentially curative therapy.
+
+          -  Has active autoimmune disease that has required systemic treatment in the past 2
+             years. Replacement therapy is not considered a form of systemic treatment.
+
+          -  Has a known history of, or active, neurologic paraneoplastic syndrome
+
+          -  Has clinically active diverticulitis, intra-abdominal abscess, gastrointestinal
+             obstruction, and/or abdominal carcinomatosis
+
+          -  Has a history of a severe hypersensitivity reaction to treatment with another
+             monoclonal antibody
+
+          -  Is taking chronic systemic steroids (in doses exceeding 10 mg daily of prednisone
+             equivalent) within 7 days prior to the first dose of study treatment
+
+          -  Has a diagnosis of immunodeficiency or is receiving any form of immunosuppressive
+             therapy within 7 days prior to the first dose of study treatment
+
+          -  Has received a live vaccine within 30 days prior to the first dose of study treatment
+
+          -  Has received prior therapy with an anti-programmed cell death protein-1 (anti-PD-1),
+             anti-programmed cell death-ligand 1 (anti-PD-L1), or anti-programmed cell
+             death-ligand 2 (anti-PD-L2) agent or with an agent directed to another co-inhibitory
+             T-cell receptor (i.e., cytotoxic T-lymphocyte-associated protein 4 [CTLA-4], tumor
+             necrosis factor receptor superfamily member 9 [TNFRSF9, OX-40, CD137]) or has
+             previously participated in a Merck pembrolizumab (MK-3475) clinical trial
+
+          -  Has severe hypersensitivity (Grade ≥3) to pembrolizumab and/or any of its excipients
+
+          -  Has an active infection requiring systemic therapy
+
+          -  Has a known history of human immunodeficiency virus (HIV) infection
+
+          -  Has a history of or known active Hepatitis B or Hepatitis C virus
+
+          -  Has a known history of active TB (Bacillus Tuberculosis)
+
+          -  Has symptomatic ascites or pleural effusion. A participant who is clinically stable
+             following treatment for these conditions (including therapeutic thoraco- or
+             paracentesis) is eligible.
+
+          -  Is pregnant or breastfeeding, or expecting to conceive or father children within the
+             projected duration of the study starting with the screening visit through 120 days
+             after the last dose of study treatment through and up to 180 days after last dose of
+             chemotherapeutic agents
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Merck Sharp &amp; Dohme Corp.</affiliation>
+  </overall_official>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 13, 2017</lastchanged_date>
+  <firstreceived_date>February 23, 2017</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Extensive stage small cell lung cancer (ES-SCLC)</keyword>
+  <keyword>Programmed cell death protein-1 (PD-1)</keyword>
+  <keyword>Programmed cell death-ligand 1 (PD-L1)</keyword>
+  <keyword>PD1</keyword>
+  <keyword>PDL1</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Small Cell Lung Carcinoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Etoposide phosphate</mesh_term>
+    <mesh_term>Pembrolizumab</mesh_term>
+    <mesh_term>Cisplatin</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+    <mesh_term>Etoposide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

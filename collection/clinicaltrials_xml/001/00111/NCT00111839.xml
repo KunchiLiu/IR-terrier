@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="228119">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00111839</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EMD 72000-031</org_study_id>
+    <nct_id>NCT00111839</nct_id>
+  </id_info>
+  <brief_title>Effects of Matuzumab in Combination With Pemetrexed for the Treatment of Advanced Lung Cancer</brief_title>
+  <official_title>Randomized, Phase II,Open-Label Controlled Study of Two Different Doses and Schedules of EMD 72000 (Matuzumab) in Combination With Pemetrexed, or Pemetrexed Alone, as Second-Line Treatment for Stage IIIB/IV Non-Small Cell Lung Cancer and Progressive Disease on or After First-Line Treatment With a Platinum in Combination With Taxanes, Gemcitabine and Vinorelbine</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>EMD Serono</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>EMD Serono</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is planned to answer questions about how the drug, matuzumab (EMD 72000), works
+      and is part of an effort aimed to develop better treatment for advanced lung cancer by
+      combining matuzumab, a monoclonal antibody, with a chemotherapy treatment, called
+      pemetrexed. Pemetrexed is commercially available and has been approved for treatment of
+      locally advanced or metastatic non-small cell lung cancer that could not be successfully
+      treated with other chemotherapy.
+
+      The study aims to examine how non-small cell lung cancer (NSCLC) responds to matuzumab in
+      combination with pemetrexed, as compared with giving pemetrexed alone. The study also aims
+      to examine how safe and effective matuzumab is and for how long it stays in the body
+      (pharmacokinetics). Matuzumab is an experimental treatment which is currently only available
+      for research studies.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>May 2005</start_date>
+  <completion_date type="Actual">March 2009</completion_date>
+  <primary_completion_date type="Actual">July 2007</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Independent radiological response rate</measure>
+    <time_frame>various timepoints measured</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>various timepoints measured</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to tumor progression</measure>
+    <time_frame>various timepoints measured</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response</measure>
+    <time_frame>various timepoints measured</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety and tolerability</measure>
+    <time_frame>various timepoints measured</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life</measure>
+    <time_frame>various timepoints measured</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">153</enrollment>
+  <condition>Lung Cancer</condition>
+  <condition>Non Small Cell Lung Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pemetrexed</intervention_name>
+    <description>pemetrexed 500mg per metre squared given i.v. (into the vein) every 3 weeks until progression of disease or unacceptable toxicity</description>
+    <arm_group_label>1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Matuzumab + Pemetrexed</intervention_name>
+    <description>matuzumab 800mg given i.v. every week plus pemetrexed as in Group 1 until progression of disease or unacceptable toxicity</description>
+    <arm_group_label>2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Matuzumab + Pemetrexed</intervention_name>
+    <description>matuzumab 1600mg given i.v. every 3 weeks plus pemetrexed as in Group 1 until progression of disease or unacceptable toxicity</description>
+    <arm_group_label>3</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Written informed consent provided prior to any screening procedure
+
+          -  Male or female,&gt; 18 years of age
+
+          -  Histologically or cytologically confirmed diagnosis of non-small cell lung cancer
+
+          -  Demonstrated progressive disease on or after first-line chemotherapy for stage
+             IIIB/IV disease. The first-line therapy must consist of platinum-based regimens in
+             combination with taxanes,gemcitabine or vinorelbine.. Stage IIIB/IV patients must
+             have measurable disease (tumor) without clinically significant pleural unless the
+             pleural effusion can be effectively drained prior to admission into the study.
+
+          -  A chemotherapy-free interval of at least 3 weeks between the end of first-line
+             chemotherapy and start of study treatment
+
+          -  At least 1 measurable lesion according to the modified WHO criteria
+
+          -  Archived tissue or cytologic sample available for the determination of EGFR
+             expression
+
+          -  ECOG performance status 0-1
+
+          -  Life expectancy &gt;12 weeks
+
+          -  Adequate baseline organ functions, defined as follows: *Serum creatinine ≤1.5 × upper
+             limit of normal (ULN). In case of borderline values for serum creatinine, creatinine
+             clearance must be ≥45 mL/min; *Total bilirubin &lt;1.5 × ULN; *Alanine aminotransferase
+             (ALT)/aspartate aminotransferase (AST) ≤2.5 × ULN (Subjects with liver metastases
+             should have ALT/AST &lt;5 × ULN.); *Absolute neutrophil count ≥1500/mm3; *Platelet count
+             ≥100,000/mm3; *Hemoglobin level ≥10 g/dL11
+
+          -  If procreative potential (male or female), willingness to use effective contraceptive
+             methods for the duration of treatment and continuing for 2 months after the last
+             dose. Subjects of procreative potential are defined as any fertile male, or any
+             female who has experienced menarche and who is not postmenopausal (defined as
+             age-related amenorrhea ≥12 months) or who has not undergone successful surgical
+             sterilization (hysterectomy or bilateral oophorectomy)
+
+        Exclusion Criteria:
+
+          -  Radiotherapy or major surgery within 30 days prior to the start of study treatment
+
+          -  Prior treatment with an EGFR-directed therapy or with EGFR signal transduction
+             inhibitors
+
+          -  Prior treatment with pemetrexed
+
+          -  Pregnant (confirmed by β-HCG) or lactating female
+
+          -  Weight loss &gt;10% within 12 weeks prior to the start of study treatment
+
+          -  Documented or symptomatic brain metastases or leptomeningeal disease
+
+          -  Myocardial infarction within 6 months prior to the start of study treatment,
+             uncontrolled congestive heart failure, or any current New York Heart Association
+             Grade III or IV cardiovascular disorder despite treatment
+
+          -  Presence of a ≥Grade 2 preexisting skin disorder (except for alopecia)
+
+          -  Previous diagnosis of autoimmune disease with significant organ involvement
+
+          -  Concurrent malignancies or invasive carcinomas diagnosed within the past 5 years,
+             except for adequately treated basal cell carcinoma of the skin or in situ carcinoma
+             of the cervix
+
+          -  Any significant disease that, in the Investigator's opinion, should exclude the
+             subject from the study
+
+          -  History of significant neurologic or psychiatric disorder (e.g., dementia, seizures,
+             or bipolar disorder)
+
+          -  History of drug abuse within 6 months prior to the start of study treatment
+
+          -  Known conditions that require concurrent treatment with a nonpermitted drug
+
+          -  Presence of a contraindication to the study treatment(s) according to the current
+             Investigator's Brochure (IB) for matuzumab and the labeling for pemetrexed
+
+          -  Known hypersensitivity to the study treatment or any of its components
+
+          -  Participation in another clinical study within 30 days prior to the start of study
+             treatment
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Joan Schiller, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Texas</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mark Socinski, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of North Carolina, Chapel Hill</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Arizona Clinical Research Center</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85715</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Arkansas, Arkansas Cancer Research Center</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Southern California/Norris Cancer Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sharp Memorial Hospital</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Holy Cross Hospital</name>
+      <address>
+        <city>fort Lauderdale</city>
+        <state>Florida</state>
+        <zip>33308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Integrated Community Oncology Network</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32256</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center or Florida</name>
+      <address>
+        <city>Ocoee</city>
+        <state>Florida</state>
+        <zip>34761</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Peachtree Hematology and Oncology</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30309</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Georgia Cancer Specialists</name>
+      <address>
+        <city>Tucker</city>
+        <state>Georgia</state>
+        <zip>30084</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Illinois</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Care Specialists of Central Illinois</name>
+      <address>
+        <city>Decatur</city>
+        <state>Illinois</state>
+        <zip>62256</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Institute of Alexian Brothers</name>
+      <address>
+        <city>Elk Grove Village</city>
+        <state>Illinois</state>
+        <zip>60007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana Oncology Hematology Consultants</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hematology-Oncology of Indiana PC</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46260</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northern Indiana Cancer Research Consortium</name>
+      <address>
+        <city>South Bend</city>
+        <state>Indiana</state>
+        <zip>46601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kansas City Cancer Center</name>
+      <address>
+        <city>Overland Park</city>
+        <state>Kansas</state>
+        <zip>66210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Louisville Oncology</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>James Graham Brown Cancer Center</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40402</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hematology-Oncology Clinic</name>
+      <address>
+        <city>Baton Rouge</city>
+        <state>Louisiana</state>
+        <zip>70808</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Frederick Memorial Hospital</name>
+      <address>
+        <city>Frederick</city>
+        <state>Maryland</state>
+        <zip>21701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tuffs-New England Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>20111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Health Systems</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>West Michigan Regional Cancer and Blood Center</name>
+      <address>
+        <city>Free Soil</city>
+        <state>Michigan</state>
+        <zip>49411</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Minnesota</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Missouri</name>
+      <address>
+        <city>Columbia</city>
+        <state>Missouri</state>
+        <zip>65203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Deaconess Billings Clinic</name>
+      <address>
+        <city>Billings</city>
+        <state>Montana</state>
+        <zip>59101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nebraska Hematology-Oncology, PC</name>
+      <address>
+        <city>Lincoln</city>
+        <state>Nebraska</state>
+        <zip>68506</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dartmouth Hitchcock Medical Center</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <zip>03756</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New York Oncology</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of North Carolina</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Presbyterian Hospital Cancer Center</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Cleveland Clinic Foundation</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dayton Oncology and Hematology</name>
+      <address>
+        <city>Kettering</city>
+        <state>Ohio</state>
+        <zip>45409</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Portland Medical Center</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hematology &amp; Oncology Associates of NEPA</name>
+      <address>
+        <city>Dunmore</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Thomas Jefferson University Hospital</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mary Crowley Research Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tyler Cancer Center</name>
+      <address>
+        <city>Tyler</city>
+        <state>Texas</state>
+        <zip>75702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rainer Oncology Professional Services</name>
+      <address>
+        <city>Puyallup</city>
+        <state>Washington</state>
+        <zip>98372</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Care Northwest</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Wisconsin</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Linz</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Salzburg</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Wels</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Wien</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Essen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Freiburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Gauting</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Grosshansdorf</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Göttingen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Halle /Saale</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Hamburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Heidelberg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Köln</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Mainz</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>München</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Recklinghausen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Austria</country>
+    <country>Germany</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.clinicaltrialsregister.eu/ctr-search/trial/2006-000899-32/results</url>
+    <description>EudraCT results summary synopsis</description>
+  </link>
+  <results_reference>
+    <citation>Schiller JH, von Pawel J, Schütt P, Ansari RH, Thomas M, Saleh M, McCroskey RD, Pfeifer W, Marsland TA, Kloecker GH, Sebastian M, Pirker R, Kurek R, Beadman C, Socinski MA. Pemetrexed with or without matuzumab as second-line treatment for patients with stage IIIB/IV non-small cell lung cancer. J Thorac Oncol. 2010 Dec;5(12):1977-85. doi: 10.1097/JTO.0b013e3181f4a5c9.</citation>
+    <PMID>20978446</PMID>
+  </results_reference>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 9, 2017</lastchanged_date>
+  <firstreceived_date>May 26, 2005</firstreceived_date>
+  <responsible_party>
+    <name_title>Claire Beadman</name_title>
+    <organization>Merck KGaA</organization>
+  </responsible_party>
+  <keyword>Lung cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Pemetrexed</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

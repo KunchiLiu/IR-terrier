@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="235250">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00009945</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NSABP B-34</org_study_id>
+    <secondary_id>SWOG-NSABP-B-34</secondary_id>
+    <secondary_id>NCCTG-NSABP-B-34</secondary_id>
+    <secondary_id>CDR0000068426</secondary_id>
+    <nct_id>NCT00009945</nct_id>
+  </id_info>
+  <brief_title>Clodronate With or Without Chemotherapy and/or Hormonal Therapy in Treating Women With Stage I or Stage II Breast Cancer</brief_title>
+  <official_title>A Clinical Trial Comparing Adjuvant Clodronate Therapy vs Placebo in Early-Stage Breast Cancer Patients Receiving Systemic Chemotherapy and/or Hormonal Therapy or No Therapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NSABP Foundation Inc</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Southwest Oncology Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>North Central Cancer Treatment Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>NSABP Foundation Inc</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Clodronate may be effective in preventing the spread of cancer to the bones and
+      other parts of the body. It is not yet known whether clodronate is more effective alone or
+      combined with chemotherapy and /or hormonal therapy in preventing metastatic breast cancer.
+
+      PURPOSE: Randomized phase III trial to determine the effectiveness of clodronate with or
+      without chemotherapy and /or hormonal therapy in preventing metastases in women who have
+      stage I or stage II breast cancer.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:
+
+        -  Determine whether clodronate administered alone or in addition to adjuvant chemotherapy
+           and/or hormonal therapy improves disease-free survival in women with early stage breast
+           cancer.
+
+        -  Determine whether clodronate reduces the incidence of skeletal metastases and
+           non-skeletal metastases in these patients.
+
+        -  Determine whether clodronate improves overall and relapse-free survival in these
+           patients.
+
+        -  Determine whether clodronate reduces the incidence of skeletal morbidity (e.g.,
+           skeletal fractures, hypercalcemia, skeletal pain, need for radiotherapy, spinal cord
+           compression) in these patients.
+
+        -  Investigate the relevance of serum markers of bone turnover as a prognostic factor for
+           the development of bone metastasis in these patients.
+
+      OUTLINE: This is a randomized, double-blind, placebo-controlled study. Patients are
+      stratified by age (under 50 vs 50 and over), number of positive lymph nodes (0 vs 1-3 vs 4
+      or more), and hormone receptor status (estrogen receptor [ER] and progesterone receptor [PR]
+      negative vs ER and/or PR positive). Patients are randomized to one of two treatment arms.
+
+      Patients in both arms commence treatment within 2 weeks of randomization and continue
+      treatment for 3 years in the absence of bone metastasis or unacceptable toxicity. Study
+      medication must be continued in the case of documented visceral or soft tissue metastasis or
+      other event without skeletal metastasis.
+
+      Patients in both arms may also receive adjuvant chemotherapy and/or tamoxifen at the
+      discretion of the protocol investigator. Patients receiving hormonal therapy begin hormonal
+      therapy within 3-12 weeks after the last dose of chemotherapy and continue for a minimum of
+      5 years.
+
+      Patients who have undergone a prior lumpectomy receive adjuvant whole breast radiotherapy.
+      Patients who have undergone a prior mastectomy may receive radiotherapy at the
+      investigator's discretion.
+
+      Patients are followed every 6 months for 5 years and then annually thereafter.
+
+      PROJECTED ACCRUAL: A total of 3,323 patients will be accrued for this study within 3.5
+      years.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2001</start_date>
+  <completion_date type="Actual">December 2012</completion_date>
+  <primary_completion_date type="Actual">March 2011</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Disease free survival</measure>
+    <time_frame>Time from randomization to breast cancer recurrence, second primary cancer, or death from any cause</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Skeletal metastasis</measure>
+    <time_frame>Time from randomization to first diagnosis of skeletal metastasis</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>Time from randomization to death from any cause</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Relapse free survival</measure>
+    <time_frame>Time from randomization to any local, regional, or distant recurrence of breast cancer</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of non-skeletal metastasis</measure>
+    <time_frame>Time from randomization to incidence of non-skeletal metastasis</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">3323</enrollment>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Arm 1: Clodronate</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patient receives 2 tablets once daily for 3 years.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2: Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patient receives 2 tablets once daily for 3 years.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>clodronate</intervention_name>
+    <description>1600 mg PO daily</description>
+    <arm_group_label>Arm 1: Clodronate</arm_group_label>
+    <other_name>Bonefos</other_name>
+    <other_name>clodronate disodium</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>placebo</intervention_name>
+    <description>2 pills PO daily</description>
+    <arm_group_label>Arm 2: Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Eligibility
+
+          -  Patients must have undergone either a total mastectomy or a lumpectomy with either an
+             axillary dissection or sentinel node biopsy. If any sentinel node is histologically
+             positive by H &amp; E, or histologically suspicious on H &amp; E and confirmed positive by
+             immunohistochemistry (IHC), then the patient must have a completion axillary
+             dissection.
+
+          -  The tumor must be invasive adenocarcinoma on histologic examination with clinical
+             assessment T1-3, N0-1, M0.
+
+          -  Patients must not be participating in any other clinical trials of systemic therapy
+             for early-stage breast cancer. Patients may participate in the following radiation
+             therapy trials:
+
+               -  Node-positive patients may participate in the National Cancer Institute of
+                  Canada Clinical Trials Group protocol MA.20, provided the requirements of the
+                  B-34 protocol continue to be met. (Node-negative B-34 patients may not
+                  participate in MA.20.)
+
+               -  Node-positive mastectomy patients may participate in Southwest Oncology Group
+                  protocol S9927, provided the requirements of the B-34 protocol continue to be
+                  met.
+
+          -  Patients must have an analysis of both estrogen and progesterone receptors on the
+             primary tumor performed prior to randomization. Tumors will be defined as ER or
+             progesterone receptor (PgR) positive if: 1) the Dextran-coated charcoal or
+             sucrose-density gradient method shows them to have greater than or equal to 10
+             fmol/mg cytosol protein, or 2) if using individual laboratory criteria they can be
+             shown to be positive by the enzyme immunoassay method (EIA) or immunocytochemical
+             assay. &quot;Marginal or borderline,&quot; results (i.e., those not definitively negative) will
+             also be considered positive.
+
+          -  At the time of randomization, the patient must have had the following within the past
+             3 months: history and physical exam, a bone scan, thoracic and lumbar spine x-rays,
+             and a chest x-ray. Within the past 12 months patients must have had a gynecologic
+             exam (for women who have a uterus and who will be taking tamoxifen) and a bilateral
+             mammogram.
+
+          -  At the time of randomization:
+
+               -  the postoperative absolute neutrophil count (ANC) must be greater than or equal
+                  to 1500/mm3 (or less than 1500/mm3 if, in the opinion of the investigator, this
+                  represents an ethnic or racial variation of normal);
+
+               -  the postoperative platelet count must be greater than or equal to 100,000;
+
+               -  there must be postoperative evidence of adequate hepatic function, i.e.,
+
+               -  total bilirubin at or below the upper limit of normal (ULN) for the laboratory;
+                  and
+
+               -  alkaline phosphatase less than 2.5 x the ULN; and
+
+               -  the serum glutamate oxaloacetate transaminase (SGOT)/ aspartate transaminase
+                  (AST) less than 1.5 x the ULN;
+
+               -  there must be postoperative evidence of adequate renal function (serum
+                  creatinine within or less than the laboratory's normal range).
+
+          -  Serum albumin and serum calcium must be within normal limits.
+
+          -  A patient with skeletal pain is eligible for inclusion in the study if bone scan
+             and/or roentgenological examination fails to disclose metastatic disease. Suspicious
+             findings must be confirmed as benign by x-ray, MRI, or biopsy.
+
+          -  Patients with prior nonbreast malignancies are eligible if they have been disease-
+             free for greater than or equal to 5 years before randomization and are deemed at low
+             risk for recurrence by their treating physicians. Patients with squamous or basal
+             cell carcinoma of the skin that has been effectively treated, carcinoma in situ of
+             the cervix that has been treated by surgery only, or lobular carcinoma in situ (LCIS)
+             of the ipsilateral or contralateral breast treated by hormone therapy and/or surgery
+             only are eligible, even if these were diagnosed within 5 years before randomization.
+
+          -  Patients must have a Zubrod performance status of 0, 1, or 2.
+
+          -  Special conditions for eligibility of lumpectomy patients: Irradiation and surgery.
+             Patients treated by lumpectomy and axillary node dissection (or no axillary
+             dissection if sentinel node biopsy is negative) to be followed by breast radiation
+             therapy must meet all the eligibility criteria in addition to the following:
+
+               -  Generally, lumpectomy should be reserved for tumors less than 5 cm. However, at
+                  the investigator's discretion, patients treated with lumpectomy for tumors
+                  greater than or equal to 5 cm are eligible.
+
+               -  The margins of the resected specimen must be histologically free of invasive
+                  tumor and ductal carcinoma in situ (DCIS). For patients in whom pathologic
+                  examination demonstrates tumor present at the line of resection, additional
+                  operative procedures may be performed to obtain clear margins. This is
+                  permissible even if axillary dissection has been performed. Patients in whom
+                  tumor is still present at the resected margins after re-excision(s) must undergo
+                  total mastectomy to be eligible.
+
+        Ineligibility.
+
+          -  Significant non-malignant bone disease that is likely to interfere with the
+             interpretation of bone x-rays.
+
+          -  Ulceration, erythema, infiltration of the skin or the underlying chest wall (complete
+             fixation), peau d'orange, or skin edema of any magnitude. (Tethering or dimpling of
+             the skin or nipple inversion should not be interpreted as skin infiltration. Patients
+             with these conditions are eligible.)
+
+          -  Ipsilateral lymph nodes that on clinical examination are found to be fixed to one
+             another or to other structures (cN2 disease).
+
+          -  Suspicious palpable nodes in the contralateral axilla or palpable supraclavicular or
+             infraclavicular nodes, unless there is biopsy evidence that these are not involved
+             with tumor.
+
+          -  Prior therapy for breast cancer, including irradiation, chemotherapy, biotherapy,
+             and/or hormonal therapy, with the exception of tamoxifen. Tamoxifen may be given as
+             adjuvant therapy before study entry, but only if it was started within 28 days before
+             randomization. Patients who started tamoxifen within 28 days before randomization and
+             who are being considered for chemotherapy must have their tamoxifen stopped at the
+             start of chemotherapy.
+
+          -  Prior history of breast cancer, except LCIS.
+
+          -  Any sex hormonal therapy, e.g., birth control pills, ovarian hormonal replacement
+             therapy, etc. (These patients are eligible only if this therapy is discontinued prior
+             to randomization.) Exceptions: patients may use low-dose estrogen vaginal creams or
+             Estring® for symptomatic vaginal dryness, raloxifene (or other selective estrogen
+             receptor modulators [SERMs]) for the prevention of osteoporosis, and
+             luteinizing-hormone-releasing hormone (LHRH) agonists/antagonists for the purpose of
+             medical ovarian ablation as a component of adjuvant therapy for the breast cancer.
+
+          -  Patients currently taking alendronate (Fosamax®) or other bisphosphonates or
+             calcitonin to treat or prevent osteoporosis are not eligible.
+
+          -  Non-malignant systemic disease (cardiovascular, renal, hepatic, etc.) that would
+             preclude a patient from being subjected to any of the treatment options or would
+             prevent prolonged follow-up.
+
+          -  Psychiatric or addictive disorders that would preclude obtaining informed consent.
+
+          -  Pregnancy or lactation at the time of proposed randomization. This protocol excludes
+             pregnant or lactating women because the effects of clodronate on such women have not
+             been studied fully.
+
+          -  Bilateral malignancy or a mass or mammographic abnormality in the opposite breast
+             suspicious for malignancy unless there is biopsy proof that the mass is not
+             malignant.
+
+          -  Special conditions for ineligibility of lumpectomy patients: Irradiation and surgery.
+             The following patients will also be ineligible:
+
+               -  Patients with diffuse tumors (as demonstrated on mammography) that would not be
+                  considered surgically amenable to lumpectomy.
+
+               -  Patients treated with lumpectomy in whom there is another clinically dominant
+                  mass or mammographically suspicious abnormality within the ipsilateral breast
+                  remnant. Such a mass must be biopsied and demonstrated to be histologically
+                  benign prior to randomization or, if malignant, must be surgically removed with
+                  clear margins.
+
+               -  Patients in whom the margins of the resected specimen are involved with invasive
+                  tumor or ductal carcinoma in situ (DCIS). Additional surgical resections to
+                  obtain free margins are allowed. Patients in whom tumor is still present after
+                  the additional resection(s) must undergo mastectomy to be eligible.
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Norman Wolmark, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NSABP Foundation Inc</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>CCOP - Mayo Clinic Scottsdale Oncology Program</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85259-5404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MBCCOP - Hawaii</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96813</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CCOP - Cedar Rapids Oncology Project</name>
+      <address>
+        <city>Cedar Rapids</city>
+        <state>Iowa</state>
+        <zip>52403-1206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Siouxland Hematology-Oncology</name>
+      <address>
+        <city>Sioux City</city>
+        <state>Iowa</state>
+        <zip>51101-1733</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Veterans Affairs Medical Center - Biloxi</name>
+      <address>
+        <city>Biloxi</city>
+        <state>Mississippi</state>
+        <zip>39531-2410</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medcenter One Health System</name>
+      <address>
+        <city>Bismarck</city>
+        <state>North Dakota</state>
+        <zip>58501-5505</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Altru Cancer Center</name>
+      <address>
+        <city>Grand Forks</city>
+        <state>North Dakota</state>
+        <zip>58201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CCOP - Geisinger Clinic and Medical Center</name>
+      <address>
+        <city>Danville</city>
+        <state>Pennsylvania</state>
+        <zip>17822-2001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rapid City Regional Hospital</name>
+      <address>
+        <city>Rapid City</city>
+        <state>South Dakota</state>
+        <zip>57709</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Tennessee Cancer Institute</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Danville Radiation Therapy Center</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harrington Cancer Center</name>
+      <address>
+        <city>Amarillo</city>
+        <state>Texas</state>
+        <zip>79106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Veterans Affairs Medical Center - Amarillo</name>
+      <address>
+        <city>Amarillo</city>
+        <state>Texas</state>
+        <zip>79106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fletcher Allen Health Care - University Health Center Campus</name>
+      <address>
+        <city>Burlington</city>
+        <state>Vermont</state>
+        <zip>05401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MBCCOP - Massey Cancer Center</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23298-0037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington School of Medicine</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Ruggiero SL, Mehrotra B, Rosenberg TJ, Engroff SL. Osteonecrosis of the jaws associated with the use of bisphosphonates: a review of 63 cases. J Oral Maxillofac Surg. 2004 May;62(5):527-34.</citation>
+    <PMID>15122554</PMID>
+  </reference>
+  <results_reference>
+    <citation>Atula S, Powles T, Paterson A, McCloskey E, Nevalainen J, Kanis J. Extended safety profile of oral clodronate after long-term use in primary breast cancer patients. Drug Saf. 2003;26(9):661-71.</citation>
+    <PMID>12814333</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Atula ST, Paterson AHG, Powles TJ, et al.: Safety profile of oral clodronate during long-term use in primary breast cancer patients. [Abstract] Proceedings of the American Society of Clinical Oncology 22: A-100, 25, 2003.</citation>
+  </results_reference>
+  <results_reference>
+    <citation>Powles T, Paterson S, Kanis JA, McCloskey E, Ashley S, Tidy A, Rosenqvist K, Smith I, Ottestad L, Legault S, Pajunen M, Nevantaus A, Männistö E, Suovuori A, Atula S, Nevalainen J, Pylkkänen L. Randomized, placebo-controlled trial of clodronate in patients with primary operable breast cancer. J Clin Oncol. 2002 Aug 1;20(15):3219-24.</citation>
+    <PMID>12149294</PMID>
+  </results_reference>
+  <verification_date>April 2014</verification_date>
+  <lastchanged_date>April 2, 2014</lastchanged_date>
+  <firstreceived_date>February 2, 2001</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>stage I breast cancer</keyword>
+  <keyword>stage II breast cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Clodronic Acid</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

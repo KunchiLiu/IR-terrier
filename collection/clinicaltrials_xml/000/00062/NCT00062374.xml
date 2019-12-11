@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="231633">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00062374</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2012-01438</org_study_id>
+    <secondary_id>03-032</secondary_id>
+    <secondary_id>NCI-5917</secondary_id>
+    <secondary_id>CDR0000304738</secondary_id>
+    <secondary_id>MSKCC-03032</secondary_id>
+    <nct_id>NCT00062374</nct_id>
+  </id_info>
+  <brief_title>Irinotecan and Cisplatin in Treating Patients Who Are Undergoing Surgery For Locally Advanced Cancer of the Stomach or Gastroesophageal Junction</brief_title>
+  <official_title>An Evaluation of Preoperative Chemotherapy With Irinotecan and Cisplatin for Advanced, But Resectable Gastric Cancer: A Coordinated Multidisciplinary, Multicenter Study Linking Functional Imaging, Genomic Expression Profiles and Histopathology</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <brief_summary>
+    <textblock>
+      This phase II trial is studying how well giving irinotecan together with cisplatin works in
+      treating patients who are undergoing surgical resection for locally advanced cancer of the
+      stomach or gastroesophageal junction. Drugs used in chemotherapy, such as irinotecan and
+      cisplatin, work in different ways to stop tumor cells from dividing so they stop growing or
+      die. Combining more than one chemotherapy drug and giving them before surgery may shrink the
+      tumor so that it can be removed during surgery.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To evaluate the correlation of FDG-PET/CT imaging early in the preoperative treatment
+      program of locally advanced gastric cancer with histologic response assessment and patient
+      outcome, defined as overall and progression-free survival.
+
+      SECONDARY OBJECTIVES:
+
+      I. To evaluate the efficacy and safety of preoperative chemotherapy with irinotecan and
+      cisplatin in the treatment of locally advanced gastric cancer.
+
+      II. To examine the biology of locally advanced gastric cancer and the response to
+      chemotherapy by DNA microarray technology and by histopathology.
+
+      III. To obtain preliminary data on biodistribution, dosimetry and explore the potential
+      clinical usefulness of FLT PET in patients with locally advanced gastric cancer undergoing a
+      novel combination neoadjuvant chemotherapy.
+
+      OUTLINE: This is an open-label, nonrandomized, multicenter study.
+
+      Neoadjuvant chemotherapy: Patients receive cisplatin IV over 30 minutes followed by
+      irinotecan IV over 30 minutes on days 1, 8, 22, and 29. Treatment repeats every 6 weeks for
+      2 courses in the absence of disease progression or unacceptable toxicity.
+
+      Surgery: Within 4 weeks after completion of neoadjuvant chemotherapy, patients undergo
+      radical subtotal or total gastrectomy with lymph node dissection.
+
+      Patients undergo fluorodeoxyglucose FDG-PET/CT at baseline. Some patients undergo additional
+      FDG-PET/CT scans in weeks 3 and 6. Approximately 5 patients undergo fluorothymidine
+      FLT-PET/CT at baseline, during week 3, and/or before surgical resection.
+
+      Patients are followed every 3 months for 2 years, every 6 months for 2 years, and then
+      annually thereafter.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 2003</start_date>
+  <primary_completion_date type="Actual">June 2011</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Histological response determined by a significant drop in FDG uptake correlates</measure>
+    <time_frame>Day 15</time_frame>
+    <description>Using a two sample t-test with 30 evaluable patients, we would be able to adequately test that the decrease in SUV early in the treatment plan is significantly different between responders and non responders.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">40</enrollment>
+  <condition>Adenocarcinoma of the Stomach</condition>
+  <condition>Stage II Gastric Cancer</condition>
+  <condition>Stage III Gastric Cancer</condition>
+  <condition>Stage IV Gastric Cancer</condition>
+  <arm_group>
+    <arm_group_label>Arm I</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Neoadjuvant chemotherapy: Patients receive cisplatin IV over 30 minutes followed by irinotecan IV over 30 minutes on days 1, 8, 22, and 29. Treatment repeats every 6 weeks for 2 courses in the absence of disease progression or unacceptable toxicity.
+Surgery: Within 4 weeks after completion of neoadjuvant chemotherapy, patients undergo radical subtotal or total gastrectomy with lymph node dissection.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>irinotecan hydrochloride</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Arm I</arm_group_label>
+    <other_name>Campto</other_name>
+    <other_name>Camptosar</other_name>
+    <other_name>CPT-11</other_name>
+    <other_name>irinotecan</other_name>
+    <other_name>U-101440E</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cisplatin</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Arm I</arm_group_label>
+    <other_name>CACP</other_name>
+    <other_name>CDDP</other_name>
+    <other_name>CPDD</other_name>
+    <other_name>DDP</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>conventional surgery</intervention_name>
+    <description>Undergo radical subtotal or total gastrectomy with lymph node dissection</description>
+    <arm_group_label>Arm I</arm_group_label>
+    <other_name>surgery, conventional</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>positron emission tomography/computed tomography</intervention_name>
+    <description>Undergo FDG-PET/CT</description>
+    <arm_group_label>Arm I</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>fludeoxyglucose F 18</intervention_name>
+    <description>Undergo FDG-PET/CT</description>
+    <arm_group_label>Arm I</arm_group_label>
+    <other_name>18FDG</other_name>
+    <other_name>FDG</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>positron emission tomography/computed tomography</intervention_name>
+    <description>Undergo FLT-PET/CT</description>
+    <arm_group_label>Arm I</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>fluorine F 18 fluorothymidine</intervention_name>
+    <description>Undergo FLT-PET/CT</description>
+    <arm_group_label>Arm I</arm_group_label>
+    <other_name>18F-FLT</other_name>
+    <other_name>3'-deoxy-3'-[18F]fluorothymidine</other_name>
+    <other_name>fluorothymidine F-18</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histologically confirmed adenocarcinoma of the stomach or gastroesophageal (GE)
+             junction
+
+               -  Tumors involving the GE junction must have the bulk of disease in the stomach
+
+               -  Siewert's type II and III tumors involving the GE junction are eligible
+
+               -  Tumors of the distal esophagus that extend less than 2 cm into the stomach are
+                  ineligible
+
+          -  Locally advanced disease that is potentially curable by surgery
+
+               -  Any T, N+, M0 or T3-T4, any N, M0 by staging CT scan and laparoscopy or
+                  endoscopic ultrasound
+
+               -  No T1-T2, N0, M0 tumors
+
+          -  No metastatic disease
+
+               -  Any suspected sites of M1 disease must be proven to be M0
+
+          -  Performance status - Karnofsky 60-100%
+
+          -  Performance status - ECOG 0-2
+
+          -  Absolute neutrophil count at least 1,500/mm^3
+
+          -  Platelet count at least 100,000/mm^3
+
+          -  Bilirubin no greater than 1.5 mg/dL
+
+          -  Creatinine no greater than 1.5 mg/dL
+
+          -  No history of active angina
+
+          -  No New York Heart Association class III or IV heart disease
+
+          -  No myocardial infarction within the past 6 months
+
+          -  No history of significant ventricular arrhythmia requiring antiarrhythmic medication
+
+          -  No history of clinically significant conduction system abnormality
+
+          -  Not pregnant or nursing
+
+          -  Negative pregnancy test
+
+          -  Fertile patients must use effective contraception
+
+          -  No concurrent serious infection
+
+          -  No other uncontrolled medical illness that would preclude study participation
+
+          -  No psychiatric illness that would preclude study compliance
+
+          -  No clinically significant auditory impairment
+
+          -  No pre-existing peripheral neuropathy grade 2 or greater
+
+          -  No other active malignancy within the past 5 years except nonmelanoma skin cancer,
+             nonmetastatic prostate cancer, or carcinoma in situ of the cervix
+
+          -  Able to tolerate the proposed study surgical procedure and chemotherapy regimen
+
+          -  No prior biologic therapy for this disease
+
+          -  No prior chemotherapy for this disease
+
+          -  No other concurrent chemotherapy
+
+          -  No prior radiotherapy for this disease
+
+          -  See Disease Characteristics
+
+          -  No concurrent vitamins, antioxidants, or herbal preparations or supplements
+
+               -  A single daily multivitamin tablet is allowed
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Manisha Shah</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Memorial Sloan Kettering Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2013</verification_date>
+  <lastchanged_date>June 3, 2013</lastchanged_date>
+  <firstreceived_date>June 5, 2003</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Adenocarcinoma</mesh_term>
+    <mesh_term>Stomach Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Irinotecan</mesh_term>
+    <mesh_term>Cisplatin</mesh_term>
+    <mesh_term>Camptothecin</mesh_term>
+    <mesh_term>Fluorodeoxyglucose F18</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

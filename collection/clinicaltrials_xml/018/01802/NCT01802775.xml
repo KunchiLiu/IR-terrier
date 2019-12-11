@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="100000">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01802775</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DU176b-E-U210</org_study_id>
+    <nct_id>NCT01802775</nct_id>
+  </id_info>
+  <brief_title>Edoxaban in Peripheral Arterial Disease</brief_title>
+  <acronym>ePAD</acronym>
+  <official_title>A Randomized, Open-Label, Parallel-Group, Multi-Center Study Of Adding Edoxaban Or Clopidogrel To Aspirin To Maintain Patency In Subjects With Peripheral Arterial Disease Following Femoropopliteal Endovascular Intervention</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Daiichi Sankyo Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>UMC Utrecht</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Daiichi Sankyo Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a randomized, open-label, blinded endpoint, parallel-group, active-control,
+      multi-center, proof-of-concept study in subjects with Peripheral Arterial Disease (PAD),
+      designed to assess the safety and potential efficacy of adding edoxaban to aspirin following
+      femoropopliteal endovascular intervention, with or without stent placement, relative to
+      current treatment practice with clopidogrel and aspirin.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2013</start_date>
+  <completion_date type="Actual">December 2014</completion_date>
+  <primary_completion_date type="Actual">December 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>bleeding events</measure>
+    <time_frame>6 months</time_frame>
+    <description>The proportion of subjects with major, major or clinically relevant non-major and all bleedings at 6 months.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>proportion of patients with re-stenosis/re-occlusion</measure>
+    <time_frame>6 months</time_frame>
+    <description>The difference in proportions of patients with re-stenosis/re-occlusion at the treated segments(s)/s between treatment groups at 6 months.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>bleeding events</measure>
+    <time_frame>6 months</time_frame>
+    <description>The proportion of subjects with major, major or clinically relevant non-major and all bleedings at 6 months will be estimated for each treatment group and summarized with 95% CI. The difference in the proportion between the two groups at each of the time points will be estimated with a 95% confidence interval (CI).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>any bleeding</measure>
+    <time_frame>6 months</time_frame>
+    <description>number of subjects with any bleeding (major, clinically relevant non-major, and minor bleeding) occurring during treatment or within 3 days of interrupting or stopping study drug</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>safety assessments</measure>
+    <time_frame>6 months</time_frame>
+    <description>number of clinical and laboratory safety events with description of event including adverse events (AEs), serious adverse events (SAEs), and other events of special interest (i.e., hepatic events).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Major Adverse Cardiovascular Events</measure>
+    <time_frame>6 months</time_frame>
+    <description>number of Major Adverse Cardiovascular Events (MACE) which is a composite of non-fatal myocardial infarction (MI)/non-fatal stroke and death from cardiovascular causes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>amputations</measure>
+    <time_frame>6 months</time_frame>
+    <description>number of amputations and description of event</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>all cause mortality</measure>
+    <time_frame>6 months</time_frame>
+    <description>number of all cause mortalities and description of event</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Peripheral Arterial Disease</condition>
+  <arm_group>
+    <arm_group_label>edoxaban/aspirin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Open label edoxaban will be provided. Subjects randomized to this treatment arm will receive edoxaban 60 mg once daily (QD) (two 30 mg tablets) for a total of approximately 3 months on a background of aspirin 100 mg QD.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>clopidogrel/aspirin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Open label clopidogrel will be provided. Subjects randomized to this treatment arm will receive clopidogrel 75 mg QD (one 75 mg tablet) for a total of approximately 3 months on a background of aspirin 100 mg QD. A loading dose of clopidogrel 300 mg (four 75mg tablets) will be given to subjects as the first dose as early as possible after adequate hemostasis (i.e., within 4 hours of hemostasis).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>edoxaban</intervention_name>
+    <arm_group_label>edoxaban/aspirin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Clopidogrel</intervention_name>
+    <description>75mg tablet</description>
+    <arm_group_label>clopidogrel/aspirin</arm_group_label>
+    <other_name>Plavix</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Aspirin</intervention_name>
+    <arm_group_label>edoxaban/aspirin</arm_group_label>
+    <arm_group_label>clopidogrel/aspirin</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Male or female subjects older than the minimum legal adult age (country specific);
+
+          -  Rutherford stages 2-5 provided there are no ulcerations on the heel and/or exposed
+             tendon and/or bone;
+
+          -  Superficial femoral above knee-popliteal ( 3 cm proximal to the medial femoral
+             condyle) lesion and ≥ 50% stenosis or occlusion;
+
+          -  At least one run-off vessel to the foot with or without additional endovascular
+             intervention;
+
+          -  Successful intervention, defined as angiographic confirmation of ≤ 30% residual
+             stenosis and absence of flow limiting dissection;
+
+          -  Adequate hemostasis at the vascular access site within 24 hours of intervention;
+
+          -  A subject is also eligible if they have undergone additional successful endovascular
+             intervention(s) during the index intervention;
+
+          -  Able to provide signed informed consent.
+
+        Exclusion Criteria:
+
+          -  Calculated Creatinine Clearance &lt; 30 ml/min;
+
+          -  Femoral or popliteal aneurysm;
+
+          -  Adjunctive use of thrombolytics;
+
+          -  Any extravasation or distal embolization not successfully treated;
+
+          -  Uncontrolled hypertension as judged by the investigator (e.g., systolic blood
+             pressure &gt; 170 mmHg or diastolic blood pressure &gt; 100 mmHg despite
+             antihypertensives);
+
+          -  Aspirin intolerance;
+
+          -  Clopidogrel intolerance;
+
+          -  Contraindication for anticoagulants or antiplatelets and any other contraindication
+             listed in the local labeling of aspirin and/or clopidogrel;
+
+          -  Active bleeding or known high risk for bleeding or history of intracranial, or
+             spontaneous intraocular, spinal retroperitoneal or intra-articular bleeding; overt
+             gastrointestinal (GI) bleeding or active ulcer within the previous year;
+
+          -  Subjects receiving dual antiplatelet or anticoagulant therapy at the time of
+             randomization; subjects receiving pre-interventional loading dose of clopidogrel or
+             other P2Y12 receptor antagonists;
+
+          -  Treatment with cilostazol within 24 hours of randomization;
+
+          -  Subjects receiving prohibited concomitant medications [fibrinolytics, chronic use of
+             non steroidal anti-inflammatory drugs (NSAIDS) &gt; 4 days per week, and oral or
+             parenteral non-aspirin NSAIDs and strong P-gp inhibitors];
+
+          -  Prior stroke or MI or acute coronary syndrome within 3 months;
+
+          -  Chronic liver disease [alanine transaminase (ALT) and/or aspartate transaminase (AST)
+             ≥ 2 × upper limit of normal; total bilirubin (TBL) ≥ 1.5 × upper limit of normal];
+             however, subjects whose elevated TBL is due to known Gilbert‟s syndrome may be
+             included in the study;
+
+          -  Prior history of a positive test for Hepatitis B antigen or Hepatitis C antibody;
+
+          -  Subjects who received any investigational drug or device within 30 days prior to
+             randomization, or plan to receive such investigational therapy during the study
+             period;
+
+          -  Subjects previously randomized to an edoxaban (DU-176b) study;
+
+          -  Women of childbearing potential without proper contraceptive measures (i.e. a method
+             of contraception with a failure rate &lt; 1 % during the course of the study including
+             the observational period) and women who are pregnant or breast feeding;
+
+          -  Subjects with the following diagnoses or situations:
+
+        Active malignancy except for adequately treated non-melanoma skin cancer or other
+        non-invasive or in-situ neoplasm (e.g., cervical cancer in situ); Concurrent treatment
+        with cancer therapy (drugs, radiation, and/or surgery); Other significant active
+        concurrent medical illness or infection; Life expectancy &lt; 12 months;
+
+          -  Subjects who are unlikely to comply with the protocol (e.g., uncooperative attitude,
+             inability to return for subsequent visits, and/or otherwise considered by the
+             Investigator to be unlikely to complete the study);
+
+          -  Subjects with any condition that, in the opinion of the Investigator, would place the
+             subject at increased risk of harm if he/she participated in the study;
+
+          -  History of heparin-induced thrombocytopenia
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Beverly Hills</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Aurora</city>
+        <state>Illinois</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lewiston</city>
+        <state>Maine</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Flint</city>
+        <state>Michigan</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Ypsilanti</city>
+        <state>Michigan</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Teaneck</city>
+        <state>New Jersey</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Raleigh</city>
+        <state>North Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Wilmington</city>
+        <state>North Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Camp Hill</city>
+        <state>Pennsylvania</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Columbia</city>
+        <state>South Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Graz</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Innsbruck</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Wien</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Edgem</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Ghent</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Leuven</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bad Krozingen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Leipzig</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Afula</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Jerusalem</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tel Aviv</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tel Hashomer</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Rotterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Utrecht</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bern</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Zurich</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Germany</country>
+    <country>Israel</country>
+    <country>Netherlands</country>
+    <country>Switzerland</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2015</verification_date>
+  <lastchanged_date>November 18, 2015</lastchanged_date>
+  <firstreceived_date>February 25, 2013</firstreceived_date>
+  <firstreceived_results_disposition_date>November 18, 2015</firstreceived_results_disposition_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Peripheral Arterial Disease</mesh_term>
+    <mesh_term>Peripheral Vascular Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Aspirin</mesh_term>
+    <mesh_term>Ticlopidine</mesh_term>
+    <mesh_term>Clopidogrel</mesh_term>
+    <mesh_term>Edoxaban</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted, but a results disposition has been submitted -->
+</clinical_study>

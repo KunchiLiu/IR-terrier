@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="29664">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02720523</url>
+  </required_header>
+  <id_info>
+    <org_study_id>M14-663</org_study_id>
+    <nct_id>NCT02720523</nct_id>
+  </id_info>
+  <brief_title>A Study to Compare ABT-494 to Placebo in Subjects With Rheumatoid Arthritis (RA) Who Are on a Stable Dose of Conventional Synthetic Disease-Modifying Anti-Rheumatic Drugs (csDMARDs) and Have an Inadequate Response to csDMARDs</brief_title>
+  <acronym>SELECTSUNRISE</acronym>
+  <official_title>A Phase 2b/3, Randomized, Double-Blind Study Comparing ABT-494 to Placebo in Japanese Subjects With Moderately to Severely Active Rheumatoid Arthritis Who Are on a Stable Dose of Conventional Synthetic Disease-Modifying Anti-Rheumatic Drugs (csDMARDs) and Have an Inadequate Response to csDMARDs</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AbbVie</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AbbVie</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A Phase 2b/3, Randomized, Double-Blind Study Comparing ABT-494 to Placebo in Japanese
+      Subjects with Moderately to Severely Active Rheumatoid Arthritis Who Are on a Stable Dose of
+      Conventional Synthetic Disease-Modifying Anti-Rheumatic Drugs (csDMARDs) and Have an
+      Inadequate Response to csDMARDs.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>March 2016</start_date>
+  <completion_date type="Anticipated">May 2020</completion_date>
+  <primary_completion_date type="Anticipated">August 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Care Provider, Investigator, Outcomes Assessor</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of subjects achieving American College of Rheumatology (ACR) 20 response at Week 12</measure>
+    <time_frame>At Week 12</time_frame>
+    <description>ACR criteria measure improvements in tender and swollen joint counts, patient assessments of pain, global disease activity and physical function, physician global assessment of disease activity and acute phase reactant.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline (week 0) in Disease Activity Score (DAS)28 C-Reactive Protein (CRP)</measure>
+    <time_frame>Week 12</time_frame>
+    <description>The DAS28 is a validated index of rheumatoid arthritis disease activity. Scores on the DAS28 range from 0 to 10.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline (week 0) in Health Assessment Questionnaire Disability Index (HAQ-DI)</measure>
+    <time_frame>Week 12</time_frame>
+    <description>HAQ-DI is a participant questionnaire with questions regarding the participant's illness and how it affect their daily life activities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ACR 50 Response Rate</measure>
+    <time_frame>Week 12</time_frame>
+    <description>ACR criteria measure improvements in tender and swollen joint counts, patient assessments of pain, global disease activity and physical function, physician global assessment of disease activity and acute phase reactant</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ACR 70 Response Rate</measure>
+    <time_frame>Week 12</time_frame>
+    <description>ACR criteria measure improvements in tender and swollen joint counts, patient assessments of pain, global disease activity and physical function, physician global assessment of disease activity and acute phase reactant.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline (week 0) in Short-Form 36 (SF-36) Physical Component Score (PCS)</measure>
+    <time_frame>Week 12</time_frame>
+    <description>SF-36 is a 36 item participant questionnaire with questions regarding participant health and daily activities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects achieving Low Disease Activity (LDA) based on DAS28 (CRP)</measure>
+    <time_frame>Week 12</time_frame>
+    <description>Proportion of participants achieving low disease activity as defined by a clinical response DAS28[CRP] less than or equal to 3.2. The DAS28 is a validated index of rheumatoid arthritis disease activity. Scores on the DAS28 range from 0 to 10. A DAS28 score greater than 5.1 indicates high disease activity, a DAS28 score less than or equal to 3.2 indicates low disease activity, and a DAS28 score less than 2.6 indicates clinical remission.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects achieving Clinical Remission (CR) based on DAS28 (CRP)</measure>
+    <time_frame>Week 12</time_frame>
+    <description>CR based on DAS28 (CRP) response rate is defined as DAS28 (CRP) less than 2.6</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ACR 20 Response Rate</measure>
+    <time_frame>Week 1</time_frame>
+    <description>ACR criteria measure improvements in tender and swollen joint counts, patient assessments of pain, global disease activity and physical function, physician global assessment of disease activity and acute phase reactant</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline (week 0) in Functional Assessment of Chronic Illness Therapy (FACIT-F)</measure>
+    <time_frame>Week 12</time_frame>
+    <description>FACIT-F is participant questionnaire with 13 indexes rated on a 5 point scale. The indexes generally relate to the participant's level of fatigue during the past 7 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline (week 0) in Rheumatoid Arthritis Work Instability Scale (RA-WIS)</measure>
+    <time_frame>Week 12</time_frame>
+    <description>RA-WIS is a participant questionnaire containing 23 questions relating to the participant's functioning in their work environment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline (week 0) in morning stiffness (severity)</measure>
+    <time_frame>Week 12</time_frame>
+    <description>Morning Stiffness severity is determined by the Patient's Assessment of Severity and Duration of Morning Stiffness questionnaire. The severity score is based on a single 0 to 10 rating scale with 0 indicating &quot;No morning stiffness&quot; and 10 indicating &quot;Worst possible morning stiffness&quot;</description>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">192</enrollment>
+  <condition>Rheumatoid Arthritis</condition>
+  <arm_group>
+    <arm_group_label>ABT-494 Dose A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>ABT-494 Dose A once daily for 12 weeks (Period 1) and up to regulatory approval of RA indication in Japan (Period 2).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ABT-494 Dose B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>ABT-494 Dose B once daily for 12 weeks (Period 1) and up to regulatory approval of RA indication in Japan (Period 2).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ABT-494 Dose C</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>ABT-494 Dose C once daily for 12 weeks (Period 1) and up to regulatory approval of RA indication in Japan (Period 2).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo followed by ABT-494 Dose A</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo once daily for 12 weeks (Period 1) followed by ABT-494 Dose A once daily up to regulatory approval of RA indication in Japan (Period 2).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo followed by ABT-494 Dose B</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo once daily for 12 weeks (Period 1) followed by ABT-494 Dose B once daily up to regulatory approval of RA indication in Japan (Period 2).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo followed by ABT-494 Dose C</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo once daily for 12 weeks (Period 1) followed by ABT-494 Dose C once daily up to regulatory approval of RA indication in Japan (Period 2).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ABT-494</intervention_name>
+    <description>Oral formulation</description>
+    <arm_group_label>ABT-494 Dose A</arm_group_label>
+    <arm_group_label>ABT-494 Dose B</arm_group_label>
+    <arm_group_label>ABT-494 Dose C</arm_group_label>
+    <arm_group_label>Placebo followed by ABT-494 Dose A</arm_group_label>
+    <arm_group_label>Placebo followed by ABT-494 Dose B</arm_group_label>
+    <arm_group_label>Placebo followed by ABT-494 Dose C</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Oral formulation</description>
+    <arm_group_label>Placebo followed by ABT-494 Dose A</arm_group_label>
+    <arm_group_label>Placebo followed by ABT-494 Dose B</arm_group_label>
+    <arm_group_label>Placebo followed by ABT-494 Dose C</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Diagnosis of Rheumatoid Arthritis (RA) for &gt;= 3 months who also fulfill the 2010
+             American College of Rheumatology (ACR)/European League Against Rheumatism (EULAR)
+             classification criteria for RA.
+
+          -  Subjects have been receiving conventional synthetic disease-modifying anti-rheumatic
+             drug (csDMARD) therapy &gt;= 3 months and on a stable dose for &gt; or = 4 weeks prior to
+             the first dose of study drug.
+
+          -  Subject has &gt;= 6 swollen joints (based on 66 joint counts) and &gt;= 6 tender joints
+             (based on 68 joint counts) at Screening and Baseline Visits.
+
+          -  Subjects with prior exposure to at most one biological disease-modifying
+             anti-rheumatic drug (bDMARD) may be enrolled (up to 20% of total number of subjects)
+             after the required washout period. Specifically, prior to enrollment:
+
+               1. Subjects with limited exposure to bDMARD (&lt; 3 months) OR
+
+               2. Subjects who are responding to bDMARD therapy but had to discontinue due to
+                  intolerability (regardless of treatment duration).
+
+        Exclusion Criteria:
+
+          -  Prior exposure to any Janus kinase (JAK) inhibitor
+
+          -  Subjects who are considered inadequate responders (lack of efficacy) to bDMARD
+             therapy, after minimum 3 months treatment, as determined by the Investigator.
+
+          -  History of any arthritis with onset prior to age 17 years or current diagnosis of
+             inflammatory joint disease other than RA (including but not limited to gout, systemic
+             lupus erythematosus, psoriatic arthritis, axial spondyloarthritis [SpA] including
+             ankylosing spondylitis and non-radiographic axial SpA, reactive arthritis, overlap
+             connective tissue diseases, scleroderma, polymyositis, dermatomyositis, fibromyalgia
+             [currently with active symptoms]). Current diagnosis of secondary Sjogren's Syndrome
+             is permitted
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Joseph Lin, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>AbbVie</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>AbbVie_Call Center</last_name>
+    <phone>847-283-8955</phone>
+    <email>abbvieclinicaltrials@abbvie.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147994</name>
+      <address>
+        <city>Asahikawa-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147994, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147996</name>
+      <address>
+        <city>Chiba-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147996, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147989</name>
+      <address>
+        <city>Fukui-shi, Fukui</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147989, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147971</name>
+      <address>
+        <city>Fukuoka-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147971, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147991</name>
+      <address>
+        <city>Fukuoka-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147991, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148008</name>
+      <address>
+        <city>Fukuoka</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148008, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147981</name>
+      <address>
+        <city>Hiroshima-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147981, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147976</name>
+      <address>
+        <city>Hokkaido</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147976, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147985</name>
+      <address>
+        <city>Hokkaido</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147985, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147967</name>
+      <address>
+        <city>Hyogo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147967, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147992</name>
+      <address>
+        <city>Ichinomiya</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147992, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147986</name>
+      <address>
+        <city>Kawachinagano-shi, Osaka</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147986, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148001</name>
+      <address>
+        <city>Kita-gun, Kagawa</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148001, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147970</name>
+      <address>
+        <city>Kitakyusyu-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147970, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147972</name>
+      <address>
+        <city>Kumamoto-shi, Kumamoto</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147972, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147988</name>
+      <address>
+        <city>Kumamoto-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147988, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147979</name>
+      <address>
+        <city>Kurume-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147979, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147973</name>
+      <address>
+        <city>Matsumoto-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147973, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147998</name>
+      <address>
+        <city>Meguro-ku</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147998, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148003</name>
+      <address>
+        <city>Meguro-ku</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148003, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147993</name>
+      <address>
+        <city>Miyagi, Sendai-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147993, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147990</name>
+      <address>
+        <city>Miyagi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147990, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147975</name>
+      <address>
+        <city>Miyazaki-shi, Miyazaki</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147975, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147974</name>
+      <address>
+        <city>Nagaoka-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147974, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148005</name>
+      <address>
+        <city>Nagoya-shi, Aichi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148005, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147984</name>
+      <address>
+        <city>Nagoya-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147984, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147995</name>
+      <address>
+        <city>Nagoya-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147995, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147978</name>
+      <address>
+        <city>Nishinomiya-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147978, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 149308</name>
+      <address>
+        <city>Oita-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 149308, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148000</name>
+      <address>
+        <city>Okayama-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148000, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147997</name>
+      <address>
+        <city>Omura-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147997, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148221</name>
+      <address>
+        <city>Sagamihara-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148221, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147965</name>
+      <address>
+        <city>Saitama</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147965, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147987</name>
+      <address>
+        <city>Sapporo-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147987, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147968</name>
+      <address>
+        <city>Sapporo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147968, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148435</name>
+      <address>
+        <city>Sendai-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148435, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148002</name>
+      <address>
+        <city>Shibata-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148002, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147980</name>
+      <address>
+        <city>Shimonoseki-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147980, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147983</name>
+      <address>
+        <city>Takaoka-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147983, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147966</name>
+      <address>
+        <city>Takasaki-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147966, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 149309</name>
+      <address>
+        <city>Takikawa-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 149309, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148220</name>
+      <address>
+        <city>Tochigi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148220, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147969</name>
+      <address>
+        <city>Tokyo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147969, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147977</name>
+      <address>
+        <city>Tokyo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147977, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147982</name>
+      <address>
+        <city>Tokyo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147982, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147999</name>
+      <address>
+        <city>Tokyo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147999, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148007</name>
+      <address>
+        <city>Tokyo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148007, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148009</name>
+      <address>
+        <city>Tokyo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148009, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148219</name>
+      <address>
+        <city>Tokyo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148219, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148006</name>
+      <address>
+        <city>Toyonaka-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148006, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Japan</country>
+  </location_countries>
+  <verification_date>February 2017</verification_date>
+  <lastchanged_date>February 9, 2017</lastchanged_date>
+  <firstreceived_date>March 22, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>rheumatoid arthritis</keyword>
+  <keyword>ABT-494</keyword>
+  <keyword>Antirheumatic agents</keyword>
+  <keyword>Japanese</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Arthritis</mesh_term>
+    <mesh_term>Arthritis, Rheumatoid</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antirheumatic Agents</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

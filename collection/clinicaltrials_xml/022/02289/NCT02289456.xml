@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="62716">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02289456</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ABI-007-NSCL-004</org_study_id>
+    <nct_id>NCT02289456</nct_id>
+  </id_info>
+  <brief_title>Phase II Safety and Tolerability Trial With Nab-Paclitaxel Plus Carboplatin Followed by Nab-Paclitaxel for First Line Treatment of NSCLC Subjects With ECOG PS 2</brief_title>
+  <acronym>AboundPS2</acronym>
+  <official_title>A Phase II, Single Arm, Open-Label, Multicenter, Safety and Tolerability Trial With Nab-Paclitaxel (ABRAXANE®) Plus Carboplatin Followed by Nab-Paclitaxel Monotherapy as First-Line Treatment for Subjects With Locally Advanced or Metastatic Nonsmall Cell Lung Cancer (NSCLC) and an Eastern Cooperative Oncology Group Performance Status of 2 (ABOUND.PS2)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Celgene</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Celgene</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      4 cycles of induction treatment with nab-paclitaxel and carboplatin followed by
+      nab-paclitaxel monotherapy for those subjects who are progression free at the end of 4
+      cycles.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">April 30, 2015</start_date>
+  <completion_date type="Anticipated">August 15, 2017</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety</measure>
+    <time_frame>up to 1 year from the last subject enrolled</time_frame>
+    <description>The percentage of all treated subjects who discontinue treatment during the induction part due to a treatment-emergent adverse event.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adverse Events</measure>
+    <time_frame>up to 1 year from the last subject enrolled</time_frame>
+    <description>The type, frequency, and severity of AEs and SAEs graded using National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE, Version 4.0)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Discontinuation rate</measure>
+    <time_frame>up to 1 year from the last subject enrolled</time_frame>
+    <description>proportion of patients who discontinue</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The dose intensity</measure>
+    <time_frame>up to 1 year from the last subject enrolled</time_frame>
+    <description>the amount of drug delivered over time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The incidence of dose reduction</measure>
+    <time_frame>up to 1 year from the last subject enrolled</time_frame>
+    <description>proportion of patients who experience a dose reduction</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression free survival</measure>
+    <time_frame>up to 1 year from the last subject enrolled</time_frame>
+    <description>the time from the date of the first dose of investigational product to the date of disease progression or death (any cause) on or prior to the data cutoff date for analyses, whichever occurred first, based on the investigator's assessment of the data from CT scans using RECIST 1.1 guidelines.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate</measure>
+    <time_frame>up to 1 year from the last subject enrolled</time_frame>
+    <description>Is the percent of subjects who have stable disease, complete response or partial response during the course of the study, according to RECIST 1.1 guidelines, as evaluated by the investigator.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>up to 1 year from the last subject enrolled</time_frame>
+    <description>Is the time between the date of the first dose of investigational product and death. All deaths, regardless of the cause of death, will be included.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall response rate</measure>
+    <time_frame>up to 1 year from the last subject enrolled</time_frame>
+    <description>Is the percent of subjects who have a radiologic complete or partial response during the course of the study evaluated by the investigator, according to RECIST v1.1 guidelines.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">41</enrollment>
+  <condition>Carcinoma, Non-Small-Cell Lung</condition>
+  <arm_group>
+    <arm_group_label>nab-Paclitaxel</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>nab-Paclitaxel 100 mg/m2 intravenous (IV) infusion on Days 1 and 8 of each 21-day cycle
+• Carboplatin AUC = 5 mg*min/mL IV on Day 1 of each 21-day cycle after completion of nab-paclitaxel infusion.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>nab-Paclitaxel</intervention_name>
+    <arm_group_label>nab-Paclitaxel</arm_group_label>
+    <other_name>Abraxane</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carboplatin</intervention_name>
+    <arm_group_label>nab-Paclitaxel</arm_group_label>
+    <other_name>Paraplatin</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  General and Demographics
+
+               1. Age ≥ 18 years of age at the time of signing the Informed Consent Form.
+
+               2. Understand and voluntarily provide written consent to the Informed Consent Form
+                  prior to conducting any study related assessments/procedures.
+
+               3. Able to adhere to the study visit schedule and other protocol requirements.
+                  Disease Specific
+
+               4. Histologically or cytologically confirmed Stage IIIB or IV Non-Small Cell Lung
+                  Cancer.
+
+               5. Radiographically documented measurable disease at study entry per response
+                  evaluation criteria in solid tumours ( RECIST) v1.1.
+
+               6. No prior anti-cancer therapy for the treatment of metastatic disease at the time
+                  of signing the ICF. Adjuvant treatment is permitted providing cytotoxic
+                  chemotherapy was completed 12 months prior to signing the ICF and without
+                  disease recurrence.
+
+               7. Absolute neutrophil count (ANC) ≥ 1500 cells/mm3.
+
+               8. Platelets ≥ 100,000 cells/mm3.
+
+               9. Hemoglobin (Hgb) ≥ 9 g/dL.
+
+              10. Aspartate transaminase (AST/serum glutamic oxaloacetic transaminase [SGOT]),
+                  alanine transaminase (ALT/serum glutamic pyruvic transaminase [SGPT]) ≤ 2.5 ×
+                  upper limit of normal range (ULN) or ≤ 5.0 × ULN if liver metastases.
+
+              11. Total bilirubin ≤ 1.5 × ULN except in cases of Gilbert's disease and liver
+                  metastases.
+
+              12. Serum creatinine ≤ 1.5 x ULN, or calculated creatinine clearance ≥ 40 mL/min (if
+                  renal impairment is suspected 24-hour urine collection for measurement is
+                  required).
+
+              13. Eastern Cooperative Oncology Group Performance Status 2.
+
+              14. Females of childbearing potential [defined as a sexually mature woman who (1)
+                  have not undergone hysterectomy (the surgical removal of the uterus) or
+                  bilateral oophorectomy (the surgical removal of both ovaries) or (2) have not
+                  been naturally postmenopausal for at least 24 consecutive months (ie, has had
+                  menses at any time during the preceding 24 consecutive months)] must:
+
+                    1. Have a negative pregnancy test Beta Human Chorionic Gonaditrophin(ß-hCG) as
+                       verified by the study doctor within 72 hours prior to starting study
+                       therapy.
+
+                    2. You must commit to complete abstinence from heterosexual contact, or agree
+                       to use medical doctor-approved contraception throughout the study without
+                       interruption; while receiving study medication or for a longer period if
+                       required by local regulations.
+
+                       Male subjects must:
+
+                    3. practice true abstinence* or agree to use a condom during sexual contact
+                       with a pregnant female or a female of childbearing potential while
+                       participating in the study, during dose interruptions and for at least 6
+                       months following study drug discontinuation, even if he has undergone a
+                       successful vasectomy.
+
+        Exclusion Criteria:
+
+          -  The presence of any of the following will exclude a subject from enrollment:
+
+               1. Evidence of active brain metastases, including leptomeningeal involvement (prior
+                  evidence of brain metastasis are permitted only if treated and stable and off
+                  therapy for at least 21days prior to signing ICF). MRI of the brain (or CT scan
+                  w/contrast) is preferred for diagnosis.
+
+               2. History of leptomeningeal disease.
+
+               3. Only evidence of disease is non-measurable.
+
+               4. Pre-existing peripheral neuropathy of Grade 2, 3, or 4 (per Criteria for Adverse
+                  Events (CTCAE) v4.0).
+
+               5. Subject has received radiotherapy ≤ 4 weeks or limited field radiation for
+                  palliation ≤ 2 weeks prior to starting investigational product (IP), and/or from
+                  whom ≥ 30% of the bone marrow was irradiated. Prior radiation therapy to a
+                  target lesion is permitted only if there has been clear progression of the
+                  lesion since radiation was completed.
+
+               6. Venous thromboembolism within 1 month prior to signing ICF.
+
+               7. Current congestive heart failure (New York Heart Association Class II-IV).
+
+               8. History of the following within 6 months prior to first administration of
+                  investigational product: a myocardial infarction, severe/unstable angina
+                  pectoris, coronary/peripheral artery bypass graft, New York Heart Association
+                  (NYHA) Class III-IV heart failure, uncontrolled hypertension, clinically
+                  significant cardiac dysrhythmia or clinically significant ECG abnormality,
+                  cerebrovascular accident, transient ischemic attack, or seizure disorder.
+
+               9. Subject has a known infection with hepatitis B or C, or history of human
+                  immunodeficiency virus (HIV) infection, or subject receiving immunosuppressive
+                  or myelosuppressive medications that would in the opinion of the investigator,
+                  increase the risk of serious neutropenic complications.
+
+              10. Subject has an active, uncontrolled bacterial, viral, or fungal infection(s)
+                  requiring systemic therapy, defined as ongoing signs/symptoms related to the
+                  infection without improvement despite appropriate antibiotics, antiviral
+                  therapy, and/or other treatment.
+
+              11. History of interstitial lung disease, sarcoidosis, silicosis, idiopathic
+                  pulmonary fibrosis, or pulmonary hypersensitivity pneumonitis.
+
+              12. Treatment with any investigational product within 28 days prior to signing the
+                  ICF.
+
+              13. History of or suspected allergy to nab-paclitaxel, carboplatin and human albumin
+                  or any other platinum-based therapy.
+
+              14. Currently enrolled in any other clinical protocol or investigational trial that
+                  involves administration of experimental therapy and/or therapeutic devices.
+
+              15. Any other clinically significant medical condition, psychiatric illness, and/or
+                  organ dysfunction that will interfere with the administration of the therapy
+                  according to this protocol or which, in the views of investigator, preclude
+                  combination chemotherapy.
+
+              16. Subject has any other malignancy within 5 years prior to signing the ICF.
+                  Exceptions include the following: squamous cell carcinoma of the skin, in-situ
+                  carcinoma of the cervix, uteri, non-melanomatous skin cancer, carcinoma in situ
+                  of the breast, or incidental histological finding of prostate cancer (Tumor,
+                  node and metastasis (TNM) stage of T1a or T1b). All treatment should have been
+                  completed 6 months prior to signing ICF.
+
+              17. Any condition including the presence of laboratory abnormalities, which places
+                  the subject at unacceptable risk if he/she were to participate in the study.
+
+              18. Any medical condition that confounds the ability to interpret data from the
+                  study. This includes subjects with known psychiatric disorders.
+
+              19. Pregnant or breast-feeding females.
+
+              20. Subjects with an ECOG PS other than 2
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Francois Lafleur, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Celgene Corporation</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University Cancer Institute</name>
+      <address>
+        <city>Boynton Beach</city>
+        <state>Florida</state>
+        <zip>33426</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ochsner Clinic Nephrology</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Health System</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of RochesterJames P. Wilmont Cancer Center</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Upstate Medical University</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Cincinnati Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45267</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sarah Cannon Research Institute</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 2, 2017</lastchanged_date>
+  <firstreceived_date>November 10, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Phase II, LOCALLY ADVANCED OR METASTATIC NON SMALL</keyword>
+  <keyword>CELL LUNG CANCER (NSCLC) AND AN</keyword>
+  <keyword>EASTERN COOPERATIVE ONCOLOGY GROUP</keyword>
+  <keyword>PERFORMANCE STATUS OF 2</keyword>
+  <keyword>(ABOUND.PS2)</keyword>
+  <keyword>LOCALLY ADVANCED OR METASTATIC NON SMALL</keyword>
+  <keyword>CELL LUNG CANCER (NSCLC) SUBJECTS THAT AE NOT CANDIDATES FOR RADIATION OR CURATIVE SURGERY</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Paclitaxel</mesh_term>
+    <mesh_term>Albumin-Bound Paclitaxel</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

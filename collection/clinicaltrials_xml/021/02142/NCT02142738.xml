@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="73968">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02142738</url>
+  </required_header>
+  <id_info>
+    <org_study_id>3475-024</org_study_id>
+    <secondary_id>2014-000323-25</secondary_id>
+    <secondary_id>142728</secondary_id>
+    <nct_id>NCT02142738</nct_id>
+  </id_info>
+  <brief_title>Study of Pembrolizumab (MK-3475) Compared to Platinum-Based Chemotherapies in Participants With Metastatic Non-Small Cell Lung Cancer (MK-3475-024/KEYNOTE-024)</brief_title>
+  <official_title>A Randomized Open-Label Phase III Trial of MK-3475 Versus Platinum Based Chemotherapy in 1L Subjects With PD-L1 Strong Metastatic Non-Small Cell Lung Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Merck Sharp &amp; Dohme Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Merck Sharp &amp; Dohme Corp.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an efficacy and safety study to assess pembrolizumab (MK-3475/SCH 900475) compared
+      to standard of care (SOC) platinum-based chemotherapies in the treatment of participants
+      with previously untreated stage IV, programmed cell death ligand 1 (PD-L1) strong expressing
+      Non-Small Cell Lung Cancer (NSCLC). The primary hypothesis of this study is that
+      participants with PD-L1 strong NSCLC will have a longer Progression Free Survival (PFS), as
+      assessed by Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST 1.1) when
+      treated with pembrolizumab than when treated with SOC platinum-based chemotherapies.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Treatment Phase: Participants randomized to pembrolizumab will be treated for up to 35
+      cycles or until documented progressive disease (PD) occurs. Participants randomized to SOC
+      chemotherapies will be treated with their randomized study drug for up to 4-6 cycles. After
+      this, participants with non-squamous histologies may choose to be treated with maintenance
+      pemetrexed for the remainder of the study or until disease progression, unacceptable adverse
+      event(s) (AEs), intercurrent illness that prevents further administration of treatment,
+      investigator's decision to withdraw the participant, noncompliance with study treatment or
+      procedures requirements, the participant receives 35 treatments of study treatment
+      (pembrolizumab arm only), or administrative reasons. Participants receiving pembrolizumab
+      who stop drug administration after receiving 35 study treatments for reasons other than
+      disease progression or intolerability, or participants who attain a complete response and
+      stop study treatment may be eligible for retreatment with pembrolizumab upon experiencing
+      disease progression. The decision to retreat with a second course of pembrolizumab will be
+      at the discretion of the Investigator only if participants meet the criteria for retreatment
+      and the study is ongoing. Retreatment (second course) is limited to 17 cycles. Participants
+      randomized to receive SOC chemotherapy may be eligible to receive pembrolizumab if crossover
+      criteria are met.
+
+      Cross-Over Phase: This is only applicable for participants randomized to receive SOC.
+      Eligible participants will be treated with pembrolizumab for the remainder of the study or
+      until disease progression, unacceptable AEs, intercurrent illness that prevents further
+      administration of treatment, investigator's decision to withdraw the participant,
+      noncompliance with study treatment or procedures requirements, the participant receives 35
+      treatments of study treatment (pembrolizumab arm only), or administrative reasons.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">August 25, 2014</start_date>
+  <completion_date type="Anticipated">May 12, 2018</completion_date>
+  <primary_completion_date type="Actual">May 9, 2016</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>Up to 2 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Up to 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate (ORR)</measure>
+    <time_frame>Up to 2 years</time_frame>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Actual">305</enrollment>
+  <condition>Non-Small Cell Lung Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Pembrolizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive pembrolizumab 200 mg, administered as intravenous (IV) infusion on Day 1 of each 21-day cycle for up to 35 cycles.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Paclitaxel+Carboplatin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants receive paclitaxel 200 mg/m^2 and carboplatin Area Under the Curve (AUC) 5 or 6, administered as IV infusion on Day 1 of each 21-day cycle for 4-6 cycles followed by optional pemetrexed 500 mg/m^2 every three weeks (Q3W) maintenance for participants with non-squamous histologies for the remainder of the study or until documented PD or participant discontinuation. If PD occurs, participants may be able to receive pembrolizumab Q3W in a second course of treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pemetrexed+Carboplatin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants receive pemetrexed 500 mg/m^2 and carboplatin AUC 5 or 6, IV infusion on Day 1 of each 21-day cycle for 4-6 cycles; participants with non-squamous histologies may then receive pemetrexed 500 mg/m^2 on Day 1 of each 21-day cycle as maintenance therapy for the remainder of the study or until documented PD or participant discontinuation. If PD occurs, participants may be able to receive pembrolizumab Q3W in a second course of treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pemetrexed+Cisplatin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants receive pemetrexed 500 mg/m^2 and cisplatin 75 mg/m^2, administered as IV infusion on Day 1 of each 21-day cycle for 4-6 cycles followed by optional pemetrexed 500 mg/m^2 Q3W maintenance for the remainder of the study or until documented PD or participant discontinuation. If PD occurs, participants may be able to receive pembrolizumab Q3W in a second course of treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Gemcitabine+Carboplatin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants receive gemcitabine 1250 mg/m^2, administered as IV infusion on Days 1 and 8 of each 21-day cycle and carboplatin AUC 5 or 6, administered as IV infusion on Day 1 of a 21-day cycle, for 4-6 cycles or until documented PD or participant discontinuation. If PD occurs, participants may be able to receive pembrolizumab Q3W in a second course of treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Gemcitabine+Cisplatin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants receive gemcitabine 1250 mg/m^2, administered as IV infusion on Days 1 and 8 of each 21-day cycle and cisplatin 75 mg/m^2, administered as IV infusion on Day 1 of each 21-day cycle for 4-6 cycles or until documented PD or participant discontinuation. If PD occurs, participants may be able to receive pembrolizumab Q3W in a second course of treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pembrolizumab</intervention_name>
+    <description>Pembrolizumab IV solution</description>
+    <arm_group_label>Pembrolizumab</arm_group_label>
+    <other_name>MK-3475</other_name>
+    <other_name>SCH 900475</other_name>
+    <other_name>KEYTRUDA®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Paclitaxel</intervention_name>
+    <description>Paclitaxel IV solution</description>
+    <arm_group_label>Paclitaxel+Carboplatin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carboplatin</intervention_name>
+    <description>Carboplatin IV solution</description>
+    <arm_group_label>Paclitaxel+Carboplatin</arm_group_label>
+    <arm_group_label>Pemetrexed+Carboplatin</arm_group_label>
+    <arm_group_label>Gemcitabine+Carboplatin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pemetrexed</intervention_name>
+    <description>Pemetrexed IV solution</description>
+    <arm_group_label>Paclitaxel+Carboplatin</arm_group_label>
+    <arm_group_label>Pemetrexed+Carboplatin</arm_group_label>
+    <arm_group_label>Pemetrexed+Cisplatin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cisplatin</intervention_name>
+    <description>Cisplatin IV solution</description>
+    <arm_group_label>Pemetrexed+Cisplatin</arm_group_label>
+    <arm_group_label>Gemcitabine+Cisplatin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Gemcitabine</intervention_name>
+    <description>Gemcitabine IV solution</description>
+    <arm_group_label>Gemcitabine+Carboplatin</arm_group_label>
+    <arm_group_label>Gemcitabine+Cisplatin</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histological or cytological diagnosis of Stage IV NSCLC lacking epidermal growth
+             factor receptor (EGFR)-sensitizing mutation and/or anaplastic lymphoma kinase (ALK)
+             translocation, and received no prior systemic chemotherapy treatment for their
+             metastatic NSCLC
+
+          -  At least one radiographically measurable lesion per RECIST 1.1
+
+          -  Life expectancy of at least 3 months
+
+          -  Performance status of 0 or 1 on the Eastern Cooperative Oncology Group (ECOG)
+             Performance Status
+
+          -  Adequate organ function
+
+          -  No history of prior malignancy, with the exception of basal cell carcinoma of the
+             skin, superficial bladder cancer, squamous cell carcinoma of the skin, or in situ
+             cervical cancer, or has undergone potentially curative therapy with no evidence of
+             that disease recurrence for 5 years since initiation of that therapy
+
+          -  Provided newly obtained formalin fixed tumor tissue from a biopsy of a tumor at the
+             time of or AFTER the diagnosis of metastatic disease has been made AND from a site
+             not previously irradiated
+
+          -  PD-L1 strong expressing tumor as determined by immunohistochemistry (IHC) at a
+             central laboratory
+
+          -  Female participants must have a negative pregnancy test at screening if of
+             childbearing potential or be of non-childbearing potential
+
+          -  Female participants of childbearing potential and male partners with female partners
+             of childbearing potential must agree to use 2 adequate barrier methods of
+             contraception during the study and for 120 days after last dose of study drug and up
+             to 180 days after last dose of chemotherapy
+
+        Exclusion Criteria:
+
+          -  EGFR sensitizing mutation and/or ALK translocation
+
+          -  Has received systemic therapy for the treatment of their stage IV NSCLC. Completion
+             of treatment with chemotherapy and/or radiation as part of neoadjuvant/adjuvant
+             therapy is allowed as long as therapy was completed at least 6 months prior to the
+             diagnosis of metastatic disease.
+
+          -  Currently participating or has participated in a study of an investigational agent or
+             using an investigational device within 30 days of first dose of study drug
+
+          -  Tumor specimen is not evaluable for PD-L1 expression by the central laboratory
+
+          -  Receiving systemic steroid therapy &lt;= 3 days prior to first dose of study drug or
+             receiving any other form of immunosuppressive medication
+
+          -  Expected to require any other form of systemic or localized antineoplastic therapy
+             during the study
+
+          -  Received prior systemic cytotoxic chemotherapy, biological therapy, major surgery
+             within 3 weeks of first dose of study drug; received thoracic radiation therapy of &gt;
+             30 gray (Gy) within 6 months of first dose of study drug
+
+          -  Received prior therapy with an anti-programmed cell death protein 1 (anti-PD-1),
+             anti-PD-L1, anti-programmed cell death-ligand 2 (anti-PD-L2), anti-CD137 (4-1BB
+             ligand, a member of the Tumor Necrosis Factor Receptor [TNFR] family), or
+             anti-Cytotoxic T-lymphocyte-associated antigen-4 (anti-CTLA-4) antibody (including
+             ipilimumab or any other antibody or drug specifically targeting T-cell co-stimulation
+             or checkpoint pathways)
+
+          -  Has untreated central nervous system (CNS) metastases and/or carcinomatous meningitis
+
+          -  Active autoimmune disease that has required systemic treatment in past 2 years
+
+          -  Allogenic tissue/solid organ transplant
+
+          -  Interstitial lung disease or pneumonitis that has required oral or IV steroids
+
+          -  Received or will receive a live vaccine within 30 days prior to first dose of study
+             drug
+
+          -  Active infection requiring IV systemic therapy
+
+          -  Known history of human immunodeficiency virus (HIV)
+
+          -  Known active tuberculosis, or hepatitis B or C
+
+          -  Known psychiatric or substance abuse disorders that would interfere with cooperation
+             with the requirements of the study
+
+          -  Is, at the time of signing informed consent, a regular user (including &quot;recreational
+             use&quot;) of any illicit drugs or had a recent history (within the last year) of
+             substance abuse (including alcohol)
+
+          -  Pregnant or breastfeeding, or expecting to conceive or father children during the
+             study and through 120 days after last dose of pembrolizumab or 180 days after last
+             dose of SOC chemotherapy
+
+          -  Immediate family member who is investigational site or sponsor staff directly
+             involved with this study
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Merck Sharp &amp; Dohme Corp.</affiliation>
+  </overall_official>
+  <removed_countries>
+    <country>Australia</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Hungary</country>
+    <country>Ireland</country>
+    <country>Israel</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Netherlands</country>
+    <country>New Zealand</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </removed_countries>
+  <results_reference>
+    <citation>Reck M, Rodríguez-Abreu D, Robinson AG, Hui R, Csőszi T, Fülöp A, Gottfried M, Peled N, Tafreshi A, Cuffe S, O'Brien M, Rao S, Hotta K, Leiby MA, Lubiniecki GM, Shentu Y, Rangwala R, Brahmer JR; KEYNOTE-024 Investigators.. Pembrolizumab versus Chemotherapy for PD-L1-Positive Non-Small-Cell Lung Cancer. N Engl J Med. 2016 Nov 10;375(19):1823-1833. Epub 2016 Oct 8.</citation>
+    <PMID>27718847</PMID>
+  </results_reference>
+  <verification_date>April 2017</verification_date>
+  <lastchanged_date>April 6, 2017</lastchanged_date>
+  <firstreceived_date>May 16, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>PD-1</keyword>
+  <keyword>PD1</keyword>
+  <keyword>PD-L1</keyword>
+  <keyword>PDL1</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+    <mesh_term>Lung Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Paclitaxel</mesh_term>
+    <mesh_term>Gemcitabine</mesh_term>
+    <mesh_term>Pembrolizumab</mesh_term>
+    <mesh_term>Albumin-Bound Paclitaxel</mesh_term>
+    <mesh_term>Cisplatin</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+    <mesh_term>Pemetrexed</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

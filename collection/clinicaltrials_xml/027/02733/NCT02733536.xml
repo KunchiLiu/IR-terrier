@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="28667">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02733536</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21/12/2016/IRB</org_study_id>
+    <nct_id>NCT02733536</nct_id>
+  </id_info>
+  <brief_title>Pediatric Trauma Patient Intubation</brief_title>
+  <official_title>Comparison of C-MAC®, McGrath MAC EMS®, Intubrite®, and Miller Laryngoscopes for Endotracheal Intubation in Various Cervial Immoblization Scenarios: a Randomized Cross-over Pediatric Simulation Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical University of Warsaw</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Medical University of Warsaw</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study was to compare commonly used videolaryngoscopes (C-MAC, McGrath,
+      Intubrite) with the most commonly used Miller laryngoscope.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">December 2016</start_date>
+  <completion_date type="Actual">February 2017</completion_date>
+  <primary_completion_date type="Actual">February 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time required for successful intubation</measure>
+    <time_frame>1 day</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>success rate of intubation attempt</measure>
+    <time_frame>1 day</time_frame>
+    <description>success rate of first intubation attempt</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cormack&amp;Lehane grade</measure>
+    <time_frame>1 day</time_frame>
+    <description>glottic view during intubation rate using Cormack&amp;Lehane grade</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dental Compression</measure>
+    <time_frame>1 day</time_frame>
+    <description>the severity of the potential dental trauma was calculated based on previously described modified grading scale (Svoldelli, 2009)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ease of intubation</measure>
+    <time_frame>1 day</time_frame>
+    <description>To access subjective opinion about the difficulty of each intubation method, participants were asked to rate it on a visual analog scale (VAS) with a score from 1 (extremely easy) to 10 (extremely difficult).</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">63</enrollment>
+  <condition>Endotracheal Intubation</condition>
+  <arm_group>
+    <arm_group_label>Scenario A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Manual in-line cervical spine stabilization, performed by an instructor, who was not further involved in airway management</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Scenario B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cervical immobilization using a standard Patriot cervical extraction collar (Oessur Americas, Foothill Ranch, CA, USA), applied to the manikin's neck by an instructor.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Scenario C</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cervical immobilization using a vacuum mattress (Ferno-Washington, Inc. Wilmington, OH, USA), applied to the manikin's neck by an instructor.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Standard endotracheal tube</intervention_name>
+    <description>Miller laryngoscope with 2 blade</description>
+    <arm_group_label>Scenario A</arm_group_label>
+    <arm_group_label>Scenario B</arm_group_label>
+    <arm_group_label>Scenario C</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>C-MAC</intervention_name>
+    <description>C-MAC with Macintosh blade size 2</description>
+    <arm_group_label>Scenario A</arm_group_label>
+    <arm_group_label>Scenario B</arm_group_label>
+    <arm_group_label>Scenario C</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>McGrath</intervention_name>
+    <description>McGrath MAC EMS® with blade size 2</description>
+    <arm_group_label>Scenario A</arm_group_label>
+    <arm_group_label>Scenario B</arm_group_label>
+    <arm_group_label>Scenario C</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Intubrite</intervention_name>
+    <description>Intubrite® videolaryngoscope, with a Macintosh blade size 2</description>
+    <arm_group_label>Scenario A</arm_group_label>
+    <arm_group_label>Scenario B</arm_group_label>
+    <arm_group_label>Scenario C</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  give voluntary consent to participate in the study
+
+          -  more than 1 year of clinical experience
+
+          -  &gt;30 endotracheal intubation in the out-of-hospital emergency setting
+
+          -  paramedics
+
+        Exclusion Criteria:
+
+          -  not meet the above criteria
+
+          -  wrist or low back diseases
+
+          -  pregnancy
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Łukasz Szarpak, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical University of Warsaw</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Medical University of Warsaw, Department of Emergency Medicine</name>
+      <address>
+        <city>Warsaw</city>
+        <state>Masovia</state>
+        <zip>02-005</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Poland</country>
+  </location_countries>
+  <reference>
+    <citation>Truszewski Z, Szarpak Ł, Smereka J, Kurowski A, Evrin T, Czyzewski Ł. Comparison of the VivaSight single lumen endotracheal tube and the Macintosh laryngoscope for emergency intubation by experienced paramedics in a standardized airway manikin with restricted access: a randomized, crossover trial. Am J Emerg Med. 2016 May;34(5):929-30. doi: 10.1016/j.ajem.2016.02.054. Epub 2016 Feb 27.</citation>
+    <PMID>26979260</PMID>
+  </reference>
+  <reference>
+    <citation>Bogdański Ł, Truszewski Z, Kurowski A, Czyżewski Ł, Zaśko P, Adamczyk P, Szarpak Ł. Simulated endotracheal intubation of a patient with cervical spine immobilization during resuscitation: a randomized comparison of the Pentax AWS, the Airtraq, and the McCoy Laryngoscopes. Am J Emerg Med. 2015 Dec;33(12):1814-7. doi: 10.1016/j.ajem.2015.09.005. Epub 2015 Sep 21.</citation>
+    <PMID>26494629</PMID>
+  </reference>
+  <reference>
+    <citation>Gawlowski P, Smereka J, Madziala M, Szarpak L, Frass M, Robak O. Comparison of the Macintosh laryngoscope and blind intubation via the iGEL for Intubation With C-spine immobilization: A Randomized, crossover, manikin trial. Am J Emerg Med. 2017 Mar;35(3):484-487. doi: 10.1016/j.ajem.2016.11.064. Epub 2016 Nov 30.</citation>
+    <PMID>28041757</PMID>
+  </reference>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 15, 2017</lastchanged_date>
+  <firstreceived_date>April 5, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Medical University of Warsaw</investigator_affiliation>
+    <investigator_full_name>Łukasz Szarpak</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>endotracheal intubation</keyword>
+  <keyword>cardiopulmonary resuscitation</keyword>
+  <keyword>trauma</keyword>
+  <keyword>paramedic</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

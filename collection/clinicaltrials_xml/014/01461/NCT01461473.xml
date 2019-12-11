@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="126053">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01461473</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SU-10182011-8536</org_study_id>
+    <secondary_id>1R01HS019738-01</secondary_id>
+    <nct_id>NCT01461473</nct_id>
+  </id_info>
+  <brief_title>Comparative Outcomes Management With Electronic Data Technology (COMET) Study</brief_title>
+  <acronym>COMET</acronym>
+  <official_title>RO1: Comparative Outcomes Management With Electronic Data Technology (COMET) Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      STAGE I of the COMET study is to develop an Electronic Network Informatics Infrastructure
+      that will prospectively enable access to and the sharing of clinical and research data.
+
+      STAGE II: This is a Comparative Effectiveness Trial (CET) evaluating positive airway
+      pressure (PAP) vs. oral appliance (OA) therapy in improving hypertension and abnormalities
+      in cardiovascular function in overweight/obese patients with obstructive sleep apnea (OSA).
+      Data collected during the STAGE II study will be incorporated in Part 3 of the STAGE I
+      study.
+
+      STAGE III of the COMET study is completion of data analysis and preparation of the
+      electronic network informatics infrastructure for use beyond the four Clinical Centers to
+      interested CTSA institutions. We will also explore expanding ontologies, and the use of
+      federated database methodology.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      STAGE I, Part 1: We plan to extract limited access data sets from an existing research
+      database (prior research patients' data from APPLES research project where patients
+      consented to provide a limited accesses data set to the public domain as required by grants
+      funded by the National Heart, Lung, and Blood Institute [NHLBI], PI: Kushida) and a dummy
+      database with prepared test data (no real patient data) to evaluate and refine the initial
+      iterations of the informatics infrastructure being created via an agile evolutionary
+      development process (see COMET Project Map in Section 16).
+
+      STAGE I, Part 2: We would like to expand the functionality of the informatics infrastructure
+      by testing its ability to incorporate research data collected from an electronic
+      questionnaire, the Alliance Sleep Questionnaire (ASQ). Paper ASQ collection has been
+      approved by the Stanford Institutional Review Board (IRB) and pilot collection successfully
+      concluded in September 2010. We will enable data collection using an electronic version of
+      ASQ in order to use these data to evaluate and refine the iterations for the informatics
+      infrastructure. STAGE I, Part 3: We will expand the functionality of the informatics
+      infrastructure by testing its ability to incorporate live (ongoing) longitudinal data
+      collected from multiple forms and data sources obtained during the STAGE II study. The
+      addition of these data will allow the COMET Steering Committee to create use cases with a
+      greater diversity of data content. The STAGE II data will be used to evaluate and refine the
+      iterations for the expanded informatics infrastructure. STAGE I, Part 4: Part 4 is designed
+      to expand the collection of data beyond individual research studies, tapping into
+      University-wide systems (e.g., Stride) to link longitudinal data collected during research
+      studies to longitudinal data collected during clinical visits. Only de-identified data will
+      be shared with the global network, and only the local site will hold the code book that will
+      translate the Global ID to the Participant ID. All Health Insurance Portability and
+      Accountability Act (HIPAA) regulations will be considered.
+
+      STAGE II: This stage is comprised of the multicenter, randomized, parallel group,
+      comparative effectiveness trial to compare positive airway pressure (PAP) vs. oral appliance
+      (OA) therapy in improving hypertension and abnormalities in cardiovascular function in
+      overweight/obese patients with obstructive sleep apnea (OSA). Data collected during the
+      STAGE II study will be incorporated in Part 3 of the STAGE I study. This comparative
+      effectiveness trial will be conducted at 4 clinical centers, and the data collected during
+      this trial will be used to test the electronic network informatics infrastructure.
+
+      Stage II CET Specific Aims:
+
+        -  To evaluate and compare the effect of positive airway pressure and oral appliance
+           therapy on 24-hour blood pressure and vascular structure and function associated with
+           obstructive sleep apnea in a primarily female, overweight/obese hypertensive
+           population.
+
+        -  To evaluate and compare the effect of positive airway pressure and oral appliance
+           therapy on sleep-disordered breathing, sleepiness, mood, and quality of life.
+
+        -  To compare the cost-effectiveness of positive airway pressure and oral appliance as
+           obstructive sleep apnea treatments.
+
+        -  To explore cardiovascular biomarkers before and after treatment and to identify genetic
+           polymorphisms which may predict treatment response.
+
+      STAGE III: This stage is comprised of completion of data analysis and preparation of the
+      electronic network informatics infrastructure for deployment beyond the four Clinical
+      Centers to interested Clinical and Translational Science Awards (CTSA) institutions. We will
+      also explore expanding the ontologies beyond a sleep-related ontology to other medical
+      ontologies, and the use of federated database methodology.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>December 2011</start_date>
+  <completion_date type="Actual">June 2014</completion_date>
+  <primary_completion_date type="Actual">May 2014</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Nocturnal mean arterial blood pressure</measure>
+    <time_frame>2 months</time_frame>
+    <description>Mean arterial blood pressure during the sleep period as recorded by 24-hour ambulatory blood pressure monitoring after approximately 2 months of treatment</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Ambulatory Blood Pressure Monitoring (ABPM)</measure>
+    <time_frame>2-6 months</time_frame>
+    <description>Mean arterial blood pressure (systolic and diastolic), average real variability, and standard deviation during sleep and wake periods as recorded by 24-hour ambulatory blood pressure monitoring after approximately 2 months and 6 months of treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vascular Ultrasound (VU)</measure>
+    <time_frame>2-6 months</time_frame>
+    <description>Compare readings from flow-mediated vasodilatation (FMD) of the brachial artery.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiovascular MRI (cMRI)</measure>
+    <time_frame>2-6 months</time_frame>
+    <description>Stanford Site Only: To explore cardiovascular functions by evaluating the changes of myocardial perfusion reserve (MPR), left ventricular ejection fraction (LVEF), and left ventricular mass (LVM).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiovascular / Inflammatory Biomarkers</measure>
+    <time_frame>2-6 months</time_frame>
+    <description>To explore C-reactive protein (CRP), tumor necrosis factor-alpha (TNFa), and interleukin-6 (IL-6).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Psychomotor Vigilance Task (PVT)</measure>
+    <time_frame>2-6 months</time_frame>
+    <description>To evaluate the variance of number of lapses and mean reciprocal reaction time.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Epworth Sleepiness Scale (ESS)</measure>
+    <time_frame>2-6 months</time_frame>
+    <description>To compare the total score.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Profile of Mood States (POMS)</measure>
+    <time_frame>2-6 months</time_frame>
+    <description>To evaluate the total mood disturbance score and score on the fatigue-inertia subscale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functional Outcomes of Sleep Questionnaire-10 (FOSQ-10)</measure>
+    <time_frame>2-6 months</time_frame>
+    <description>To evaluate the overall score.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sleep Apnea Quality of Life Index (SAQLI)</measure>
+    <time_frame>2-6 months</time_frame>
+    <description>To evaluate the overall SAQLI score.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Short Form-36 (SF-36)</measure>
+    <time_frame>2-6 months</time_frame>
+    <description>To evaluate the role-physical scale and vitality scale scores.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Well-Being Self-Administered Scale (QWB-SA)</measure>
+    <time_frame>2-6 months</time_frame>
+    <description>To evaluate overall QWB-SA score</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Cost-effectiveness</measure>
+    <time_frame>2-6 months</time_frame>
+    <description>Quality-adjusted life years and units of utilization throughout the study</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Treatment Efficacy</measure>
+    <time_frame>2-6 months</time_frame>
+    <description>Improvement of apnea-hypopnea index and oxygen desaturation index at treatment polysomnography</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">196</enrollment>
+  <condition>Sleep Apnea, Obstructive</condition>
+  <arm_group>
+    <arm_group_label>Positive Airway Pressure</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants randomized to standard clinical Positive Airway Pressure (PAP) treatment for Obstructive Sleep Apnea (OSA).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Oral Appliance</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects randomized to standard Oral Appliance (OA) treatment for Obstructive Sleep Apnea (OSA).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Positive Airway Pressure</intervention_name>
+    <description>Participants who are randomized to the Positive Airway Pressure treatment group will receive adequate Positive Airway Pressure (PAP) pressure setting through standard clinical polysomnography (PSG) study.</description>
+    <arm_group_label>Positive Airway Pressure</arm_group_label>
+    <other_name>Philips Respironics Post-market PAP devices.</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Oral Appliance</intervention_name>
+    <description>Participants who are randomized to the Oral Appliance Treatment Group will receive a dental evaluation to determine the optimal setting for the Oral Appliance (OA) device.</description>
+    <arm_group_label>Oral Appliance</arm_group_label>
+    <other_name>mandibular advancement device</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age &gt; 18 years.
+
+          -  BMI &gt; = 25.0 kg/m2.
+
+          -  A diagnosis of obstructive sleep apnea based upon medical history and apnea- hypopnea
+             index &gt; = 10.0 or oxygen desaturation index (ODI; ≥4%) ≥ 10.0 on Diagnostic
+             Polysomnogram.
+
+          -  Report a history of hypertension (or need for treatment for hypertension) which is
+             currently untreated OR taking medication for the treatment of hypertension.
+
+          -  Stable medication regimen for 2 months prior to the Baseline Testing Visit. As-needed
+             medications such as those used for allergy, cold, or minor pain symptoms may be used
+             at the discretion of the Clinical Center physician.
+
+        Exclusion Criteria:
+
+          -  Cardiovascular disease which, in the judgment of the investigator, if observed during
+             standard clinical practice would lead the treating physician to make every effort to
+             treat the patient's sleep apnea with positive airway pressure, rather than
+             alternative treatments.
+
+          -  Clinically significant acute or chronic disease that is not well controlled or could
+             affect ability to complete or comply with study procedures, in the opinion of the
+             Clinical Center physician.
+
+          -  Respiratory disease requiring supplemental oxygen or medication. Individuals with
+             asthma may be included at the discretion of the Clinical Center physician if disease
+             is well controlled and medications are stable for 2 months.
+
+          -  History of (within 12 months prior to enrollment), or current diagnosis of, Axis I or
+             Axis II psychiatric disorder (other than obstructive sleep apnea) that in the opinion
+             of the Clinical Center physician would affect ability to complete or comply with
+             study procedures (e.g., schizophrenia and other psychotic disorders).
+
+          -  History of (within 3 months prior to enrollment), or current diagnosis of narcolepsy,
+             idiopathic hypersomnia, restless legs syndrome, REM behavior disorder, persistent
+             situational insomnia, or sleep-related breathing disorders other than obstructive
+             sleep apnea.
+
+          -  Periodic limb movement arousal index &gt; 10.0 on the Diagnostic Polysomnogram.
+
+          -  Significant daytime sleepiness at study entry as indicated by:
+
+               -  an Epworth Sleepiness Scale total score &gt; 16, or a score of 3 (high chance) on
+                  the question about risk of dozing &quot;In a car, while stopped for a few minutes in
+                  traffic&quot; or
+
+               -  a report of falling asleep at the wheel, a motor vehicle accident, or near-miss
+                  accident due to sleepiness in the past 24 months, which in the judgment of the
+                  study physician was not attributable to acute sleep loss.
+
+          -  Oxygen saturation &lt; 80% for &gt; 10% of sleep time during the Diagnostic Polysomnogram,
+             or intervention with positive airway pressure or oxygen for safety purposes during
+             the Diagnostic Polysomnogram.
+
+          -  Any prior treatment for obstructive sleep apnea with positive airway pressure or oral
+             appliance, or surgical treatment for obstructive sleep apnea in the past year.
+
+          -  Contraindication for treatment with either positive airway pressure or oral
+             appliance, in the opinion of the Clinical Center physician or dentist, including
+             significant nasal obstruction, insufficient or loose teeth, dentures, advanced
+             periodontal disease, or significant temporomandibular joint pain.
+
+          -  Pregnancy.
+
+          -  Difficulty understanding or speaking English, or inability to read and understand
+             informed consent and study procedures.
+
+          -  Significant vision, hearing, or motor problems that, in the opinion of the Clinical
+             Center physician, would affect ability to complete study procedures.
+
+          -  A work schedule that does not allow for nighttime sleep on the 3 nights before each
+             study visit.
+
+          -  Current or planned participation in another research study.
+
+          -  Metal objects, devices, or implants that are in or on the body (Stanford Clinical
+             Center only).
+
+          -  Creatinine clearance &lt;30 and creatinine &gt;1.6 (Stanford Clinical Center only).
+
+          -  Upper arm circumference &gt; 20 inches
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clete A Kushida, MD, PhD.</last_name>
+    <role>Study Director</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Allan Pack, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Center for Sleep, University of Pennsylvania School of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Susan Redline, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Harvard Brigham and Women</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ruth Benca, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Wisconsin-Madison School of Medicine, Department of Psychiatry</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford University, Center for Human Sleep Research</name>
+      <address>
+        <city>Redwood City</city>
+        <state>California</state>
+        <zip>94063</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harvard Brigham and Women</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Sleep, University of Pennsylvania School of Medicine</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Wisconsin-Madison School of Medicine, Department of Psychiatry</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53719</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Young T, Palta M, Dempsey J, Skatrud J, Weber S, Badr S. The occurrence of sleep-disordered breathing among middle-aged adults. N Engl J Med. 1993 Apr 29;328(17):1230-5.</citation>
+    <PMID>8464434</PMID>
+  </reference>
+  <verification_date>September 2014</verification_date>
+  <lastchanged_date>September 19, 2014</lastchanged_date>
+  <firstreceived_date>October 20, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Obstructive Sleep Apnea</keyword>
+  <keyword>Obstructive Sleep Apnea Syndrome</keyword>
+  <keyword>Sleep Apnea Syndrome, Obstructive</keyword>
+  <keyword>Syndrome, Obstructive Sleep Apnea</keyword>
+  <keyword>Syndrome, Sleep Apnea, Obstructive</keyword>
+  <keyword>Syndrome, Upper Airway Resistance, Sleep Apnea</keyword>
+  <keyword>Upper Airway Resistance Sleep Apnea Syndrome</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Sleep Apnea Syndromes</mesh_term>
+    <mesh_term>Sleep Apnea, Obstructive</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

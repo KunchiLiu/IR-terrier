@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="52417">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02423798</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CEP 296</org_study_id>
+    <nct_id>NCT02423798</nct_id>
+  </id_info>
+  <brief_title>New Generation Enlite Accuracy Study</brief_title>
+  <official_title>Accuracy and Performance Evaluation of the Medtronic New Generation Enlite Glucose Sensor in Conjunction With the Medtronic 640G System Components - in Clinic and at Home</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medtronic</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Profil Institut für Stoffwechselforschung GmbH</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Medtronic</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The trial will investigate the accuracy and performance of a new sensor for continuous
+      glucose monitoring (CGM), the (new generation) Enlite, CE-marked in 2013, in conjunction
+      with the new Medtronic 640G system components.
+
+      To evaluate the accuracy and performance of the new generation Enlite sensor. This is a
+      postmarket, interventional, open-label, non-randomized, single center clinical research
+      trial.
+
+      The trial will adopt a prospective single-sample design using the Yellow Spring Instruments
+      (YSI) plasma glucose reference sampling procedure in the clinic and self-monitoring of blood
+      glucose (SMBG) plasma glucose reference sampling procedure at home.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The trial will investigate the accuracy and performance (i.e. the life-time) of a new sensor
+      for CGM, the (new generation) Enlite glucose sensor, CE-marked in 2013, in conjunction with
+      the new Medtronic 640G system components. Accuracy and life-time of the sensor are important
+      parameters contributing to the safety of patients and patient acceptance of this still
+      fairly new technology.
+
+      The current trial investigates the accuracy of the new sensor in conjunction with the new
+      640G system components both in the clinic and at home. This enables us to assess the sensor
+      accuracy in a well-controlled environment using a highly accurate laboratory glucose
+      analyzer as reference as well as sensor accuracy during real-life conditions using a blood
+      glucose meter as reference analyzer.
+
+      The data gathered in this trial will help to understand the effect of technological
+      advancements made and can guide future development of glucose sensor for continuous glucose
+      monitoring.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 2015</start_date>
+  <completion_date type="Actual">September 2015</completion_date>
+  <primary_completion_date type="Actual">September 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>A correlation between the sensor and reference plasma glucose values will be performed</measure>
+    <time_frame>4 months</time_frame>
+    <description>A linear model, in which reference plasma glucose values are predicted by sensor values, using a repeated measures model, will be performed. The models solution will provide the intercept and slope. An intercept of 0, along with a slope of 1, would indicate the absence of bias in predicting reference plasma glucose values from sensor readings.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clarke's Error Grid Analysis of paired sensor and reference plasma glucose values</measure>
+    <time_frame>4 months</time_frame>
+    <description>All analysis performed using the Clarke Error Grid comparing the paired sensor and YSI reference glucose values will be duplicated using the Continuous Error Grid [Kovatchev et al, 2004] and the Consensus Error Grid [Parkes et al, 2000].</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Comparison of CGM performance to reference plasma glucose values under conditions leadings to alert</measure>
+    <time_frame>4 months</time_frame>
+    <description>The 640G Pump includes the ability to set alert thresholds (including the predictive alert) for hypoglycemia and hyperglycemia. The alert will be triggered when the sensor BG value reaches the threshold glucose value. Predictive alerts will be evaluated by using the predicted sensor BG value based on current sensor BG and sensor BG readings within the previous 30 minutes, that the glucose level would soon reach the threshold.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>4 months</time_frame>
+    <description>Adverse events</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">24</enrollment>
+  <condition>Diabetes</condition>
+  <arm_group>
+    <arm_group_label>Open-label, single-sample design</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>The trial has an open label design with a glucose sensor intervention. Only 1 sensor system is used in the trial (no comparator).
+As all subjects will receive identical devices and undergo the same experimental procedures, no randomization will be performed. Furthermore, neither subjects nor clinical staff will be blinded to the sensor readings, as knowing the sensor glucose readings will not affect the accuracy endpoint.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Glucose sensor (Enlite)</intervention_name>
+    <description>This is a postmarket, interventional, open-label, non-randomized, single center clinical research trial. The trial will adopt a prospective single-sample design using the Yellow Spring Instruments (YSI) plasma glucose reference sampling procedure in the clinic and selfmonitoring of blood glucose (SMBG) plasma glucose reference sampling procedure at home. The trial will consist of 6 visits to the investigational site: a visit for informed consent procedures (Visit 0), a screening visit (Visit 1), 3 study visits (Visit 2-4) and a final examination (Visit 5).</description>
+    <arm_group_label>Open-label, single-sample design</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subject has signed the informed consent form prior to screening
+
+          -  Age 18-74 years (both inclusive)
+
+          -  Subject has been diagnosed with T1DM
+
+          -  Subject is current insulin pump user for at least 3 months
+
+          -  HbA1c 9.5%
+
+          -  With the exception of T1DM, the subject is considered generally healthy upon
+             completion of medical history, physical examination, vital signs, ECG and biochemical
+             investigations as judged by the Investigator
+
+        Exclusion Criteria:
+
+          -  Female of childbearing potential who is pregnant, breast-feeding or intend to become
+             pregnant or are not using adequate contraceptive methods (adequate contraceptive
+             measures include sterilization, hormonal intrauterine devices, oral contraceptives,
+             sexual abstinence, vasectomized partner)
+
+          -  Subject has any condition that, in the opinion of the Investigator or qualified
+             Investigational Centre staff, may preclude him/her from participating in the study
+             and completing study related procedures.
+
+          -  Subject has impaired vision or hearing problems that could compromise the handling of
+             the device as determined by Investigator or qualified Investigational Centre staff
+
+          -  Subject is unable to tolerate tape adhesive in the area of sensor placement
+
+          -  Subject has any unresolved adverse skin condition in the area of sensor placement
+             (e.g. psoriasis, rash, Staphylococcus infection)
+
+          -  Subject has travel plans which would make it difficult for the subject to attend
+             on-site study visits as scheduled
+
+          -  Subject is actively participating in an investigational study (drug or device)
+             wherein he/she has received treatment from an investigational study drug or
+             investigational study device in the last 30 days
+
+          -  Subject known to be positive for Hepatitis B surface antigen (HBsAg) or Hepatitis C
+             antibodies (or diagnosed with active hepatitis according to local practice).
+
+          -  Positive result to the screening test for HIV-1 antibodies, HIV-2 antibodies or HIV-1
+             antigen according to locally used diagnostic testing
+
+          -  Significant history of alcoholism or drug/chemical abuse as per investigator's
+             judgment, current regular alcohol consumption of more than 1 unit per day for women
+             and more than 2 units per day for men [1 unit of alcohol equals 1 beer (330 mL), 1
+             glass of wine (120 mL), or 1 glass of spirits (40 mL)], or a positive result in the
+             urine drug/alcohol screen at the screening visit
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>74 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>February 2016</verification_date>
+  <lastchanged_date>February 10, 2016</lastchanged_date>
+  <firstreceived_date>March 23, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Diabetes</keyword>
+  <keyword>Glucose sensor</keyword>
+  <keyword>Sensor accuracy and performance</keyword>
+  <keyword>CGM</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

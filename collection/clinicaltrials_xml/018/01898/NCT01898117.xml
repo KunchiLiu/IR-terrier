@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="92701">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01898117</url>
+  </required_header>
+  <id_info>
+    <org_study_id>M13TNB</org_study_id>
+    <secondary_id>2013-001484-23</secondary_id>
+    <secondary_id>NL44403.031.13</secondary_id>
+    <nct_id>NCT01898117</nct_id>
+  </id_info>
+  <brief_title>Triple-B Study;Carboplatin-cyclophosphamide Versus Paclitaxel With or Without Bevacizumab as First-line Treatment in Advanced Triple Negative Breast Cancer</brief_title>
+  <acronym>Triple-B</acronym>
+  <official_title>Biomarker Discovery Randomized Phase IIb Trial With Carboplatin-cyclophosphamide Versus Paclitaxel With or Without Bevacizumab as First-line Treatment in Advanced Triple Negative Breast Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Netherlands Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Borstkanker Onderzoek Groep</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Roche Pharma AG</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The Netherlands Cancer Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Triple negative breast cancer (TNBC) is a difficult to treat molecular subtype with a poor
+      survival. TNBC can be divided into at least two molecular entities; BRCA-like and
+      non-BRCA-like. In this trial we would like to investigate whether a molecular subgroup
+      exists within TNBCs that derives a benefit from bevacizumab added to first line
+      chemotherapy.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In preclinical studies the addition of bevacizumab to chemotherapy improves drug access in
+      the tumor. In humans, bevacizumab monotherapy normalizes the tumor vascularization. It is
+      presently unknown what molecular subtype would derive a progression free survival (PFS)
+      benefit of the addition of bevacizumab to first line chemotherapy. There are indications
+      that patients with high VEFGA and/or VEFGR-2 plasma levels derive most benefit.
+
+      There are indications that TNBC that are BRCA-like are more sensitive to bifunctional
+      alkylating and platinum agents than non-BRCA-like TNBCs, and relatively resistant to
+      taxanes. Consequently, because TNBCs in general derive substantial benefit from taxanes, we
+      anticipate that non-BRCA-like TNBCs are exquisitely sensitive to taxanes. Bevacizumab and
+      paclitaxel are synergistic in preclinical models. Therefore we anticipate that bevacizumab
+      added to paclitaxel confers a substantial progression-free survival benefit in non-BRCA-like
+      patients. We would like to test these hypotheses in a prospective clinical trial.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>July 2013</start_date>
+  <completion_date type="Anticipated">December 2029</completion_date>
+  <primary_completion_date type="Anticipated">December 2019</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Determine PFS in the different VEGFR2 levels</measure>
+    <time_frame>Assessed up to 120 months</time_frame>
+    <description>Prospectively analyze whether VEGFR2 plasma levels at baseline predict for differential progression-free survival (PFS) benefit of bevacizumab added to first line palliative chemotherapy in triple-negative breast cancer (TNBC)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Validate the BRCA-like test</measure>
+    <time_frame>assessed up to 120 months</time_frame>
+    <description>Validate the BRCA-like test in predicting differential PFS with first line alkylating and platinum agents when compared to paclitaxel in TNBC</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Improvement of PFS by adding bevacicumab</measure>
+    <time_frame>assessed up to 120 months</time_frame>
+    <description>Validate that bevacizumab added to first line palliative chemotherapy improves PFS in TNBC</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Define predictive biomarkers for PFS gain</measure>
+    <time_frame>From date of randomization until the date of first documented progression or date of death from any cause, whichever came first, assessed up to 120 months</time_frame>
+    <description>Define predictive biomarkers for PFS gain of the addition of bevacizumab to first line chemotherapy; test VEGFA amplification vs no amplification and PFS stratified by chemotherapy regimen.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determine PFS</measure>
+    <time_frame>From date of randomization until dat of first documented progression or date of death, which ever comes first, assessed up to 120 months</time_frame>
+    <description>etermine PFS regarding the efficacy of the two different first line chemotherapeutic regimens, regardless of bevacizumab yes or no, in the whole study group, and in the BRCA-like and non-BRCA-like TNBCs subgroups separately</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>assessed up to 120 months</time_frame>
+    <description>Evaluation of overall survival (OS) for all (sub)group comparisons as pre-specified for PFS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Toxicity of all study regimens</measure>
+    <time_frame>Assessed at 1 year</time_frame>
+    <description>Adverse events will be graded according to NCI Common Toxicity Criteria version 4.03</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">304</enrollment>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Carbo/cyclo</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Carboplatin AUC=5 Cyclophosphamide 600 mg/m2 Q 4 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Carbo/cyclo + Bevacizumab</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Carboplatin AUC=5 Cyclophosphamide 600 mg/m2 Bevacizumab 10 mg/kg d1, 15 Q 4 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Paclitaxel</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Paclitaxel 90 mg/m2 d1, 8, 15 Q 4 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Paclitaxel + bevacizumab</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Paclitaxel 90 mg/m2 d1, 8, 15 Bevacizumab 10 mg/kg d1, 15 Q 4 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carbo/cyclo</intervention_name>
+    <arm_group_label>Carbo/cyclo</arm_group_label>
+    <other_name>Carboplatin</other_name>
+    <other_name>Cyclophosphamide</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carbo/cyclo + bevacizumab</intervention_name>
+    <arm_group_label>Carbo/cyclo + Bevacizumab</arm_group_label>
+    <other_name>Carboplatin</other_name>
+    <other_name>Cyclophosphamide</other_name>
+    <other_name>Bevazicumab</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Paclitaxel</intervention_name>
+    <arm_group_label>Paclitaxel</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Paclitaxel + Bevacizumab</intervention_name>
+    <arm_group_label>Paclitaxel + bevacizumab</arm_group_label>
+    <other_name>Paclitaxel</other_name>
+    <other_name>evazicumab</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histologically confirmed triple negative breast cancer
+
+          -  Histological confirmation of triple negative breast cancer of a metastatic lesion is
+             recommended
+
+          -  Histological or cytological confirmation of metastatic breast cancer is required in
+             case of normal CA 15.3 levels
+
+          -  No previous cytotoxic therapy for metastatic disease
+
+          -  Disease-free interval of at least 12 months after completion of adjuvant paclitaxel
+             or platinum compound therapy
+
+          -  Disease-free interval of at least 6months after completion of adjuvant docetaxel
+
+          -  Measurable disease according to RECIST
+
+          -  Plasma baseline samples sent to NKI-AVL for sVEGFR level testing
+
+          -  Primary tumor or metastasis tissue sent to NKI-AVL for BRCA-like testing
+
+          -  WHO performance status of 0 or 1
+
+          -  Adequate bone marrow function: neutrophils ≥ 1.5 x 10E9 cells/l, platelets ≥100 x
+             10E9 cells/l, Hb ≥ 6.2 mmol/l.
+
+          -  Normal liver function: bilirubin &lt; 1.5 x upper limit of the normal range (ULN);
+             alkaline phosphatase &lt; 2.5 x ULN (&lt; 5 x ULN in case of liver metastases, and &lt; 7 x
+             ULN in case of bone metastases); transaminases (ASAT/ALAT) &lt; 2.5 x ULN (and &lt; 5 x ULN
+             in case of liver metastases).
+
+          -  Normal renal function:
+
+               -  calculated (Cockcroft-Gault) or measured creatinine clearance &gt; 50 mL/min
+
+               -  Urine dipstick for proteinuria &lt; 2+. Patients with &gt; 2+ proteinuria on dipstick
+                  urinalysis at baseline should undergo 24-hours urine collection and must
+                  demonstrate ≤1 g of protein/24hr.
+
+          -  INR &lt; 1.5 and APTT normal, unless patient is on stable anti-coagulant treatment for
+             at least two weeks with a low molecular weight heparin or coumarin, then an INR
+             within the target range (usually between 2 and 3) is allowed.
+
+          -  Written informed consent
+
+        Exclusion Criteria:
+
+          -  Receptor conversion to hormone receptor positive (defined as &gt;= 1% positive ER or PgR
+             tumor cells) or HER2 positive
+
+          -  Another cancer except basal-cell carcinoma of the skin or in situ cervical cancer
+             within the previous 5 years
+
+          -  Other antitumor therapy within the previous 21 days
+
+          -  Known CNS disease except for treated brain metastases.
+
+          -  Uncontrolled serious medical or psychiatric illness
+
+          -  Pre-existing peripheral neuropathy &gt; grade 1 (NCI-CTC AE (version 4.03)) at inclusion
+
+          -  History of abdominal fistula, gastrointestinal perforation, or intra-abdominal
+             abscess within 6 months of randomization
+
+          -  An infection requiring parenteral antibiotic
+
+          -  Major surgical procedure, open biopsy, or significant traumatic injury within 28 days
+             prior to randomization or anticipation of need for major surgical procedure during
+             the course of the study
+
+          -  Significant vascular disease (e.g., aortic aneurysm requiring surgical repair or
+             recent peripheral arterial thrombosis within 6 months prior to randomization)
+
+          -  Non healing wound or non healing fracture
+
+          -  Arterial or venous thrombosis ≤ 12 months prior to registration
+
+          -  Inadequate controlled hypertension (systolic &gt; 140 mm Hg and/or diastolic &gt; 90 mm Hg)
+
+          -  Prior history of hypertensive crisis or hypertensive encephalopathy
+
+          -  New York Heart Association Class II or greater congestive heart failure. LVEF by MUGA
+             or ultrasound must be ≥ 50% and should be performed within 4 weeks prior to
+             randomization if cardiac failure is suspected.
+
+          -  History of myocardial infarction or unstable angina within 6 months prior to
+             randomization
+
+          -  History of stroke or transient ischemic attack within 6 months prior to randomization
+
+          -  Evidence of bleeding diathesis or significant coagulopathy (in the absence of
+             therapeutic anticoagulation)
+
+          -  History of hemoptysis within 1 month prior to randomization
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rianne Oosterkamp, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>MC Haaglanden</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sabine C Linn, Prof. MD</last_name>
+    <phone>+3120512</phone>
+    <phone_ext>2870</phone_ext>
+    <email>s.linn@nki.nl</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ingrid A. Mandjes, MSc</last_name>
+    <phone>+3120512</phone>
+    <phone_ext>2667</phone_ext>
+    <email>i.mandjes@nki.nl</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>MCA</name>
+      <address>
+        <city>Alkmaar</city>
+        <zip>1815 JD</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ZGT</name>
+      <address>
+        <city>Almelo</city>
+        <zip>7609 PP</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>I M Oving, MD</last_name>
+      <email>i.oving@zgt.nl</email>
+    </contact>
+    <investigator>
+      <last_name>I M Oving, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>BovenIJ</name>
+      <address>
+        <city>Amsterdam</city>
+        <zip>1034 CS</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>S E Dohmen, MD</last_name>
+      <email>s.dohmen@bovenij.nl</email>
+    </contact>
+    <investigator>
+      <last_name>S E Dohmen, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Netherlands Cancer Institute</name>
+      <address>
+        <city>Amsterdam</city>
+        <zip>1066 CX</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Sabine C Linn, Prof. MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>AZVU</name>
+      <address>
+        <city>Amsterdam</city>
+        <zip>1081 HV</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>I R Konings, MD</last_name>
+      <email>m.konings@vumc.nl</email>
+    </contact>
+    <investigator>
+      <last_name>I R Konings, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gelre Ziekenhuis</name>
+      <address>
+        <city>Apeldoorn</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Lievensberg ziekenhuis</name>
+      <address>
+        <city>Bergen op Zoom</city>
+        <zip>4624 VT</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rode Kruis Ziekenhuis</name>
+      <address>
+        <city>Beverwijk</city>
+        <zip>1940 EB</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>R C Rietbroek, MD</last_name>
+      <email>rrietbroek@rkz.nl</email>
+    </contact>
+    <investigator>
+      <last_name>R C Rietbroek, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>IJsselland ziekenhuis</name>
+      <address>
+        <city>Capelle aan de IJssel</city>
+        <zip>2906 ZC</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>D F Kehrer, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>D F Kehrer, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Haga</name>
+      <address>
+        <city>Den Haag</city>
+        <zip>2545 CH</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Deventer ziekenhuis</name>
+      <address>
+        <city>Deventer</city>
+        <zip>7416 SE</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>A L Imholz, MD</last_name>
+      <email>imholza@dz.nl</email>
+    </contact>
+    <investigator>
+      <last_name>A L Imholz, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nijsmellinghe</name>
+      <address>
+        <city>Drachten</city>
+        <zip>9202 NN</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>S Hovenga, MD</last_name>
+      <email>s.hovenga@nijsmellinghe.nl</email>
+    </contact>
+    <investigator>
+      <last_name>S Hovenga, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ziekenhuis Gelderse Vallei</name>
+      <address>
+        <city>Ede</city>
+        <zip>6716 RP</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>A W Haringhuizen, MD</last_name>
+      <email>haringhuizena@zgv.nl</email>
+    </contact>
+    <investigator>
+      <last_name>A W Haringhuizen, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Maxima Medisch Centrum</name>
+      <address>
+        <city>Eindhoven</city>
+        <zip>5631 BM</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>M W Dercksen, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>M W Dercksen, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Groene Hart</name>
+      <address>
+        <city>Gouda</city>
+        <zip>2803 HH</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>B C Tanis, MD</last_name>
+      <email>bea.tanis@ghz.nl</email>
+    </contact>
+    <investigator>
+      <last_name>B C Tanis, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Jansdal</name>
+      <address>
+        <city>Harderwijk</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>M Temizkan, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>M Temizkan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Spaarne ziekenhuis</name>
+      <address>
+        <city>Hoofddorp</city>
+        <zip>2134 TM</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>B de Valk, MD</last_name>
+      <email>bdevalk@spaarneziekenhuis.nl</email>
+    </contact>
+    <investigator>
+      <last_name>B de Valk, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>MCL</name>
+      <address>
+        <city>Leeuwarden</city>
+        <zip>8934 AD</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>LUMC</name>
+      <address>
+        <city>Leiden</city>
+        <zip>2333 ZA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>J R Kroep, MD</last_name>
+      <email>j.r.kroep@lumc.nl</email>
+    </contact>
+    <investigator>
+      <last_name>J R Kroep, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>MCH</name>
+      <address>
+        <city>Leidschendam</city>
+        <zip>2262 BA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>H M Oosterkamp, MD</last_name>
+      <email>h.oosterkamp@mchaaglanden.nl</email>
+    </contact>
+    <investigator>
+      <last_name>H M Oosterkamp, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Fransicus Gasthuis</name>
+      <address>
+        <city>Rotterdam</city>
+        <zip>3045 PM</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ikazia</name>
+      <address>
+        <city>Rotterdam</city>
+        <zip>3083 AN</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>F E de Jong, MD</last_name>
+      <email>fe.de.jongh@ikazia.nl</email>
+    </contact>
+    <investigator>
+      <last_name>F E de Jong, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Vlietland ziekenhuis</name>
+      <address>
+        <city>Schiedam</city>
+        <zip>3118 JH</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Elisabeth</name>
+      <address>
+        <city>Tilburg</city>
+        <zip>5022 GC</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tweesteden ziekenhuis</name>
+      <address>
+        <city>Tilburg</city>
+        <zip>5042 AD</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Isala Klinieken</name>
+      <address>
+        <city>Zwolle</city>
+        <zip>8025 AB</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>A H. Honkoop, MD</last_name>
+      <email>a.h.honkoop@isala.nl</email>
+    </contact>
+    <investigator>
+      <last_name>A H Honkoop, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>January 2016</verification_date>
+  <lastchanged_date>January 21, 2016</lastchanged_date>
+  <firstreceived_date>June 27, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Triple negative</keyword>
+  <keyword>Metastatic</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Triple Negative Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Paclitaxel</mesh_term>
+    <mesh_term>Albumin-Bound Paclitaxel</mesh_term>
+    <mesh_term>Bevacizumab</mesh_term>
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

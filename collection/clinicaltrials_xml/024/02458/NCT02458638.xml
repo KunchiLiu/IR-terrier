@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="49744">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02458638</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MO29518</org_study_id>
+    <secondary_id>2015-000269-30</secondary_id>
+    <nct_id>NCT02458638</nct_id>
+  </id_info>
+  <brief_title>An Open-Label Study of Atezolizumab in Advanced Solid Tumors</brief_title>
+  <official_title>An Open-Label, Multicohort, Phase II Study of Atezolizumab in Advanced Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hoffmann-La Roche</source>
+  <brief_summary>
+    <textblock>
+      The primary efficacy objective for this study is to evaluate non-progression rate (NPR) at
+      18 weeks in participants with advanced solid tumors treated with atezolizumab, defined as
+      the percentage of participants with complete response (CR), partial response (PR), or stable
+      disease (SD) as assessed by the Investigator according to Response Evaluation Criteria in
+      Solid Tumors version 1.1 (RECIST v1.1), or according to disease-specific criteria for
+      prostate cancer and malignant pleural mesothelioma.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>July 2015</start_date>
+  <completion_date type="Anticipated">December 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>NPR: Percentage of Participants with CR, PR, or SD According to RECIST v1.1 or Disease-Specific Criteria at 18 Weeks</measure>
+    <time_frame>At 18 weeks</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Minimum Plasma Concentration Observed (Cmin) of Atezolizumab</measure>
+    <time_frame>Pre-dose (0 hours) on Day 1 of Cycles 1, 2, 3, 4, and 8; then every 8 cycles until/at treatment discontinuation; and 120 days after last dose (up to 5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NPR: Percentage of Participants with CR, PR, or SD According to RECIST v1.1 or Disease-Specific Criteria at 24 Weeks or According to Modified RECIST Criteria at 18 and 24 Weeks</measure>
+    <time_frame>At 18 and 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response Rate (ORR): Percentage of Participants with CR or PR According to RECIST v1.1 or Disease-Specific Criteria or According to Modified RECIST Criteria</measure>
+    <time_frame>Tumor assessments every 6 weeks for 24 weeks; then every 12 weeks until loss of clinical benefit, withdrawal, death, or study end (up to 5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants by Best Overall Response (BOR) According to RECIST v1.1 or Disease-Specific Criteria or According to Modified RECIST Criteria</measure>
+    <time_frame>Tumor assessments every 6 weeks for 24 weeks; then every 12 weeks until loss of clinical benefit, withdrawal, death, or study end (up to 5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Benefit Rate (CBR): Percentage of Participants with CR, PR, or SD Lasting for &gt;/=6 Weeks According to RECIST v1.1 or Disease-Specific Criteria or According to Modified RECIST Criteria</measure>
+    <time_frame>Tumor assessments every 6 weeks for 24 weeks; then every 12 weeks until loss of clinical benefit, withdrawal, death, or study end (up to 5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Objective Response (DOR) According to RECIST v1.1 or Disease-Specific Criteria or According to Modified RECIST Criteria</measure>
+    <time_frame>Tumor assessments every 6 weeks for 24 weeks; then every 12 weeks until loss of clinical benefit, withdrawal, death, or study end (up to 5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival (PFS) According to RECIST v1.1 or Disease-Specific Criteria or According to Modified RECIST Criteria</measure>
+    <time_frame>Tumor assessments every 6 weeks for 24 weeks; then every 12 weeks until loss of clinical benefit, withdrawal, death, or study end (up to 5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Progression (TTP) According to RECIST v1.1 or Disease-Specific Criteria or According to Modified RECIST Criteria</measure>
+    <time_frame>Tumor assessments every 6 weeks for 24 weeks; then every 12 weeks until loss of clinical benefit, withdrawal, death, or study end (up to 5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Survival followed every 3 months until death, withdrawal, loss to follow-up, or study end (up to 5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Adverse Events</measure>
+    <time_frame>Continuously until death, withdrawal, loss to follow-up or study end (up to 5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean Number of Cycles of Atezolizumab</measure>
+    <time_frame>At each treatment cycle (every 3 weeks) until treatment discontinuation (up to 5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean Maximum Dose of Atezolizumab</measure>
+    <time_frame>At each treatment cycle (every 3 weeks) until treatment discontinuation (up to 5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Anti-Atezolizumab Antibodies</measure>
+    <time_frame>Pre-dose (0 hours) on Day 1 of Cycles 1, 2, 3, 4, and 8; then every 8 cycles until/at treatment discontinuation; and 120 days after last dose (up to 5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Plasma Concentration Observed (Cmax) of Atezolizumab</measure>
+    <time_frame>At 30 minutes after the end of infusion on Day 1 of Cycle 1</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">725</enrollment>
+  <condition>Solid Tumor</condition>
+  <arm_group>
+    <arm_group_label>Atezolizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The dose of atezolizumab in this study will be 1200 milligrams (mg) administered by intravenous (IV) infusion on Day 1 of each 3-week cycle until disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Atezolizumab [TECENTRIQ]</intervention_name>
+    <description>Atezolizumab will be given as IV infusion over 60 minutes on Day 1 of Cycle 1, then over 30 minutes (as tolerated) on Day 1 of each subsequent 3-week cycle.</description>
+    <arm_group_label>Atezolizumab</arm_group_label>
+    <other_name>MPDL3280A</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Male or female
+
+          -  Histologically documented advanced solid tumors that have progressed following at
+             least one line of prior systemic therapy or for which no alternative therapy to
+             prolong survival exists or has proven benefit
+
+          -  Representative formalin-fixed paraffin-embedded (FFPE) tumor specimens in paraffin
+             blocks (preferred) or in freshly cut and unstained slides (exceptional cases) with an
+             associated pathology report for central testing
+
+          -  Measurable disease as defined by RECIST v1.1 or disease-specific criteria for
+             prostate cancer and malignant pleural mesothelioma
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1
+
+          -  Negative serum pregnancy test result within 14 days prior to study drug among women
+             of child-bearing potential
+
+        Exclusion Criteria:
+
+          -  Hematologic malignancies, non-small cell lung carcinoma (NSCLC), triple-negative
+             breast cancer, urothelial bladder cancer, renal cell carcinoma, melanoma and other
+             malignant skin cancers (except Merkel cell carcinoma), hepatocellular carcinoma,
+             cancer of unknown primary, and glioblastoma
+
+          -  Malignancies other than disease under study within 5 years prior to Day 1 of Cycle 1
+             except those with a negligible risk of metastasis or death
+
+          -  Uncontrolled tumor-related pain
+
+          -  Uncontrolled pleural effusion, pericardial effusion, or ascites requiring recurrent
+             drainage procedures greather than or equal to (&gt;/=) 1 time per month
+
+          -  History of asymptomatic or symptomatic central nervous system (CNS) metastasis
+
+          -  Leptomeningeal disease
+
+          -  Spinal cord compression not definitively treated with surgery and/or radiation, or
+             previously treated but without evidence that disease has been clinically stable for
+             &gt;/=2 weeks prior to Day 1 of Cycle 1
+
+          -  Pregnant and lactating women
+
+          -  Significant cardiovascular disease within 3 months prior to Day 1 of Cycle 1
+
+          -  Severe infection within 4 weeks prior to Day 1 of Cycle 1
+
+          -  Oral or IV antibiotics within 2 weeks prior to Day 1 of Cycle 1
+
+          -  History of severe allergic, anaphylactic, or other hypersensitivity reactions to
+             chimeric or humanized antibodies or fusion proteins
+
+          -  Known hypersensitivity or allergy to biopharmaceuticals produced in Chinese hamster
+             ovary cells or to any component of the atezolizumab formulation
+
+          -  History of autoimmune disease except treated/stable hypothyroidism or Type 1 diabetes
+             mellitus
+
+          -  Active tuberculosis
+
+          -  Signs or symptoms of infection within 2 weeks prior to Day 1 of Cycle 1
+
+          -  Prior treatment with cluster of differentiation (CD)-137 agonists or immune
+             checkpoint blockade therapies, anti-programmed cell death 1 (PD-1), or
+             anti-programmed cell death ligand 1 (PD-L1) therapeutic antibodies
+
+          -  Treatment with systemic corticosteroids or other systemic immunosuppressive
+             medications within 2 weeks prior to Day 1 of Cycle 1, or anticipated requirement for
+             systemic immunosuppressive medications during the trial
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>Hoffmann-La Roche</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Reference Study ID Number: MO29518 www.roche.com/about_roche/roche_worldwide.htm</last_name>
+    <phone>888-662-6728 (U.S. and Canada)</phone>
+    <email>global.rochegenentechtrials@roche.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Graz</city>
+        <zip>8036</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Wien</city>
+        <zip>1090</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Rio de Janeiro</city>
+        <state>RJ</state>
+        <zip>20231-050</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Porto Alegre</city>
+        <state>RS</state>
+        <zip>90035-003</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Sao Jose do Rio Preto</city>
+        <state>SP</state>
+        <zip>15090-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Sao Paulo</city>
+        <state>SP</state>
+        <zip>01246-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V5Z 4E6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 2M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Aarhus C</city>
+        <zip>8000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Herlev</city>
+        <zip>2730</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Odense C</city>
+        <zip>5000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Helsinki</city>
+        <zip>00029</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bordeaux</city>
+        <zip>33076</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lyon</city>
+        <zip>69373</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Paris</city>
+        <zip>75475</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Villejuif</city>
+        <zip>94805</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hamburg</city>
+        <zip>20246</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Heidelberg</city>
+        <zip>69120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Trier</city>
+        <zip>54290</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Dublin</city>
+        <zip>4</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Dublin</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Napoli</city>
+        <state>Campania</state>
+        <zip>80131</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Milano</city>
+        <state>Lombardia</state>
+        <zip>20133</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Siena</city>
+        <state>Toscana</state>
+        <zip>53100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Amsterdam</city>
+        <zip>1066 CX</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Rotterdam</city>
+        <zip>3000 CA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Utrecht</city>
+        <zip>3584 CX</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bergen</city>
+        <zip>5021</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Oslo</city>
+        <zip>0310</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bydgoszcz</city>
+        <zip>85-796</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Gdansk</city>
+        <zip>80-952</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lublin</city>
+        <zip>20-090</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Warszawa</city>
+        <zip>02-781</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Moscow</city>
+        <zip>115478</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Saint-Petersburg</city>
+        <zip>197758</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>St Petersburg</city>
+        <zip>197022</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Pamplona</city>
+        <state>Navarra</state>
+        <zip>31008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Fribourg</city>
+        <zip>1708</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>St. Gallen</city>
+        <zip>9007</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Edirne</city>
+        <zip>22030</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Istanbul</city>
+        <zip>34300</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Istanbul</city>
+        <zip>34384</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Sıhhiye, ANKARA</city>
+        <zip>06100</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bebington</city>
+        <zip>CH63 4JY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Southampton</city>
+        <zip>SO16 6YD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Austria</country>
+    <country>Brazil</country>
+    <country>Canada</country>
+    <country>Denmark</country>
+    <country>Finland</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Ireland</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>Norway</country>
+    <country>Poland</country>
+    <country>Russian Federation</country>
+    <country>Spain</country>
+    <country>Switzerland</country>
+    <country>Turkey</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2016</verification_date>
+  <lastchanged_date>November 1, 2016</lastchanged_date>
+  <firstreceived_date>May 28, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

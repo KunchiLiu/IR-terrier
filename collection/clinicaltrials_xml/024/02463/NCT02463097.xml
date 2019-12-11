@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="49401">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02463097</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CEP 294</org_study_id>
+    <nct_id>NCT02463097</nct_id>
+  </id_info>
+  <brief_title>Hybrid Closed Loop Pivotal Trial in Type 1 Diabetes</brief_title>
+  <official_title>Safety Evaluation of the Hybrid Closed Loop (HCL) System in Type 1 Diabetes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medtronic Diabetes</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Medtronic Diabetes</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a single-arm, multi-center, Home and Hotel Clinical Investigation in subjects
+      with type 1 diabetes on insulin pump therapy. The purpose of this study is to demonstrate
+      that the closed loop algorithm that is built into the 670G insulin pump is safe as part of
+      the overall system.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study will proceed as follows:
+
+      Run-in Period:
+
+      A total of up to 150 subjects (age 14 - 75) will be enrolled at up to 10 investigational
+      centers (9 in the US, 1 in the Europe, Middle East and Africa (EMEA) region) in order to
+      reach 100 subjects who will complete the HCL study. The 2-week run-in period will be used to
+      allow subjects to become familiar with new study devices. During the two week run-in period
+      subjects will be using the Study Pump (670G) with the Sensor Augmented Pump function only
+      activated (i.e. SmartGuard OFF and HCL OFF).
+
+      Study Period - At Home:
+
+      Following the two week run-in period using the Study Pump (670G), all subjects will
+      participate in a 3-month study period.
+
+      Subjects will be required to have a companion with them during the night for the duration of
+      the study period. Companions will need to be under the same roof, but not necessarily in the
+      same bedroom. During the Hotel stay where subjects are monitored closely, the presence of a
+      companion is not necessary.
+
+      Study Period - Hotel Study Subjects will participate in a Hotel study (6 days, 5 nights),
+      with the remainder of the study period to be spent at home.
+
+      All subjects will undergo daytime and nighttime Frequent Sample Testing (FST) for
+      approximately 24 hours during the Hotel study with YSI or i-STAT® used as a reference value.
+
+      With respect to meals, subjects will be allowed to eat as they normally do.
+
+      Continued Access Program Subjects will be given the opportunity to extend use of their study
+      devices for a period of 2 years. If subjects choose to participate in the continuation
+      period, they will retain the study devices at the end of study period visit or receive them
+      back in the event they have been returned to study staff already. During the continuation
+      period, subjects will come in for office visits every 3 months. At each of the quarterly
+      visits, subjects will be asked about the occurrence of adverse events and device complaints.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>June 2015</start_date>
+  <completion_date type="Anticipated">May 2017</completion_date>
+  <primary_completion_date type="Actual">March 2016</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Reduction in A1C</measure>
+    <time_frame>3 months</time_frame>
+    <description>There is no statistically powered primary endpoint in this study. However, there will be a descriptive analysis of reduction in A1C.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Event rate of Severe Hypoglycemia</measure>
+    <time_frame>3 months</time_frame>
+    <description>There is no statistically powered secondary endpoint in this study. However, there will be a descriptive analysis of the event rate of Severe Hypoglycemia.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Event rate of Diabetic Ketoacidosis (DKA)</measure>
+    <time_frame>3 months</time_frame>
+    <description>There is no statistically powered secondary endpoint in this study. However, there will be a descriptive analysis of the event rate of DKA.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">127</enrollment>
+  <condition>Type 1 Diabetes</condition>
+  <arm_group>
+    <arm_group_label>Study Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All subjects wearing the MMT-670G insulin pump, using it with the closed loop algorithm</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Insulin Pump</intervention_name>
+    <description>Closed Loop Algorithm</description>
+    <arm_group_label>Study Arm</arm_group_label>
+    <other_name>MMT-670G</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>i-STAT blood testing</intervention_name>
+    <description>Intravenous i-STAT blood testing is used for reference validation</description>
+    <arm_group_label>Study Arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Blood Glucose Meter testing</intervention_name>
+    <description>Frequent finger stick blood glucose testing using a Blood Glucose meter is required</description>
+    <arm_group_label>Study Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Is age 14 - 75 years at time of screening
+
+          2. Has a clinical diagnosis of type 1 diabetes for 2 years or more as determined via
+             medical record or source documentation by an individual qualified to make a medical
+             diagnosis
+
+          3. Is willing to participate in a hotel study for the specified duration of hotel stay.
+
+          4. Must have companion who will sleep in the same dwelling place every night during the
+             study period and should also be able to call the subject daily in the event the
+             subject is traveling.
+
+          5. Is willing to perform ≥ 4 finger stick blood glucose measurements daily
+
+          6. Is willing to perform required sensor calibrations
+
+          7. Is willing to wear the system continuously throughout the study
+
+          8. Has a Glycosylated hemoglobin (A1C) value less than 10.0% (as processed by Central
+             Lab) at time of screening visit
+
+          9. Has TSH in the normal range OR if the TSH is out of normal reference range the Free
+             T3 is below or within the lab's reference range and Free T4 is within the normal
+             reference range.
+
+         10. Pump therapy for greater than 6 months prior to screening (with or without CGM
+             experience)
+
+         11. Is willing to upload data from the study pump, must have Internet access and a
+             computer system that meets the requirements for uploading the study pump
+
+         12. If subject has celiac disease, it has been adequately treated as determined by the
+             investigator
+
+         13. Is willing to take one of the following insulins and can financially support the use
+             of either of the 2 insulin preparations throughout the course of the study (i.e.
+             co-payments for insulin with insurance or able to pay full amount)
+
+               -  Humalog® (insulin lispro injection)
+
+               -  NovoLog® (insulin aspart)
+
+         14. With history of cardiovascular event 1 year or more from the time of screening must
+             have an EKG within 6 months prior to screening or during screening. If subject has an
+             abnormal EKG, participation is allowed if there is clearance from a cardiologist
+
+         15. With 3 or more cardiovascular risk factors listed below must have an EKG within 6
+             months prior to screening or during screening. If subject has an abnormal EKG,
+             participation is allowed if there is clearance from a cardiologist
+
+             Cardiovascular risk factors include:
+
+               -  Age &gt;35 years
+
+               -  Type 1 diabetes of &gt;15 years' duration
+
+               -  Presence of any additional risk factor for coronary artery disease
+
+               -  Presence of microvascular disease (proliferative retinopathy or nephropathy,
+                  including microalbuminuria)
+
+               -  Presence of peripheral vascular disease
+
+               -  Presence of autonomic neuropathy
+
+         16. With history of cardiovascular event 1 year or more from the time of screening must
+             have a stress test within 6 months prior to screening or during run in period. If
+             subject fails stress test, participation is allowed if there is clearance from a
+             cardiologist
+
+         17. Must be able to speak and be literate in English
+
+        Exclusion Criteria:
+
+          1. Has a history of 2 or more episodes of severe hypoglycemia, which resulted in any the
+             following during the 6 months prior to screening:
+
+               -  Medical assistance (i.e. Paramedics, Emergency Room ( ER) or Hospitalization)
+
+               -  Coma
+
+               -  Seizures
+
+          2. Is unable to tolerate tape adhesive in the area of sensor placement
+
+          3. Has any unresolved adverse skin condition in the area of sensor placement (e.g.,
+             psoriasis, dermatitis herpetiformis, rash, Staphylococcus infection)
+
+          4. Females who are sexually active and able to conceive will be excluded if they are not
+             using an effective method of contraception and do not agree to continue using an
+             effective method of contraception for the duration of the study as determined by
+             investigator.
+
+          5. Has had any of the following cardiovascular events within 1 year of screening:
+             myocardial infarction, unstable angina, coronary artery bypass surgery, coronary
+             artery stenting, transient ischemic attack, cerebrovascular accident, angina,
+             congestive heart failure, ventricular rhythm disturbances or thromboembolic disease
+
+          6. Is being treated for hyperthyroidism at time of screening
+
+          7. Has diagnosis of adrenal insufficiency
+
+          8. Has had DKA in the 6 months prior to screening visit.
+
+          9. Has taken any oral, injectable, or intravenous (IV) steroids within 8 weeks from time
+             of screening visit, or plans to take any oral, injectable, or IV steroids during the
+             course of the study
+
+         10. Actively participating in an investigational study (drug or device) wherein he/she
+             has received treatment from an investigational study drug or investigational study
+             device in the last 2 weeks
+
+         11. Has been hospitalized or has visited the ER in the 6 months prior to screening
+             resulting in a primary diagnosis of uncontrolled diabetes
+
+         12. Currently abusing illicit drugs
+
+         13. Currently abusing marijuana.
+
+         14. Currently abusing prescription drugs
+
+         15. Currently abusing alcohol
+
+         16. Using pramlintide (Symlin), DPP-4 inhibitor, liraglutide (Victoza or other GLP-1
+             agonists), metformin, canagliflozin (Invokana or other SGLT2 inhibitors) at time of
+             screening
+
+         17. Has a history of visual impairment which would not allow subject to participate in
+             the study and perform all study procedures safely, as determined by the investigator
+
+         18. Has elective surgery planned that requires general anesthesia during the course of
+             the study
+
+         19. Has a sickle cell disease, hemoglobinopathy; or has received red blood cell
+             transfusion or erythropoietin within 3 months prior to time of screening
+
+         20. Plans to receive red blood cell transfusion or erythropoietin over the course of
+             study participation
+
+         21. Diagnosed with current eating disorder such as anorexia or bulimia
+
+         22. Diagnosed with chronic kidney disease that results in chronic anemia
+
+         23. Hematocrit that is below the normal reference range of lab used.
+
+         24. On dialysis
+
+         25. Serum creatinine of &gt;2 mg/dL.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>14 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>AMCR Institute</name>
+      <address>
+        <city>Escondido</city>
+        <state>California</state>
+        <zip>92026</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University Medical Center</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94035</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Barbara Davis Center for Childhood Diabetes (Adult)</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Barbara Davis Center for Childhood Diabetes (Pediatric)</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Yale University School of Medicine</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Atlanta Diabetes Associates</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30318</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Park Nicollet Clinic-International Diabetes Center - Adult and Pediatric</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55416</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rainer Clinical Research Center</name>
+      <address>
+        <city>Renton</city>
+        <state>Washington</state>
+        <zip>98057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institute of Endocrinology, Sheba Medical Center</name>
+      <address>
+        <city>Tel Aviv</city>
+        <zip>52621</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2016</verification_date>
+  <lastchanged_date>October 4, 2016</lastchanged_date>
+  <firstreceived_date>May 28, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 1</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Insulin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

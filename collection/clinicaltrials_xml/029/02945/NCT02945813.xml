@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="12377">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02945813</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SAKK 08/15 - PROMET</org_study_id>
+    <nct_id>NCT02945813</nct_id>
+  </id_info>
+  <brief_title>PROMET - Trial of Salvage Radiotherapy +/- Metformin for Patients With Prostate Cancer After Prostatectomy</brief_title>
+  <official_title>PROMET - Multicenter, Randomized Phase II Trial of Salvage Radiotherapy +/- Metformin for Patients With Prostate Cancer After Prostatectomy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Swiss Group for Clinical Cancer Research</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Swiss Group for Clinical Cancer Research</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main objective of the trial is to determine if SRT plus metformin is superior to SRT
+      alone in the endpoint of time to progression after prostatectomy failure.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The use salvage radiotherapy for biochemical progression after prostatectomy has provided
+      suboptimal results over the years. Metformin has shown anti-cancer and radio-sensitizing
+      properties in several studies, therefore it is a promising drug to improve the treatment
+      results for this important group of patients.
+
+      In this trial, we aim to assess the role of metformin in decreasing failures (PSA
+      progression) following salvage radiotherapy. For that, patients with PSA progression after
+      surgery will be treated with the standard of care (salvage radiotherapy) plus metformin.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 2017</start_date>
+  <completion_date type="Anticipated">December 2029</completion_date>
+  <primary_completion_date type="Anticipated">December 2018</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Care Provider, Investigator, Outcomes Assessor</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to progression (TTP)</measure>
+    <time_frame>within 18 months after randomization</time_frame>
+    <description>The primary endpoint of the trial is time to progression (TTP), defined as time from randomization until one of the following events, whichever comes first:
+Biochemical progression
+Clinical progression
+Death due to clinical progression</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression free survival (PFS)</measure>
+    <time_frame>within 18 months after randomization</time_frame>
+    <description>PFS is defined as time from randomization until one of the following events, whichever comes first:
+Biochemical progression
+Clinical progression
+Death from any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Undetectable Prostate Specific Antigen (PSA) under normal testosterone levels</measure>
+    <time_frame>up to 18 months after last radiotherapy fraction</time_frame>
+    <description>Undetectable PSA is defined as a serum PSA value of ≤0.05 ng/mL for at least two consecutive measurements after the last radiotherapy fraction and up to 18 months thereafter. To count as undetectable PSA under normal testosterone levels, the testosterone level has to be ≥50 ng/dL (i.e. a non-castrate testosterone level).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">170</enrollment>
+  <condition>Prostate Cancer</condition>
+  <arm_group>
+    <arm_group_label>Arm A: Metformin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Metformin - 850mg PO BID; 48 weeks
+Salvage radiotherapy SRT - 35 x 2Gy; 7 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B: Salvage Radiotherapy</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>- Salvage radiotherapy SRT - 35 x 2Gy; 7 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Metformin</intervention_name>
+    <description>850mg PO BID; 48 weeks</description>
+    <arm_group_label>Arm A: Metformin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Salvage Radiotherapy SRT</intervention_name>
+    <description>SRT 35 x 2Gy; 7 weeks</description>
+    <arm_group_label>Arm A: Metformin</arm_group_label>
+    <arm_group_label>Arm B: Salvage Radiotherapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Written informed consent according to ICH/GCP regulations before registration and
+             prior to any trial specific procedures
+
+          -  Histologically confirmed adenocarcinoma of the prostate without small cell features
+
+          -  Tumor stage pT2a-3b, pN0 or cN0, M0, R0-1 resection margins, according to UICC TNM
+             2009, Gleason score available
+
+          -  Radical prostatectomy (RP) at least 12 weeks before registration
+
+          -  PSA progression after RP defined as two consecutive rises with the final PSA &gt; 0.1
+             ng/mL or three consecutive rises. The first value must be measured earliest 4 weeks
+             after RP
+
+          -  PSA ≤ 2 ng/mL within 14 days prior to registration
+
+          -  Age ≥ 18 years at time of registration
+
+          -  WHO performance status 0-1
+
+          -  Adequate hepatic function within 14 days prior to registration: bilirubin ≤ 1.5 x ULN
+             (exception if Gilbert's syndrome ≤ 3 x ULN), AST and ALT ≤ 2.5 x ULN
+
+          -  Adequate renal function within 14 days prior to registration: calculated corrected
+             creatinine clearance ≥ 60 mL/min, according to the formula of corrected
+             Cockcroft-Gault
+
+          -  Patient agrees not to father a child during trial treatment and during 6 months
+             thereafter
+
+        Exclusion Criteria:
+
+          -  Persistent PSA (&gt; 0.4 ng/mL) 4 to 20 weeks after RP
+
+          -  Pelvic lymph node enlargement &gt; 0.8 cm in short axis diameter (cN positive) assessed
+             by mpMRI within 12 weeks prior to registration, unless the enlarged lymph node is
+             sampled and negative
+
+          -  Evidence of macroscopic local recurrence assessed by mpMRI within 12 weeks prior to
+             registration
+
+          -  Palpable prostatic fossa mass suggestive of recurrence, unless an ultrasound guided
+             biopsy is negative for malignancy
+
+          -  Presence or history of prostate cancer metastases. In case of clinical suspicion
+             (e.g. bone pain), imaging (e.g. bone scan, Cholin-PET, PSMA-PET, whole body MRI) must
+             be performed. The imaging method is at the discretion of the investigator.
+
+          -  History of hematologic or primary solid tumor malignancy, unless in remission for at
+             least 3 years from registration with the exception of curatively treated localized
+             non-melanoma skin cancer
+
+          -  Patients on pharmacotherapy for diabetes mellitus
+
+          -  Treatment with metformin within the last 3 months prior to registration
+
+          -  Prior pelvic radiotherapy
+
+          -  Hormonal treatment as bilateral orchiectomy prior or following RP
+
+          -  Usage of products known to affect PSA levels within 4 weeks prior to start of trial
+             treatment
+
+          -  Bilateral hip prosthesis
+
+          -  Severe or active co-morbidity likely to impact on the advisability of salvage RT,
+             e.g.:
+
+               -  History of inflammatory bowel disease or any malabsorption syndrome or
+                  conditions that would interfere with enteral absorption
+
+               -  Acute bacterial or fungal infection requiring intravenous antibiotics at the
+                  time of registration
+
+               -  Unstable angina and/or congestive heart failure requiring hospitalization within
+                  the last 6 months
+
+               -  Transmural myocardial infarction within the last 6 months
+
+               -  Chronic Obstructive Pulmonary Disease (COPD) exacerbation or other respiratory
+                  illness requiring hospitalization or precluding study therapy at the time of
+                  registration
+
+          -  Any condition associated with increased risk of lactic acidosis (e.g. alcohol abuse,
+             congestive heart failure NYHA III or IV
+
+          -  Clinically significant history of liver disease consistent with Child-Pugh Class B or
+             C, including viral or other hepatitis, current alcohol abuse, or cirrhosis
+
+          -  Severe or uncontrolled kidney disease resulted in impaired kidney function (GFR
+             &lt;60ml/min)
+
+          -  Any acute or chronic condition that could cause tissue hypoxia (e.g. cardiac or
+             respiratory insufficiency, recent myocardial infarction, shock)
+
+          -  Treatment with any experimental drug or participation within a clinical trial within
+             30 days prior to registration (exception: concurrent participation in the biobank
+             project SAKK 63/12 is allowed)
+
+          -  Any concomitant drug contraindicated for use with metformin according to the approved
+             product information
+
+          -  Known hypersensitivity to metformin/placebo or to any of its components
+
+          -  Hereditary intolerance to fructose; known galactose-1-phosphate uridyl transferase
+             deficiency, UDP galactose 4 epimerase deficiency, galactokinase deficiency,
+             Fanconi-Bickel syndrome, congenital lactase deficiency, or glucose-galactose
+             malabsorption (due to the lactose-containing placebo)
+
+          -  Inability or unwillingness to swallow oral medication
+
+          -  Any other serious underlying medical, psychiatric, psychological, familial or
+             geographical condition, which in the judgment of the investigator may interfere with
+             the planned staging, treatment and follow-up, affect patient compliance or place the
+             patient at high risk from treatment-related complications
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alan Dal Pra, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Bern University Hospital - Radiation Oncology</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marie-Aline Gerard, PhD</last_name>
+    <phone>+41 31 389 91 91</phone>
+    <email>trials@sakk.ch</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>UniversitätsSpital Zürich</name>
+      <address>
+        <city>Zurich</city>
+        <zip>97080</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Matthias Guckenberger, Prof</last_name>
+      <phone>+41 44 255 29 30</phone>
+      <email>Matthias.Guckenberger@usz.ch</email>
+    </contact>
+    <investigator>
+      <last_name>Matthias Guckenberger, Prof</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsspital Basel</name>
+      <address>
+        <city>Basel</city>
+        <zip>4031</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alexandros Papachristofilou, MD</last_name>
+      <phone>+41 61 265 49 46</phone>
+      <email>alexandros.papachristofilou@usb.ch</email>
+    </contact>
+    <investigator>
+      <last_name>Alexandros Papachristofilou, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto Oncologico della Svizzera Italiana IOSI - Ospedale San Giovanni</name>
+      <address>
+        <city>Bellinzona</city>
+        <zip>6500</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Che Ngwa Azinwi, MD</last_name>
+      <phone>+41 091 811 89 32</phone>
+      <email>ngwache.azinwi@eoc.ch</email>
+    </contact>
+    <investigator>
+      <last_name>Che Ngwa Azinwi, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Inselspital Bern</name>
+      <address>
+        <city>Bern</city>
+        <zip>3010</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alan Dal Pra, MD</last_name>
+      <phone>+41 31 632 26 32</phone>
+      <email>alan.dalpra@insel.ch</email>
+    </contact>
+    <investigator>
+      <last_name>Alan Dal Pra, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kantonsspital Graubuenden</name>
+      <address>
+        <city>Chur</city>
+        <zip>7000</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Daniel R. Zwahlen, MD</last_name>
+      <phone>+41 81 256 64 95</phone>
+      <email>daniel.zwahlen@ksgr.ch</email>
+    </contact>
+    <investigator>
+      <last_name>Daniel R. Zwahlen, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpitaux Universitaires Genève HUG</name>
+      <address>
+        <city>Geneva</city>
+        <zip>1211</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Thomas Zilli, MD</last_name>
+      <phone>+41 22 372 70 90</phone>
+      <email>thomas.zilli@hcuge.ch</email>
+    </contact>
+    <investigator>
+      <last_name>Thomas Zilli, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kantonsspital - St. Gallen</name>
+      <address>
+        <city>St. Gallen</city>
+        <zip>CH-9007</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Paul Martin Putora, MD</last_name>
+      <phone>+41 71 494 22 68</phone>
+      <email>paulmartin.putora@kssg.ch</email>
+    </contact>
+    <investigator>
+      <last_name>Paul Martin Putora, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kantonsspital Winterthur KSW</name>
+      <address>
+        <city>Winterthur</city>
+        <zip>8401</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Binaya Kumar Shrestha, MD</last_name>
+      <phone>+41 52 266 55 05</phone>
+      <email>binayakumar.shrestha@ksw.ch</email>
+    </contact>
+    <investigator>
+      <last_name>Binaya Kumar Shrestha, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Klinik Hirslanden</name>
+      <address>
+        <city>Zurich</city>
+        <zip>8032</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Marcin Sumila, MD</last_name>
+      <phone>+41 44 387 25 51</phone>
+      <email>marcin.sumila@hirslanden.ch</email>
+    </contact>
+    <investigator>
+      <last_name>Marcin Sumila, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Stadtspital Triemli</name>
+      <address>
+        <city>Zurich</city>
+        <zip>8063</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Helmut Kranzbühler, MD</last_name>
+      <phone>+41 44 466 13 67</phone>
+      <email>helmut.kranzbuehler@triemli.zuerich.ch</email>
+    </contact>
+    <investigator>
+      <last_name>Helmut Kranzbühler, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>April 2017</verification_date>
+  <lastchanged_date>April 3, 2017</lastchanged_date>
+  <firstreceived_date>October 25, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Prostate Cancer</keyword>
+  <keyword>Prostate Cancer after Prostatectomy</keyword>
+  <keyword>Phase II Trial</keyword>
+  <keyword>Salvage Radiotherapy</keyword>
+  <keyword>Metformin</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Metformin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

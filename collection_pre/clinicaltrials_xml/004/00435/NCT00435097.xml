@@ -1,0 +1,21 @@
+<DOC>
+	<DOC>NCT00435097</DOC>
+	<brief_summary>The purpose of this protocol is to develop a detailed MRI technique and haemodynamic maps enabling early detection of colorectal metastases in the liver.</brief_summary>
+	<brief_title>Computer Assisted Early Detection of Liver Metastases From fMRI Maps</brief_title>
+	<detailed_description>In this research, we propose to develop methods and protocols for imaging-based, non-invasive early detection and diagnosis of colon cancer metastases. Colon cancer is the third most common cancer worldwide. While it is amenable to surgery if detected early, advanced carcinomas are usually lethal, with liver metastases being the most common cause of death. Early and accurate detection of these lesions is recognized as having the potential of improving survival rates and reducing treatment morbidity. Current diagnostic imaging offers improved discrimination and sensitivity that can be used for earlier detection of smaller lesions conducive to curative therapy. In previous research, we demonstrated the feasibility of fMRI based on hypercapnia and hyperoxia for monitoring changes in liver perfusion and hemodynamics without contrast agent administration. The isolation and analysis of areas with significant hemodynamical changes in images acquired at early phase of tumor development has proven to be a difficult, time consuming, and potentially unreliable task. Our goal is thus two-fold: 1. use image processing and machine learning tools on a training set of hemodynamical maps obtained from well validated tumors to automate the process and improve its discrimination and sensitivity characteristics, and; 2. implement our method in patients with colorectal liver metastases. The method can help general radiologists with no image processing training to highlight undetectable tumors from background noise and increase diagnosis specificity and sensitivity.</detailed_description>
+	<mesh_term>Colorectal Neoplasms</mesh_term>
+	<criteria>Control group of healthy volunteers Study group: Patients with colon cancer stage III or IV with high suspicion of liver metastases: raising CEA, suspected lesion in the liver by CT or PET. Contraindication to perform MRI.</criteria>
+	<gender>All</gender>
+	<minimum_age>20 Years</minimum_age>
+	<maximum_age>N/A</maximum_age>
+	<verification_date>February 2007</verification_date>
+	<keyword>colon cancer</keyword>
+	<keyword>metastatic colorectal cancer</keyword>
+	<keyword>MRI</keyword>
+	<keyword>Magnetic resonance imaging</keyword>
+	<keyword>Early cancer detection</keyword>
+	<keyword>medical image processing</keyword>
+	<keyword>machine learning</keyword>
+	<keyword>disease modeling</keyword>
+	<keyword>Colon Cancer Stage III</keyword>
+</DOC>

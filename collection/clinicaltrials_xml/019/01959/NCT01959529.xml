@@ -1,0 +1,5003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="87997">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01959529</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EX1250-4080</org_study_id>
+    <secondary_id>2013-002371-17</secondary_id>
+    <secondary_id>U1111-1141-7614</secondary_id>
+    <secondary_id>JapicCTI-142464</secondary_id>
+    <nct_id>NCT01959529</nct_id>
+  </id_info>
+  <brief_title>A Trial Comparing Cardiovascular Safety of Insulin Degludec Versus Insulin Glargine in Subjects With Type 2 Diabetes at High Risk of Cardiovascular Events</brief_title>
+  <acronym>DEVOTE</acronym>
+  <official_title>A Trial Comparing Cardiovascular Safety of Insulin Degludec Versus Insulin Glargine in Subjects With Type 2 Diabetes at High Risk of Cardiovascular Events</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novo Nordisk A/S</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novo Nordisk A/S</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This trial is conducted globally. The aim of this trial is to compare cardiovascular safety
+      of insulin degludec versus insulin glargine in subjects with type 2 diabetes at high risk of
+      cardiovascular events.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 29, 2013</start_date>
+  <completion_date type="Actual">October 16, 2016</completion_date>
+  <primary_completion_date type="Actual">October 16, 2016</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Investigator</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time from randomisation to first occurrence of a major adverse cardiovascular event (MACE): cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke</measure>
+    <time_frame>From randomisation to 38 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of severe hypoglycaemic episodes</measure>
+    <time_frame>Week 0 to the last assessment (38 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Glycosylated haemoglobin (HbA1c)</measure>
+    <time_frame>Week 0 to the last assessment (37 months)</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">7637</enrollment>
+  <condition>Diabetes</condition>
+  <condition>Diabetes Mellitus, Type 2</condition>
+  <arm_group>
+    <arm_group_label>Insulin degludec (IDeg)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All subjects will continue their current antidiabetic therapy except for the basal insulin component (if any) that will be replaced by the investigational product.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Insulin glargine (IGlar)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>All subjects will continue their current antidiabetic therapy except for the basal insulin component (if any) that will be replaced by the investigational product.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>insulin degludec</intervention_name>
+    <description>Injected once daily subcutaneously (s.c., under the skin)</description>
+    <arm_group_label>Insulin degludec (IDeg)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>insulin glargine</intervention_name>
+    <description>Injected once daily subcutaneously (s.c., under the skin)</description>
+    <arm_group_label>Insulin glargine (IGlar)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Type 2 diabetes
+
+          -  Age above or equal to 50 years with predefined previous cardiovascular disease(s) or
+             renal disease or age above or equal to 60 years with predefined cardiovascular risk
+             factors
+
+          -  HbA1c (glycosylated haemoglobin) above or equal to 7.0% or HbA1c below 7.0% and
+             current insulin treatment corresponding to above or equal to 20 U of basal insulin
+             per day
+
+          -  One or more oral or injectable antidiabetic agent(s)
+
+        Exclusion Criteria:
+
+          -  An acute coronary or cerebrovascular event in the previous 60 days
+
+          -  Planned coronary, carotid or peripheral artery revascularisation
+
+          -  Chronic heart failure NYHA (New York Heart Association) class IV
+
+          -  Current or past (within the last 5 years) malignant neoplasms (except basal cell and
+             squamous cell skin carcinoma)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Global Clinical Registry (GCR, 1452)</last_name>
+    <role>Study Director</role>
+    <affiliation>Novo Nordisk A/S</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Montgomery</city>
+        <state>Alabama</state>
+        <zip>36106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Montgomery</city>
+        <state>Alabama</state>
+        <zip>36109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Gilbert</city>
+        <state>Arizona</state>
+        <zip>85295</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Glendale</city>
+        <state>Arizona</state>
+        <zip>85308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Litchfield Park</city>
+        <state>Arizona</state>
+        <zip>85340</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85020</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85704</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85714</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85723</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205-5446</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Searcy</city>
+        <state>Arkansas</state>
+        <zip>72143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Chula Vista</city>
+        <state>California</state>
+        <zip>91910</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Concord</city>
+        <state>California</state>
+        <zip>94520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Downey</city>
+        <state>California</state>
+        <zip>90242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Encino</city>
+        <state>California</state>
+        <zip>91436</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Fresno</city>
+        <state>California</state>
+        <zip>93720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Greenbrae</city>
+        <state>California</state>
+        <zip>94904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Huntington Beach</city>
+        <state>California</state>
+        <zip>92648</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Inglewood</city>
+        <state>California</state>
+        <zip>90301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>La Mesa</city>
+        <state>California</state>
+        <zip>91942</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Lancaster</city>
+        <state>California</state>
+        <zip>93534</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90822</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Los Alamitos</city>
+        <state>California</state>
+        <zip>90720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Mission Hills</city>
+        <state>California</state>
+        <zip>91345</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Montclair</city>
+        <state>California</state>
+        <zip>91763</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Monterey</city>
+        <state>California</state>
+        <zip>93940</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>North Hollywood</city>
+        <state>California</state>
+        <zip>91606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Palm Springs</city>
+        <state>California</state>
+        <zip>92262-6972</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Poway</city>
+        <state>California</state>
+        <zip>92064</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92120</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>San Ramon</city>
+        <state>California</state>
+        <zip>94583</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Santa Ana</city>
+        <state>California</state>
+        <zip>92704</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Sherman Oaks</city>
+        <state>California</state>
+        <zip>91403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Thousand Oaks</city>
+        <state>California</state>
+        <zip>91360</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tustin</city>
+        <state>California</state>
+        <zip>92780</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Ventura</city>
+        <state>California</state>
+        <zip>93003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Vista</city>
+        <state>California</state>
+        <zip>92083</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Westminster</city>
+        <state>California</state>
+        <zip>92683</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Colorado Springs</city>
+        <state>Colorado</state>
+        <zip>80909</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80220</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Golden</city>
+        <state>Colorado</state>
+        <zip>80401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Danbury</city>
+        <state>Connecticut</state>
+        <zip>06810</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Norwalk</city>
+        <state>Connecticut</state>
+        <zip>06851</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Waterbury</city>
+        <state>Connecticut</state>
+        <zip>06708</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Boca Raton</city>
+        <state>Florida</state>
+        <zip>33433</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Boynton Beach</city>
+        <state>Florida</state>
+        <zip>33472</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bradenton</city>
+        <state>Florida</state>
+        <zip>34201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Brandon</city>
+        <state>Florida</state>
+        <zip>33511</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Clearwater</city>
+        <state>Florida</state>
+        <zip>33756</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Cooper City</city>
+        <state>Florida</state>
+        <zip>33024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Fleming Island</city>
+        <state>Florida</state>
+        <zip>32003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Fort Lauderdale</city>
+        <state>Florida</state>
+        <zip>33316-2521</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Fort Lauderdale</city>
+        <state>Florida</state>
+        <zip>33316</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32610</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Green Cove Springs</city>
+        <state>Florida</state>
+        <zip>32043</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33135</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33155</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33165</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33183</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Naples</city>
+        <state>Florida</state>
+        <zip>34119</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>New Port Richey</city>
+        <state>Florida</state>
+        <zip>34652</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Panama City</city>
+        <state>Florida</state>
+        <zip>32401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Ponte Vedra</city>
+        <state>Florida</state>
+        <zip>32081</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Port Charlotte</city>
+        <state>Florida</state>
+        <zip>33952</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Port Orange</city>
+        <state>Florida</state>
+        <zip>32127</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>South Miami</city>
+        <state>Florida</state>
+        <zip>33143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33619</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33624</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30318</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Dunwoody</city>
+        <state>Georgia</state>
+        <zip>30338</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Lawrenceville</city>
+        <state>Georgia</state>
+        <zip>30046</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Roswell</city>
+        <state>Georgia</state>
+        <zip>30076</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Savannah</city>
+        <state>Georgia</state>
+        <zip>31406</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96814</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Idaho Falls</city>
+        <state>Idaho</state>
+        <zip>83404-7596</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Addison</city>
+        <state>Illinois</state>
+        <zip>60101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Champagne</city>
+        <state>Illinois</state>
+        <zip>61822</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60616</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Crystal Lake</city>
+        <state>Illinois</state>
+        <zip>60012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Gurnee</city>
+        <state>Illinois</state>
+        <zip>60031</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Hines</city>
+        <state>Illinois</state>
+        <zip>60141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Springfield</city>
+        <state>Illinois</state>
+        <zip>62702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Springfield</city>
+        <state>Illinois</state>
+        <zip>62711</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Brownsburg</city>
+        <state>Indiana</state>
+        <zip>46112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Evansville</city>
+        <state>Indiana</state>
+        <zip>47714</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Franklin</city>
+        <state>Indiana</state>
+        <zip>46131-9121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Greenfield</city>
+        <state>Indiana</state>
+        <zip>46140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46254</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Michigan City</city>
+        <state>Indiana</state>
+        <zip>46360</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Muncie</city>
+        <state>Indiana</state>
+        <zip>47304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Council Bluffs</city>
+        <state>Iowa</state>
+        <zip>51501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Council Bluffs</city>
+        <state>Iowa</state>
+        <zip>51503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Madisonville</city>
+        <state>Kentucky</state>
+        <zip>42431</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Monroe</city>
+        <state>Louisiana</state>
+        <zip>71203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70119</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Shreveport</city>
+        <state>Louisiana</state>
+        <zip>71103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Slidell</city>
+        <state>Louisiana</state>
+        <zip>70461-4231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bangor</city>
+        <state>Maine</state>
+        <zip>04401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Hyattsville</city>
+        <state>Maryland</state>
+        <zip>20782</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Rockville</city>
+        <state>Maryland</state>
+        <zip>20852</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Watertown</city>
+        <state>Massachusetts</state>
+        <zip>02472</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01655</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Buckley</city>
+        <state>Michigan</state>
+        <zip>49620</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kalamazoo</city>
+        <state>Michigan</state>
+        <zip>49009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Livonia</city>
+        <state>Michigan</state>
+        <zip>48152</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Troy</city>
+        <state>Michigan</state>
+        <zip>48098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Olive Branch</city>
+        <state>Mississippi</state>
+        <zip>38654</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Hazelwood</city>
+        <state>Missouri</state>
+        <zip>63042</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Jefferson City</city>
+        <state>Missouri</state>
+        <zip>65109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Billings</city>
+        <state>Montana</state>
+        <zip>59101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kalispell</city>
+        <state>Montana</state>
+        <zip>59901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Elkhorn</city>
+        <state>Nebraska</state>
+        <zip>68022</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Fremont</city>
+        <state>Nebraska</state>
+        <zip>68025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68198-4120</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89120</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89128</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89148</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Nashua</city>
+        <state>New Hampshire</state>
+        <zip>03063</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>East Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08816</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Hoboken</city>
+        <state>New Jersey</state>
+        <zip>07030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Lake Success</city>
+        <state>New York</state>
+        <zip>11042</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Mineola</city>
+        <state>New York</state>
+        <zip>11501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>New Windsor</city>
+        <state>New York</state>
+        <zip>12553</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>North Massapequa</city>
+        <state>New York</state>
+        <zip>11758-1802</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Northport</city>
+        <state>New York</state>
+        <zip>11768</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>West Seneca</city>
+        <state>New York</state>
+        <zip>14224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Westfield</city>
+        <state>New York</state>
+        <zip>14787</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Asheville</city>
+        <state>North Carolina</state>
+        <zip>28801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Asheville</city>
+        <state>North Carolina</state>
+        <zip>28803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Burlington</city>
+        <state>North Carolina</state>
+        <zip>27215-8700</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Cary</city>
+        <state>North Carolina</state>
+        <zip>27518-7414</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27517</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Greenville</city>
+        <state>North Carolina</state>
+        <zip>27834</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Lexington</city>
+        <state>North Carolina</state>
+        <zip>27292</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Morehead City</city>
+        <state>North Carolina</state>
+        <zip>28557</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>New Bern</city>
+        <state>North Carolina</state>
+        <zip>28562</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Statesville</city>
+        <state>North Carolina</state>
+        <zip>28625</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Whiteville</city>
+        <state>North Carolina</state>
+        <zip>28472</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Wilmington</city>
+        <state>North Carolina</state>
+        <zip>28401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Fargo</city>
+        <state>North Dakota</state>
+        <zip>58103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45236</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106-1702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44121-4128</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Delaware</city>
+        <state>Ohio</state>
+        <zip>43015</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Franklin</city>
+        <state>Ohio</state>
+        <zip>45005</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Maumee</city>
+        <state>Ohio</state>
+        <zip>43537</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Mentor</city>
+        <state>Ohio</state>
+        <zip>44060</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Perrysburg</city>
+        <state>Ohio</state>
+        <zip>43551</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Norman</city>
+        <state>Oklahoma</state>
+        <zip>73072</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239-3098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Altoona</city>
+        <state>Pennsylvania</state>
+        <zip>16602</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Beaver</city>
+        <state>Pennsylvania</state>
+        <zip>15009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Danville</city>
+        <state>Pennsylvania</state>
+        <zip>17822</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Hermitage</city>
+        <state>Pennsylvania</state>
+        <zip>16148</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19152</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15243</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Smithfield</city>
+        <state>Pennsylvania</state>
+        <zip>15478</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Uniontown</city>
+        <state>Pennsylvania</state>
+        <zip>15401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Upper Darby</city>
+        <state>Pennsylvania</state>
+        <zip>19082</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Wilkes-Barre</city>
+        <state>Pennsylvania</state>
+        <zip>18702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Anderson</city>
+        <state>South Carolina</state>
+        <zip>29621</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Greer</city>
+        <state>South Carolina</state>
+        <zip>29651</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Moncks Corner</city>
+        <state>South Carolina</state>
+        <zip>29461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Murrells Inlet</city>
+        <state>South Carolina</state>
+        <zip>29576</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Myrtle Beach</city>
+        <state>South Carolina</state>
+        <zip>29572</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Orangeburg</city>
+        <state>South Carolina</state>
+        <zip>29118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Spartanburg</city>
+        <state>South Carolina</state>
+        <zip>29303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Chattanooga</city>
+        <state>Tennessee</state>
+        <zip>37404-1192</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Chattanooga</city>
+        <state>Tennessee</state>
+        <zip>37404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Chattanooga</city>
+        <state>Tennessee</state>
+        <zip>37411</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kingsport</city>
+        <state>Tennessee</state>
+        <zip>37660</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37938</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38119</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38163</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tullahoma</city>
+        <state>Tennessee</state>
+        <zip>37388</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Arlington</city>
+        <state>Texas</state>
+        <zip>76012-4637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78731</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78749</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Carrollton</city>
+        <state>Texas</state>
+        <zip>75007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Carrollton</city>
+        <state>Texas</state>
+        <zip>75010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Corpus Christi</city>
+        <state>Texas</state>
+        <zip>78404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390-9302</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76117</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77008</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77060</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77070</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77081</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Humble</city>
+        <state>Texas</state>
+        <zip>77338</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Hurst</city>
+        <state>Texas</state>
+        <zip>76054</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Irving</city>
+        <state>Texas</state>
+        <zip>75039</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Lewsiville</city>
+        <state>Texas</state>
+        <zip>75067</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Longview</city>
+        <state>Texas</state>
+        <zip>75605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Lubbock</city>
+        <state>Texas</state>
+        <zip>79423</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Midland</city>
+        <state>Texas</state>
+        <zip>79707</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Odessa</city>
+        <state>Texas</state>
+        <zip>79761</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Pearland</city>
+        <state>Texas</state>
+        <zip>77584</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Richardson</city>
+        <state>Texas</state>
+        <zip>75080</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Round Rock</city>
+        <state>Texas</state>
+        <zip>78681</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78228-6205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78258</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Splendora</city>
+        <state>Texas</state>
+        <zip>77372</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Sugar Land</city>
+        <state>Texas</state>
+        <zip>77478</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Sugar Land</city>
+        <state>Texas</state>
+        <zip>77479</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Sugarland</city>
+        <state>Texas</state>
+        <zip>77099</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Sugarland</city>
+        <state>Texas</state>
+        <zip>77478</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Waco</city>
+        <state>Texas</state>
+        <zip>76710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bennington</city>
+        <state>Vermont</state>
+        <zip>05201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>South Burlington</city>
+        <state>Vermont</state>
+        <zip>05403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Midlothian</city>
+        <state>Virginia</state>
+        <zip>23114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23249</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Winchester</city>
+        <state>Virginia</state>
+        <zip>22601-3834</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Richland</city>
+        <state>Washington</state>
+        <zip>99352</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kenosha</city>
+        <state>Wisconsin</state>
+        <zip>53142</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53295</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Algiers</city>
+        <zip>16000</zip>
+        <country>Algeria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Constantine</city>
+        <zip>25000</zip>
+        <country>Algeria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Oran</city>
+        <zip>31000</zip>
+        <country>Algeria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Sidi Bel Abbes</city>
+        <zip>22000</zip>
+        <country>Algeria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Caba</city>
+        <zip>C1440AAD</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Cordoba</city>
+        <zip>5000</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Mar del Plata</city>
+        <zip>B7600FZN</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Rosario</city>
+        <zip>S2000CUD</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Zarate</city>
+        <zip>B2800DGH</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Fortaleza</city>
+        <state>Ceara</state>
+        <zip>60115-282</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Aparecida de Goiania</city>
+        <state>Goias</state>
+        <zip>74935-530</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Belém</city>
+        <state>Para</state>
+        <zip>66073-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>São Paulo</city>
+        <state>Sao Paulo</state>
+        <zip>01223-001</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>São Paulo</city>
+        <state>Sao Paulo</state>
+        <zip>01228-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>São Paulo</city>
+        <state>Sao Paulo</state>
+        <zip>01244-030</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>São Paulo</city>
+        <state>Sao Paulo</state>
+        <zip>05403-900</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Brasília</city>
+        <zip>71625-009</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Fortaleza</city>
+        <zip>60430-350</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Mogi Das Cruzes</city>
+        <zip>08780-090</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Porto Alegre</city>
+        <zip>90035-170</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T5J 3N4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Winnipeg</city>
+        <state>Manitoba</state>
+        <zip>R3E 3P4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Chatham</city>
+        <state>Ontario</state>
+        <zip>N7L 1C1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1K 4L2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Sarnia</city>
+        <state>Ontario</state>
+        <zip>N7T 4X3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Laval</city>
+        <state>Quebec</state>
+        <zip>H7T 2P5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bjelovar</city>
+        <zip>43000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Osijek</city>
+        <zip>31 000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Slavonski Brod</city>
+        <zip>35 000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Zagreb</city>
+        <zip>10 000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Zagreb</city>
+        <zip>10000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Athens</city>
+        <zip>GR-10552</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Athens</city>
+        <zip>GR-115 27</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Athens</city>
+        <zip>GR-11527</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Athens</city>
+        <zip>GR-17562</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Thessaloniki</city>
+        <zip>GR-54642</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Thessaloniki</city>
+        <zip>GR-57001</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Hyderabad</city>
+        <state>Andhra Pradesh</state>
+        <zip>500034</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Hyderbad</city>
+        <state>Andhra Pradesh</state>
+        <zip>500 012</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Ahmedabad</city>
+        <state>Gujarat</state>
+        <zip>380006</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Ahmedabad</city>
+        <state>Gujarat</state>
+        <zip>380007</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Ahmedabad</city>
+        <state>Gujarat</state>
+        <zip>380016</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Ahmedabad</city>
+        <state>Gujarat</state>
+        <zip>380052</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Gurgaon</city>
+        <state>Haryana</state>
+        <zip>122001</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bangalore</city>
+        <state>Karnataka</state>
+        <zip>560 017</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bangalore</city>
+        <state>Karnataka</state>
+        <zip>560034</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kozhikode</city>
+        <state>Kerala</state>
+        <zip>673017</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Indore</city>
+        <state>Madhya Pradesh</state>
+        <zip>452010</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Goa</city>
+        <state>Maharashtra</state>
+        <zip>403 202</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Mumbai</city>
+        <state>Maharashtra</state>
+        <zip>400007</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Mumbai</city>
+        <state>Maharashtra</state>
+        <zip>400008</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Mumbai</city>
+        <state>Maharashtra</state>
+        <zip>400010</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Mumbai</city>
+        <state>Maharashtra</state>
+        <zip>400012</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Mumbai</city>
+        <state>Maharashtra</state>
+        <zip>400022</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Pune</city>
+        <state>Maharashtra</state>
+        <zip>411001</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Pune</city>
+        <state>Maharashtra</state>
+        <zip>411040</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>New Dehli</city>
+        <state>New Delhi</state>
+        <zip>110029</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bhubaneswar</city>
+        <state>Orissa</state>
+        <zip>751005</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Mohali</city>
+        <state>Punjab</state>
+        <zip>160062</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Chennai</city>
+        <state>Tamil Nadu</state>
+        <zip>600031</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Chennai</city>
+        <state>Tamil Nadu</state>
+        <zip>600086</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Coimbatore</city>
+        <state>Tamil Nadu</state>
+        <zip>641018</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Lucknow</city>
+        <state>Uttar Pradesh</state>
+        <zip>226014</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kolkata</city>
+        <state>West Bengal</state>
+        <zip>700020</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kolkata</city>
+        <state>West Bengal</state>
+        <zip>700054</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Ludhiana</city>
+        <zip>141001</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>New Delhi</city>
+        <zip>110001</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bari</city>
+        <zip>70124</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bergamo</city>
+        <zip>24127</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Catanzaro</city>
+        <zip>88100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Chieti Scalo</city>
+        <zip>66100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Milano (mi)</city>
+        <zip>20132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Milano</city>
+        <zip>20100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Milano</city>
+        <zip>20162</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Olbia</city>
+        <zip>07026</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Padova</city>
+        <zip>35143</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Palermo</city>
+        <zip>90127</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Ravenna</city>
+        <zip>48121</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Roma</city>
+        <zip>00133</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Roma</city>
+        <zip>00161</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>sesto san giovanni (MI)</city>
+        <zip>20099</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Chuo-ku, Tokyo</city>
+        <zip>103 0002</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kumamoto-shi,Kumamoto</city>
+        <zip>862 0976</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Matsumoto-shi, Nagano</city>
+        <zip>390-8621</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Miyazaki-shi</city>
+        <zip>880 0034</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Ota-ku, Tokyo</city>
+        <zip>1430015</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Ota-ku</city>
+        <zip>144 0035</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>162-8655</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Yokohama-shi</city>
+        <zip>235 0045</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Goyang</city>
+        <zip>10380</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>02841</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03080</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Suwon</city>
+        <zip>16247</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kedah</city>
+        <zip>05460</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kota Samarahan</city>
+        <zip>94300</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kuala Lumpur</city>
+        <zip>59100</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kuantan</city>
+        <zip>25100</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Melaka</city>
+        <zip>75400</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Serdang</city>
+        <zip>43000</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Seremban</city>
+        <zip>70300</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Guadalajara</city>
+        <state>Jalisco</state>
+        <zip>44130</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Guadalajara</city>
+        <state>Jalisco</state>
+        <zip>44150</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Guadalajara</city>
+        <state>Jalisco</state>
+        <zip>44600</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Guadalajara</city>
+        <state>Jalisco</state>
+        <zip>44650</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Guadalajara</city>
+        <state>Jalisco</state>
+        <zip>44670</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Cuernavaca</city>
+        <state>Morelos</state>
+        <zip>62250</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Distrito Federal</city>
+        <state>México, D.F.</state>
+        <zip>14000</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Aguascalientes</city>
+        <zip>20230</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Chihuahua</city>
+        <zip>31200</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>San Luis Potosi</city>
+        <zip>78200</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bytom</city>
+        <zip>41-902</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Gdansk</city>
+        <zip>80-546</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Krakow</city>
+        <zip>31-455</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Oswiecim</city>
+        <zip>32-600</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Poznan</city>
+        <zip>60-592</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Szczecin</city>
+        <zip>70-506</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>02-507</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Zamosc</city>
+        <zip>22-400</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Alba Iulia</city>
+        <state>Alba</state>
+        <zip>510053</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Baia Mare</city>
+        <state>Maramures</state>
+        <zip>430222</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Targu Mures</city>
+        <state>Mures</state>
+        <zip>540142</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Ploiesti</city>
+        <state>Prahova</state>
+        <zip>100163</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Ekaterinburg</city>
+        <zip>620102</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kemerovo</city>
+        <zip>650002</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kirov</city>
+        <zip>610014</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Krasnodar</city>
+        <zip>350012</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Krasnodar</city>
+        <zip>350086</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>111539</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>123423</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Nizhny Novgorod</city>
+        <zip>603018</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Rostov-on-Don</city>
+        <zip>344068</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Saint-Petersburg</city>
+        <zip>190103</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Saint-Petersburg</city>
+        <zip>191119</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Saint-Petersburg</city>
+        <zip>195213</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Saratov</city>
+        <zip>410031</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Saratov</city>
+        <zip>410053</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>St. Petersburg</city>
+        <zip>194354</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>St. Petersburg</city>
+        <zip>195257</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Syktyvkar</city>
+        <zip>167981</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tumen</city>
+        <zip>625023</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tver</city>
+        <zip>170036</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Ulianovsk</city>
+        <zip>432063</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Volgograd</city>
+        <zip>400131</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Yaroslavl</city>
+        <zip>150010</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Port Elizabeth</city>
+        <state>Eastern Cape</state>
+        <zip>6014</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Port Elizabeth</city>
+        <state>Eastern Cape</state>
+        <zip>6045</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng</state>
+        <zip>1818</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng</state>
+        <zip>2193</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng</state>
+        <zip>2198</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Pretoria</city>
+        <state>Gauteng</state>
+        <zip>0001</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Durban</city>
+        <state>KwaZulu-Natal</state>
+        <zip>4001</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Durban</city>
+        <state>KwaZulu-Natal</state>
+        <zip>4092</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Umkomaas</city>
+        <state>KwaZulu-Natal</state>
+        <zip>4170</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Middleburg</city>
+        <state>Mpumalanga</state>
+        <zip>1055</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Brits</city>
+        <state>North West</state>
+        <zip>0250</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western Cape</state>
+        <zip>7130</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western Cape</state>
+        <zip>7460</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western Cape</state>
+        <zip>7500</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western Cape</state>
+        <zip>7700</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Granada</city>
+        <zip>18003</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Granada</city>
+        <zip>18012</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Málaga</city>
+        <zip>29006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46015</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bangkoknoi, Bangkok</city>
+        <zip>10700</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bangkok</city>
+        <zip>10330</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bangkok</city>
+        <zip>10400</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Chiang Mai</city>
+        <zip>50200</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Nakhon Ratchasima</city>
+        <zip>30000</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bristol</city>
+        <zip>BS10 5NB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Dundee</city>
+        <zip>DD1 9SY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Edinburgh</city>
+        <zip>EH4 2XU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Guildford</city>
+        <zip>GU2 7XX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Norwich</city>
+        <zip>NR4 7TJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Nuneaton</city>
+        <zip>CV10 7DJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Stevenage</city>
+        <zip>SG1 4AB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Wolverhampton</city>
+        <zip>WV10 0QP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Algeria</country>
+    <country>Argentina</country>
+    <country>Brazil</country>
+    <country>Canada</country>
+    <country>Croatia</country>
+    <country>Greece</country>
+    <country>India</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Malaysia</country>
+    <country>Mexico</country>
+    <country>Poland</country>
+    <country>Romania</country>
+    <country>Russian Federation</country>
+    <country>South Africa</country>
+    <country>Spain</country>
+    <country>Thailand</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://novonordisk-trials.com</url>
+    <description>Clinical Trials at Novo Nordisk</description>
+  </link>
+  <results_reference>
+    <citation>Marso SP, McGuire DK, Zinman B, Poulter NR, Emerson SS, Pieber TR, Pratley RE, Haahr PM, Lange M, Frandsen KB, Rabøl R, Buse JB. Design of DEVOTE (Trial Comparing Cardiovascular Safety of Insulin Degludec vs Insulin Glargine in Patients With Type 2 Diabetes at High Risk of Cardiovascular Events) - DEVOTE 1. Am Heart J. 2016 Sep;179:175-83. doi: 10.1016/j.ahj.2016.06.004. Epub 2016 Jun 18.</citation>
+    <PMID>27595693</PMID>
+  </results_reference>
+  <verification_date>February 2017</verification_date>
+  <lastchanged_date>February 22, 2017</lastchanged_date>
+  <firstreceived_date>October 8, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Insulin, Globin Zinc</mesh_term>
+    <mesh_term>Insulin</mesh_term>
+    <mesh_term>Insulin, Long-Acting</mesh_term>
+    <mesh_term>Insulin Glargine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

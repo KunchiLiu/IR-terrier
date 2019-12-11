@@ -1,0 +1,19 @@
+<DOC>
+	<DOC>NCT02208765</DOC>
+	<brief_summary>Endothelial dysfunction has been demonstrated to be an early marker of coronary artery disease (CAD). On the other hand, myocardial perfusion single photon emission computed tomography (MP-SPECT) is a widely used technique for evaluation of patients with suspected or known CAD. Preliminary data suggest that myocardial perfusion heterogeneity (a potential surrogate marker of endothelial dysfunction) can be assessed on conventional MP-SPECT, but its additive and independent prognostic value over the presence of myocardial ischemia remain unknown. Accordingly, the purpose of this study is to evaluate the prognostic value of myocardial perfusion heterogeneity assessed by a new automatized image processing method applied to routine MP-SPECT. The main hypothesis is that the presence of myocardial perfusion heterogeneity is predictive of 2-year cardiovascular events in patients referred to the Nuclear Cardiology Department for routine evaluation of known or suspected CAD.</brief_summary>
+	<brief_title>Prognostic Value of SPECT-imaging Myocardial Perfusion Heterogeneity</brief_title>
+	<detailed_description>1. SPECT imaging protocol and analysis Stress tests and SPECTs are performed according to the routine protocols in use in our. Briefly, at the end of stress (exercise test or dipyridamole injection 0.36 mg/kg over 4 minutes), 115 to 185 37.5 megabecquerel of 201Thallium are injected intravenously, and initial gated images are recorded 10 minutes later. Three hours after the stress, 37.5 megabecquerel of 201Thallium are re-injected at rest with a new gated acquisition 15 minutes later (rest reinjection imaging). Images were acquired using a dual-head rotating digital gamma camera with a 180° circular orbit (32 projections). A uniform imaging pre-treatment for the reconstruction of raw myocardial perfusion imaging data was applied, and images were reconstructed and reoriented to obtain transaxial sections of the left ventricle according to the three standard cardiac planes. 2. Myocardial Heterogeneity Index (Hi) Markovian texture or homogeneity analysis characterizes an image by examining the probability that a pixel with a given intensity will have a neighbour with a different intensity, where Pd(m) is the probability that 2 adjacent pixels have intensity values that differ by m. For this study Hi is given by the equation: Hi = ∑m [1/(1+m)2]Pd(m). Therefore, Hi can have values between 0 (non inclusive) and 1 (inclusive). A value near 0 represents an image with a high probability that neighbouring pixels have intensity values that differ greatly, and therefore a high level of myocardial perfusion heterogeneity. Conversely, a value close to 1 represents an image with a high probability that neighbouring pixels have similar intensity values, and therefore depicts a low level of myocardial perfusion heterogeneity.</detailed_description>
+	<mesh_term>Coronary Artery Disease</mesh_term>
+	<mesh_term>Myocardial Ischemia</mesh_term>
+	<mesh_term>Coronary Disease</mesh_term>
+	<mesh_term>Atherosclerosis</mesh_term>
+	<criteria>Age &gt; 18 years Clinical indication for myocardial perfusion imaging Pregnancy Breast feeding women Severe comorbidity with life expectancy 6 months Left bundle branch block on ECG</criteria>
+	<gender>All</gender>
+	<minimum_age>18 Years</minimum_age>
+	<maximum_age>N/A</maximum_age>
+	<verification_date>January 2016</verification_date>
+	<keyword>Coronary Circulation</keyword>
+	<keyword>Coronary Artery Disease</keyword>
+	<keyword>Myocardial perfusion imaging</keyword>
+	<keyword>Prognosis</keyword>
+</DOC>

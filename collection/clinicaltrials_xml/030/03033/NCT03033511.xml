@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5641">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03033511</url>
+  </required_header>
+  <id_info>
+    <org_study_id>M16-298</org_study_id>
+    <secondary_id>2016-003503-64</secondary_id>
+    <nct_id>NCT03033511</nct_id>
+  </id_info>
+  <brief_title>A Study of Rovalpituzumab Tesirine as Maintenance Therapy Following First-Line Platinum-Based Chemotherapy in Participants With Extensive Stage Small Cell Lung Cancer (MERU)</brief_title>
+  <acronym>MERU</acronym>
+  <official_title>A Randomized, Double-Blind, Placebo-Controlled Phase 3 Study of Rovalpituzumab Tesirine as Maintenance Therapy Following First-Line Platinum-Based Chemotherapy in Subjects With Extensive Stage Small Cell Lung Cancer (MERU)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AbbVie</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AbbVie</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 3, randomized, double-blind, placebo-controlled, multinational, and
+      multicenter study to evaluate the efficacy of rovalpituzumab tesirine as maintenance therapy
+      following first-line platinum-based chemotherapy.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 7, 2017</start_date>
+  <completion_date type="Anticipated">September 2020</completion_date>
+  <primary_completion_date type="Anticipated">August 2019</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Care Provider, Investigator, Outcomes Assessor</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free survival (PFS) determined by a Central Radiographic Assessment Committee (CRAC)</measure>
+    <time_frame>Approximately 24 months since the first subject enrolled</time_frame>
+    <description>PFS is defined as the number of months from randomization to disease progression, as assessed by the CRAC per Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1, or death of any cause, whichever occurs first.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>Approximately 31 months since first subject enrolled</time_frame>
+    <description>OS is defined as the number of months from randomization to death of any cause.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate (ORR) per the CRAC based on RECIST v1.1</measure>
+    <time_frame>Approximately 31 months since first subject enrolled</time_frame>
+    <description>ORR the percentage of participants whose best overall response is either complete response (CR) or partial response (PR) per CRAC according to RECIST version 1.1 from the date of randomization until disease progression or death, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in patient reported outcomes (PROs)--physical functioning domain</measure>
+    <time_frame>Approximately 31 months since first subject enrolled</time_frame>
+    <description>EORTC QLQ-C30 is a 30-item subject self-report questionnaire composed of both multi-item and single scales, including global health status/quality of life, functional scales (physical, role, emotional, cognitive, and social), symptom scales (fatigue, nausea and vomiting, and pain), and 6 single items (dyspnea, insomnia, appetite loss, constipation, diarrhea, and financial difficulties). Lung Cancer Module (QLQ-LC13) is a supplementary lung cancer-specific questionnaire to be used in conjunction with the EORTC QLQ-C30</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS) per investigator assessment based on RECIST v1.1</measure>
+    <time_frame>Approximately 24 months since the first subject enrolled</time_frame>
+    <description>PFS is defined as the number of months from randomization to disease progression, as assessed by the investigator per RECIST version 1.1, or death of any cause, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ORR per investigator assessment based on RECIST v1.1</measure>
+    <time_frame>Approximately 31 months since first subject enrolled</time_frame>
+    <description>ORR is the percentage of participants whose best overall response is either complete response (CR) or partial response (PR) per investigator assessment according to RECIST version 1.1 from the date of randomization until disease progression or death, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical benefit rate (CBR) per the CRAC assessment based on RECIST v1.1</measure>
+    <time_frame>Approximately 31 months since first subject enrolled</time_frame>
+    <description>CBR is the percentage of participants whose best overall response is either CR, PR, or stable disease (SD) per CRAC according to RECIST version 1.1 from the date of randomization until disease progression or death, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CBR per the investigator assessment based on RECIST v1.1</measure>
+    <time_frame>Approximately 31 months since first subject enrolled</time_frame>
+    <description>CBR is the percentage of participants whose best overall response is either CR, PR, or stable disease (SD) per investigator from the date of randomization until disease progression or death, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DOR) per the CRAC assessment</measure>
+    <time_frame>Approximately 31 months since first subject enrolled</time_frame>
+    <description>DOR is the time from the initial objective response (CR/PR) by CRAC to disease progression or death, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DOR per the investigator assessment</measure>
+    <time_frame>Approximately 31 months since first subject enrolled</time_frame>
+    <description>DOR is the time from the initial objective response (CR/PR) by investigator to disease progression by investigator or death, whichever occurs first.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">740</enrollment>
+  <condition>Small Cell Lung Cancer (SCLC)</condition>
+  <arm_group>
+    <arm_group_label>Rovalpituzumab tesirine/dexamthasone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Rovalpituzumab tesirine/dexamethasone every 6 weeks (q6 wk); omit every 3 cycles</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Placebo q6 wk; omit every 3 cycles</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rovalpituzumab tesirine</intervention_name>
+    <description>Rovalpituzumab tesirine 0.3 mg/kg administered intravenously Day 1 of each 6-week cycle, omitting every third cycle</description>
+    <arm_group_label>Rovalpituzumab tesirine/dexamthasone</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexamethasone</intervention_name>
+    <description>Dexamethasone 8 mg administered orally (PO) twice daily on Day -1, Day 1 (the day of dosing), and Day 2 of each 6 week cycle, omitting every third cycle.</description>
+    <arm_group_label>Rovalpituzumab tesirine/dexamthasone</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo for rovalpituzumab tesirine</intervention_name>
+    <description>Placebo for rovalpituzumab tesirine administered intravenously Day 1 of each 6-week cycle, omitting every third cycle</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo for dexamethasone</intervention_name>
+    <description>Placebo for administered orally (PO) twice daily on Day -1, Day 1 (the day of dosing), and Day 2 of each 6 week cycle, omitting every third cycle.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histologically or cytologically confirmed extensive-stage disease small cell lung
+             cancer (ED SCLC) with ongoing clinical benefit (stable disease [SD], partial response
+             [PR], or complete response [CR]) following completion of 4 cycles of first-line
+             platinum-based therapy
+
+          -  At least 3 but no more than 9 weeks between the administration of the last cycle of
+             platinum-based chemotherapy and randomization.
+
+          -  Participants with a history of central nervous system (CNS) metastases prior to the
+             initiation of first-line platinum-based chemotherapy must have received definitive
+             local treatment and have documentation of stable or improved CNS disease status
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance score of 0 or 1
+
+          -  Participants must have adequate bone marrow, renal and hepatic function
+
+          -  Availability of archived or representative tumor material for assessment of DLL3
+             expression
+
+        Exclusion Criteria:
+
+          -  Any prior systemic chemotherapy, small molecule inhibitors, immune checkpoint
+             inhibitors, other monoclonal antibodies, antibody-drug conjugates,
+             radioimmunoconjugates, T-cell or other cell-based or biologic therapies, or any other
+             anti-cancer therapy than that described in inclusion criteria
+
+          -  Any disease-directed radiotherapy (except prophylactic cranial irradiation or
+             pre-planned radiotherapy for CNS metastases present prior to start of first-line
+             therapy and non-progressing) after last dose of first-line chemotherapy.
+
+          -  Prior exposure to a pyrrolobenzodiazepine (PBD)- or indolinobenzodiazepine-based
+             drug, prior participation in a rovalpituzumab tesirine clinical trial, or known
+             hypersensitivity or other contraindications to rovalpituzumab tesirine or excipient
+             contained in the drug formulation.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>AbbVie Inc</last_name>
+    <role>Study Director</role>
+    <affiliation>AbbVie</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>AbbVie_Call Center</last_name>
+    <phone>847.283.8955</phone>
+    <email>abbvieclinicaltrials@abbvie.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Highlands Oncology Group /ID# 156722</name>
+      <address>
+        <city>Fayetteville</city>
+        <state>Arkansas</state>
+        <zip>72703</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Marin Cancer Care /ID# 159207</name>
+      <address>
+        <city>Greenbrae</city>
+        <state>California</state>
+        <zip>94904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Los Angeles Hematology Oncology Medical Group /ID# 156717</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St Jude Hospital dba St Joseph Heritage Healthcare /ID# 156526</name>
+      <address>
+        <city>Santa Rosa</city>
+        <state>California</state>
+        <zip>95403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Innovative Clinical Research Institute /ID# 157765</name>
+      <address>
+        <city>Whittier</city>
+        <state>California</state>
+        <zip>90603</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Holy Cross Hospital /ID# 156716</name>
+      <address>
+        <city>Fort Lauderdale</city>
+        <state>Florida</state>
+        <zip>33308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Southeastern Regional Medical Center /ID# 163064</name>
+      <address>
+        <city>Newnan</city>
+        <state>Georgia</state>
+        <zip>30265</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NorthShore University HealthSystem /ID# 156664</name>
+      <address>
+        <city>Evanston</city>
+        <state>Illinois</state>
+        <zip>60201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ingalls Memorial Hospital /ID# 156685</name>
+      <address>
+        <city>Harvey</city>
+        <state>Illinois</state>
+        <zip>60246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Goshen Center for Cancer Care /ID# 156682</name>
+      <address>
+        <city>Goshen</city>
+        <state>Indiana</state>
+        <zip>46526</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ochsner Clinic Foundation /ID# 159136</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Edward W. Sparrow Hospital Association /ID# 156590</name>
+      <address>
+        <city>Lansing</city>
+        <state>Michigan</state>
+        <zip>48912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nebraska Hematology Oncology, PC /ID# 156534</name>
+      <address>
+        <city>Lincoln</city>
+        <state>Nebraska</state>
+        <zip>68506</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MD Anderson Cancer Center at Cooper /ID# 156681</name>
+      <address>
+        <city>Camden</city>
+        <state>New Jersey</state>
+        <zip>08103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gabrail Cancer Center Research /ID# 156667</name>
+      <address>
+        <city>Canton</city>
+        <state>Ohio</state>
+        <zip>44718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Medical Center Brackenridge /ID# 155798</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Oncology Associates, PS (dba Summit Cancer Centers) /ID# 156715</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Santa Maria delle Croci /ID# 158911</name>
+      <address>
+        <city>Ravenna</city>
+        <zip>48121</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico Universitario Campus Bio-Medico di Roma /ID# 160874</name>
+      <address>
+        <city>Roma</city>
+        <zip>00128</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto Nazionale Tumori Regina Elena /ID# 158912</name>
+      <address>
+        <city>Rome</city>
+        <zip>00144</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 30, 2017</lastchanged_date>
+  <firstreceived_date>January 25, 2017</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Extensive-Stage Small Cell Lung Cancer (ED SCLC)</keyword>
+  <keyword>Rovalpituzumab tesirine</keyword>
+  <keyword>first-line chemotherapy</keyword>
+  <keyword>Cancer</keyword>
+  <keyword>Platinum-Based Chemotherapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Small Cell Lung Carcinoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Dexamethasone acetate</mesh_term>
+    <mesh_term>Dexamethasone</mesh_term>
+    <mesh_term>Dexamethasone 21-phosphate</mesh_term>
+    <mesh_term>BB 1101</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

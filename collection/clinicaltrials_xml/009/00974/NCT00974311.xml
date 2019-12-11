@@ -1,0 +1,4248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="163150">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00974311</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CRPC2</org_study_id>
+    <nct_id>NCT00974311</nct_id>
+  </id_info>
+  <brief_title>Safety and Efficacy Study of MDV3100 in Patients With Castration-Resistant Prostate Cancer Who Have Been Previously Treated With Docetaxel-based Chemotherapy</brief_title>
+  <acronym>AFFIRM</acronym>
+  <official_title>AFFIRM: A Multinational Phase 3, Randomized, Double-Blind, Placebo-COntrolled Efficacy and Safety Study of Oral MDV3100 in Patients With Progressive Castration-Resistant Prostate Cancer Previously Treated With Docetaxel-Based Chemotherapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medivation, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Astellas Pharma Inc</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Medivation, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase 3 study to compare the clinical benefit of MDV3100 versus placebo in
+      patients with castration-resistant prostate cancer who have been previously treated with
+      docetaxel-based chemotherapy.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>September 2009</start_date>
+  <completion_date type="Anticipated">March 2018</completion_date>
+  <primary_completion_date type="Actual">November 2011</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>During study period (up to 3 years)</time_frame>
+    <description>Survival is defined as time from randomization to death due to any cause. The duration of overall survival was right-censored for patients who were lost to follow-up since randomization or not known to have died at the data analysis cutoff date (this included patients who were known to have died after the data analysis cutoff date).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Radiographic Progression-free Survival</measure>
+    <time_frame>During study period (up to 3 years)</time_frame>
+    <description>Radiographic progression-free survival was defined as time from randomization to the earliest objective evidence of radiographic progression or death due to any cause. Patients were assessed for objective disease progression at regularly scheduled visits. The consensus guidelines of the Prostate Cancer Clinical Trials Working Group 2 were taken into consideration for the determination of disease progression. Radiographic disease progression was defined by RECIST 1.1 for soft tissue disease, or the appearance of two or more new bone lesions on bone scan. Progression at the first scheduled reassessment at Week 13 required a confirmatory scan 6 or more weeks later. Patients who did not reach the endpoint were right censored at their last assessment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to First Skeletal-related Event</measure>
+    <time_frame>During study period (up to 3 years)</time_frame>
+    <description>The time to first skeletal-related event was defined as time from randomization to the occurrence of the first skeletal-related event. Patients were assessed for skeletal-related events at regularly scheduled visits. A skeletal-related event was defined as radiation therapy or surgery to bone, pathologic bone fracture, spinal cord compression, or change of antineoplastic therapy to treat bone pain. Patients who did not reach the endpoint were right censored at their last assessment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functional Assessment of Cancer Therapy - Prostate (FACT-P)</measure>
+    <time_frame>During study period (up to 3 years)</time_frame>
+    <description>The FACT-P questionnaire is a 39-item questionnaire consisting of 5 domains; &quot;physical well-being,&quot; &quot;social/family well-being,&quot; &quot;emotional well-being,&quot; &quot;functional well-being,&quot; and &quot;additional concerns&quot; (consisting of items relating to prostate cancer and its treatment). Each item can be answered on a scale of 0-4. The sum of scores on all 5 domains constitutes the FACT-P.
+Patients were defined as having a quality of life response if they had a 10-point improvement in their global FACT-P score, as compared with baseline, on two consecutive measurements obtained at least 3 weeks apart.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Prostate-specific Antigen (PSA) Progression</measure>
+    <time_frame>Baseline and at every study visit from week 13 while on study drug (up to 3 years)</time_frame>
+    <description>Time to PSA progression was defined as time from randomization to PSA progression. Patients who did not reach the endpoint were right censored at their last assessment or for patients with no post-baseline PSA assessment, date of randomization.
+For patients with PSA declines at Week 13, the PSA progression date was defined as the date that a ≥ 25% increase and an absolute increase of ≥ 2 ng/mL above the nadir was documented, which was confirmed by a second consecutive value obtained 3 or more weeks later (required only if PSA progression did not occur at last PSA assessment). For patients with no PSA declines at Week 13, PSA progression date was defined as the date that a ≥ 25% increase and an absolute increase of ≥ 2 ng/mL above the baseline was documented, which was confirmed by a second consecutive value 3 or more weeks later (required only if PSA progression did not occur at last PSA assessment).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Patients With Pain Palliation</measure>
+    <time_frame>During study period (up to 3 years)</time_frame>
+    <description>The proportion of patients with pain palliation was assessed for patients with a stable and sufficient pain burden at study entry. Pain burden was measured by question #3 of the Brief Pain Inventory (Short Form). This scale measures pain on a 0 to 10 scale with 0 indicating no pain and 10 indicating pain as bad as you can imagine. Pain palliation at Week 13 was determined for the proportion of men with baseline bone metastasis(es) who had baseline pain attributable to the metastasis(es). Palliation was defined as ≥ 30% reduction in average pain score at Week 13 compared to baseline without a ≥ 30% increase in analgesic use.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Patients With Prostate Specific Antigen (PSA) Response</measure>
+    <time_frame>During study period (up to 3 years)</time_frame>
+    <description>Patients were evaluable for PSA response rate if they had a PSA level measured at baseline and at least 1 post-baseline assessment. Both PSA responses of &gt; 50% and &gt; 90% were determined. PSA responses required confirmation with a subsequent assessment that was conducted at least 3 weeks later.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Patients With Soft-tissue Objective Response</measure>
+    <time_frame>During study period (up to 3 years)</time_frame>
+    <description>The best overall soft tissue response as assessed using RECIST v1.1 during the study was summarized using the Investigators' response assessments and also the derived response assessments by treatment group. Only patients with measurable soft tissue disease at screening were included in this analysis. Patients with measurable disease at screening are patients who had at least 1 target lesion identified per RECIST v1.1 at screening.
+Percentage of Participants summarizes the number of patients with complete or partial objective response (%).
+Soft Tissue assessment based on Eisenhauer EA, Therasse P, Bogaerts J et al. New response evaluation criteria in solid tumours: Revised RECIST guideline (version 1.1). Eur J Cancer 2009; 45:228-247.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>European Quality of Life Five-Domain Scale (EQ-5D)</measure>
+    <time_frame>At Week 13 visit</time_frame>
+    <description>RESULTS FOR EQ-5D WILL BE REPORTED in Q4 2013.
+The EQ-5D is a standardized instrument for use as a measure of quality of life. Five parameters (mobility, self-care, usual activities, pain/discomfort, and anxiety/depression) were assessed on 3-point categorical scales ranging from &quot;no problem&quot; to &quot;severe problem.&quot; Higher scores reflect worse quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Circulating Tumor Cell (CTC) Conversion Rate</measure>
+    <time_frame>During study period (up to 3 years)</time_frame>
+    <description>RESULTS FOR CTC WILL BE REPORTED IN 2014</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">1199</enrollment>
+  <condition>Castration-Resistant Prostate Cancer</condition>
+  <arm_group>
+    <arm_group_label>Enzalutamide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Formerly MDV3100</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Enzalutamide</intervention_name>
+    <description>MDV3100, 160 mg orally per day</description>
+    <arm_group_label>Enzalutamide</arm_group_label>
+    <other_name>Formerly MDV3100</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo comparator</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Progressive prostate cancer
+
+          -  Medical or surgical castration with testosterone less than 50 ng/dl
+
+          -  One or two prior chemotherapy regimens. At least one chemotherapy regimen must have
+             contained docetaxel
+
+          -  ECOG performance status 0-2
+
+          -  Adequate bone marrow, hepatic, and renal function
+
+          -  Able to swallow the study drug and comply with study requirements
+
+          -  Informed consent
+
+        Exclusion Criteria:
+
+          -  Metastases in the brain or active epidural disease
+
+          -  Another malignancy within the previous 5 years
+
+          -  Clinically significant cardiovascular disease
+
+          -  GI disorder affecting absorption
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85258</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85259</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Beverly Hills</city>
+        <state>California</state>
+        <zip>90211</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Marina Del Rey</city>
+        <state>California</state>
+        <zip>90292</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30309</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30318</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kansas City</city>
+        <state>Kansas</state>
+        <zip>66160</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deconess Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>St. Louis</city>
+        <state>Montana</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89135</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89169</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14623</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Raleigh</city>
+        <state>North Carolina</state>
+        <zip>27607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97240</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15240</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Myrtle Beach</city>
+        <state>South Carolina</state>
+        <zip>29572</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Chattanooga</city>
+        <state>Tennessee</state>
+        <zip>37404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cipolletti</city>
+        <state>Provincia de Rio Negro</state>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Rosario</city>
+        <state>Provincia de Santa Fe</state>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cordoba</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>La Rioja</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Banks Town</city>
+        <state>New South Wales</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Coffs Harbour</city>
+        <state>New South Wales</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Concord</city>
+        <state>New South Wales</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Port Macquarie</city>
+        <state>New South Wales</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Randwick</city>
+        <state>New South Wales</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tweed Heads</city>
+        <state>New South Wales</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Westmead</city>
+        <state>New South Wales</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Herston</city>
+        <state>Queensland</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>South Brisbane</city>
+        <state>Queensland</state>
+        <zip>4101</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hobart</city>
+        <state>Tasmania</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Fitzroy</city>
+        <state>Victoria</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Footscray</city>
+        <state>Victoria</state>
+        <zip>3011</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Franston</city>
+        <state>Victoria</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Heidelberg</city>
+        <state>Victoria</state>
+        <zip>3084</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Parkville</city>
+        <state>Victoria</state>
+        <zip>3050</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Adelaide</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Nedlands</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Linz</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Wien</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bruxelles</city>
+        <state>Flemish Brabant</state>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Brussels</city>
+        <zip>B-1070</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Gent</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hasselt</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kortijk</city>
+        <zip>B-8500</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Leuven</city>
+        <zip>B-3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Roeselare</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2S 3C3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T6G 1Z2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kelowna</city>
+        <state>British Columbia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V5Z4E6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Victoria</city>
+        <state>British Columbia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>L8V 5C2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H2L 4M1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Quebec City</city>
+        <state>Quebec</state>
+        <zip>G1R 3S1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Quebec City</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Vina del Mar</city>
+        <state>Valparasio</state>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Santiago</city>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Temuco</city>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Vina del Mar</city>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Angers</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bordeaux</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Caen</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cannes</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Creteil</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>La Roche Sur Yon</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>LeMans</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lyon</city>
+        <zip>69373</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Marseille Cedex</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Nantes</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Pierre Benite</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Poitiers</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Reims</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Saint Priest en Jarez</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Suresnes</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Villejuif</city>
+        <zip>94805</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Aachen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Berlin</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Braunschweig</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Dresden</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hamburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hannover</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Heidelberg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Manheim</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Munster</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cremona</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Milano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Modena</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Orbassano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Perugia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Rome</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Amsterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Nijmegen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Rotterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Gdansk</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lodz</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Slupsk</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Szczecin</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Durban</city>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Johannesburg</city>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Port Elizabeth</city>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Barcelona</city>
+        <state>Cataluna</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Palma de Mallorca</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Pamplona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Northwood</city>
+        <state>Middlesex</state>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Belfast</city>
+        <state>Northern Ireland</state>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Glasgow</city>
+        <state>Scotland</state>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Birmingham</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bristol</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cambridge</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Glasgow</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Manchester</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Newcastle Upon Tyne</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Oxford</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Surrey</city>
+        <zip>SM2-5PT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Australia</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>Chile</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>Poland</country>
+    <country>South Africa</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2014</verification_date>
+  <lastchanged_date>February 22, 2014</lastchanged_date>
+  <firstreceived_date>September 9, 2009</firstreceived_date>
+  <firstreceived_results_date>September 28, 2012</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>MDV3100</keyword>
+  <keyword>Prostate Cancer</keyword>
+  <keyword>Castration-resistant</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Docetaxel</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Multicenter, global clinical trial</recruitment_details>
+      <pre_assignment_details>Patients were randomized 2:1 to receive either Enzalutamide or placebo</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Enzalutamide</title>
+          <description>Participants received 160 mg Enzalutamide orally per day. Treatment continued until unacceptable toxicity, confirmed disease progression and the patient was scheduled to initiate a new systemic antineoplastic therapy, death, or withdrawal.</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>Participants received placebo tablets orally once a day. Treatment continued until unacceptable toxicity, confirmed disease progression and the patient was scheduled to initiate a new systemic antineoplastic therapy, death, or withdrawal.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="800"/>
+                <participants group_id="P2" count="399"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="254">Indicates participants continuing long-term follow-up as of 25 September 2011.</participants>
+                <participants group_id="P2" count="163">Indicates participants continuing long-term follow-up as of 25 September 2011.</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="546"/>
+                <participants group_id="P2" count="236"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="305"/>
+                <participants group_id="P2" count="211"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal of consent</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Continuing Treatment</title>
+              <participants_list>
+                <participants group_id="P1" count="231"/>
+                <participants group_id="P2" count="19"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Enzalutamide</title>
+          <description>Participants received 160 mg Enzalutamide orally per day. Treatment continued until unacceptable toxicity, confirmed disease progression and the patient was scheduled to initiate a new systemic antineoplastic therapy, death, or withdrawal.</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Participants received placebo tablets orally once a day. Treatment continued until unacceptable toxicity, confirmed disease progression and the patient was scheduled to initiate a new systemic antineoplastic therapy, death, or withdrawal.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="800"/>
+            <count group_id="B2" value="399"/>
+            <count group_id="B3" value="1199"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>&lt;=18 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Between 18 and 65 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="232"/>
+                    <measurement group_id="B2" value="130"/>
+                    <measurement group_id="B3" value="362"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>&gt;=65 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="568"/>
+                    <measurement group_id="B2" value="269"/>
+                    <measurement group_id="B3" value="837"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="68.8" spread="7.96"/>
+                    <measurement group_id="B2" value="68.6" spread="8.39"/>
+                    <measurement group_id="B3" value="68.7" spread="8.11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Gender</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Female</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Male</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="800"/>
+                    <measurement group_id="B2" value="399"/>
+                    <measurement group_id="B3" value="1199"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="181"/>
+                    <measurement group_id="B2" value="107"/>
+                    <measurement group_id="B3" value="288"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Spain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="36"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Austria</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Chile</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>United Kingdom</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="82"/>
+                    <measurement group_id="B2" value="50"/>
+                    <measurement group_id="B3" value="132"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Italy</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>France</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="193"/>
+                    <measurement group_id="B2" value="80"/>
+                    <measurement group_id="B3" value="273"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Canada</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="82"/>
+                    <measurement group_id="B2" value="25"/>
+                    <measurement group_id="B3" value="107"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Argentina</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Belgium</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27"/>
+                    <measurement group_id="B2" value="18"/>
+                    <measurement group_id="B3" value="45"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Poland</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Australia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="60"/>
+                    <measurement group_id="B2" value="33"/>
+                    <measurement group_id="B3" value="93"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>South Africa</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Germany</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="62"/>
+                    <measurement group_id="B2" value="24"/>
+                    <measurement group_id="B3" value="86"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Netherlands</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="32"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="46"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Overall Survival</title>
+        <description>Survival is defined as time from randomization to death due to any cause. The duration of overall survival was right-censored for patients who were lost to follow-up since randomization or not known to have died at the data analysis cutoff date (this included patients who were known to have died after the data analysis cutoff date).</description>
+        <time_frame>During study period (up to 3 years)</time_frame>
+        <population>Intent to Treat (ITT) - All Patients Randomized</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Enzalutamide</title>
+            <description>Participants received 160 mg Enzalutamide orally per day. Treatment continued until unacceptable toxicity, confirmed disease progression and the patient was scheduled to initiate a new systemic antineoplastic therapy, death, or withdrawal.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants received placebo tablets orally once a day. Treatment continued until unacceptable toxicity, confirmed disease progression and the patient was scheduled to initiate a new systemic antineoplastic therapy, death, or withdrawal.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Overall Survival</title>
+          <description>Survival is defined as time from randomization to death due to any cause. The duration of overall survival was right-censored for patients who were lost to follow-up since randomization or not known to have died at the data analysis cutoff date (this included patients who were known to have died after the data analysis cutoff date).</description>
+          <population>Intent to Treat (ITT) - All Patients Randomized</population>
+          <units>Months</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="800"/>
+                <count group_id="O2" value="399"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18.4" lower_limit="17.3">The upper limit of the 95% confidence interval was not calculable because an insufficient number of participants reached the event at the final time point for assessment</measurement>
+                    <measurement group_id="O2" value="13.6" lower_limit="11.3" upper_limit="15.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>&lt;0.0001</p_value>
+            <method>Log Rank</method>
+            <method_desc>Stratified by baseline ECOG performance status and mean Brief Pain Inventory – Short Form score (Question #3)</method_desc>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>0.63</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.53</ci_lower_limit>
+            <ci_upper_limit>0.75</ci_upper_limit>
+            <estimate_desc>Hazard Ratio and 95% confidence interval are from Cox regression model.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Radiographic Progression-free Survival</title>
+        <description>Radiographic progression-free survival was defined as time from randomization to the earliest objective evidence of radiographic progression or death due to any cause. Patients were assessed for objective disease progression at regularly scheduled visits. The consensus guidelines of the Prostate Cancer Clinical Trials Working Group 2 were taken into consideration for the determination of disease progression. Radiographic disease progression was defined by RECIST 1.1 for soft tissue disease, or the appearance of two or more new bone lesions on bone scan. Progression at the first scheduled reassessment at Week 13 required a confirmatory scan 6 or more weeks later. Patients who did not reach the endpoint were right censored at their last assessment.</description>
+        <time_frame>During study period (up to 3 years)</time_frame>
+        <population>Intent to Treat (ITT) - All Patients Randomized</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Enzalutamide</title>
+            <description>Participants received 160 mg Enzalutamide orally per day. Treatment continued until unacceptable toxicity, confirmed disease progression and the patient was scheduled to initiate a new systemic antineoplastic therapy, death, or withdrawal.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants received placebo tablets orally once a day. Treatment continued until unacceptable toxicity, confirmed disease progression and the patient was scheduled to initiate a new systemic antineoplastic therapy, death, or withdrawal.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Radiographic Progression-free Survival</title>
+          <description>Radiographic progression-free survival was defined as time from randomization to the earliest objective evidence of radiographic progression or death due to any cause. Patients were assessed for objective disease progression at regularly scheduled visits. The consensus guidelines of the Prostate Cancer Clinical Trials Working Group 2 were taken into consideration for the determination of disease progression. Radiographic disease progression was defined by RECIST 1.1 for soft tissue disease, or the appearance of two or more new bone lesions on bone scan. Progression at the first scheduled reassessment at Week 13 required a confirmatory scan 6 or more weeks later. Patients who did not reach the endpoint were right censored at their last assessment.</description>
+          <population>Intent to Treat (ITT) - All Patients Randomized</population>
+          <units>Months</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="800"/>
+                <count group_id="O2" value="399"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8.3" lower_limit="8.2" upper_limit="9.4"/>
+                    <measurement group_id="O2" value="2.9" lower_limit="2.8" upper_limit="3.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>&lt;0.0001</p_value>
+            <method>Log Rank</method>
+            <method_desc>Stratified by baseline ECOG performance status and mean Brief Pain Inventory – Short Form score (Question #3)</method_desc>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>0.40</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.35</ci_lower_limit>
+            <ci_upper_limit>0.47</ci_upper_limit>
+            <estimate_desc>Hazard Ratio and 95% confidence interval are from Cox regression model.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to First Skeletal-related Event</title>
+        <description>The time to first skeletal-related event was defined as time from randomization to the occurrence of the first skeletal-related event. Patients were assessed for skeletal-related events at regularly scheduled visits. A skeletal-related event was defined as radiation therapy or surgery to bone, pathologic bone fracture, spinal cord compression, or change of antineoplastic therapy to treat bone pain. Patients who did not reach the endpoint were right censored at their last assessment.</description>
+        <time_frame>During study period (up to 3 years)</time_frame>
+        <population>Intent to Treat (ITT) - All Patients Randomized</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Enzalutamide</title>
+            <description>Participants received 160 mg Enzalutamide orally per day. Treatment continued until unacceptable toxicity, confirmed disease progression and the patient was scheduled to initiate a new systemic antineoplastic therapy, death, or withdrawal.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants received placebo tablets orally once a day. Treatment continued until unacceptable toxicity, confirmed disease progression and the patient was scheduled to initiate a new systemic antineoplastic therapy, death, or withdrawal.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to First Skeletal-related Event</title>
+          <description>The time to first skeletal-related event was defined as time from randomization to the occurrence of the first skeletal-related event. Patients were assessed for skeletal-related events at regularly scheduled visits. A skeletal-related event was defined as radiation therapy or surgery to bone, pathologic bone fracture, spinal cord compression, or change of antineoplastic therapy to treat bone pain. Patients who did not reach the endpoint were right censored at their last assessment.</description>
+          <population>Intent to Treat (ITT) - All Patients Randomized</population>
+          <units>Months</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="800"/>
+                <count group_id="O2" value="399"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16.7" lower_limit="14.6" upper_limit="19.1"/>
+                    <measurement group_id="O2" value="13.3" lower_limit="9.9">The upper limit of the 95% confidence interval was not calculable because an insufficient number of participants reached the event at the final time point for assessment</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>0.0001</p_value>
+            <method>Log Rank</method>
+            <method_desc>Stratified by baseline ECOG performance status and mean Brief Pain Inventory – Short Form score (Question #3)</method_desc>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>0.69</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.566</ci_lower_limit>
+            <ci_upper_limit>0.835</ci_upper_limit>
+            <estimate_desc>Hazard Ratio and 95% confidence interval are from Cox regression model.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Functional Assessment of Cancer Therapy - Prostate (FACT-P)</title>
+        <description>The FACT-P questionnaire is a 39-item questionnaire consisting of 5 domains; “physical well-being,” “social/family well-being,” “emotional well-being,” “functional well-being,” and “additional concerns” (consisting of items relating to prostate cancer and its treatment). Each item can be answered on a scale of 0–4. The sum of scores on all 5 domains constitutes the FACT-P.
+Patients were defined as having a quality of life response if they had a 10-point improvement in their global FACT-P score, as compared with baseline, on two consecutive measurements obtained at least 3 weeks apart.</description>
+        <time_frame>During study period (up to 3 years)</time_frame>
+        <population>Evaluable Intent to Treat (ITT) - all patients who were part of the ITT Population and had a global FACT-P score at baseline and at least 1 post-baseline assessment.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Enzalutamide</title>
+            <description>Participants received 160 mg Enzalutamide orally per day. Treatment continued until unacceptable toxicity, confirmed disease progression and the patient was scheduled to initiate a new systemic antineoplastic therapy, death, or withdrawal.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants received placebo tablets orally once a day. Treatment continued until unacceptable toxicity, confirmed disease progression and the patient was scheduled to initiate a new systemic antineoplastic therapy, death, or withdrawal.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Functional Assessment of Cancer Therapy - Prostate (FACT-P)</title>
+          <description>The FACT-P questionnaire is a 39-item questionnaire consisting of 5 domains; “physical well-being,” “social/family well-being,” “emotional well-being,” “functional well-being,” and “additional concerns” (consisting of items relating to prostate cancer and its treatment). Each item can be answered on a scale of 0–4. The sum of scores on all 5 domains constitutes the FACT-P.
+Patients were defined as having a quality of life response if they had a 10-point improvement in their global FACT-P score, as compared with baseline, on two consecutive measurements obtained at least 3 weeks apart.</description>
+          <population>Evaluable Intent to Treat (ITT) - all patients who were part of the ITT Population and had a global FACT-P score at baseline and at least 1 post-baseline assessment.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="651"/>
+                <count group_id="O2" value="257"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="43.2" lower_limit="39.3" upper_limit="47.1"/>
+                    <measurement group_id="O2" value="18.3" lower_limit="13.8" upper_limit="23.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>&lt;0.0001</p_value>
+            <method>Cochran-Mantel-Haenszel</method>
+            <method_desc>Stratified by baseline ECOG performance status and mean Brief Pain Inventory – Short Form score (Question #3)</method_desc>
+            <param_type>Difference in Response Rate</param_type>
+            <param_value>24.9</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>18.8</ci_lower_limit>
+            <ci_upper_limit>30.9</ci_upper_limit>
+            <estimate_desc>Confidence Interval based on standard normal approximation</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Prostate-specific Antigen (PSA) Progression</title>
+        <description>Time to PSA progression was defined as time from randomization to PSA progression. Patients who did not reach the endpoint were right censored at their last assessment or for patients with no post-baseline PSA assessment, date of randomization.
+For patients with PSA declines at Week 13, the PSA progression date was defined as the date that a ≥ 25% increase and an absolute increase of ≥ 2 ng/mL above the nadir was documented, which was confirmed by a second consecutive value obtained 3 or more weeks later (required only if PSA progression did not occur at last PSA assessment). For patients with no PSA declines at Week 13, PSA progression date was defined as the date that a ≥ 25% increase and an absolute increase of ≥ 2 ng/mL above the baseline was documented, which was confirmed by a second consecutive value 3 or more weeks later (required only if PSA progression did not occur at last PSA assessment).</description>
+        <time_frame>Baseline and at every study visit from week 13 while on study drug (up to 3 years)</time_frame>
+        <population>Intent to Treat (ITT) - All Patients Randomized</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Enzalutamide</title>
+            <description>Participants received 160 mg Enzalutamide orally per day. Treatment continued until unacceptable toxicity, confirmed disease progression and the patient was scheduled to initiate a new systemic antineoplastic therapy, death, or withdrawal.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants received placebo tablets orally once a day. Treatment continued until unacceptable toxicity, confirmed disease progression and the patient was scheduled to initiate a new systemic antineoplastic therapy, death, or withdrawal.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Prostate-specific Antigen (PSA) Progression</title>
+          <description>Time to PSA progression was defined as time from randomization to PSA progression. Patients who did not reach the endpoint were right censored at their last assessment or for patients with no post-baseline PSA assessment, date of randomization.
+For patients with PSA declines at Week 13, the PSA progression date was defined as the date that a ≥ 25% increase and an absolute increase of ≥ 2 ng/mL above the nadir was documented, which was confirmed by a second consecutive value obtained 3 or more weeks later (required only if PSA progression did not occur at last PSA assessment). For patients with no PSA declines at Week 13, PSA progression date was defined as the date that a ≥ 25% increase and an absolute increase of ≥ 2 ng/mL above the baseline was documented, which was confirmed by a second consecutive value 3 or more weeks later (required only if PSA progression did not occur at last PSA assessment).</description>
+          <population>Intent to Treat (ITT) - All Patients Randomized</population>
+          <units>Months</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="800"/>
+                <count group_id="O2" value="399"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8.3" lower_limit="5.8" upper_limit="8.3"/>
+                    <measurement group_id="O2" value="3.0" lower_limit="2.9" upper_limit="3.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>Stratified</p_value_desc>
+            <method>Log Rank</method>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>0.248</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.204</ci_lower_limit>
+            <ci_upper_limit>0.303</ci_upper_limit>
+            <estimate_desc>Hazard Ratio and 95% confidence interval are from Cox regression model.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Patients With Pain Palliation</title>
+        <description>The proportion of patients with pain palliation was assessed for patients with a stable and sufficient pain burden at study entry. Pain burden was measured by question #3 of the Brief Pain Inventory (Short Form). This scale measures pain on a 0 to 10 scale with 0 indicating no pain and 10 indicating pain as bad as you can imagine. Pain palliation at Week 13 was determined for the proportion of men with baseline bone metastasis(es) who had baseline pain attributable to the metastasis(es). Palliation was defined as ≥ 30% reduction in average pain score at Week 13 compared to baseline without a ≥ 30% increase in analgesic use.</description>
+        <time_frame>During study period (up to 3 years)</time_frame>
+        <population>Evaluable ITT Population. Patients with metastatic bone disease at baseline; provided answers to Question #3 of the Brief Pain Inventory – Short Form for a minimum of 4 out of 7 days in the baseline run-in period; stable baseline pain; stable analgesic use; and had an average pain score during the baseline run-in period of ≥ 4.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Enzalutamide</title>
+            <description>Participants received 160 mg Enzalutamide orally per day. Treatment continued until unacceptable toxicity, confirmed disease progression and the patient was scheduled to initiate a new systemic antineoplastic therapy, death, or withdrawal.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants received placebo tablets orally once a day. Treatment continued until unacceptable toxicity, confirmed disease progression and the patient was scheduled to initiate a new systemic antineoplastic therapy, death, or withdrawal.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Patients With Pain Palliation</title>
+          <description>The proportion of patients with pain palliation was assessed for patients with a stable and sufficient pain burden at study entry. Pain burden was measured by question #3 of the Brief Pain Inventory (Short Form). This scale measures pain on a 0 to 10 scale with 0 indicating no pain and 10 indicating pain as bad as you can imagine. Pain palliation at Week 13 was determined for the proportion of men with baseline bone metastasis(es) who had baseline pain attributable to the metastasis(es). Palliation was defined as ≥ 30% reduction in average pain score at Week 13 compared to baseline without a ≥ 30% increase in analgesic use.</description>
+          <population>Evaluable ITT Population. Patients with metastatic bone disease at baseline; provided answers to Question #3 of the Brief Pain Inventory – Short Form for a minimum of 4 out of 7 days in the baseline run-in period; stable baseline pain; stable analgesic use; and had an average pain score during the baseline run-in period of ≥ 4.</population>
+          <units>Percentage of Participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="49"/>
+                <count group_id="O2" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="44.9" lower_limit="30.7" upper_limit="59.8"/>
+                    <measurement group_id="O2" value="6.7" lower_limit="0.2" upper_limit="31.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>0.0079</p_value>
+            <method>Cochran-Mantel-Haenszel</method>
+            <method_desc>Stratified by baseline Eastern Cooperative Oncology Group performance status (0–1 vs. 2)</method_desc>
+            <param_type>Difference in Rate of Pain Palliation</param_type>
+            <param_value>38.2</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>19.4</ci_lower_limit>
+            <ci_upper_limit>57.0</ci_upper_limit>
+            <estimate_desc>Confidence Interval based on standard normal approximation</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Patients With Prostate Specific Antigen (PSA) Response</title>
+        <description>Patients were evaluable for PSA response rate if they had a PSA level measured at baseline and at least 1 post-baseline assessment. Both PSA responses of &gt; 50% and &gt; 90% were determined. PSA responses required confirmation with a subsequent assessment that was conducted at least 3 weeks later.</description>
+        <time_frame>During study period (up to 3 years)</time_frame>
+        <population>Evaluable Intent to Treat. Patients who were part of the ITT Population and had a PSA level measured at baseline and at least 1 post-baseline assessment.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Enzalutamide</title>
+            <description>Participants received 160 mg Enzalutamide orally per day. Treatment continued until unacceptable toxicity, confirmed disease progression and the patient was scheduled to initiate a new systemic antineoplastic therapy, death, or withdrawal.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants received placebo tablets orally once a day. Treatment continued until unacceptable toxicity, confirmed disease progression and the patient was scheduled to initiate a new systemic antineoplastic therapy, death, or withdrawal.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Patients With Prostate Specific Antigen (PSA) Response</title>
+          <description>Patients were evaluable for PSA response rate if they had a PSA level measured at baseline and at least 1 post-baseline assessment. Both PSA responses of &gt; 50% and &gt; 90% were determined. PSA responses required confirmation with a subsequent assessment that was conducted at least 3 weeks later.</description>
+          <population>Evaluable Intent to Treat. Patients who were part of the ITT Population and had a PSA level measured at baseline and at least 1 post-baseline assessment.</population>
+          <units>Percentage of Participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="731"/>
+                <count group_id="O2" value="330"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Decline &gt;=50% from baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="54"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Decline &gt;=90% from baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Patients With Soft-tissue Objective Response</title>
+        <description>The best overall soft tissue response as assessed using RECIST v1.1 during the study was summarized using the Investigators’ response assessments and also the derived response assessments by treatment group. Only patients with measurable soft tissue disease at screening were included in this analysis. Patients with measurable disease at screening are patients who had at least 1 target lesion identified per RECIST v1.1 at screening.
+Percentage of Participants summarizes the number of patients with complete or partial objective response (%).
+Soft Tissue assessment based on Eisenhauer EA, Therasse P, Bogaerts J et al. New response evaluation criteria in solid tumours: Revised RECIST guideline (version 1.1). Eur J Cancer 2009; 45:228-247.</description>
+        <time_frame>During study period (up to 3 years)</time_frame>
+        <population>Intent to Treat (ITT) with Measurable Disease. Patients who were part of the ITT Population and had measurable soft tissue disease at screening, defined by at least 1 target lesion according to RECIST v1.1.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Enzalutamide</title>
+            <description>Participants received 160 mg Enzalutamide orally per day. Treatment continued until unacceptable toxicity, confirmed disease progression and the patient was scheduled to initiate a new systemic antineoplastic therapy, death, or withdrawal.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants received placebo tablets orally once a day. Treatment continued until unacceptable toxicity, confirmed disease progression and the patient was scheduled to initiate a new systemic antineoplastic therapy, death, or withdrawal.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Patients With Soft-tissue Objective Response</title>
+          <description>The best overall soft tissue response as assessed using RECIST v1.1 during the study was summarized using the Investigators’ response assessments and also the derived response assessments by treatment group. Only patients with measurable soft tissue disease at screening were included in this analysis. Patients with measurable disease at screening are patients who had at least 1 target lesion identified per RECIST v1.1 at screening.
+Percentage of Participants summarizes the number of patients with complete or partial objective response (%).
+Soft Tissue assessment based on Eisenhauer EA, Therasse P, Bogaerts J et al. New response evaluation criteria in solid tumours: Revised RECIST guideline (version 1.1). Eur J Cancer 2009; 45:228-247.</description>
+          <population>Intent to Treat (ITT) with Measurable Disease. Patients who were part of the ITT Population and had measurable soft tissue disease at screening, defined by at least 1 target lesion according to RECIST v1.1.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="446"/>
+                <count group_id="O2" value="208"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="29"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>European Quality of Life Five-Domain Scale (EQ-5D)</title>
+        <description>RESULTS FOR EQ-5D WILL BE REPORTED in Q4 2013.
+The EQ-5D is a standardized instrument for use as a measure of quality of life. Five parameters (mobility, self-care, usual activities, pain/discomfort, and anxiety/depression) were assessed on 3-point categorical scales ranging from “no problem” to “severe problem.” Higher scores reflect worse quality of life.</description>
+        <time_frame>At Week 13 visit</time_frame>
+        <posting_date>12/2013</posting_date>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Circulating Tumor Cell (CTC) Conversion Rate</title>
+        <description>RESULTS FOR CTC WILL BE REPORTED IN 2014</description>
+        <time_frame>During study period (up to 3 years)</time_frame>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <group_list>
+        <group group_id="E1">
+          <title>Enzalutamide</title>
+          <description>Participants received 160 mg Enzalutamide orally per day. Treatment continued until unacceptable toxicity, confirmed disease progression and the patient was scheduled to initiate a new systemic antineoplastic therapy, death, or withdrawal.</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Participants received placebo tablets orally once a day. Treatment continued until unacceptable toxicity, confirmed disease progression and the patient was scheduled to initiate a new systemic antineoplastic therapy, death, or withdrawal.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA (12.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="268" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="154" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" subjects_affected="21" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Anaemia of malignant disease</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Disseminated intravascular coagulation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Pancytopenia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Thrombocytopenia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Leukocytosis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cardiac failure</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Angina pectoris</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Acute myocardial infarction</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Cardiac failure congestive</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Atrial flutter</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Bradycardia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Cardiogenic shock</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Left ventricular failure</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Mitral valve incompetance</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Ventricular fibrillation</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Arrhythmia supraventricular</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Atrial fibrillation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Atrioventricular block complete</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Myocardial ischaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Myocardial infarction</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Congenital, familial and genetic disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Adenomatous polyposis coli</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Ear pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Vertigo</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Adrenal insufficiency</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Retinal detachment</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Papilloedema</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Visual acuity reduced</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Visual impairment</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Rectal haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Small intestinal obstruction</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Colonic obstruction</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Faecaloma</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Gastrointestinal haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Intestinal obstruction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Abdominal pain lower</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Colitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Gastric ulcer haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Gastrointestinal obstruction</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Haematochezia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Intestinal perforation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Large intestine perforation</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Pancreatitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Proctalgia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Retroperitoneal haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Intestinal mass</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Pancreatitis acute</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Peptic ulcer</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>General physical health deterioration</sub_title>
+                <counts group_id="E1" subjects_affected="17" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Asthenia</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Pain</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Oedema peripheral</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Malaise</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Chest pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Death</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Euthanasia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>General symptom</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaphylactic reaction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Urosepsis</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Gastroenteritis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Bronchitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Device related infection</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Escherichia sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Lobar pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Staphylococcal sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Cellulitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Erysipelas</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Lower respiratory tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Abdominal abscess</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Catheter bacteraemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Chest wall abscess</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Clostridium difficile colitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Cystitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Extradural abscess</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Infective exacerbation of chronic obstructive airways disease</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Kidney infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Klebsiella bacteraemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Parotitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia bacterial</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Rectal abscess</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Respiratory tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Septic Shock</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Tooth Infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Upper respiratory tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Herpes zoster</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Viral pericarditis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Subdural haematoma</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Femur fracture</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Fall</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Femoral neck fracture</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Fracture</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Hip fracture</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Lumbar vertebral fracture</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Medical device complication</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Patella fracture</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Post procedural haematuria</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Post-traumatic pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Radiation oesophagitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Soft tissue injury</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Spinal compression fracture</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Hand fracture</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Thoracic vertebral fracture</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Liver function test abnormal</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Weight decreased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dehydration</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Hyponatraemia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Hypoglycaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Hypercalcaemia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Anorexia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Hyperuricaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Hypocalcaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Hypokalaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Hypophosphataemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Hypovolaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Cachexia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" subjects_affected="11" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Bone pain</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Pathological fracture</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Pain in extremity</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Muscular weakness</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Osteonecrosis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Musculoskeletal chest pain</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Chondrocalcinosis pyrophosphate</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Flank pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Intervertebral disc protrusion</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Muscle haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Osteoarthritis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Rhabdomyolysis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Spinal column stenosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Osteitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Metastatic pain</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Cancer pain</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Metastases to central nervous system</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Metastases to Bone</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Malignant pleural effusion</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Tumour pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Acute leukaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Acute monocytic leukaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Bone marrow tumour cell infiltration</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Metastases to liver</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Metastases to meninges</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Neoplasm progression</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Small cell lung cancer stage unspecified</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Transitional cell carcinoma</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Bronchial carcinoma</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Gastrointestinal tract adenoma</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Metastases to lung</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Spinal cord compression</sub_title>
+                <counts group_id="E1" subjects_affected="48" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="15" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Cauda equina syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Nerve root compression</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Syncope</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Cerebrovascular accident</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Hepatic encephalopathy</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Transient ischemic attack</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Cerebral haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Convulsion</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Cranial neuropathy</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Epiduritis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Nerve compression</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Partial seizures</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Lethargy</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Akathisia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Central nervous system lesion</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Cranial nerve palsies multiple</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Embolic stroke</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Facial palsy</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Haemorrhage intracranial</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Haemorrhagic stroke</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Ischaemic stroke</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Lacunar infarction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Loss of consciousness</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Lumbar radiculopathy</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Motor dysfunction</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Pachymeningitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Presyncope</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Status epilepticus</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Hypoglossal nerve paresis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Normal pressure hydrocephalus</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Tremor</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Trigeminal neuralgia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Visual field defect</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Confusional state</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Depressed mood</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Hallucination</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Mental status changes</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Depression</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Disorientation</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Haematuria</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Urinary retention</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract obstruction</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Post renal failure</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Renal failure</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Renal failure acute</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Bladder perforation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Hydronephrosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Nephrolithiasis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Cystitis haemorrhagic</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Renal colic</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Bladder obstruction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Dysuria</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Obstructive uropathy</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Ureteric obstruction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Urethral obstruction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Urethral stenosis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pelvic pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pulmonary embolism</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Pleural effusion</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Chronic obstructive pulmonary disease</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Pneumothorax</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Epistaxis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary oedema</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Acute pulmonary oedema</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Haemoptysis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Respiratory arrest</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Hydropneumothorax</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Pleuritic pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hyperhidrosis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Vascular purpura</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Surgical and medical procedures</title>
+            <event_list>
+              <event>
+                <sub_title>Bladder catheter removal</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Limb operation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Pain management</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Cataract operation</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Colon polypectomy</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Oesophageal dilation procedure</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Pleurodesis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Ureteral stent insertion</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Deep vein thrombosis</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Haematoma</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Lymphoedema</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Hypertensive crisis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Peripheral ischaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Orthostatic hypotension</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA (12.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="785" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="390" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" subjects_affected="106" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="70" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="263" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="166" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" subjects_affected="187" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="108" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="168" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="70" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="129" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="84" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" subjects_affected="40" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="21" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="269" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="113" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Asthenia</sub_title>
+                <counts group_id="E1" subjects_affected="138" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="66" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Oedema peripheral</sub_title>
+                <counts group_id="E1" subjects_affected="119" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="50" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" subjects_affected="53" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="23" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="59" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="24" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Weight decreased</sub_title>
+                <counts group_id="E1" subjects_affected="94" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="41" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anorexia</sub_title>
+                <counts group_id="E1" subjects_affected="200" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="104" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" subjects_affected="190" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="90" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" subjects_affected="153" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="71" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Pain in extremity</sub_title>
+                <counts group_id="E1" subjects_affected="118" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="62" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Bone pain</sub_title>
+                <counts group_id="E1" subjects_affected="104" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="65" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Musculoskeletal pain</sub_title>
+                <counts group_id="E1" subjects_affected="109" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="40" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Musculoskeletal chest pain</sub_title>
+                <counts group_id="E1" subjects_affected="63" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="34" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Muscular weakness</sub_title>
+                <counts group_id="E1" subjects_affected="66" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="27" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <counts group_id="E1" subjects_affected="49" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="26" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="93" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="21" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="54" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="21" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Paraesthesia</sub_title>
+                <counts group_id="E1" subjects_affected="52" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="18" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" subjects_affected="69" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="24" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Anxiety</sub_title>
+                <counts group_id="E1" subjects_affected="51" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="16" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Depression</sub_title>
+                <counts group_id="E1" subjects_affected="43" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="18" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Haematuria</sub_title>
+                <counts group_id="E1" subjects_affected="46" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="14" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" subjects_affected="78" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="38" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" subjects_affected="47" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="25" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hot flush</sub_title>
+                <counts group_id="E1" subjects_affected="162" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="41" subjects_at_risk="399"/>
+              </event>
+              <event>
+                <sub_title>Hypertension</sub_title>
+                <counts group_id="E1" subjects_affected="49" subjects_at_risk="800"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="399"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>PI agrees not to independently publish the results before the publication of the multi-center PI paper. Sponsor shall review and comment 30 days prior to submission or disclosure. If publication or disclosure contains Sponsor Confidential Information, other than Study Data, PI agrees to remove Confidential Information from publication or disclosure. Sponsor may request that PI delay such publication for an additional 60 days to protect the patentability of any Invention described.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Lynn Seely, MD, Chief Medical Officer</name_or_title>
+      <organization>Medivation, Inc.</organization>
+      <phone>415-829-4106</phone>
+      <email>lynn.seely@medivation.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>

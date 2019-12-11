@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="46824">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02496663</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2015-01053</org_study_id>
+    <secondary_id>NCI-2015-01053</secondary_id>
+    <secondary_id>PHI-77</secondary_id>
+    <secondary_id>9898</secondary_id>
+    <secondary_id>9898</secondary_id>
+    <secondary_id>P30CA033572</secondary_id>
+    <secondary_id>UM1CA186717</secondary_id>
+    <nct_id>NCT02496663</nct_id>
+  </id_info>
+  <brief_title>EGFR Inhibitor AZD9291 and Necitumumab in Treating Patients With EGFR-Positive Stage IV or Recurrent Non-small Cell Lung Cancer Who Have Progressed on a Previous EGFR Tyrosine Kinase Inhibitor</brief_title>
+  <official_title>A Phase I Trial of AZD9291 and Necitumumab in EGFR-Mutant Non-small Cell Lung Cancer After Progression on a Previous EGFR Tyrosine Kinase Inhibitor</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I trial studies the side effects and best dose of necitumumab when given together
+      with epidermal growth factor receptor (EGFR) inhibitor AZD9291 (osimertinib) in treating
+      patients with EGFR-positive non-small cell lung cancer that is stage IV or has come back
+      (recurrent) and who have progressed on a previous EGFR tyrosine kinase inhibitor. Monoclonal
+      antibodies, such as necitumumab, may block tumor growth in different ways by targeting
+      certain cells. EGFR inhibitor AZD9291 may stop the growth of tumor cells by blocking some of
+      the enzymes needed for cell growth. Giving necitumumab with EGFR inhibitor AZD9291 may be a
+      better treatment for EGFR-mutant non-small cell lung cancer.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To determine the safety and tolerability of AZD9291 (EGFR inhibitor AZD9291) in
+      combination with necitumumab in patients with EGFR-mutant non-small cell lung cancer (NSCLC)
+      and resistance to previous EGFR-tyrosine kinase inhibitor (EGFR-TKI) therapy.
+
+      SECONDARY OBJECTIVES:
+
+      I. To observe and record anti-tumor activity in these NSCLC patients with EGFR-activating
+      mutations and progressive disease on previous EGFR-TKI with a focus on an EGFR T790M
+      negative expansion cohort.
+
+      TERTIARY OBJECTIVES:
+
+      I. To characterize the pharmacokinetics of AZD9291 in combination with necitumumab.
+
+      II. To explore biomarkers of response and resistance to previous EGFR-TKIs and with the
+      combination by studying biopsied tumor tissue at baseline and at progression, as well as
+      serial plasma deoxyribonucleic acid (DNA) specimens.
+
+      III. To create patient derived xenograft (PDX) models of patients with EGFR-mutant NSCLC
+      both prior to study initiation and at acquired resistance to treatment.
+
+      OUTLINE: This is a dose-escalation study of necitumumab.
+
+      Patients receive EGFR inhibitor AZD9291 orally (PO) once daily (QD) on days 1-21 and
+      necitumumab intravenously (IV) over 50 minutes on days 1 and 8. Courses repeat every 21 days
+      in the absence of disease progression or unacceptable toxicity.
+
+      After completion of study treatment, patients are followed up at 4 weeks, every 12 weeks for
+      1 year, and annually thereafter.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>March 2016</start_date>
+  <primary_completion_date type="Anticipated">April 2017</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of toxicity, graded according to the NCI CTCAE version 4.0</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Grade and attribution will be summarized by dose level, cycle, organ system and type.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum tolerated dose of necitumumab combined with EGFR inhibitor AZD9291</measure>
+    <time_frame>21 days</time_frame>
+    <description>Defined as the highest dose tested in which only 0 or 1 out of 6 evaluable patients experience a dose limiting toxicity, as graded by the National Cancer Institute (NCI) Common terminology Criteria for Adverse Events (CTCAE) version 4.0. The recommended phase II dose will be the MTD, pending review of other safety/tolerability considerations.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate (DCR) with combination EGFR inhibitor AZD9291 and necitumumab</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>DCR will be the proportion of patients in the expansion cohort whose best confirmed response is CR, PR, or stable disease (SD). Point estimates and associated 90% confidence intervals will be calculated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate (ORR) in patients treated at the recommended phase II dose, graded according to RECIST version 1.1</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>ORR will be calculated as the percent of patients in the expansion cohort whose best confirmed response is complete response (CR) or partial response (PR). Point estimates and associated 90% confidence intervals will be calculated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival</measure>
+    <time_frame>From start of treatment to time of progression or death, whichever occurs first, assessed up to 1 year</time_frame>
+    <description>Kaplan-Meier plots will be used to summarize the progression-free survival. Medians and associated 95% confidence intervals will be calculated.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Pharmacokinetic parameters of EGFR inhibitor AZD9291 in combination with necitumumab</measure>
+    <time_frame>Prior to dosing on day 1 of course 2, then again, 1, 2, 4, 6, 8, and 24 hours after dosing in cycle</time_frame>
+    <description>The PK analyses will be descriptive and will permit comparison of the plasma levels of AZD9291 and its metabolites in the presence of Necitumumab (in this trial) with levels in other studies where AZD9291 is given alone or combined with other drugs. We will estimate mean PK parameters as well as the between-patient variability. Results will be listed and plotted, by dose as well as by objective response, qualitative patterns will be described, and means and standard deviations will be calculated for use in planning follow-up studies.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Presence of biomarkers of response and resistance to previous EGFR-TKIs</measure>
+    <time_frame>Up to 1 year</time_frame>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>EGFR Activating Mutation</condition>
+  <condition>Recurrent Non-Small Cell Lung Carcinoma</condition>
+  <condition>Stage IV Non-Small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Treatment (EGFR inhibitor AZD9291, necitumumab)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive EGFR inhibitor AZD9291 PO QD on days 1-21 and necitumumab IV over 50 minutes on days 1 and 8. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Laboratory Biomarker Analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Treatment (EGFR inhibitor AZD9291, necitumumab)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Necitumumab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (EGFR inhibitor AZD9291, necitumumab)</arm_group_label>
+    <other_name>Anti-Epidermal Growth Factor Receptor Monoclonal Antibody IMC-11F8</other_name>
+    <other_name>IMC-11F8</other_name>
+    <other_name>Portrazza</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Osimertinib</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Treatment (EGFR inhibitor AZD9291, necitumumab)</arm_group_label>
+    <other_name>AZD-9291</other_name>
+    <other_name>AZD9291</other_name>
+    <other_name>Mereletinib</other_name>
+    <other_name>Tagrisso</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Pharmacological Study</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Treatment (EGFR inhibitor AZD9291, necitumumab)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients with stage IV or recurrent/metastatic histologically confirmed non-small
+             cell lung cancer (NSCLC)
+
+          -  NSCLC must harbor at least one of the following EGFR activating mutations: Exon 21
+             L858R, Exon 19 deletion, Exon 18 G719X, Exon 21 L861Q
+
+          -  Progressive disease on at least one prior EGFR-TKI (previous treatment with 3rd
+             generation EGFR-TKI including AZD9291 allowed for dose escalation only)
+
+          -  Adequate archival tissue from a biopsy performed after progression of disease on
+             previous EGFR-TKI or willing to consent for a fresh tumor biopsy (mandatory for dose
+             expansion cohort only; optional for dose escalation)
+
+          -  For the dose expansion portion ONLY, patient must: 1) have progression of disease
+             with erlotinib, gefitinib or afatinib as last previous systemic treatment, 2) tumors
+             must be EGFR-T790M negative confirmed by central testing prior to treatment (If
+             EGFR-T790M status is unknown patients may consent for trial for biopsy and testing
+             for EGFR T790M will be performed as part of initial biopsy for trial; patients who
+             test positive for EGFR T790M by central testing will be ineligible for the dose
+             expansion), 3) be treatment naive to 3rd generation EGFR-TKI (EGFR inhibitor CO-1686
+             [CO-1686] and AZD9291) and EGFR monoclonal antibodies
+
+          -  Patients must have measurable disease by Response Evaluation Criteria in Solid Tumors
+             (RECIST) 1.1, defined as at least one lesion that can be accurately measured in at
+             least one dimension &gt;= 10 mm (&gt;= 1 cm) by computed tomography (CT) imaging or
+             magnetic resonance imaging (MRI) within 42 days prior to registration; the CT from a
+             combined positron emission tomography (PET)/CT may be used only if it is of
+             diagnostic; laboratory parameters are not acceptable as the only evidence of disease
+
+          -  Any number of prior therapies is allowed
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status =&lt; 1
+
+          -  Patients must have the ability to swallow tablets
+
+          -  Life expectancy of greater 3 months
+
+          -  Absolute neutrophil count &gt;= 1,500/mcL
+
+          -  Platelets &gt;= 100,000/mcL
+
+          -  Total bilirubin =&lt; 1.5 x upper limit of normal (ULN) (patients with Gilbert's
+             syndrome may have serum bilirubin &gt; 1.5 ULN)
+
+          -  Aspartate aminotransferase (AST) (serum glutamic-oxaloacetic transaminase
+             [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT])
+             =&lt; 3.0 x institutional upper limit of normal
+
+          -  Creatinine within =&lt; within 1.5 x ULN OR
+
+          -  Creatinine clearance &gt;= 50 mL/min
+
+          -  Women of child-bearing potential and men must agree to use adequate contraception
+             using one of the methods listed below prior to study entry, for the duration of study
+             participation, and for 3 months for women and 6 months for men following the date of
+             the last dose of AZD9291 and/or necitumumab:
+
+               -  Total abstinence from sexual intercourse (minimum one complete menstrual cycle
+                  prior to study drug administration)
+
+               -  Vasectomized male subject or vasectomized partner of female subjects
+
+               -  Hormonal contraceptives (oral, parenteral, transdermal or vaginal ring) prior to
+                  study drug administration; if the subject is currently using a hormonal
+                  contraceptive, she should also use a barrier method during this study and for 3
+                  months after study completion
+
+               -  Intrauterine device (IUD)
+
+               -  Double-barrier method: male condom plus diaphragm or vaginal cap with spermicide
+                  (contraceptive sponge, jellies or creams)
+
+               -  Additionally, male subjects (including those who are vasectomized) whose
+                  partners are pregnant or might be pregnant must agree to use condoms for the
+                  duration of the study and for 6 months following completion of therapy
+
+          -  Women of childbearing potential must have a negative urine pregnancy test within 7
+             days prior to initiation of treatment; women will be considered not of childbearing
+             potential if they are surgically sterile (bilateral oophorectomy or hysterectomy)
+             and/or post menopausal (amenorrheic for at least 12 months); should a woman become
+             pregnant or suspect she is pregnant while she or her partner is participating in this
+             study, she should inform her treating physician immediately
+
+          -  Patients with untreated brain metastases are not allowed; patients with a prior
+             history of brain metastases are eligible provided:
+
+               -  The brain metastases have been treated
+
+               -  The patient is asymptomatic from the brain metastases
+
+               -  Corticosteroids prescribed for the management of brain metastases have been
+                  discontinued at least 7 days prior to registration
+
+               -  The brain metastases are stable on pre-registration imaging
+
+          -  Patients must have completed last chemotherapy &gt;= 3 weeks or radiotherapy &gt;= 2 weeks
+             prior to receiving study drugs
+
+          -  Patients must have recovered from adverse events attributable to previous treatment
+             to =&lt; grade 1, except for alopecia and sensory neuropathy =&lt; grade 2
+
+          -  Ability to understand and the willingness to sign a written informed consent document
+
+        Exclusion Criteria:
+
+          -  Major surgery within 21 days of starting protocol treatment
+
+          -  Patients must discontinue previous EGFR-TKI at least 7 days prior to study enrollment
+
+          -  Patients who are receiving any other investigational agents
+
+          -  Past medical history of interstitial lung disease, drug-induced interstitial lung
+             disease, radiation pneumonitis requiring steroid treatment, or any evidence of
+             clinically active interstitial lung disease
+
+          -  Patients currently receiving (or unable to stop use prior to receiving the first dose
+             of study treatment) medications or herbal supplements known to be potent inhibitors
+             of cytochrome P450, family 3, subfamily A, polypeptide 4 (CYP3A4) (at least 1 week
+             prior) and potent inducers of CYP3A4 (at least 3 weeks prior); all patients must try
+             to avoid concomitant use of any medications, herbal supplements and/or ingestion of
+             foods with known inducer/inhibitory effects of CYP3A4
+
+          -  Patients with active malignancies other than NSCLC or prior curatively treated
+             malignancy at high risk of relapse during the study period with the exception of
+             localized squamous or basal cell skin cancers
+
+          -  Uncontrolled intercurrent illness including, but not limited to, ongoing or active
+             infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac
+             arrhythmia, gastrointestinal disease limiting absorption of AZD9291 such as a
+             malabsorption syndrome or inflammatory bowel disease or psychiatric illness/social
+             situations that would limit compliance with study requirements
+
+          -  Mean resting corrected QT interval (QTc using Fridericia's formula [QTcF]) &gt; 470 msec
+
+          -  Any clinically important abnormalities in rhythm, conduction or morphology of resting
+             electrocardiography (ECG) (e.g., complete left bundle branch block, third degree
+             heart block, second degree heart block)
+
+          -  Congenital long QT syndrome or family history of long QT syndrome
+
+          -  Left ventricular ejection fraction &lt; 50% on echocardiogram or multi-gated acquisition
+             (MUGA)
+
+          -  Pregnant women are excluded from this study; breastfeeding should be discontinued if
+             the mother is treated with AZD9291 and necitumumab
+
+          -  Human immunodeficiency virus (HIV)-positive patients on combination antiretroviral
+             therapy are ineligible
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jonathan Riess</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>City of Hope Comprehensive Cancer Center LAO</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>City of Hope Comprehensive Cancer Center LAO</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonathan W. Riess</last_name>
+      <phone>916-734-7946</phone>
+      <email>jonathan.riess@ucdmc.ucdavis.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jonathan W. Riess</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>City of Hope Comprehensive Cancer Center</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonathan W. Riess</last_name>
+      <phone>916-734-3772</phone>
+      <email>jwriess@ucdavis.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jonathan W. Riess</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California Davis Comprehensive Cancer Center</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonathan W. Riess</last_name>
+      <phone>916-734-3089</phone>
+    </contact>
+    <investigator>
+      <last_name>Jonathan W. Riess</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pasi A. Janne</last_name>
+      <phone>877-442-3324</phone>
+    </contact>
+    <investigator>
+      <last_name>Pasi A. Janne</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>April 4, 2017</lastchanged_date>
+  <firstreceived_date>July 9, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Osimertinib</mesh_term>
+    <mesh_term>Cetuximab</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

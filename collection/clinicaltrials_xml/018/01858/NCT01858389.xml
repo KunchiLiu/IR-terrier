@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="95744">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01858389</url>
+  </required_header>
+  <id_info>
+    <org_study_id>A7471047</org_study_id>
+    <nct_id>NCT01858389</nct_id>
+  </id_info>
+  <brief_title>A Study Of Dacomitinib (PF-00299804) In Patients With Advanced Non-Small Cell Lung Cancer</brief_title>
+  <official_title>Phase 2 Open Label Trial Of Oral Intermittent Dacomitinib In Patients With Advanced NSCLC</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pfizer</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 2 study of oral dacomitinib given every 12 hours over days 1-4 of each
+      two-week cycle to patients with Non-small cell lung cancer. The study includes two groups of
+      patients, those whose tumor has a documented T790M mutation, and those without this
+      mutation. All patients will receive repeated cycles of dacomitinib until disease
+      progression, occurrence of unacceptable toxicity, or other withdrawal criteria are met.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>July 2013</start_date>
+  <completion_date type="Actual">September 2015</completion_date>
+  <primary_completion_date type="Actual">September 2015</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Best Overall Response</measure>
+    <time_frame>Baseline up to 78 weeks</time_frame>
+    <description>Number of participants with best overall response recorded from the start of treatment until disease progression according to RECIST 1.1. Complete Response are defined as disappearance of all non-nodal lesions (target and/or non-target) without new lesions. All lymph nodes must have reduction in short axis to &quot;normal&quot; size (&lt;10mm). Partial Response are those with at least 30% decrease in sum of the diameters of target lesions (short diameter for target nodes and longest diameter for other target lesions) taking as a reference the baseline sum diameters, with absence of new lesions and persistence of any non target lesions and/or tumor marker level above the normal limits. Best Overall Response of Stable Disease may be assigned when response cannot be confirmed given minimum criteria for Stable Disease duration is met.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Objective Response Rate</measure>
+    <time_frame>Baseline up to 78 weeks</time_frame>
+    <description>Percentage of participants with Overall Response based assessment of confirmed complete response or confirmed partial response according to RECIST 1.1. Confirmed response are those that persist on repeat imaging assessment at least 4 weeks after initial documentation of response and before progression. Complete Response are defined as disappearance of all non-nodal lesions (target and/or non-target) without new lesions. All lymph nodes must have reduction in short axis to &quot;normal&quot; size (&lt;10mm). Partial Response are those with at least 30% decrease in sum of the diameters of target lesions (short diameter for target nodes and longest diameter for other target lesions) taking as a reference the baseline sum diameters, with absence of new lesions and persistence of any non target lesions and/or tumor marker level above the normal limits.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate</measure>
+    <time_frame>Start of study drug until RECIST defined progressive disease, or discontinuation from treatment, or start of another anti-cancer treatment assessed up to 78 weeks</time_frame>
+    <description>For patients in Cohort A, Disease Control is the best response of Complete Response, Partial Response or Stable Disease from the start of treatment until disease progression according to the RECIST v1.1 guidelines. Disease Control Rate is calculated as the proportion of patients with an objective response or Stable Diseases relative to the total number of patients enrolled.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response</measure>
+    <time_frame>From start of treatment to disease progression or death due to any cause or discontinuation from the treatment or start of a new anti-cancer treatment assessed up to 78 weeks</time_frame>
+    <description>For patients in Cohort A, Duration of Response is defined as the time from first documentation of response (Complete Response or Partial Response whichever occurs first) to the date of disease progression or to death due to any cause, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival</measure>
+    <time_frame>From start of treatment to disease progression or death due to any cause or discontinuation from the treatment or start of a new anti-cancer treatment assessed up to 78 weeks</time_frame>
+    <description>Progression Free Survival is defined as the time from the date of first dosing of dacomitinib to the date of disease progression or death due to any cause, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival at 4 months</measure>
+    <time_frame>From start of treatment to disease progression or death due to any cause or discontinuation from the treatment or start of a new anti-cancer treatment assessed up to 78 weeks</time_frame>
+    <description>Progression Free Survival at 4 months is defined as the proportion of patients who are alive without disease progression at 4 months relative to all patients enrolled.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>delta QT corrected</measure>
+    <time_frame>Cycle 0 days 1 through 4: pre-dose (0 hour) up to 10 hours post dose</time_frame>
+    <description>Time-matched adjusted QTcorrected change from baseline on Day 4 of Cycle 0 (Cohorts A and B)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>delta QT corrected and dacomitinib plasma concentration</measure>
+    <time_frame>Cycle 0 days 1 through 4: pre-dose (0 hour) up to 10 hours post dose</time_frame>
+    <description>Slope of the linear regression between delta QT corrected and dacomitinib plasma concentration</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">39</enrollment>
+  <condition>Non-small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Cohort A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with NSCLC whose tumor has a documented T790M mutation in exon 20 of the Epidermal Growth Factor Receptor.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with NSCLC. No requirement of a specific molecular signature, but excluding known T790M mutations.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dacomitinib</intervention_name>
+    <description>Dacomitinib 45 mg every 12 hours Days 1-4 of the first week, and then 60 mg every 12 hours Days 1-4 of each 2-week cycle thereafter. The dose of dacomitinib for patients in Cohort A may be further escalated in increments of 15 mg.</description>
+    <arm_group_label>Cohort A</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dacomitinib</intervention_name>
+    <description>Dacomitinib 45 mg every 12 hours Days 1-4 of the first week, and then 60 mg every 12 hours Days 1-4 of each 2-week cycle thereafter.</description>
+    <arm_group_label>Cohort B</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Evidence of histologically confirmed, advanced NSCLC (stage IIIB/IV).
+
+          -  Evidence of T790M mutation to enroll in Cohort A.
+
+          -  Evidence of measurable disease by radiographic technique.
+
+          -  Adequate organ function.
+
+        Exclusion Criteria:
+
+          -  Patients with T790M mutation who stopped any prior EGFR-directed therapy without
+             evidence of disease progression.
+
+          -  Symptomatic brain metastases.
+
+          -  Uncontrolled or significant cardiovascular disease.
+
+          -  Pregnant or breastfeeding.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Tower Hematology Oncology Medical Group</name>
+      <address>
+        <city>Beverly Hills</city>
+        <state>California</state>
+        <zip>90211</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Samuel Oshin Comphrehensive Cancer Institute- Cedars-Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Georgetown University Medical Center - Lombardi Comprehensive Cancer Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Drug Service, Hillman Cancer Center</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UPMC Hillman Cancer Center</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UT Southwestern University Hospital - St. Paul</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Southwestern Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Southwestern Veripath Labs</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UT Southwestern University Hospital - Zale Lipshy</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Severance Hospital, Yonsei University Health System</name>
+      <address>
+        <city>Seoul</city>
+        <zip>120-752</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Samsung Medical Center, Clinical Trial Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>135-710</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Samsung Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>135-710</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://trialinfoemail.pfizer.com/pages/landing.aspx?StudyID=A7471047&amp;StudyName=A%20Study%20Of%20Dacomitinib%20%28PF-00299804%29%20In%20Patients%20With%20Advanced%20Non-Small%20Cell%20Lung%20Cancer%20%0A</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>January 2016</verification_date>
+  <lastchanged_date>January 15, 2016</lastchanged_date>
+  <firstreceived_date>May 6, 2013</firstreceived_date>
+  <firstreceived_results_disposition_date>December 15, 2015</firstreceived_results_disposition_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Non-small cell lung cancer</keyword>
+  <keyword>T790M mutation. dacomitinib</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted, but a results disposition has been submitted -->
+</clinical_study>

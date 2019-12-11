@@ -1,0 +1,2558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="179848">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00753545</url>
+  </required_header>
+  <id_info>
+    <org_study_id>D0810C00019</org_study_id>
+    <nct_id>NCT00753545</nct_id>
+  </id_info>
+  <brief_title>Assessment of Efficacy of AZD2281 in Platinum Sensitive Relapsed Serous Ovarian Cancer</brief_title>
+  <official_title>Phase II Randomised, Double Blind, Multicentre Study to Assess the Efficacy of AZD2281 in the Treatment of Patients With Platinum Sensitive Relapsed Serous Ovarian Cancer Following Treatment With Two or More Platinum Containing Regimens</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AstraZeneca</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary purpose of this study to determine if AZD2281 is effective and well tolerated in
+      maintaining the improvement in your cancer after previous platinum-based chemotherapy.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>August 2008</start_date>
+  <completion_date type="Actual">November 2012</completion_date>
+  <primary_completion_date type="Actual">June 2010</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression Free Survival (PFS) (According to Response Evaluation Criteria in Solid Tumours [RECIST])</measure>
+    <time_frame>Radiologic scans performed at baseline then every 12 weeks (+/- 1 week) for the first 60 weeks, then every 24 weeks (+/-1 week) thereafter</time_frame>
+    <description>PFS was defined as the time from randomisation to the earlier date of radiological progression (per RECIST criteria) or death by any cause in the absence of objective progression. [Full analysis set (FAS)]</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Follow up every 8 weeks post progression</time_frame>
+    <description>OS = time from randomisation to date of death from any cause. Patients who had not died at time of analysis were censored at last date patient was known to be alive. [FAS] There were insufficient events to calculate median OS or perform formal statistical analysis so percentage of patients who died are shown along with 95% confidence intervals.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate (ORR) (According to RECIST)</measure>
+    <time_frame>Radiologic scans performed at baseline then every 12 weeks (+/- 1 week) for the first 60 weeks, then every 24 weeks (+/-1 week) thereafter</time_frame>
+    <description>For each treatment group, the ORR was the number of Complete Response (CR) and Partial Response (PR) divided by the number of patients in the group in the FAS with measurable disease at baseline (displayed as a percentage below). Evaluable for response set</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate</measure>
+    <time_frame>Radiologic scans performed at baseline then every 12 weeks (+/- 1 week) for the first 60 weeks, then every 24 weeks (+/-1 week) thereafter</time_frame>
+    <description>Disease control rate was defined as the percentage of patients who have at least 1 confirmed visit response of CR or PR or have demonstrated SD or NED for at least 23 weeks (ie, 24 weeks +/- 1 week) prior to any evidence of progression. [FAS]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response</measure>
+    <time_frame>Radiologic scans performed at baseline then every 12 weeks (+/- 1 week) for the first 60 weeks, then every 24 weeks (+/-1 week) thereafter</time_frame>
+    <description>Duration of response = time from assessment prior to timepoint where PR or CR confirmed (i.e. initial assessment of PR/CR), until earliest date of objective progression or death. [Responding patients only].</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage Change From Baseline in Tumour Size at Week 24</measure>
+    <time_frame>Radiologic scans performed at baseline then every 12 weeks (+/- 1week) for the first 60 weeks, then every 24 weeks (+/-1 week) thereafter</time_frame>
+    <description>Percentage change from baseline to Week 24 in target tumour size.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Best Percentage Change in Cancer Antigen 125 (CA-125) Levels</measure>
+    <time_frame>CA-125 was measured at baseline then every 28 days on treatment</time_frame>
+    <description>Best percentage change from baseline in CA-125 level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Best Objective Response</measure>
+    <time_frame>Radiologic scans performed at baseline then every 12 weeks (+/- 1week) for the first 60 weeks, then every 24 weeks (+/- 1 week) thereafter</time_frame>
+    <description>Best overall response from radiologic assessments. [FAS]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>RECIST and CA-125 Response Separately and Combined</measure>
+    <time_frame>Radiologic scans performed at baseline then every 12 weeks (+/- 1week) for the first 60 weeks, then every 24 weeks (+/- 1 week) thereafter and monthly for CA-125 measurements</time_frame>
+    <description>RECIST and CA-125 response separately and combined [Patients evaluable for either CA-125 response or RECIST response]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Earlier of CA-125 or RECIST Progression</measure>
+    <time_frame>Radiologic scans performed at baseline then every 12 weeks (+/- 1 week) for the first 60 weeks, then every 24 weeks (+/- 1 week) thereafter and monthly for CA-125 measurements</time_frame>
+    <description>Time from randomisation to the earlier date of radiological progression (per RECIST criteria) or CA-125 or death by any cause in the absence of objective progression. [FAS]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement Rate for FACT-O Symptom Index (FOSI)</measure>
+    <time_frame>Patient reported outcome questionnaire completed at baseline then every 28 days up to disease progression</time_frame>
+    <description>The percentage of patients with an improvement in FOSI. Improvement was defined as a change from baseline of greater than or equal to +3. [Evaluable for FOSI set]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement Rate for Trial Outcome Index (TOI)</measure>
+    <time_frame>Patient reported outcome questionnaire completed at baseline then every 28 days up to disease progression</time_frame>
+    <description>The percentage of patients with an improvement in TOI. Improvement was defined as a change from baseline of greater than or equal to +7. [Evaluable for TOI set]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement Rate for Total Functional Analysis of Cancer Therapy - Ovarian (FACT-O)</measure>
+    <time_frame>Patient reported outcome questionnaire completed at baseline then every 28 days up to disease progression</time_frame>
+    <description>The percentage of patients with an improvement in total FACT-O. Improvement was defined as a change from baseline of greater than or equal to +9. [Evaluable for FACT-O set]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>FACT-O Symptom Index (FOSI) Time to Worsening</measure>
+    <time_frame>Patient reported outcome questionnaire completed at baseline then every 28 days up to disease progression</time_frame>
+    <description>The time to worsening was compared between treatments for each of the TOI, FOSI and total FACT-O. [Evaluable for FOSI set]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Trial Outcome Index(TOI)Time to Worsening</measure>
+    <time_frame>Patient reported outcome questionnaire completed at baseline then every 28 days up to disease progression</time_frame>
+    <description>The time to worsening was compared between treatments for each of the TOI, FOSI and total FACT-O. [Evaluable for TOI set]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functional Analysis of Cancer Therapy - Ovarian (FACT-O) Time to Worsening</measure>
+    <time_frame>Patient reported outcome questionnaire completed at baseline then every 28 days up to disease progression</time_frame>
+    <description>The time to worsening was compared between treatments for each of the TOI, FOSI and total FACT-O. [Evaluable for FACT-O set]</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">265</enrollment>
+  <condition>Ovarian Cancer</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>AZD2281</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>matching placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>AZD2281</intervention_name>
+    <description>Oral 400mg bid</description>
+    <arm_group_label>1</arm_group_label>
+    <other_name>olaparib</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>matching placebo</intervention_name>
+    <description>matching placebo bid</description>
+    <arm_group_label>2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Female patients with histologically diagnosed serous ovarian cancer or recurrent
+             serous ovarian cancer.
+
+          -  Patients must have completed at least 2 previous courses of platinum containing
+             therapy; the patient must have been platinum sensitive to the penultimate chemo
+             regimen.
+
+          -  For the last chemotherapy course prior to enrolment on the study, patients must have
+             demonstrated an objective stable maintained response (partial or complete response)
+             and this response needs to be maintained until completion of chemotherapy.
+
+          -  Patients must be treated on the study within 8 wks of completion of their final dose
+             of the platinum containing regimen.
+
+        Exclusion Criteria:
+
+          -  Previous treatment with PARP inhibitors including AZD2281
+
+          -  Patients with low grade ovarian carcinoma.
+
+          -  Patients who have had drainage of their ascites during the final 2 cycles of their
+             last chemotherapy regimen prior to enrolment on the study
+
+          -  Patients receiving any chemotherapy, radiotherapy (except for palliative reasons),
+             within 2 weeks from the last dose prior to study entry (or a longer period depending
+             on the defined characteristics of the agents used).
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jane Robertson, BSc, MBCHB, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>AstraZeneca</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Prof Jonathan A Lederman</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University College, London</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Berkeley</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Sunrise</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Randwick</city>
+        <state>New South Wales</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Nambour</city>
+        <state>Queensland</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>South Brisbane</city>
+        <state>Queensland</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>North Terrace</city>
+        <state>South Australia</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Toorak Gardens</city>
+        <state>South Australia</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Heidelberg</city>
+        <state>Victoria</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Parkville</city>
+        <state>Victoria</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Brussels (jette)</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Leuven</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Sherbrooke</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Brno</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Tallinn</city>
+        <country>Estonia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Bordeaux Cedex</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Lyon Cedex 08</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Nantes,</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Reims Cedex</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Dusseldorf</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Essen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Gottingen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Hannover</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kiel</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Munchen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>ULM</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Wiesbaden</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Haifa</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Holon</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Jerusalem</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Nahariya</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Tel-aviv</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Tel-hashomer</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Amsterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Bialystok</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Lublin</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Poznaniu</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Poznan</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Szczecin</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Baia Mare</city>
+        <state>Maramures</state>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Cluj-napoca</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Suceava</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Barnaul</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ekaterinburg</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Obninsk</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Orenburg</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Perm</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>St. Petersburg</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Cordoba</city>
+        <state>Andalucia</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Barcelona</city>
+        <state>Cataluna</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Madrid</city>
+        <state>Comunidad de Madrid</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Valencia</city>
+        <state>Comunidad Valenciana</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Donetsk</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kharkiv</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kyiv</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Lutsk</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Odesa</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ternopol</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Uzhgorod</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Sutton</city>
+        <state>Surrey</state>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Bebington</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Dundee</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Edinburgh</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Manchester</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Northwood</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>Czech Republic</country>
+    <country>Estonia</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Israel</country>
+    <country>Netherlands</country>
+    <country>Poland</country>
+    <country>Romania</country>
+    <country>Russian Federation</country>
+    <country>Spain</country>
+    <country>Ukraine</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Austria</country>
+  </removed_countries>
+  <verification_date>February 2013</verification_date>
+  <lastchanged_date>February 6, 2013</lastchanged_date>
+  <firstreceived_date>September 12, 2008</firstreceived_date>
+  <firstreceived_results_date>December 7, 2012</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Serous,</keyword>
+  <keyword>Ovarian cancer,</keyword>
+  <keyword>PARP,</keyword>
+  <keyword>BRCA1,</keyword>
+  <keyword>BRCA2,</keyword>
+  <keyword>Poly(ADP ribose) polymerases,</keyword>
+  <keyword>Platinum sensitive,</keyword>
+  <keyword>Homologous Recombination Deficiency (HRD)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Ovarian Neoplasms</mesh_term>
+    <mesh_term>Hypersensitivity</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Olaparib</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>The first patient was enrolled on 28 August 2008 and the last patient was enrolled on 9 February 2010. Patients were enrolled at 82 centres in 16 countries. Of the 326 patients enrolled, 265 were randomized</recruitment_details>
+      <pre_assignment_details>It was planned that 250 women with advanced platinum sensitive serous ovarian cancer who had received 2 or more previous platinum-containing regimens and demonstrated an objective stable maintained response in the last platinum regimen prior to enrolment were to receive olaparib 400 mg bd or matching placebo in a 1:1 ratio. 265 randomised.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Olaparib 400 mg bd</title>
+          <description>AZD2281
+Olaparib (AZD2281) 400 mg oral capsules twice daily</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo bd</title>
+          <description>Olaparib matching placebo oral capsules twice daily</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="136">Patients randomized</participants>
+                <participants group_id="P2" count="129">Patients randomized</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="68">Ongoing study treatment at time of data cut-off</participants>
+                <participants group_id="P2" count="21">Ongoing study treatment at time of data cut-off</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="68"/>
+                <participants group_id="P2" count="108"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lack of Efficacy</title>
+              <participants_list>
+                <participants group_id="P1" count="54"/>
+                <participants group_id="P2" count="93"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+                <participants group_id="P2" count="8"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Not specified</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Consent withrawn prior to treatment</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Olaparib 400 mg bd</title>
+          <description>AZD2281
+Olaparib (AZD2281) 400 mg oral capsules twice daily</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo bd</title>
+          <description>Olaparib matching placebo oral capsules twice daily</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="136"/>
+            <count group_id="B2" value="129"/>
+            <count group_id="B3" value="265"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="58.9" spread="10.95"/>
+                    <measurement group_id="B2" value="58.5" spread="9.89"/>
+                    <measurement group_id="B3" value="58.7" spread="10.43"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Gender</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Female</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="136"/>
+                    <measurement group_id="B2" value="129"/>
+                    <measurement group_id="B3" value="265"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Male</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Time to progression</title>
+          <description>The time to disease progression from the completion of the penultimate platinum containing therapy (last dose) prior to enrolment on the study.</description>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>&gt;6 to 12 months</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="53"/>
+                    <measurement group_id="B2" value="54"/>
+                    <measurement group_id="B3" value="107"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>&gt;12 months</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="83"/>
+                    <measurement group_id="B2" value="75"/>
+                    <measurement group_id="B3" value="158"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Objective response</title>
+          <description>Objective response to the last platinum containing regimen prior to enrolment on the study:
+CR-Complete Response (defined as normal radiological findings and CA-125 within the normal range)
+PR-Partial Response (defined as a RECIST PR and/or GCIG CA-125 response)</description>
+          <units>Participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Complete response</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="57"/>
+                    <measurement group_id="B2" value="63"/>
+                    <measurement group_id="B3" value="120"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Partial response</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="79"/>
+                    <measurement group_id="B2" value="66"/>
+                    <measurement group_id="B3" value="145"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Progression Free Survival (PFS) (According to Response Evaluation Criteria in Solid Tumours [RECIST])</title>
+        <description>PFS was defined as the time from randomisation to the earlier date of radiological progression (per RECIST criteria) or death by any cause in the absence of objective progression. [Full analysis set (FAS)]</description>
+        <time_frame>Radiologic scans performed at baseline then every 12 weeks (+/- 1 week) for the first 60 weeks, then every 24 weeks (+/-1 week) thereafter</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Olaparib 400 mg bd</title>
+            <description>AZD2281
+Olaparib (AZD2281) 400 mg oral capsules twice daily</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo bd</title>
+            <description>Olaparib matching placebo oral capsules twice daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Progression Free Survival (PFS) (According to Response Evaluation Criteria in Solid Tumours [RECIST])</title>
+          <description>PFS was defined as the time from randomisation to the earlier date of radiological progression (per RECIST criteria) or death by any cause in the absence of objective progression. [Full analysis set (FAS)]</description>
+          <units>months</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="136"/>
+                <count group_id="O2" value="129"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8.4" lower_limit="7.4" upper_limit="11.6"/>
+                    <measurement group_id="O2" value="4.8" lower_limit="4.0" upper_limit="5.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Overall Survival (OS)</title>
+        <description>OS = time from randomisation to date of death from any cause. Patients who had not died at time of analysis were censored at last date patient was known to be alive. [FAS] There were insufficient events to calculate median OS or perform formal statistical analysis so percentage of patients who died are shown along with 95% confidence intervals.</description>
+        <time_frame>Follow up every 8 weeks post progression</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Olaparib 400 mg bd</title>
+            <description>AZD2281
+Olaparib (AZD2281) 400 mg oral capsules twice daily</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo bd</title>
+            <description>Olaparib matching placebo oral capsules twice daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Overall Survival (OS)</title>
+          <description>OS = time from randomisation to date of death from any cause. Patients who had not died at time of analysis were censored at last date patient was known to be alive. [FAS] There were insufficient events to calculate median OS or perform formal statistical analysis so percentage of patients who died are shown along with 95% confidence intervals.</description>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="136"/>
+                <count group_id="O2" value="129"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.6" lower_limit="3.5" upper_limit="12.1"/>
+                    <measurement group_id="O2" value="7.8" lower_limit="4.3" upper_limit="13.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Objective Response Rate (ORR) (According to RECIST)</title>
+        <description>For each treatment group, the ORR was the number of Complete Response (CR) and Partial Response (PR) divided by the number of patients in the group in the FAS with measurable disease at baseline (displayed as a percentage below). Evaluable for response set</description>
+        <time_frame>Radiologic scans performed at baseline then every 12 weeks (+/- 1 week) for the first 60 weeks, then every 24 weeks (+/-1 week) thereafter</time_frame>
+        <population>Evaluable for response set - A subset of the full analysis set which includes patients with measurable disease at baseline</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Olaparib 400 mg bd</title>
+            <description>AZD2281
+Olaparib (AZD2281) 400 mg oral capsules twice daily</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo bd</title>
+            <description>Olaparib matching placebo oral capsules twice daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Objective Response Rate (ORR) (According to RECIST)</title>
+          <description>For each treatment group, the ORR was the number of Complete Response (CR) and Partial Response (PR) divided by the number of patients in the group in the FAS with measurable disease at baseline (displayed as a percentage below). Evaluable for response set</description>
+          <population>Evaluable for response set - A subset of the full analysis set which includes patients with measurable disease at baseline</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="57"/>
+                <count group_id="O2" value="48"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12.3"/>
+                    <measurement group_id="O2" value="4.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Disease Control Rate</title>
+        <description>Disease control rate was defined as the percentage of patients who have at least 1 confirmed visit response of CR or PR or have demonstrated SD or NED for at least 23 weeks (ie, 24 weeks +/- 1 week) prior to any evidence of progression. [FAS]</description>
+        <time_frame>Radiologic scans performed at baseline then every 12 weeks (+/- 1 week) for the first 60 weeks, then every 24 weeks (+/-1 week) thereafter</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Olaparib 400 mg bd</title>
+            <description>AZD2281
+Olaparib (AZD2281) 400 mg oral capsules twice daily</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo bd</title>
+            <description>Olaparib matching placebo oral capsules twice daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Disease Control Rate</title>
+          <description>Disease control rate was defined as the percentage of patients who have at least 1 confirmed visit response of CR or PR or have demonstrated SD or NED for at least 23 weeks (ie, 24 weeks +/- 1 week) prior to any evidence of progression. [FAS]</description>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="136"/>
+                <count group_id="O2" value="129"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="52.9"/>
+                    <measurement group_id="O2" value="24.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Response</title>
+        <description>Duration of response = time from assessment prior to timepoint where PR or CR confirmed (i.e. initial assessment of PR/CR), until earliest date of objective progression or death. [Responding patients only].</description>
+        <time_frame>Radiologic scans performed at baseline then every 12 weeks (+/- 1 week) for the first 60 weeks, then every 24 weeks (+/-1 week) thereafter</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Olaparib 400 mg bd</title>
+            <description>AZD2281
+Olaparib (AZD2281) 400 mg oral capsules twice daily</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo bd</title>
+            <description>Olaparib matching placebo oral capsules twice daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration of Response</title>
+          <description>Duration of response = time from assessment prior to timepoint where PR or CR confirmed (i.e. initial assessment of PR/CR), until earliest date of objective progression or death. [Responding patients only].</description>
+          <units>Months</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+                <count group_id="O2" value="2"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.2" lower_limit="2.8" upper_limit="5.6"/>
+                    <measurement group_id="O2" value="2.3" lower_limit="1.8" upper_limit="2.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage Change From Baseline in Tumour Size at Week 24</title>
+        <description>Percentage change from baseline to Week 24 in target tumour size.</description>
+        <time_frame>Radiologic scans performed at baseline then every 12 weeks (+/- 1week) for the first 60 weeks, then every 24 weeks (+/-1 week) thereafter</time_frame>
+        <population>Evaluable for response set - A subset of the full analysis set which includes patients with measurable disease at baseline.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Olaparib 400 mg bd</title>
+            <description>AZD2281
+Olaparib (AZD2281) 400 mg oral capsules twice daily</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo bd</title>
+            <description>Olaparib matching placebo oral capsules twice daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage Change From Baseline in Tumour Size at Week 24</title>
+          <description>Percentage change from baseline to Week 24 in target tumour size.</description>
+          <population>Evaluable for response set - A subset of the full analysis set which includes patients with measurable disease at baseline.</population>
+          <units>percentage of change</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="32"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-11.00" lower_limit="-100.00" upper_limit="45.00"/>
+                    <measurement group_id="O2" value="0.00" lower_limit="-36.40" upper_limit="39.40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Best Percentage Change in Cancer Antigen 125 (CA-125) Levels</title>
+        <description>Best percentage change from baseline in CA-125 level</description>
+        <time_frame>CA-125 was measured at baseline then every 28 days on treatment</time_frame>
+        <population>A subset of the FAS with baseline and at least 1 follow-up value of CA-125</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Olaparib 400 mg bd</title>
+            <description>AZD2281
+Olaparib (AZD2281) 400 mg oral capsules twice daily</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo bd</title>
+            <description>Olaparib matching placebo oral capsules twice daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Best Percentage Change in Cancer Antigen 125 (CA-125) Levels</title>
+          <description>Best percentage change from baseline in CA-125 level</description>
+          <population>A subset of the FAS with baseline and at least 1 follow-up value of CA-125</population>
+          <units>percentage of change</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="135"/>
+                <count group_id="O2" value="128"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-16.67" lower_limit="-100.00" upper_limit="346.15"/>
+                    <measurement group_id="O2" value="0.00" lower_limit="-99.50" upper_limit="1436.84"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Best Objective Response</title>
+        <description>Best overall response from radiologic assessments. [FAS]</description>
+        <time_frame>Radiologic scans performed at baseline then every 12 weeks (+/- 1week) for the first 60 weeks, then every 24 weeks (+/- 1 week) thereafter</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Olaparib 400 mg bd</title>
+            <description>AZD2281
+Olaparib (AZD2281) 400 mg oral capsules twice daily</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo bd</title>
+            <description>Olaparib matching placebo oral capsules twice daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Best Objective Response</title>
+          <description>Best overall response from radiologic assessments. [FAS]</description>
+          <units>Participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="136"/>
+                <count group_id="O2" value="129"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Complete Response</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Partial Response</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>No evidence of disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="49"/>
+                    <measurement group_id="O2" value="42"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Stable Disease &gt;= 11 weeks</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="46"/>
+                    <measurement group_id="O2" value="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Disease Progression</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24"/>
+                    <measurement group_id="O2" value="55"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Not Evaluable</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>RECIST and CA-125 Response Separately and Combined</title>
+        <description>RECIST and CA-125 response separately and combined [Patients evaluable for either CA-125 response or RECIST response]</description>
+        <time_frame>Radiologic scans performed at baseline then every 12 weeks (+/- 1week) for the first 60 weeks, then every 24 weeks (+/- 1 week) thereafter and monthly for CA-125 measurements</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Olaparib 400 mg bd</title>
+            <description>AZD2281
+Olaparib (AZD2281) 400 mg oral capsules twice daily</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo bd</title>
+            <description>Olaparib matching placebo oral capsules twice daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>RECIST and CA-125 Response Separately and Combined</title>
+          <description>RECIST and CA-125 response separately and combined [Patients evaluable for either CA-125 response or RECIST response]</description>
+          <units>Participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="61"/>
+                <count group_id="O2" value="53"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>RECIST Response</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Confirmed RECIST Response</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Unconfirmed RECIST response</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>CA-125 Response</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Confirmed RECIST or CA-125 Response</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Earlier of CA-125 or RECIST Progression</title>
+        <description>Time from randomisation to the earlier date of radiological progression (per RECIST criteria) or CA-125 or death by any cause in the absence of objective progression. [FAS]</description>
+        <time_frame>Radiologic scans performed at baseline then every 12 weeks (+/- 1 week) for the first 60 weeks, then every 24 weeks (+/- 1 week) thereafter and monthly for CA-125 measurements</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Olaparib 400 mg bd</title>
+            <description>AZD2281
+Olaparib (AZD2281) 400 mg oral capsules twice daily</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo bd</title>
+            <description>Olaparib matching placebo oral capsules twice daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Earlier of CA-125 or RECIST Progression</title>
+          <description>Time from randomisation to the earlier date of radiological progression (per RECIST criteria) or CA-125 or death by any cause in the absence of objective progression. [FAS]</description>
+          <units>Months</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="136"/>
+                <count group_id="O2" value="129"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8.3" lower_limit="5.5" upper_limit="10.3"/>
+                    <measurement group_id="O2" value="3.7" lower_limit="2.8" upper_limit="4.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Improvement Rate for FACT-O Symptom Index (FOSI)</title>
+        <description>The percentage of patients with an improvement in FOSI. Improvement was defined as a change from baseline of greater than or equal to +3. [Evaluable for FOSI set]</description>
+        <time_frame>Patient reported outcome questionnaire completed at baseline then every 28 days up to disease progression</time_frame>
+        <population>Evaluable for FOSI set - A subset of the full analysis set which includes patients who have evaluable QoL/Symptom Endpoints at baseline</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Olaparib 400 mg bd</title>
+            <description>AZD2281
+Olaparib (AZD2281) 400 mg oral capsules twice daily</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo bd</title>
+            <description>Olaparib matching placebo oral capsules twice daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Improvement Rate for FACT-O Symptom Index (FOSI)</title>
+          <description>The percentage of patients with an improvement in FOSI. Improvement was defined as a change from baseline of greater than or equal to +3. [Evaluable for FOSI set]</description>
+          <population>Evaluable for FOSI set - A subset of the full analysis set which includes patients who have evaluable QoL/Symptom Endpoints at baseline</population>
+          <units>percentage of evaluable participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="117"/>
+                <count group_id="O2" value="115"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17.1"/>
+                    <measurement group_id="O2" value="14.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Improvement Rate for Trial Outcome Index (TOI)</title>
+        <description>The percentage of patients with an improvement in TOI. Improvement was defined as a change from baseline of greater than or equal to +7. [Evaluable for TOI set]</description>
+        <time_frame>Patient reported outcome questionnaire completed at baseline then every 28 days up to disease progression</time_frame>
+        <population>Evaluable for TOI - a subset of the full analysis set which includes patients who have evaluable QoL/Symptom Endpoints at baseline</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Olaparib 400 mg bd</title>
+            <description>AZD2281
+Olaparib (AZD2281) 400 mg oral capsules twice daily</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo bd</title>
+            <description>Olaparib matching placebo oral capsules twice daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Improvement Rate for Trial Outcome Index (TOI)</title>
+          <description>The percentage of patients with an improvement in TOI. Improvement was defined as a change from baseline of greater than or equal to +7. [Evaluable for TOI set]</description>
+          <population>Evaluable for TOI - a subset of the full analysis set which includes patients who have evaluable QoL/Symptom Endpoints at baseline</population>
+          <units>percentage of evaluable participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="115"/>
+                <count group_id="O2" value="111"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20.0"/>
+                    <measurement group_id="O2" value="18.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Improvement Rate for Total Functional Analysis of Cancer Therapy - Ovarian (FACT-O)</title>
+        <description>The percentage of patients with an improvement in total FACT-O. Improvement was defined as a change from baseline of greater than or equal to +9. [Evaluable for FACT-O set]</description>
+        <time_frame>Patient reported outcome questionnaire completed at baseline then every 28 days up to disease progression</time_frame>
+        <population>Evaluable for Total Fact-O set - A subset of the full analysis set which includes patients who have evaluable QoL/Symptom Endpoints at baseline</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Olaparib 400 mg bd</title>
+            <description>AZD2281
+Olaparib (AZD2281) 400 mg oral capsules twice daily</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo bd</title>
+            <description>Olaparib matching placebo oral capsules twice daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Improvement Rate for Total Functional Analysis of Cancer Therapy - Ovarian (FACT-O)</title>
+          <description>The percentage of patients with an improvement in total FACT-O. Improvement was defined as a change from baseline of greater than or equal to +9. [Evaluable for FACT-O set]</description>
+          <population>Evaluable for Total Fact-O set - A subset of the full analysis set which includes patients who have evaluable QoL/Symptom Endpoints at baseline</population>
+          <units>percentage of evaluable participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="114"/>
+                <count group_id="O2" value="111"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="21.1"/>
+                    <measurement group_id="O2" value="18.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>FACT-O Symptom Index (FOSI) Time to Worsening</title>
+        <description>The time to worsening was compared between treatments for each of the TOI, FOSI and total FACT-O. [Evaluable for FOSI set]</description>
+        <time_frame>Patient reported outcome questionnaire completed at baseline then every 28 days up to disease progression</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Olaparib 400 mg bd</title>
+            <description>AZD2281
+Olaparib (AZD2281) 400 mg oral capsules twice daily</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo bd</title>
+            <description>Olaparib matching placebo oral capsules twice daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>FACT-O Symptom Index (FOSI) Time to Worsening</title>
+          <description>The time to worsening was compared between treatments for each of the TOI, FOSI and total FACT-O. [Evaluable for FOSI set]</description>
+          <units>months</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="117"/>
+                <count group_id="O2" value="115"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.8" lower_limit="1.8" upper_limit="3.7"/>
+                    <measurement group_id="O2" value="3.7" lower_limit="3.3" upper_limit="5.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Trial Outcome Index(TOI)Time to Worsening</title>
+        <description>The time to worsening was compared between treatments for each of the TOI, FOSI and total FACT-O. [Evaluable for TOI set]</description>
+        <time_frame>Patient reported outcome questionnaire completed at baseline then every 28 days up to disease progression</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Olaparib 400 mg bd</title>
+            <description>AZD2281
+Olaparib (AZD2281) 400 mg oral capsules twice daily</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo bd</title>
+            <description>Olaparib matching placebo oral capsules twice daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Trial Outcome Index(TOI)Time to Worsening</title>
+          <description>The time to worsening was compared between treatments for each of the TOI, FOSI and total FACT-O. [Evaluable for TOI set]</description>
+          <units>months</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="115"/>
+                <count group_id="O2" value="111"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.8" lower_limit="2.8" upper_limit="7.4"/>
+                    <measurement group_id="O2" value="4.6" lower_limit="3.7" upper_limit="7.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Functional Analysis of Cancer Therapy - Ovarian (FACT-O) Time to Worsening</title>
+        <description>The time to worsening was compared between treatments for each of the TOI, FOSI and total FACT-O. [Evaluable for FACT-O set]</description>
+        <time_frame>Patient reported outcome questionnaire completed at baseline then every 28 days up to disease progression</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Olaparib 400 mg bd</title>
+            <description>AZD2281
+Olaparib (AZD2281) 400 mg oral capsules twice daily</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo bd</title>
+            <description>Olaparib matching placebo oral capsules twice daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Functional Analysis of Cancer Therapy - Ovarian (FACT-O) Time to Worsening</title>
+          <description>The time to worsening was compared between treatments for each of the TOI, FOSI and total FACT-O. [Evaluable for FACT-O set]</description>
+          <units>months</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="114"/>
+                <count group_id="O2" value="111"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.8" lower_limit="1.9" upper_limit="4.7"/>
+                    <measurement group_id="O2" value="4.6" lower_limit="3.6" upper_limit="5.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <desc>128 participants in Placebo as 1 participant withdrew consent prior to treatment</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Olaparib 400 mg bd</title>
+          <description>AZD2281
+Olaparib (AZD2281) 400 mg oral capsules twice daily</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo bd</title>
+          <description>Olaparib matching placebo oral capsules twice daily</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA 12.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="20" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Pancytopenia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cardiovascular Insufficiency</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal Pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Gastritis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Impaired Gastric Emptying</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Intestinal Obstruction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Melaena</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Small Intestinal Obstruction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Iodine Allergy</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Appendicitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Endophthalmitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Influenza</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Liver Abscess</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Upper Respiratory Tract Infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Urinary Tract Infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Femur Fracture</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dehydration</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Osteoporosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Bladder Cancer</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Syncope</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary Embolism</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Deep vein thrombosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Vena Cava Thrombosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA (12.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="129" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="116" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" subjects_affected="20" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="92" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="44" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="42" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="18" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="30" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="29" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Abdominal Pain</sub_title>
+                <counts group_id="E1" subjects_affected="24" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="33" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Dyspepsia</sub_title>
+                <counts group_id="E1" subjects_affected="22" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Abdominal Pain Upper</sub_title>
+                <counts group_id="E1" subjects_affected="18" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" subjects_affected="16" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="13" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Abdominal Distension</sub_title>
+                <counts group_id="E1" subjects_affected="14" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Stomatitis</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Abdominal Pain Lower</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Abdominal Discomfort</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="66" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="47" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Asthenia</sub_title>
+                <counts group_id="E1" subjects_affected="16" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Oedema Peripheral</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Nasopharyngitis</sub_title>
+                <counts group_id="E1" subjects_affected="17" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="14" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Upper Respiratory Tract Infection</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Decreased Appetite</sub_title>
+                <counts group_id="E1" subjects_affected="25" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="17" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Hypomagnesaemia</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" subjects_affected="16" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="16" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Back Pain</sub_title>
+                <counts group_id="E1" subjects_affected="16" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Muscle Spasms</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Musculoskeletal Pain</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Pain In Extremity</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="25" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="15" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Dysgeusia</sub_title>
+                <counts group_id="E1" subjects_affected="18" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="17" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Neuropathy Peripheral</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Depression</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" subjects_affected="17" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Rash</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="128"/>
+              </event>
+              <event>
+                <sub_title>Dry skin</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hot Flush</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="136"/>
+                <counts group_id="E2" subjects_affected="15" subjects_at_risk="128"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The only disclosure restriction on the PI is that the sponsor can review results communications prior to public release and can embargo communications regarding trial results for a period that is less than or equal to 60 days. The sponsor cannot require changes to the communication and cannot extend the embargo.</restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>For OM DoR: The subset of patients evaluable for response who responded to study treatment.Values in results table may be under-estimates as some patients had not progressed at final analysis,so true duration is likely to be greater than in database.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Gerard Lynch</name_or_title>
+      <organization>AstraZeneca</organization>
+      <email>aztrial_results_posting@astrazeneca.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>

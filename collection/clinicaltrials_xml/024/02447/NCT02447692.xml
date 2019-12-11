@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="50584">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02447692</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IPR-327433, ISR-2014-10481</org_study_id>
+    <nct_id>NCT02447692</nct_id>
+  </id_info>
+  <brief_title>Proportional Assist Ventilation for Minimizing the Duration of Mechanical Ventilation: The PROMIZING Study</brief_title>
+  <acronym>PROMIZING</acronym>
+  <official_title>Proportional Assist Ventilation for Minimizing the Duration of Mechanical Ventilation: The PROMIZING Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lawson Health Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Canadian Institutes of Health Research (CIHR)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Medtronic - MITG</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Canadian Critical Care Trials Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Lawson Health Research Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      For adult patients with acute respiratory failure requiring invasive mechanical ventilation,
+      does a ventilation strategy using proportional assist ventilation with load-adjustable gain
+      factors (PAV+) result in a shorter duration of time spent on mechanical ventilation than a
+      ventilation strategy using pressure support ventilation (PSV)?
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients with acute respiratory failure require mechanical ventilation to help them breathe
+      until they recover from their acute illness. Although mechanical ventilation is necessary to
+      sustain life in such situations, it can induce weakness of the respiratory muscles which may
+      lead to prolonged dependence on the ventilator. Prolonged dependence on mechanical
+      ventilation is associated with increased mortality, morbidity and costs to the healthcare
+      system. Thus, a main goal of assisted mechanical ventilation is to reduce the patient's
+      respiratory distress while maintaining some respiratory muscle activity. To attain this
+      goal, the amount of ventilator assistance should theoretically be adjusted to target normal
+      or reasonable levels of respiratory effort.
+
+      Modes of Mechanical Ventilation:
+
+      Proportional assist ventilation with load-adjustable gain factors (PAV+) is a mode of
+      mechanical ventilation which delivers assistance to breathe in proportion to the patient's
+      effort. The proportional assistance, called the gain, can be adjusted by the clinician to
+      maintain the patient's respiratory effort or workload within a reasonable range. This is the
+      only mode of ventilation which allows for measurement and targeting of a specific range of
+      respiratory muscle activity by the patient.
+
+      Pressure support ventilation (PSV) is a mode of ventilation which is considered the current
+      standard of care for assisting breathing of patients during the recovery phase of acute
+      respiratory failure. Several studies have shown short term advantages of PAV over PSV,
+      including improved patient-ventilator synchronization, improved adaptability to changes in
+      patient effort, and improved sleep quality.
+
+      Goal of this Randomized Controlled Trial:
+
+      To demonstrate that for patients with acute respiratory failure, ventilation with PAV+,
+      being more physiological, will result in a shorter duration of time spent on mechanical
+      ventilation than ventilation with PSV.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>September 2016</start_date>
+  <completion_date type="Anticipated">April 2019</completion_date>
+  <primary_completion_date type="Anticipated">April 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Ventilator Free Days (VFDs) at 21 days post randomization</measure>
+    <time_frame>21 days</time_frame>
+    <description>&quot;Ventilator-free days&quot; (VFDs) are defined as the number of days alive and free of INVASIVE ventilation post SUCCESSFUL EXTUBATION or post successful termination of invasive mechanical ventilation (MV) from time of randomization to day 21 post randomization. &quot;Successful extubation&quot; is defined as removal of the endotracheal tube AND remaining alive with no need for reintubation/reinstitution of invasive mechanical ventilation for 7 days post extubation, or until successful ICU discharge, or until live hospital discharge, whichever comes first.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator-free days at 14, 28 and 90 days post randomization</measure>
+    <time_frame>14, 28 and 90 days post randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time from randomization to successful extubation</measure>
+    <time_frame>90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time from randomization to live ICU discharge and live hospital discharge</measure>
+    <time_frame>90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality measured as ICU mortality, hospital mortality, 14, 21, 28 and 90 day mortality</measure>
+    <time_frame>90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Weaning Progress</measure>
+    <time_frame>90 days</time_frame>
+    <description>Weaning Progress, measured as time from randomization to first SBT, first successful SBT, and first extubation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difficult Weaning</measure>
+    <time_frame>90 days</time_frame>
+    <description>Difficult Weaning, measured as the number of patients failing first SBT and requiring up to 7 days to extubate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prolonged Weaning</measure>
+    <time_frame>90 days</time_frame>
+    <description>Prolonged Weaning measured as the number of patients failing first SBT and requiring more than 7 days to extubate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prolonged Mechanical Ventilation</measure>
+    <time_frame>90 days</time_frame>
+    <description>Prolonged Mechanical Ventilation, measured as the number of patients ventilated more than 21 days from time of intubation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Weaning Complications</measure>
+    <time_frame>90 days</time_frame>
+    <description>Weaning Complications, measured as the number of patients requiring: non-invasive ventilation post-extubation, ventilated more than 7 days post randomization, receiving tracheostomy post-randomization, requiring reintubation (up to 7 days after planned extubation)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients ever requiring Assist/Control mode post randomization</measure>
+    <time_frame>90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patient-days Assist/Control mode is required post randomization</measure>
+    <time_frame>90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative doses of narcotics (converted to morphine equivalents), benzodiazepines (converted to midazolam equivalents), propofol, and dexmedetomidine</measure>
+    <time_frame>90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients receiving any antipsychotic medication post randomization</measure>
+    <time_frame>90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patient-days any antipsychotic medication is administered</measure>
+    <time_frame>90 days</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Sensitivity analyses of primary and secondary outcomes defining &quot;successful extubation&quot; as &quot;48 hours without reintubation&quot;</measure>
+    <time_frame>90 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Sensitivity analyses of primary and secondary outcomes assigning a value of 0 ventilator-free days to any participant who dies at any time during the study period</measure>
+    <time_frame>90 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Subgroup analyses based on: (a) duration of MV prior to randomization greater than 5 days</measure>
+    <time_frame>90 days</time_frame>
+    <description>Identifies a subgroup of patients at time of randomization who are at risk for prolonged weaning</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Subgroup analyses based on (b) failing an SBT prior to randomization</measure>
+    <time_frame>90 days</time_frame>
+    <description>Identifies a subgroup of patients at time of randomization classified as having &quot;difficult weaning&quot;.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">512</enrollment>
+  <condition>Critically Ill</condition>
+  <condition>Acute Respiratory Failure</condition>
+  <arm_group>
+    <arm_group_label>PSV ventilation strategy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The control is the standard of care PSV ventilation strategy, designed to adjust the level of support according to usual clinical parameters.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PAV+ ventilation strategy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The intervention is a PAV+ ventilation strategy, designed to adjust the level of support (gain) to target a predefined range of respiratory muscle pressure.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>PSV ventilation strategy</intervention_name>
+    <description>An algorithm for adjusting the level of pressure support according to usual clinical parameters; patients not tolerating PSV will be switched to Assist/Control mode according to predefined criteria</description>
+    <arm_group_label>PSV ventilation strategy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>PAV+ ventilation strategy</intervention_name>
+    <description>An algorithm for adjusting the level of support (gain) to maintain a predefined range of respiratory muscle pressure; patients not tolerating PAV+ (Puritan Bennett™ 840 or 980 ventilator) will be switched to Assist/Control mode according to predefined criteria</description>
+    <arm_group_label>PAV+ ventilation strategy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        A staged enrolment process will be used to identify patients eligible to be enrolled and
+        randomized in the study. At each stage of enrolment, specific inclusion/exclusion criteria
+        will apply. To progress to the next stage, patients must continue to meet the criteria
+        from the prior stages.
+
+        &quot;Screening&quot; Inclusion Criteria:
+
+          -  Age 18 years or older
+
+          -  Intubated and receiving any mode of invasive mechanical ventilation ≥ 24 hours
+
+        &quot;Consenting&quot; Inclusion Criteria:
+
+          -  Ability to trigger ventilator breaths
+
+          -  On Assist/Control volume-cycled ventilation: Plateau pressure ≤ 30 cm H2O with a
+             tidal volume of 6-8 ml/kg of predicted body weight OR On Assist/Control
+             pressure-controlled ventilation: Pressure control plus Positive End Expiratory
+             Pressure (PEEP) ≤ 30 cm H2O OR On Pressure Support ventilation: Pressure support plus
+             PEEP ≤ 30 cm H2O
+
+          -  Partial pressure of oxygen in arterial blood (PaO2) ≥ 60 mmHg or arterial oxygen
+             saturation (SaO2) ≥ 90% on fraction of inspired oxygen (FiO2) ≤ 0.60 and PEEP ≤ 15 cm
+             H2O
+
+          -  Metabolic disorders corrected: power of hydrogen (pH) ≥7.32
+
+          -  Stable hemodynamic status: stable or decreasing doses of vasopressors for for ≥6
+             hours
+
+          -  Anticipate ongoing need for ventilation &gt;24 hours
+
+        &quot;Pressure Support Trial&quot; Inclusion Criteria
+
+          -  Patient/substitute decision maker (SDM) has provided consent
+
+          -  Upon review of Screening and Consenting criteria the patient still passes.
+
+        Patients will undergo specific tests to determine eligibility for randomization. The tests
+        are the Pressure Support Trial (PST), and if applicable, the continuous positive airway
+        pressure (CPAP) trial and if applicable, the Spontaneous Breathing Trial (SBT). Patients
+        will undergo the CPAP trial if they meet &quot;Weaning Criteria&quot;
+
+        &quot;Weaning Criteria&quot;
+
+          -  Oxygen saturation by pulse oximetry (SpO2)≥ 90% on FiO2 ≤0.40 and PEEP ≤8 centimeter
+             of water (cmH2O)
+
+          -  pH ≥7.32
+
+          -  Vasopressor requirements no higher than norepinephrine 0.1 ug/kg/min or equivalent
+
+        &quot;Randomization&quot; Inclusion Criteria
+
+          -  Upon review if the patient still passes and the patient has passed the PST.
+
+          -  Does not meet Weaning Criteria OR Fails the CPAP Trial OR Fails the SBT
+
+        Exclusion Criteria:
+
+          -  Anticipating withdrawal of life support and/or shift to palliation as the goal of
+             care
+
+          -  Severe central neurologic disorder (eg. Hemorrhage, stroke, tumour) causing elevated
+             intracranial pressure, or impaired control of breathing, or requiring specific
+             ventilator adjustments (i.e. To attain specific carbon dioxide (CO2) target) or
+             requiring neurosurgical intervention
+
+          -  Known or suspected severe neuropathy or myopathy or high spinal cord injury likely to
+             result in prolonged or chronic ventilator dependence (eg. Guillain-Barré syndrome,
+             Myasthenia Gravis, ALS)
+
+          -  Severe chronic obstructive pulmonary disease (COPD): Baseline daytime hypercapnia
+             (pCO2&gt;45 mmHg) OR Global Initiative for Chronic Obstructive Lund Disease (GOLD) 4
+             airflow limitation (FEV1&lt;30% predicted) OR Medical Research Council (MRC) class 4
+             symptoms (&quot;I am too breathless to leave the house&quot; OR &quot;I am breathless when
+             dressing&quot;)
+
+          -  Broncho-pleural fistula
+
+          -  Tracheostomy present at ICU admission
+
+        &quot;Consenting&quot; Exclusion Criteria:
+
+          -  Extubated
+
+          -  Died
+
+          -  Has tolerated Pressure support of 0-20 cm H2O for ≥48 consecutive hours
+
+        &quot;Pressure Support Trial&quot; Exclusion Criteria
+
+          -  Patient/SDM has declined consent
+
+          -  Patient incapable and no SDM available to provide consent
+
+        &quot;Randomization&quot; Exclusion Criteria:
+
+        • Passed SBT
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Karen J Bosma</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>London Health Sciences Centre, London, Ontario, Canada</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Laurent Brochard</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>St. Michael's Hospital, Toronto, Ontario, Canada</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sarah Douglas</last_name>
+    <phone>416-864-6060</phone>
+    <phone_ext>77049</phone_ext>
+    <email>DouglasSa@smh.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Karen J Bosma</last_name>
+    <phone>519-663-3531</phone>
+    <email>KarenJ.Bosma@lhsc.on.ca</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>London Health Sciences Centre - University Hospital</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>N6A 5A5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>K.J. Bosma</last_name>
+      <phone>519-663-3531</phone>
+      <email>karenj.bosma@lhsc.on.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Tracey Bentall</last_name>
+      <phone>519-685-8500</phone>
+      <phone_ext>32546</phone_ext>
+      <email>traceyc.bentall@lhsc.on.ca</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Karen J. Bosma</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>September 2016</verification_date>
+  <lastchanged_date>September 7, 2016</lastchanged_date>
+  <firstreceived_date>May 8, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Lawson Health Research Institute</investigator_affiliation>
+    <investigator_full_name>Karen Bosma</investigator_full_name>
+    <investigator_title>Dr. Karen J. Bosma</investigator_title>
+  </responsible_party>
+  <keyword>Proportional Assist Ventilation</keyword>
+  <keyword>Pressure Support Ventilation</keyword>
+  <keyword>Weaning</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Critical Illness</mesh_term>
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="71213">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02178696</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HUM00033328</org_study_id>
+    <nct_id>NCT02178696</nct_id>
+  </id_info>
+  <brief_title>Predictors of Antidepressant Response</brief_title>
+  <official_title>Predictors of Antidepressant Response</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Michigan</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Michigan</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Major depression is a highly prevalent, frequently debilitating illness that too often fails
+      to respond to currently available treatments such as antidepressant medication. Furthermore,
+      randomized controlled trials of antidepressants consistently demonstrate large placebo
+      effects. The investigators hypothesize that individual differences in the function of key
+      brain circuits underlie the observed variability in clinical responses to both placebo and
+      antidepressant medication. This study will test this hypothesis by recruiting
+      treatment-seeking volunteers with major depression, with or without comorbid nicotine
+      dependence. Volunteers will participate in positron emission tomography (PET) and functional
+      magnetic resonance imaging (fMRI) scans in the context of a treatment trial in which they
+      will receive both placebo and antidepressant medication. A major goal of the study is to
+      improve prediction of individual clinical responses in future treatment trials in which
+      brain imaging may be unavailable, and to study the mechanisms of antidepressant response in
+      Major Depression.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2011</start_date>
+  <completion_date type="Actual">October 2015</completion_date>
+  <primary_completion_date type="Actual">October 2015</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Participant</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in mu-opioid and dopamine binding potential during PET</measure>
+    <time_frame>(90 minute PET scans) assessed at Weeks 1 and 2</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in BOLD response during reward and decision making fMRI tasks</measure>
+    <time_frame>(90 minute fMRI scans) assessed at Weeks 1 and 2</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Depression severity will be assessed with several questionnaires</measure>
+    <time_frame>At initial screening, Week 0, Week 2, Week 4, Week 8, and Week 10 visits, or until the participants leave the study.</time_frame>
+    <description>We will be using the Patient Health Questionnaire-9, Hamilton Depression Rating Scale, Montgomery-Asberg Depression Rating Scale, Quick Inventory of Depressive Symptomatology-Self-Report (QIDS-SR-16).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Blood samples</measure>
+    <time_frame>Week 1 and Week 2</time_frame>
+    <description>5mL collected for analysis of genetic information, hormone levels, and cortisol levels</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Neuropsychological test results</measure>
+    <time_frame>at baseline and Week 10</time_frame>
+    <description>Affect processing: Emotional Words Task and Facial Emotion Perception test. Attention and Inhibitory Control: Parametric Go/NoGo, Trail Making test and the Stroop Color Word test . Inferential Reasoning (including cost-benefit analysis): Delayed Discounting of Money Rewards, Iowa Gambling Task, and the Wisconsin Card Sorting Test. Visual Perception: Benton Visual Discrimination Form.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">44</enrollment>
+  <condition>Depression</condition>
+  <arm_group>
+    <arm_group_label>Known Placebo First</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This arm gets a placebo that they know is a placebo (called inactive), then has 2 scans performed (FMRI and PET), then a 2-3 day washout, and then gets a so-called &quot;active medication&quot; (which is also actually a placebo), and another pair of scans. Following these, participants receive 10 weeks of open-label antidepressant administration (Celexa or alternative as explained in intervention description). First line antidepressant will be Celexa unless not clinically indicated.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>&quot;Active&quot; (blinded) Placebo first group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This arm gets a placebo that they don't know is a placebo (called Active), then has 2 scans performed (FMRI and PET), then a 2-3 day washout, and then gets a so-called &quot;inactive medication&quot; (which participants know is a placebo), and another pair of scans. Following these, participants receive 10 weeks of open-label antidepressant administration (Celexa as explained in intervention description). First line antidepressant will be Celexa unless not clinically indicated.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo, identified as placebo to participants</intervention_name>
+    <description>White tablets</description>
+    <arm_group_label>Known Placebo First</arm_group_label>
+    <arm_group_label>&quot;Active&quot; (blinded) Placebo first group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Celexa or other antidepressant as clinically indicated</intervention_name>
+    <description>Open label s-citalopram, 20 mg start up dose, increasing to 40 mg as clinically indicated; If prior non-response to this medication is noted by the patient, alternative treatments may include another first-line antidepressant:fluoxetine 20 mg; paroxetine up to 60 mg; sertraline up to 200 mg; bupropion up to 300 mg</description>
+    <arm_group_label>Known Placebo First</arm_group_label>
+    <arm_group_label>&quot;Active&quot; (blinded) Placebo first group</arm_group_label>
+    <other_name>S-citalopram 20-40 mg orally</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo, identifed to participants as &quot;Active medication&quot;</intervention_name>
+    <description>Blue Capsule</description>
+    <arm_group_label>Known Placebo First</arm_group_label>
+    <arm_group_label>&quot;Active&quot; (blinded) Placebo first group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria: Inclusion criteria will include:
+
+          -  Participants diagnosed with Major Depressive Disorder and will include Hamilton
+             Depressive Rating Scale (HDRS) scores &gt;15
+
+        Exclusion Criteria:
+
+          -  Comorbid conditions that are medical, neurological or psychiatric, pregnancy, use of
+             hormones (including birth control) or use of psychotropic agents
+
+          -  We will only permit certain past anxiety disorder diagnoses, including generalized
+             anxiety, panic, agoraphobia, social phobia
+
+          -  We also will exclude left-handed individuals and patients who have used any centrally
+             acting medications or recreational drugs with the past 2 months
+
+          -  No history of an implant, pacemaker or pacemaker wires, open heart surgery,
+             artificial heart valve, brain aneurysm surgery, middle ear implant, hearing aid,
+             braces or extensive dental work, cataract surgery or lens implant, implanted
+             mechanical or electrical device, or artificial limb or joint
+
+          -  No metallic object in their body (such as braces) or have a history of foreign
+             metallic object in the body such as bullets, BB's, pellets, shrapnel, or other metal
+             fragments
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jon-Kar Zubieta, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Michigan</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Department of Psychiatry</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 21, 2017</lastchanged_date>
+  <firstreceived_date>June 12, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Michigan</investigator_affiliation>
+    <investigator_full_name>Jon-Kar Zubieta</investigator_full_name>
+    <investigator_title>MD PhD</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Citalopram</mesh_term>
+    <mesh_term>Antidepressive Agents</mesh_term>
+    <mesh_term>Dexetimide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

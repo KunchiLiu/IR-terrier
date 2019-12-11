@@ -1,0 +1,1749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="96807">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01844505</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CA209-067</org_study_id>
+    <secondary_id>2012-005371-13</secondary_id>
+    <nct_id>NCT01844505</nct_id>
+  </id_info>
+  <brief_title>Phase 3 Study of Nivolumab or Nivolumab Plus Ipilimumab Versus Ipilimumab Alone in Previously Untreated Advanced Melanoma (CheckMate 067)</brief_title>
+  <official_title>A Phase 3, Randomized, Double-Blind Study of Nivolumab Monotherapy or Nivolumab Combined With Ipilimumab Versus Ipilimumab Monotherapy in Subjects With Previously Untreated Unresectable or Metastatic Melanoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bristol-Myers Squibb</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bristol-Myers Squibb</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to show that Nivolumab and/or Nivolumab in combination with
+      Ipilimumab will extend progression free survival and overall survival compared to Ipilimumab
+      alone.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>May 2013</start_date>
+  <completion_date type="Anticipated">March 2019</completion_date>
+  <primary_completion_date type="Actual">August 2016</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Care Provider, Investigator, Outcomes Assessor</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Endpoint of Overall Survival (OS) in all randomized subjects</measure>
+    <time_frame>Approximately up to 44.1 months</time_frame>
+    <description>OS is defined as the time between the date of randomization and the date of death due to any cause. OS will be censored on the last date a subject was known to be alive. OS data will be collected continuously while subjects are on study medication and every 3 months via in-person or phone contact after discontinuation of study medication</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Progress Free Survival (PFS)</measure>
+    <time_frame>Baseline (Day 1), Week 12, every 6 weeks thereafter up to week 49, and then every 12 weeks until disease progression is documented (Approximately around 5 years)</time_frame>
+    <description>PFS is defined as the time between the date of randomization and the first date of documented progression, as determined by the investigator, or death due to any cause, whichever occurs first</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate (ORR)</measure>
+    <time_frame>Baseline (Day 1), Week 12 every 6 weeks thereafter up to week 49, and then every 12 weeks until disease progression is documented (expected to be no more than 5 years)</time_frame>
+    <description>ORR is defined as the number of subjects with a Best Overall Response (BOR) of Complete Response (CR) or Partial Response (PR) divided by the number of randomized subjects for each treatment group. The BOR is defined as the best response designation, as determined by the investigator, recorded between the date of randomization and the date of objectively documented progression per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 or the date of subsequent anti-cancer therapy, whichever occurs first</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Differences in OS, PFS, and ORR between the two experimental arms</measure>
+    <time_frame>OS: Approximately up to 44.1 months; PFS and OOR: Baseline (Day 1), Week 12, every 6 weeks thereafter up to week 49, and then every 12 weeks until disease progression is documented (Approximately around 5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>OS based on PD-L1 expression</measure>
+    <time_frame>Baseline (Day 1)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean changes from baseline in EORTC-QLQ-C30</measure>
+    <time_frame>Day 1 of Week 1, Day 1 of Week 5 and Follow up visits 1 and 2</time_frame>
+    <description>European Organisation for Research and Treatment of Care Quality of Life Questionnaire (EORTC QLQ) C-30 global health status/QoL composite scale data and the remaining EORTC QLQ C-30 scale data will be summarized by timepoint using descriptive statistics for each treatment group</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">915</enrollment>
+  <condition>Unresectable or Metastatic Melanoma</condition>
+  <arm_group>
+    <arm_group_label>Arm A: Nivolumab+Placebo for Ipilimumab+Placebo for Nivolumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Nivolumab 3 mg/kg solution intravenously every 2 weeks plus Placebo matching with Ipilimumab 0 mg/kg solution intravenously on weeks 1, 4 and Placebo matching with Nivolumab on weeks 4 for cycles 1 and 2, until documented disease progression, discontinuation due to toxicity, withdrawal of consent or the study ends</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B: Nivolumab+Ipilimumab+Placebo for Nivolumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Nivolumab 1 mg/kg solution intravenously combined with Ipilimumab 3 mg/kg solution intravenously every 3 weeks for 4 doses then Nivolumab 3 mg/kg solution intravenously every 2 weeks plus Placebo matching with Nivolumab on weeks 3 and 5 for cycles 1 and 2, until documented disease progression, discontinuation due to toxicity, withdrawal of consent or the study ends</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm C: Ipilimumab+Placebo for Nivolumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ipilimumab 3 mg/kg solution intravenously every 3 weeks for a total of 4 doses plus Placebo matching with Nivolumab 0 mg/kg solution intravenously on weeks 3 and 5 for cycles 1 and 2, until documented disease progression, discontinuation due to toxicity, withdrawal of consent or the study ends</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Nivolumab</intervention_name>
+    <arm_group_label>Arm A: Nivolumab+Placebo for Ipilimumab+Placebo for Nivolumab</arm_group_label>
+    <arm_group_label>Arm B: Nivolumab+Ipilimumab+Placebo for Nivolumab</arm_group_label>
+    <other_name>BMS-936558</other_name>
+    <other_name>MDX-1106</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Ipilimumab</intervention_name>
+    <arm_group_label>Arm B: Nivolumab+Ipilimumab+Placebo for Nivolumab</arm_group_label>
+    <arm_group_label>Arm C: Ipilimumab+Placebo for Nivolumab</arm_group_label>
+    <other_name>Yervoy</other_name>
+    <other_name>BMS-734016</other_name>
+    <other_name>MDX-010</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo for Nivolumab</intervention_name>
+    <arm_group_label>Arm A: Nivolumab+Placebo for Ipilimumab+Placebo for Nivolumab</arm_group_label>
+    <arm_group_label>Arm B: Nivolumab+Ipilimumab+Placebo for Nivolumab</arm_group_label>
+    <arm_group_label>Arm C: Ipilimumab+Placebo for Nivolumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo for Ipilimumab</intervention_name>
+    <arm_group_label>Arm A: Nivolumab+Placebo for Ipilimumab+Placebo for Nivolumab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        For more information regarding BMS clinical trial participation, please visit
+        www.BMSStudyConnect.com
+
+        Inclusion Criteria:
+
+          -  Histologically confirmed stage III (unresectable) or stage IV melanoma
+
+          -  Treatment naïve patients
+
+          -  Measurable disease by computed tomography (CT) or Magnetic Resonance Imaging (MRI)
+             per RECIST 1.1 criteria
+
+          -  Tumor tissue from an unresectable or metastatic site of disease for biomarker
+             analyses
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 or 1
+
+        Exclusion Criteria:
+
+          -  Active brain metastases or leptomeningeal metastases
+
+          -  Ocular melanoma
+
+          -  Subjects with active, known or suspected autoimmune disease
+
+          -  Subjects with a condition requiring systemic treatment with either corticosteroids
+             (&gt;10 mg daily prednisone equivalents) or other immunosuppressive medications within
+             14 days of treatment
+
+          -  Prior treatment with an anti-Programmed Death receptor-1 (PD-1), anti-Programmed
+             Death-1 ligand-1 (PD-L1), anti-PD-L2, or anti-cytotoxic T lymphocyte associated
+             antigen-4 (anti-CTLA-4) antibody
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bristol-Myers Squibb</last_name>
+    <role>Study Director</role>
+    <affiliation>Bristol-Myers Squibb</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Banner-Md Anderson Cancer Center</name>
+      <address>
+        <city>Gilbert</city>
+        <state>Arizona</state>
+        <zip>85234</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Of Arizona Cancer Center</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85724</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Uc San Diego Moores Cancer Ctr</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Angeles Clinic And Research Institute.</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Of California - Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Comprehensive Cancer Center At Desert Regional Medical Ctr</name>
+      <address>
+        <city>Palm Springs</city>
+        <state>California</state>
+        <zip>92262</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Desert Hematology Oncology Medical Group</name>
+      <address>
+        <city>Rancho Mirage</city>
+        <state>California</state>
+        <zip>92270</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>California Pacific Medical Center Research Institute</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Of California At San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Of Colorado Cancer Center</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Yale Cancer Center</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Georgetown University Medical Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medstar Washington Hospital Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baptist Cancer Institute</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Orlando Health, Inc</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Winship Cancer Institute</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Maine Center For Cancer Medicine</name>
+      <address>
+        <city>Scarborough</city>
+        <state>Maine</state>
+        <zip>04074</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Sidney Kimmel Comprehensive Cancer Center</name>
+      <address>
+        <city>Lutherville</city>
+        <state>Maryland</state>
+        <zip>21093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dana Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Of Michigan Health System</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Allina Health</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Of Mississippi Medical Center</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School Of Medicine</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Comprehensive Cancer Centers Of Nevada</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89148</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Atlantic Melanoma Center</name>
+      <address>
+        <city>Morristown</city>
+        <state>New Jersey</state>
+        <zip>07962</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Of New Mexico Cancer Center</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New York Oncology Hematology, Pc</name>
+      <address>
+        <city>Clifton Park</city>
+        <state>New York</state>
+        <zip>12065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nyu Clinical Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Levine Cancer Institute</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Duke Cancer Institute</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals Cleveland Medical Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Portland Medical Center</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lehigh Valley Hospital</name>
+      <address>
+        <city>Allentown</city>
+        <state>Pennsylvania</state>
+        <zip>18103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Luke'S Cancer Center - Anderson Campus</name>
+      <address>
+        <city>Easton</city>
+        <state>Pennsylvania</state>
+        <zip>18045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hillman Cancer Center</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Greenville Health System</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sarah Cannon Research Institute</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt-Ingram Cancer Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The University Of Texas Md Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Huntsman Cancer Institute</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Of Washington</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Camperdown</city>
+        <state>New South Wales</state>
+        <zip>2050</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Coffs Harbour</city>
+        <state>New South Wales</state>
+        <zip>2450</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Gateshead</city>
+        <state>New South Wales</state>
+        <zip>2290</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>North Sydney</city>
+        <state>New South Wales</state>
+        <zip>2146</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Westmead</city>
+        <state>New South Wales</state>
+        <zip>2145</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Greenslopes</city>
+        <state>Queensland</state>
+        <zip>4102</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Southport</city>
+        <state>Queensland</state>
+        <zip>4215</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Woolloongabba</city>
+        <state>Queensland</state>
+        <zip>4102</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Adelaide</city>
+        <state>South Australia</state>
+        <zip>5000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Kurralta Park</city>
+        <state>South Australia</state>
+        <zip>5037</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Box Hill</city>
+        <state>Victoria</state>
+        <zip>3128</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Heidelberg</city>
+        <state>Victoria</state>
+        <zip>3084</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Perth</city>
+        <state>Western Australia</state>
+        <zip>6009</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Melbourne</city>
+        <zip>3000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Salzburg</city>
+        <zip>5020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Wien</city>
+        <zip>1090</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1090</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Bruxelles</city>
+        <zip>1200</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Edegem</city>
+        <zip>2650</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cross Cancer Institute</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T6G 1Z2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bc Cancer Agency - Vancouver Centre</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V5Z 4E6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>London Regional Cancer Program</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>N6A 4L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Ottawa Hospital Cancer Centre</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1H 8L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Princess Margaret Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 2M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chum-Hopital Notre-Dame</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H2L 4M1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chu De Quebec - Universite Laval</name>
+      <address>
+        <city>Quebec</city>
+        <zip>G1R 2J6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Brno</city>
+        <zip>656 53</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Hradec Kralove</city>
+        <zip>500 05</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Praha 2</city>
+        <zip>128 08</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Praha 8</city>
+        <zip>180 81</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Aarhus University Hospital</name>
+      <address>
+        <city>Aarhus C</city>
+        <zip>8000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Herlev University Hospital</name>
+      <address>
+        <city>Herlev</city>
+        <zip>2730</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Odense University Hospital</name>
+      <address>
+        <city>Odense</city>
+        <zip>5000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Helsinki</city>
+        <zip>00029</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Tampere</city>
+        <zip>33521</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Boulogne Billancourt</city>
+        <zip>92104</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Marseille Cedex 5</city>
+        <zip>13385</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Nantes Cedex</city>
+        <zip>44093</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Paris Cedex 10</city>
+        <zip>75475</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Pierre Benite</city>
+        <zip>69310</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Rennes</city>
+        <zip>35042</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Villejuif</city>
+        <zip>94805</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Buxtehude</city>
+        <zip>21614</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Erfurt</city>
+        <zip>99089</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Erlangen</city>
+        <zip>91054</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Essen</city>
+        <zip>45147</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Hannover</city>
+        <zip>30625</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Heidelberg</city>
+        <zip>69120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Kiel</city>
+        <zip>24105</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Leipzig</city>
+        <zip>04103</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Munich</city>
+        <zip>80337</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Tubingen</city>
+        <zip>72076</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Cork</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Dublin</city>
+        <zip>01</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Dublin</city>
+        <zip>7</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Dublin</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Galway</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Jerusalem</city>
+        <zip>91120</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Tel Hashomer</city>
+        <zip>52621</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Bergamo</city>
+        <zip>24127</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Genova</city>
+        <zip>16132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Meldola (FC)</city>
+        <zip>47014</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Milano</city>
+        <zip>20133</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Milano</city>
+        <zip>20141</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Napoli</city>
+        <zip>80131</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Padova</city>
+        <zip>35128</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Roma</city>
+        <zip>00144</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Siena</city>
+        <zip>53100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Amsterdam</city>
+        <zip>1066 CX</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Leiden</city>
+        <zip>2333 ZA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Nijmegen</city>
+        <zip>6525 GA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Auckland</city>
+        <zip>1142</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Oslo</city>
+        <zip>0424</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Bydgoszcz</city>
+        <zip>85-792</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Gdansk</city>
+        <zip>80-952</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Krakow</city>
+        <zip>31-115</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Lodz</city>
+        <zip>93-513</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Warsaw</city>
+        <zip>02-781</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Badalona-Barcelona</city>
+        <zip>08916</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Malaga</city>
+        <zip>29010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Pamplona-Navarra</city>
+        <zip>31192</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Gothenberg</city>
+        <zip>413 45</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Stockholm</city>
+        <zip>171 76</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Geneva</city>
+        <zip>1211</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Lausanne</city>
+        <zip>1011</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>St. Gallen</city>
+        <zip>9007</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>ZB B rich</city>
+        <zip>8091</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Cambridge</city>
+        <state>Cambridgeshire</state>
+        <zip>CB2 2QQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Swansea</city>
+        <state>Carmarthenshire</state>
+        <zip>SA2 8QA</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Glasgow</city>
+        <state>Dumfries &amp; Galloway</state>
+        <zip>G12 0YN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>London</city>
+        <state>Greater London</state>
+        <zip>SW3 6JJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Manchester</city>
+        <state>Greater Manchester</state>
+        <zip>M20 4XB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Northwood</city>
+        <state>Middlesex</state>
+        <zip>HA6 2JR</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Nottingham</city>
+        <state>Nottinghamshire</state>
+        <zip>NG5 1PB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>Czech Republic</country>
+    <country>Denmark</country>
+    <country>Finland</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Ireland</country>
+    <country>Israel</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>New Zealand</country>
+    <country>Norway</country>
+    <country>Poland</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>Switzerland</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Brazil</country>
+    <country>Romania</country>
+    <country>Russian Federation</country>
+    <country>South Africa</country>
+    <country>Turkey</country>
+  </removed_countries>
+  <link>
+    <url>http://ctr.bms.com/ctd/start.do</url>
+    <description>BMS Clinical Trial Information</description>
+  </link>
+  <link>
+    <url>http://www.bms.com/studyconnect/Pages/home.aspx</url>
+    <description>BMS clinical trial educational resource</description>
+  </link>
+  <link>
+    <url>http://www.bms.com/clinical_trials/Pages/Investigator_Inquiry_form.aspx</url>
+    <description>Investigator Inquiry form</description>
+  </link>
+  <link>
+    <url>http://www.fda.gov/MEDWATCH/safety.htm</url>
+    <description>FDA Safety Alerts and Recalls</description>
+  </link>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 29, 2017</lastchanged_date>
+  <firstreceived_date>April 29, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Melanoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+    <mesh_term>Nivolumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

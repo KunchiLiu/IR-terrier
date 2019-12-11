@@ -1,0 +1,2124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="76783">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02105961</url>
+  </required_header>
+  <id_info>
+    <org_study_id>117113</org_study_id>
+    <nct_id>NCT02105961</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of Mepolizumab as an Add-on Treatment in Chronic Obstructive Pulmonary Disease (COPD)</brief_title>
+  <official_title>Study MEA117113: Mepolizumab vs. Placebo as Add-on Treatment for Frequently Exacerbating COPD Patients Characterized by Eosinophil Level</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GlaxoSmithKline</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multi-centered, randomized, placebo-controlled, double-blind, parallel group,
+      trial evaluating 2 doses of mepolizumab against placebo given every 4 weeks through
+      subcutaneous (SC) injection. In severe COPD subjects, sputum eosinophils levels are elevated
+      to similar levels as those seen in severe asthmatics. It is hypothesized that the reduction
+      of eosinophils with mepolizumab in COPD subjects would translate into a reduction of COPD
+      exacerbations. The study will evaluate the efficacy and safety of mepolizumab, in subjects
+      who are at or above the baseline blood eosinophil count of at least 150 cells/microliters
+      who exacerbate despite regular use of maximal tolerated therapy, appropriate for severe COPD
+      subjects, in the 12 months prior to study start. In total, 660 subjects will be randomized
+      in 1:1:1 ratio to receive mepolizumab 300 mg, mepolizumab 100mg, or placebo administered SC.
+      The total duration of subject participation will be approximately 62 weeks, consisting of a
+      1 to 2 week screening period, 52-week treatment period and 8-week follow-up period.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>April 2014</start_date>
+  <completion_date type="Actual">January 2017</completion_date>
+  <primary_completion_date type="Actual">January 2017</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Investigator, Outcomes Assessor</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Frequency of moderate/severe exacerbations</measure>
+    <time_frame>Up to Week 52</time_frame>
+    <description>Moderate exacerbations are defined as COPD exacerbations that require either systemic corticosteroids (intramuscular (IM), intravenous, or oral) and/or antibiotics. Severe exacerbations are defined as COPD exacerbations requiring hospitalization or result in death.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to first moderate/severe exacerbation</measure>
+    <time_frame>Up to Week 52</time_frame>
+    <description>The endpoint will be measured as the first instance of a moderate or severe exacerbation. Severe exacerbations are defined per protocol as clinically significant exacerbations that require in-patient hospitalization (i.e.&gt;=24 hours) or result in death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of COPD exacerbations requiring emergency department (ED) visits and/or hospitalizations</measure>
+    <time_frame>Up to Week 52</time_frame>
+    <description>The endpoint will be the measurement of number of times COPD exacerbations results in an emergency department visits and/ or hospitalizations during the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in mean total St. George's Respiratory Questionnaire-COPD (SGRQ-C) score</measure>
+    <time_frame>Baseline to Week 52</time_frame>
+    <description>The SGRQ-C is a 40-item subject questionnaire, designed to measure health impairment by addressing the frequency of respiratory symptoms and the subject's current state.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in COPD assessment test (CAT) score</measure>
+    <time_frame>Baseline to Week 52</time_frame>
+    <description>CAT is an 8-item questionnaire used for measuring the health status of subjects with COPD. Subjects will rate their experience on a 6-point scale, ranging from 0 (no impairment ) to 5 (maximum impairment) with a scoring range of 0-40, wherein higher scores indicate greater disease impact.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">674</enrollment>
+  <condition>Pulmonary Disease, Chronic Obstructive</condition>
+  <arm_group>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Each subject will receive 100 mg mepolizumab SC injection every 4 weeks (13 administrations during 52 week treatment period) along with their baseline standard of care COPD medication</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Each subject will receive 300 mg mepolizumab SC injection every 4 weeks (13 administrations during 52 week treatment period) along with their baseline standard of care COPD medication</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Each subject will receive placebo (0.9percent sodium chloride) SC injection every 4 weeks (13 administrations during 52 week treatment period) their baseline standard of care COPD medication</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Mepolizumab</intervention_name>
+    <description>Humanised IgG antibody (IgG1, kappa) with human heavy and light chain frameworks, provided as a lyophilised cake in sterile vial. Vial to be reconstituted with Sterile Water for Injection, just prior to use.</description>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_label>Arm 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Sterile 0.9percent sodium chloride solution</description>
+    <arm_group_label>Arm 3</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  COPD diagnosis: Subjects with a clinically documented history of COPD for at least 1
+             year in accordance with the following definition by the American Thoracic
+             Society/European Respiratory Society
+
+          -  Severity of COPD: Subjects must present with the following: a measured pre and
+             post-salbutamol Forced expiratory volume in one second/ Forced vital capacity
+             (FEV1/FVC) ratio of &lt;0.70 at Visit 1 to confirm the diagnosis of COPD; a measured
+             post-salbutamol FEV1&gt; 20 percent and &lt;=80 percent of predicted normal values
+             calculated using National Health and Nutrition Examination Survey (NHANES) III
+             reference equations at Visit 1
+
+          -  History of exacerbations: A well documented history (e.g., medical record
+             verification) in the 12 months prior to Visit 1 of ; at least two moderate COPD
+             exacerbations. Moderate is defined as the use of systemic corticosteroids
+             (intramuscular (IM), intravenous, or oral) and/or treatment with antibiotics or; at
+             least one severe COPD exacerbation. Severe is defined as having required
+             hospitalization. Note: At least one exacerbation must have occurred while the subject
+             was taking Inhaled corticosteroid (ICS) plus long acting beta2-agonist (LABA) plus
+             long acting muscarinic antagonist (LAMA). Prior use of antibiotics alone does not
+             qualify as a moderate exacerbation unless the use was specifically for the treatment
+             of worsening symptoms of COPD.
+
+          -  Concomitant COPD therapy: A well documented requirement for optimized standard of
+             care background therapy that includes Inhaled corticosteroid (ICS) plus 2 additional
+             COPD medications (i.e., triple therapy) for the 12 months prior to Visit 1 and meets
+             the following criteria: Immediately prior to Visit 1, minimum of 3 months of use of
+             an; Inhaled corticosteroid at a dose &gt;= 500 micrograms (mcg)/day fluticasone
+             propionate dose equivalent plus; LABA and LAMA.
+
+        For subjects who are not continually maintained on ICS plus LABA plus LAMA for the entire
+        12 months prior to Visit 1 use of following is allowed (but not in the 3 months
+        immediately prior to Visit 1); inhaled corticosteroid at a dose &gt;=500 mcg/day fluticasone
+        propionate dose equivalent plus; a LABA or a LAMA and; use of at least one other class of
+        COPD medication (i.e., phosphodiesterase-4-inhibitors, methylxanthines, or a combination
+        of short acting beta2-agonist and short acting muscarinic antagonist).
+
+          -  Informed Consent: Able to give written informed consent prior to participation in the
+             study, which will include the ability to comply with the requirements and
+             restrictions listed in the consent form. Subjects must be able to read, comprehend,
+             and write at a level sufficient to complete study related materials.
+
+          -  Gender: Male or Eligible Female; To be eligible for entry into the study females of
+             child bearing potential must commit to consistent and correct use of an acceptable
+             method of birth control from the time of consent, for the duration of the trial, and
+             for 4 months after last study drug administration.
+
+          -  Age: At least 40 years of age at Visit 1
+
+          -  Smoking status: Subject with confirmed COPD are eligible to participate independent
+             of their smoking status and smoking history, i.e. current smokers, never smokers or
+             ex-smokers can be enrolled into the study. Current smokers are defined as those with
+             a history of cigarette smoking of &gt;=10 pack-years [number of pack years = (number of
+             cigarettes per day / 20) x number of years smoked (e.g., 20 cigarettes per day for 10
+             years, or 10 cigarettes per day for 20 years)]. Former smokers are defined as those
+             who meet the definition of a current smoker but have stopped smoking for at least 6
+             months prior to Visit 1. Never smokers are those that do not meet the definition of a
+             current or former smoker.
+
+          -  French subjects: In France, a subject will be eligible for inclusion in this study
+             only if either affiliated to or a beneficiary of a social security category.
+
+        Exclusion Criteria:
+
+          -  Subjects with Asthma: Current and Former Smokers: Subjects with a current diagnosis
+             of asthma (those with a prior history are eligible if they meet inclusion criteria
+             for a current diagnosis of COPD); Never-Smokers: Subjects with any history of asthma.
+
+          -  Other respiratory disorders: The investigator must judge that COPD is the primary
+             diagnosis accounting for the clinical manifestations of the lung disease. Subjects
+             with alpha1-antitrypsin deficiency as the underlying cause of COPD are excluded.
+             Also, excluded are subjects with active tuberculosis, lung cancer, bronchiectasis,
+             sarcoidosis, lung fibrosis, primary pulmonary hypertension, interstitial lung
+             diseases or other active pulmonary diseases. Subjects are also excluded if
+             maintenance use of bi-level positive airway pressure is required for the treatment of
+             respiratory disorder.
+
+          -  COPD stability: Subjects with pneumonia, exacerbation, lower respiratory infection
+             within the 4 weeks prior to Visit 1.
+
+          -  Lung resection: Subjects with lung volume reduction surgery within the 12 months
+             prior to Visit 1.
+
+          -  Pulmonary rehabilitation program: Participation in the acute phase of a pulmonary
+             rehabilitation program within 4 weeks prior to Visit 1. Subjects who are in the
+             maintenance phase of a pulmonary rehabilitation program are not excluded.
+
+          -  Oxygen: Subjects receiving treatment with oxygen more than 4.0 liters/minute (L/min).
+             While breathing supplemental oxygen, subjects should demonstrate an oxyhemoglobin
+             saturation greater than or equal to 89 percent.
+
+          -  12-lead Electrocardiography (ECG) finding: An abnormal and significant ECG finding
+             from the 12-lead ECG conducted at Visit 1, if considered to be clinically significant
+             by the Investigator. 12-lead ECGs will be over-read by a centralized independent
+             cardiologist to assist in consistent evaluation of subject eligibility. Results from
+             the 12-lead ECG over-read must be received prior to assessing eligibility at Visit 2.
+
+          -  Unstable or life threatening cardiac disease: Subjects with any of the following
+             would be excluded: Myocardial infarction or unstable angina in the last 6 months ;
+             Unstable or life threatening cardiac arrhythmia requiring intervention in the last 3
+             months ; New York Heart Association (NYHA) Class IV Heart failure
+
+          -  Other diseases/abnormalities: Subjects with (historical or) current evidence of
+             clinically significant, neurological, psychiatric, renal, hepatic, immunological,
+             endocrine (including uncontrolled diabetes or thyroid disease) or haematological
+             abnormalities that are uncontrolled. Significant is defined as any disease that, in
+             the opinion of the investigator, would put the safety of the subject at risk through
+             participation, or which would affect the efficacy or safety analysis if the
+             disease/condition exacerbated during the study.
+
+          -  Eosinophilic disease: Subjects with other conditions that could lead to elevated
+             eosinophils such as Hypereosinophilic syndromes including Eosinophilic Granulomatosis
+             with Polyangiitis (EGPA, also known as Churg-Strauss Syndrome), or Eosinophilic
+             Esophagitis.
+
+          -  Parasitic infection: Subjects with a pre-existing helminthes infestation within 6
+             months prior to Visit 1 are also excluded.
+
+          -  Malignancy: A current malignancy or previous history of cancer in remission for less
+             than 12 months prior to Visit 1 (Subjects that had localized carcinoma of the skin or
+             cervix which was resected for cure will not be excluded). South Korea subjects with a
+             diagnosis of malignancy within 5 years of Visit 1 are excluded.
+
+          -  Immunodeficiency: A known immunodeficiency (e.g. human immunodeficiency virus HIV),
+             other than that explained by the use of corticosteroids taken for COPD.
+
+          -  Liver disease: Unstable liver disease (as defined by the presence of ascites,
+             encephalopathy, coagulopathy, hypoalbuminaemia, esophageal or gastric varices, or
+             persistent jaundice), cirrhosis, and known biliary abnormalities (with the exception
+             of Gilbert's syndrome or asymptomatic gallstones). Chronic stable hepatitis B and C
+             are acceptable if subject otherwise meets entry criteria (e.g., presence of hepatitis
+             B surface antigen or positive hepatitis C test result within 3 months of screening)
+
+          -  Monoclonal antibodies: Subjects who have received any monoclonal antibody within 5
+             half-lives of Visit 1.
+
+          -  Investigational medications: Subjects who have received an investigational drug
+             within 30 days of Visit 1, or within 5 drug half-lives of the investigational drug,
+             whichever is longer (this also includes investigational formulations of a marketed
+             product).
+
+          -  Hypersensitivity: Subjects with a known allergy or intolerance to another monoclonal
+             antibody or biologic including history of anaphylaxis to another biologic
+
+          -  Inability to read: In the opinion of the investigator, any subject who is unable to
+             read and/or would not be able to complete study related materials.
+
+          -  Non-compliance: Subjects at risk of non-compliance, or unable to comply with the
+             study procedures. Any infirmity, disability, or geographic location that would limit
+             compliance for scheduled visits.
+
+          -  Questionable validity of consent: Subjects with a history of psychiatric disease,
+             intellectual deficiency, poor motivation or other conditions that will limit the
+             validity of informed consent to participate in the study.
+
+          -  Drug or alcohol abuse: A known or suspected history of alcohol or drug abuse within 2
+             years prior to Visit 1.
+
+          -  Previous participation: Subjects who have previously participated in any study of
+             mepolizumab.
+
+          -  Affiliation with Investigator Site: Is an investigator, sub-investigator, study
+             coordinator, employee of a participating investigator or study site, or immediate
+             family member of the aforementioned that is involved in this study.
+
+        Randomization Criteria
+
+        In order to be randomized to study drug the subject must meet the following randomization
+        criteria at Visit 2:
+
+          -  Blood eosinophils: Documented elevated peripheral blood eosinophil count of &gt;=300
+             cells/microliter within the past 12 months prior to Visit 1; OR A peripheral baseline
+             blood eosinophil count of &gt;=150 cells/microliter from haematology conducted at Visit
+             1
+
+          -  Electronic Diary Compliance: Compliance with completion of the eDiary defined as
+             completion of all questions on 5 or more days out of the 7 days immediately preceding
+             Visit 2.
+
+          -  12-lead ECG: No evidence of an abnormal and significant ECG finding from the 12-lead
+             ECG conducted at Visit 1 as indicated on the over-read provided by the centralized
+             independent cardiologist. Subjects with a QT interval corrected with Fridericia's
+             formulas (QTcF)&gt;=450 msec are not eligible. For subjects with a QRS interval
+             &gt;=120msec, those with QTcF&gt;=480 msec are not eligible. Specific ECG findings that
+             preclude subject eligibility are listed in the protocol.
+
+          -  Abnormal chest X-ray (or Computerized Tomography [CT] scan): No chest X-ray (or CT
+             scan) that reveals evidence of clinically significant abnormalities not believed to
+             be due to the presence of COPD. If a chest X-ray or CT scan is not available within 6
+             months prior to Visit 1, then a chest X-ray must be taken at Visit 1 and the results
+             reviewed prior to randomization. For sites in Germany: If a chest X-ray (or CT scan)
+             within 6 months prior to Screening (Visit 1) is not available, the subject will not
+             be eligible for the study.
+
+          -  Laboratory abnormality: No evidence of clinically significant abnormality in the
+             haematological, biochemical, or urinalysis screen at Visit 1, as judged by the
+             investigator.
+
+          -  Hepatitis B: Subjects who are HBsAg positive or HBcAb positive must not have a HBV
+             DNA level &gt;=2000 International Units (IU)/millilitre (mL).
+
+          -  Liver function test: Subjects must meet the following based on results from sample
+             taken at Visit 1: Alanine aminotransferase (ALT) &lt;2x ULN (upper limit of normal);
+             Alkaline Phosphatase (Alk Phos) &lt;=2x ULN; Bilirubin &lt;=1.5x ULN (isolated
+             bilirubin&gt;1.5x ULN is acceptable if bilirubin is fractionated and direct bilirubin
+             &lt;35 percent)
+
+          -  Pregnancy: No subjects who are pregnant or breastfeeding. Subjects should not be
+             enrolled if they plan to become pregnant during the time of study participation.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>GSK Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>GlaxoSmithKline</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Mobile</city>
+        <state>Alabama</state>
+        <zip>36608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Riverside</city>
+        <state>California</state>
+        <zip>92506</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Upland</city>
+        <state>California</state>
+        <zip>91786</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Broomfield</city>
+        <state>Colorado</state>
+        <zip>80023</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Stamford</city>
+        <state>Connecticut</state>
+        <zip>06902</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Boynton Beach</city>
+        <state>Florida</state>
+        <zip>33436</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>DeLand</city>
+        <state>Florida</state>
+        <zip>32720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Edgewater</city>
+        <state>Florida</state>
+        <zip>32132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32825</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>St. Petersburg</city>
+        <state>Florida</state>
+        <zip>33704</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Adairsville</city>
+        <state>Georgia</state>
+        <zip>30103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Duluth</city>
+        <state>Georgia</state>
+        <zip>30096</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Woodstock</city>
+        <state>Georgia</state>
+        <zip>30189</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Coeur D'Alene</city>
+        <state>Idaho</state>
+        <zip>83814</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Bowling Green</city>
+        <state>Kentucky</state>
+        <zip>42101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Gastonia</city>
+        <state>North Carolina</state>
+        <zip>28054</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Huntersville</city>
+        <state>North Carolina</state>
+        <zip>28078</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97220</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Oaks</city>
+        <state>Pennsylvania</state>
+        <zip>19456</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29406-7108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Easley</city>
+        <state>South Carolina</state>
+        <zip>29640</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29615</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Mt. Pleasant</city>
+        <state>South Carolina</state>
+        <zip>29464</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Rock Hill</city>
+        <state>South Carolina</state>
+        <zip>29732</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Arlington</city>
+        <state>Texas</state>
+        <zip>76012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23225</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23249</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Morgantown</city>
+        <state>West Virginia</state>
+        <zip>26505</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Bahía Blanca</city>
+        <state>Buenos Aires</state>
+        <zip>B8000AAK</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Ciudad Autonoma de Buenos Aires</city>
+        <state>Buenos Aires</state>
+        <zip>C1414AIF</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>La Plata</city>
+        <state>Buenos Aires</state>
+        <zip>1900</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Mar del Plata</city>
+        <state>Buenos Aires</state>
+        <zip>7600</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Berazategui</city>
+        <zip>1886</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>C1425BEN</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Ciudad Autónoma de Buenos Aires</city>
+        <zip>C1121ABE</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Mendoza</city>
+        <zip>5500</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Mendoza</city>
+        <zip>M5500CCG</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Coffs Harbour</city>
+        <state>New South Wales</state>
+        <zip>2450</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Maroubra</city>
+        <state>New South Wales</state>
+        <zip>2035</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Murdoch</city>
+        <state>Western Australia</state>
+        <zip>6150</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Truro</city>
+        <state>Nova Scotia</state>
+        <zip>B2N 1L2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Burlington</city>
+        <state>Ontario</state>
+        <zip>L7N 3V2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5T 3A9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Windsor</city>
+        <state>Ontario</state>
+        <zip>N8X 5A6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>St-Charles-Borromée</city>
+        <state>Quebec</state>
+        <zip>J6E 2B4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Trois Rivieres</city>
+        <state>Quebec</state>
+        <zip>G8T 7A1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Talca</city>
+        <state>Región Del Maule</state>
+        <zip>3460001</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Santiago</city>
+        <state>Región Metro De Santiago</state>
+        <zip>7500692</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Santiago</city>
+        <state>Región Metro De Santiago</state>
+        <zip>7860406</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Santiago</city>
+        <state>Región Metro De Santiago</state>
+        <zip>8242238</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Valparaiso</city>
+        <state>Valparaíso</state>
+        <zip>2341131</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Santiago</city>
+        <zip>7500698</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Santiago</city>
+        <zip>8380453</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Aarhus C</city>
+        <zip>8000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Hvidovre</city>
+        <zip>2650</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kobenhavn NV</city>
+        <zip>2400</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Odense C</city>
+        <zip>5000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Stuttgart</city>
+        <state>Baden-Wuerttemberg</state>
+        <zip>70378</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Ruedersdorf</city>
+        <state>Brandenburg</state>
+        <zip>15562</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Frankfurt</city>
+        <state>Hessen</state>
+        <zip>60389</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Frankfurt</city>
+        <state>Hessen</state>
+        <zip>60596</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Neu-Isenburg</city>
+        <state>Hessen</state>
+        <zip>63263</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Hannover</city>
+        <state>Niedersachsen</state>
+        <zip>30173</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Mainz</city>
+        <state>Rheinland-Pfalz</state>
+        <zip>55131</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Magdeburg</city>
+        <state>Sachsen-Anhalt</state>
+        <zip>39112</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Dresden</city>
+        <state>Sachsen</state>
+        <zip>01307</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Leipzig</city>
+        <state>Sachsen</state>
+        <zip>04357</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Luebeck</city>
+        <state>Schleswig-Holstein</state>
+        <zip>23552</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10717</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Berlin</city>
+        <zip>12157</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Berlin</city>
+        <zip>12203</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Hamburg</city>
+        <zip>22299</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Ehime</city>
+        <zip>791-0281</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Fukui</city>
+        <zip>910-1193</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Fukuoka</city>
+        <zip>811-1394</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Fukushima</city>
+        <zip>960-1295</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Gifu</city>
+        <zip>509-6134</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Hiroshima</city>
+        <zip>722-8503</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Hiroshima</city>
+        <zip>734-8530</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Hokkaido</city>
+        <zip>053-8506</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Hyogo</city>
+        <zip>650-0047</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kagawa</city>
+        <zip>762-8550</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kanagawa</city>
+        <zip>227-8501</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kumamoto</city>
+        <zip>861-1196</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Mie</city>
+        <zip>515-8544</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Miyagi</city>
+        <zip>980-8574</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Miyagi</city>
+        <zip>983-8520</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Miyagi</city>
+        <zip>986-8522</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Oita</city>
+        <zip>876-0813</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Okayama</city>
+        <zip>702-8055</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Okayama</city>
+        <zip>711-0921</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Okinawa</city>
+        <zip>901-2121</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Osaka</city>
+        <zip>573-0153</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Osaka</city>
+        <zip>589-8511</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Osaka</city>
+        <zip>591-8555</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Shimane</city>
+        <zip>693-8501</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Shizuoka</city>
+        <zip>436-0022</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Shizuoka</city>
+        <zip>438-8550</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>103-0027</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>104-8560</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>136-0075</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>142-8666</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>152-0021</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>204-8585</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Anyang-Si Gyeonggi-do</city>
+        <zip>431-070</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Bucheon city, Gyenggi-do</city>
+        <zip>420-767</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Busan</city>
+        <zip>602-715</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Cheongju, Chungcheongbuk-do</city>
+        <zip>361-711</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Daegu</city>
+        <zip>705-703</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Incheon</city>
+        <zip>403-720</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Jeonju-si</city>
+        <zip>561-712</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul,</city>
+        <zip>120-752</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>130-709</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>130-872</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>138-736</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>140-743</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Wonju-si, Kanwon-do</city>
+        <zip>220-701</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Almelo</city>
+        <zip>7609 PP</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Breda</city>
+        <zip>4818 CK</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Den Bosch</city>
+        <zip>5223 GZ</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Groningen</city>
+        <zip>9713 GZ</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Hoofddorp</city>
+        <zip>2134 TM</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Horn</city>
+        <zip>6085 NM</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Leiden</city>
+        <zip>2333 ZA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Sittard-geleen</city>
+        <zip>6162 BG</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Utrecht</city>
+        <zip>3584 CX</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Zutphen</city>
+        <zip>7207 AE</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Bucharest</city>
+        <zip>020125</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Bucharest</city>
+        <zip>050159</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Cluj Napoca</city>
+        <zip>400371</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Cluj-Napoca</city>
+        <zip>400371</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Codlea</city>
+        <zip>505100</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Craiova</city>
+        <zip>200642</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Focsani</city>
+        <zip>620043</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Iasi</city>
+        <zip>700115</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Pitesti</city>
+        <zip>110084</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Ploiesti</city>
+        <zip>100024</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Timisoara</city>
+        <zip>300310</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Humenne</city>
+        <zip>066 01</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Poprad</city>
+        <zip>058 01</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Sala</city>
+        <zip>927 01</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Spisska Nova Ves</city>
+        <zip>052 01</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Vrable</city>
+        <zip>952 01</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kaohsiung</city>
+        <zip>824</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Taichung</city>
+        <zip>404</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Taipei</city>
+        <zip>220</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Taipei</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tau-Yuan County</city>
+        <zip>333</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Dnipropetrovsk</city>
+        <zip>49051</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kharkiv</city>
+        <zip>61035</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kharkiv</city>
+        <zip>61124</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kiev</city>
+        <zip>03680</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kyiv</city>
+        <zip>03680</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Mykolayiv</city>
+        <zip>54003</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Vinnytsia</city>
+        <zip>21018</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Bradford</city>
+        <zip>BD9 6RJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Cambridge</city>
+        <zip>CB2 0QQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Oxford</city>
+        <zip>OX3 7LE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Plymouth</city>
+        <zip>PL6 8DH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Sheffield</city>
+        <zip>S5 7AU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Stevenage</city>
+        <zip>SG1 4AB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>Chile</country>
+    <country>Denmark</country>
+    <country>Germany</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Netherlands</country>
+    <country>Romania</country>
+    <country>Slovakia</country>
+    <country>Taiwan</country>
+    <country>Ukraine</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 3, 2017</lastchanged_date>
+  <firstreceived_date>April 3, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Chronic Obstructive Pulmonary Disease</keyword>
+  <keyword>exacerbations</keyword>
+  <keyword>SB240563</keyword>
+  <keyword>mepolizumab</keyword>
+  <keyword>eosinophils</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Diseases</mesh_term>
+    <mesh_term>Lung Diseases, Obstructive</mesh_term>
+    <mesh_term>Pulmonary Disease, Chronic Obstructive</mesh_term>
+    <mesh_term>Chronic Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

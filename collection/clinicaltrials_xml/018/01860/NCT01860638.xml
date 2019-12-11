@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="95573">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01860638</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MO28347</org_study_id>
+    <secondary_id>2012-003138-17</secondary_id>
+    <nct_id>NCT01860638</nct_id>
+  </id_info>
+  <brief_title>A Comparison of Continuous Bevacizumab (Avastin) Treatment or Placebo in Addition to Lomustine Followed by Standard of Care After Disease Progression in Participants With Glioblastoma</brief_title>
+  <official_title>A Double-blind, Placebo-controlled, Randomized, Phase IIIb Trial Evaluating the Efficacy and Safety of Addition of Continuous Multiple Line Bevacizumab Treatment to Lomustine in Second (2nd)-Line Followed by Standard of Care (SOC) in Third (3rd)-Line and Beyond Compared to Addition of Placebo, Following First Progression of Disease (PD1) in Patients With Glioblastoma (GBM) After First (1st)-Line Treatment With Radiotherapy, Temozolomide and Bevacizumab</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hoffmann-La Roche</source>
+  <brief_summary>
+    <textblock>
+      This multicenter, double-blind, placebo-controlled, randomized study will evaluate the
+      efficacy and safety of the addition of bevacizumab or placebo treatment to lomustine in
+      second-line treatment and standard of care (SOC) in third-line treatment following disease
+      progression after first-line treatment in participants with newly diagnosed glioblastoma.
+      All enrolled participants will receive first-line treatment with radiotherapy, temozolomide
+      and bevacizumab (10 milligrams per kilogram per week [mg/kg/week] intravenously [IV] every 2
+      weeks). At the first disease progression (PD1), eligible participants will be randomized to
+      receive lomustine plus either bevacizumab (10 mg/kg/week IV every 2 weeks) or placebo for
+      2nd-line treatment. After further disease progression (PD2), participants will receive a
+      standard of care agent and continued bevacizumab or placebo for 3rd-line treatment.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>August 2013</start_date>
+  <completion_date type="Anticipated">December 2016</completion_date>
+  <primary_completion_date type="Anticipated">December 2016</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall survival, defined as time from randomization (at PD1) to death from any cause</measure>
+    <time_frame>approximately 3 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Health-related quality of life: EORTC QLQ-BN20</measure>
+    <time_frame>approximately 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Resource utilization (EQ-5D)</measure>
+    <time_frame>approximately 5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Second-line progression-free survival</measure>
+    <time_frame>approximately 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Third-line progression-free survival</measure>
+    <time_frame>approximately 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Response rates: Proportion of participants with a best overall response of complete response (CR) or partial response (PR)</measure>
+    <time_frame>approximately 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rates: Proportion of participants with a best overall response of CR, PR or stable disease</measure>
+    <time_frame>approximately 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response</measure>
+    <time_frame>approximately 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence, nature and severity of adverse events</measure>
+    <time_frame>approximately 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health-related quality of life: European Organization for Research and Treatment of Cancer quality of life questionnaire (EORTC QLQ)-C30 and BN20</measure>
+    <time_frame>approximately 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neurocognitive function tests</measure>
+    <time_frame>approximately 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Resource utilization (hospitalizations, EQ-5D)</measure>
+    <time_frame>approximately 3 years</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">299</enrollment>
+  <condition>Glioblastoma</condition>
+  <arm_group>
+    <arm_group_label>1st-line treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive first-line treatment with radiotherapy, temozolomide and bevacizumab (10 milligrams per kilogram per week [mg/kg/week] IV every 2 weeks).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Post-PD1, Bevacizumab + Lomustine (2nd-line)/SOC (3rd-line)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive lomustine plus either bevacizumab (10 mg/kg/week IV every 2 weeks) or placebo.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Post-PD1, Placebo + Lomustine (2nd-line)/SOC (3rd-line)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will receive a SOC agent and continued bevacizumab or placebo for 3rd-line treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bevacizumab</intervention_name>
+    <description>Bevacizumab will be administered at a dose of 10 mg/kg IV every 2 weeks, followed by 15 mg/kg IV every 3 weeks until disease progression (PD1).</description>
+    <arm_group_label>1st-line treatment</arm_group_label>
+    <arm_group_label>Post-PD1, Bevacizumab + Lomustine (2nd-line)/SOC (3rd-line)</arm_group_label>
+    <other_name>Avastin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lomustine</intervention_name>
+    <description>Lomustine will be administered orally at a dose of 90 milligrams per meter square (mg/m^2; may be increased to 110 mg/m^2) once every 6 weeks.</description>
+    <arm_group_label>Post-PD1, Bevacizumab + Lomustine (2nd-line)/SOC (3rd-line)</arm_group_label>
+    <arm_group_label>Post-PD1, Placebo + Lomustine (2nd-line)/SOC (3rd-line)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Post-PD1: Bevacizumab placebo will be administered IV every 2 weeks.</description>
+    <arm_group_label>Post-PD1, Bevacizumab + Lomustine (2nd-line)/SOC (3rd-line)</arm_group_label>
+    <arm_group_label>Post-PD1, Placebo + Lomustine (2nd-line)/SOC (3rd-line)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Radiotherapy</intervention_name>
+    <description>Radiotherapy wil be administered as standard first-line treatment.</description>
+    <arm_group_label>1st-line treatment</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SOC</intervention_name>
+    <description>Post-PD1: SOC agent indicated for use in 3rd- and subsequent lines of treatment at the Investigator's discretion.</description>
+    <arm_group_label>Post-PD1, Bevacizumab + Lomustine (2nd-line)/SOC (3rd-line)</arm_group_label>
+    <arm_group_label>Post-PD1, Placebo + Lomustine (2nd-line)/SOC (3rd-line)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Temozolomide</intervention_name>
+    <description>Temozolomide will be adminsistered daily at standard doses orally.</description>
+    <arm_group_label>1st-line treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Adult participants greater than or equal to (&gt;=) 18 years of age
+
+          -  Newly diagnosed, histologically confirmed glioblastoma not previously treated with
+             chemotherapy or radiotherapy
+
+          -  If female and not postmenopausal (less than [&lt;] 12 months of amenorrhea) or
+             surgically sterile, must agree to use a highly effective contraceptive method during
+             the treatment period and for at least 6 months after the last dose of study drug
+
+          -  Karnofsky performance status (KPS) &gt;= 60
+
+          -  Mandatory tissue collection during pre-study surgery or biopsy for confirmation of
+             the diagnosis and pathology
+
+          -  Craniotomy or intracranial biopsy site must be adequately healed. Study treatment
+             should be initiated &gt; 28 days following the last surgical procedure
+
+        Principal eligibility criteria at the time of randomization (following PD1)
+
+          -  Documented disease progression
+
+          -  Eligibility for 2nd-line treatment with lomustine and bevacizumab as investigational
+             medicinal products
+
+          -  Patients for whom operation or re-operation is indicated before 2nd-line treatment
+             starts, tissue submission is mandatory
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status is 0-2 when starting
+             2nd-line treatment
+
+          -  Bevacizumab was well tolerated and treatment interruption lasted not more than 60
+             days
+
+        Exclusion Criteria:
+
+          -  Any prior chemotherapy for glioblastoma and low grade astrocytomas
+
+          -  Any prior radiotherapy to the brain or prior radiotherapy resulting in a potential
+             overlap in the radiation field
+
+          -  Prior or current anti-angiogenic treatment
+
+          -  Treatment with any other investigational drug within 28 days or 2 investigational
+             agent half-lives (whichever is longer) prior to first study treatment
+
+          -  Inadequate hematological, renal or liver function
+
+          -  Inadequately controlled hypertension
+
+          -  Prior history of gastrointestinal perforation or abscess
+
+          -  Clinically significant cardiovascular disease, New York Heart Association (NYHA) &gt;=
+             Grade II congestive heart failure, or serious cardiac arrhythmia uncontrolled by
+             medication or potentially interfering with protocol treatment
+
+          -  History or evidence of central nervous system disease unrelated to cancer unless
+             adequately treated with standard medical therapy
+
+          -  History or evidence of inherited bleeding diathesis or significant coagulopathy at
+             risk of bleeding
+
+          -  Serious non-healing wound, active ulcer, or untreated bone fracture
+
+          -  Known hypersensitivity to any component of Avastin/placebo or any of the study drugs
+
+          -  Active infection requiring intravenous antibiotics at start of study treatment
+
+          -  Other malignancy within 5 years prior to study enrollment, except for carcinoma in
+             situ of the cervix, basal or squamous cell skin cancer, localized prostate cancer or
+             ductal carcinoma in situ treated with curative intent
+
+          -  Pregnant or lactating women
+
+          -  Participation in any other study
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>Hoffmann-La Roche</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <address>
+        <city>Graz</city>
+        <zip>8036</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Innsbruck</city>
+        <zip>6020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Linz</city>
+        <zip>4020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Salzburg</city>
+        <zip>5020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Wien</city>
+        <zip>1090</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Wien</city>
+        <zip>1100</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Sofia</city>
+        <zip>1303</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N 4N2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H3A 2B4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Zagreb</city>
+        <zip>10000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tartu</city>
+        <zip>50406</zip>
+        <country>Estonia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Besancon</city>
+        <zip>25030</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bobigny</city>
+        <zip>93009</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bordeaux</city>
+        <zip>33075</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bron</city>
+        <zip>69677</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Caen</city>
+        <zip>14033</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Dijon</city>
+        <zip>21079</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lille</city>
+        <zip>59037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Marseille</city>
+        <zip>13385</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Nancy</city>
+        <zip>54000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Paris</city>
+        <zip>75651</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Toulouse Cedex 9</city>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kifisia</city>
+        <zip>14564</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Marousi</city>
+        <zip>15123</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Thessaloniki</city>
+        <zip>56429</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bologna</city>
+        <state>Emilia-Romagna</state>
+        <zip>40133</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Roma</city>
+        <state>Lazio</state>
+        <zip>00168</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Milano</city>
+        <state>Lombardia</state>
+        <zip>20133</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Torino</city>
+        <state>Piemonte</state>
+        <zip>10126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Padova</city>
+        <state>Veneto</state>
+        <zip>35128</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Riga</city>
+        <zip>LV-1038</zip>
+        <country>Latvia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Coimbra</city>
+        <zip>3000-075</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lisboa</city>
+        <zip>1649-035</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Porto</city>
+        <zip>4200-319</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bucuresti</city>
+        <zip>022328</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cluj-napoca</city>
+        <zip>400015</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Targu Mures</city>
+        <zip>540142</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>San Sebastian</city>
+        <state>Guipuzcoa</state>
+        <zip>20014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>San Sebastian</city>
+        <state>Guipuzcoa</state>
+        <zip>20080</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Palma De Mallorca</city>
+        <state>Islas Baleares</state>
+        <zip>07014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Barakaldo</city>
+        <state>Vizcaya</state>
+        <zip>48903</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Badajoz</city>
+        <zip>06080</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Barcelona</city>
+        <zip>08003</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Barcelona</city>
+        <zip>08907</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Barcelona</city>
+        <zip>08916</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cordoba</city>
+        <zip>14004</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Madrid</city>
+        <zip>28034</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Madrid</city>
+        <zip>28050</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Malaga</city>
+        <zip>29010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Salamanca</city>
+        <zip>37007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Linkoeping</city>
+        <zip>58185</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Umea</city>
+        <zip>901 85</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Uppsala</city>
+        <zip>75185</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Adana</city>
+        <zip>00001</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Ankara</city>
+        <zip>06490</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Izmir</city>
+        <zip>35340</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Izmit</city>
+        <zip>31380</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bristol</city>
+        <zip>BS2 8ED</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cambridge</city>
+        <zip>CB2 2QQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>London</city>
+        <zip>N7 9NH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Manchester</city>
+        <zip>M2O 4BX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Sutton</city>
+        <zip>SM2 5PT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Austria</country>
+    <country>Bulgaria</country>
+    <country>Canada</country>
+    <country>Croatia</country>
+    <country>Estonia</country>
+    <country>France</country>
+    <country>Greece</country>
+    <country>Italy</country>
+    <country>Latvia</country>
+    <country>Portugal</country>
+    <country>Romania</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>Turkey</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <removed_countries>
+    <country>Albania</country>
+    <country>Argentina</country>
+    <country>Bosnia and Herzegovina</country>
+    <country>Brazil</country>
+    <country>Egypt</country>
+    <country>Ireland</country>
+    <country>Lithuania</country>
+    <country>Mexico</country>
+    <country>Netherlands</country>
+    <country>Serbia</country>
+  </removed_countries>
+  <verification_date>November 2016</verification_date>
+  <lastchanged_date>November 1, 2016</lastchanged_date>
+  <firstreceived_date>May 21, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Glioblastoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Bevacizumab</mesh_term>
+    <mesh_term>Temozolomide</mesh_term>
+    <mesh_term>Dacarbazine</mesh_term>
+    <mesh_term>Lomustine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

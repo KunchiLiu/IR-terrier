@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="23611">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02799407</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00070430</org_study_id>
+    <nct_id>NCT02799407</nct_id>
+  </id_info>
+  <brief_title>Electronic Consent of Numerous Subjects Employing Novel Techniques Trial</brief_title>
+  <acronym>ECONSENT</acronym>
+  <official_title>Electronic Consent of Numerous Subjects Employing Novel Techniques Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Duke University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Duke University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to compare the modular, multi-tiered consent process featured
+      in Apple's ResearchKit (RK) to the standard consent process. The primary objective is to
+      determine whether participants using the ResearchKit consent form have a significantly
+      higher comprehension of the elements of consent than participants using the standard consent
+      form.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this study is to compare the modular, multi-tiered consent process featured
+      in Apple's ResearchKit (RK) to the standard consent process. The primary objective is to
+      determine whether participants using the ResearchKit consent form have a significantly
+      higher comprehension of the elements of consent than participants using the standard consent
+      form. Through this two-arm randomized controlled trial (RCT) 120 participants will be asked
+      to read through either a ResearchKit multi-tiered consent form administered on an iPod Touch
+      device or a standard long-form consent form administered via paper and give their informed
+      consent for a sham research study on health tracking apps. The participants will then be
+      asked to answer a short series of questions (5 minutes) about the consent process in order
+      to measure their subjective and objective comprehension. The main risk from this study is
+      loss of confidentiality of responses, however this risk should be minimal given that
+      protected health information (PHI) will only be collected on the consent document and all
+      information will be stored on Duke Box in a private folder only accessible by the study
+      team.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date>March 2017</start_date>
+  <completion_date type="Anticipated">May 2017</completion_date>
+  <primary_completion_date type="Anticipated">May 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Participant comprehension, as measured by Qualtrics survey</measure>
+    <time_frame>at study conclusion, an average of 15 minutes</time_frame>
+    <description>Participants will complete a questionnaire about the consent form after reading through the consent which will assess their comprehension of the contents of the consent process.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Informed Consent</condition>
+  <arm_group>
+    <arm_group_label>Traditional Long Form Consent</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants will receive the traditional long-form consent form.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ResearchKit Consent</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive the Apple ResearchKit consent form.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>ResearchKit Consent</intervention_name>
+    <description>Multi-tiered consent form using the Apple ResearchKit Platform.</description>
+    <arm_group_label>ResearchKit Consent</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age &gt; 18 years
+
+          -  Able to read and understand study materials which are presented in English
+
+          -  Owns or has access to a smartphone or other smart device such as a tablet or iPod
+
+        Exclusion Criteria:
+
+          -  Any physical limitations which prevent the participant from using mobile and/or touch
+             screen technologies
+
+          -  Employed in a research position, clinical care position, or position which has
+             regular exposure to clinical research
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Richard Bloomfield, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Duke University Health System</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Richard Bloomfield, MD</last_name>
+    <phone>919-636-5565</phone>
+    <email>ricky.bloomfield@duke.edu</email>
+  </overall_contact>
+  <verification_date>June 2016</verification_date>
+  <lastchanged_date>November 29, 2016</lastchanged_date>
+  <firstreceived_date>June 6, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

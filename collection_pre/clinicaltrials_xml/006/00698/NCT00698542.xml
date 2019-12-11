@@ -1,0 +1,18 @@
+<DOC>
+	<DOC>NCT00698542</DOC>
+	<brief_summary>The Patient Safety Screening Tool (PSST) for Sepsis solution is a tool to assist with the early detection of Sepsis and management of the administration of bundle packages as defined by the Institute for Healthcare Improvement (IHI). This web based application relies on integration with bedside medical equipment (BME) data as well as Lab and Registration data so that clinical workflow items can be automated in the fight against Sepsis.</brief_summary>
+	<brief_title>Evaluation of the Patient Safety Screening Tool (PSST) for Sepsis</brief_title>
+	<detailed_description>The workflow that is automated by the PSST for Sepsis solution is tightly integrated with Registration, Bedside Monitoring Equipment (BME), and Lab data. As patients arrive in the unit, workflow activities are started with patient context. Typical implementations of the IHI guidelines for Sepsis screening dictate that patients are rescreened on regular intervals to detect Sepsis. The PSST for Sepsis solution will monitor Lab and BME data stores and continually update the screening forms for a particular patient. It will also alert clinicians when a manual screen is required in the Microsoft InfoPath form. The constant screening loop is managed by the PSST for Sepsis solution and will continue to run until the patient screens positive for Severe Sepsis, or moves to the next workflow of auditing a patient with Sever Sepsis. When patients reach a state of "positive screen" (either manually, or through the automated data monitors) the PSST for Sepsis solution will move this patient from a screening workflow to an auditing workflow automatically. The PSST for Sepsis solution will then monitor the treatment process through Microsoft InfoPath form posts and alert clinicians when treatment goals have not been met. After a successful auditing process and completion of the 6 and 24 hour bundles, the patient will be placed back into a screening workflow. The end result is that patients will remain in a screening/auditing workflow loop until the patient is discharged from the unit.</detailed_description>
+	<mesh_term>Sepsis</mesh_term>
+	<mesh_term>Toxemia</mesh_term>
+	<criteria>Patients that are hospitalized in the Neuro Care Unit (NCU) Patients that are hospitalized in the Vanderbilt Burn Center Patients must be &gt; 18 years of age Patients &lt; 18 years of age</criteria>
+	<gender>All</gender>
+	<minimum_age>18 Years</minimum_age>
+	<maximum_age>N/A</maximum_age>
+	<verification_date>December 2008</verification_date>
+	<keyword>PSST</keyword>
+	<keyword>sepsis</keyword>
+	<keyword>Neuro Care Unit</keyword>
+	<keyword>Surviving Sepsis Campaign</keyword>
+	<keyword>SSC</keyword>
+</DOC>

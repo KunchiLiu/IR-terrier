@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="68345">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02216123</url>
+  </required_header>
+  <id_info>
+    <org_study_id>116564</org_study_id>
+    <nct_id>NCT02216123</nct_id>
+  </id_info>
+  <brief_title>Study to Assess the Incidence of Hemolysis, Safety, and Efficacy of Tafenoquine (SB-252263, WR238605) Versus Primaquine in Subjects With Plasmodium Vivax Malaria</brief_title>
+  <official_title>A Randomized, Double-Blind, Double Dummy, Comparative, Multicenter Study to Assess the Incidence of Hemolysis, Safety, and Efficacy of Tafenoquine (SB-252263, WR238605) Versus Primaquine in the Treatment of Subjects With Plasmodium Vivax Malaria</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Medicines for Malaria Venture</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>GlaxoSmithKline</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective, double-blind, double-dummy, multicenter, comparative study. A total
+      of 300 subjects will be randomized to treatment on Day 1, of which a minimum of 50 female
+      subjects must be enrolled that display moderate glucose-6-phosphate dehydrogenase (G6PD)
+      deficiency (&gt;=40% - &lt;70% of the site median G6PD value). Subjects must have a blood smear
+      that is positive for P. vivax at entry. Subjects will be randomized 2:1 to receive
+      tafenoquine (TQ)/chloroquine(CQ) or the active comparator primaquine (PQ)/CQ. All subjects
+      will receive CQ on Days 1 to 3, followed by TQ or PQ and matching placebo beginning on Day 1
+      or 2. Tafenoquine, or matching placebo, will be given as a single, 300mg dose. Subjects will
+      receive PQ (15mg once daily) or matching placebo for 14 days. The duration of the study is
+      180 days, including screening and randomization to treatment (Day 1), three in-hospital days
+      (Days 1-3), four out-patient visits while on treatment with study medication (Days 5, 8, 11
+      and 15) and seven follow-up visits (Days 22, 29, 60, 90, 120, 150 and 180).
+
+      The primary safety data collected in this study will help to understand the hemolysis risk
+      to both G6PD-normal and G6PD-deficient subjects. The efficacy data produced from this study
+      will support the results for sister study TAF112582, the pivotal phase III efficacy and
+      safety study of the TQ program.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>April 30, 2015</start_date>
+  <completion_date type="Actual">November 4, 2016</completion_date>
+  <primary_completion_date type="Actual">May 16, 2016</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Investigator</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of all subjects with Plasmodium vivax (P. vivax) experiencing clinically relevant hemolysis</measure>
+    <time_frame>Up to Day 180</time_frame>
+    <description>Clinically relevant hemolysis in all subjects is defined as, a decrease in haemoglobin (Hb) of &gt;=30% or &gt;3 gram per decilitre (g/dL) from baseline; or, an overall drop in Hb below 6.0 g/dL.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of female subjects with P. vivax who are moderately (40-70 percent) G6PD deficient experiencing clinically relevant hemolysis</measure>
+    <time_frame>Up to Day 180</time_frame>
+    <description>Clinically relevant hemolysis in all subjects is defined as, a decrease in haemoglobin (Hb) of &gt;=30% or &gt;3 g/dL from baseline; or, an overall drop in Hb below 6.0 g/dL.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with relapse-free efficacy six months post-dosing</measure>
+    <time_frame>After Day 32 of the study Up to day 180</time_frame>
+    <description>Relapse is defined by a positive blood smear with or without P. vivax symptoms. The term &quot;relapse&quot; will be used to describe any recurrence of malaria that occurs after Day 32 of the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with relapse-free efficacy four months post-dosing</measure>
+    <time_frame>After Day 32 of the study Up to day 120</time_frame>
+    <description>Relapse is defined by a positive blood smear with or without vivax symptoms. The term &quot;relapse&quot; will be used to describe any recurrence of malaria that occurs after Day 32 of the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to relapse</measure>
+    <time_frame>After Day 32 of the study Up to day 180</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parasite clearance time</measure>
+    <time_frame>Up to day 180</time_frame>
+    <description>Time needed to clear asexual parasite from the blood defined as parasite numbers falling below the limit of detection in the thick blood smear and remaining undetectable 6-12 hours later.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fever clearance time</measure>
+    <time_frame>Up to day 180</time_frame>
+    <description>Time from first dose of treatment to the time when body temperature falls to normal and remains normal for at least 48 hours.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gametocyte clearance time</measure>
+    <time_frame>Up to day 180</time_frame>
+    <description>Time from first dose until the first slide that was gametocyte negative and remained so at the next slide reading. Subjects with no gametocytes at baseline will be censored, with a time to clearance of zero.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with recrudescence</measure>
+    <time_frame>Up to Day 32</time_frame>
+    <description>Recrudescence is defined as any P. vivax parasitemia occurring on or before Day 32 (i.e., blood stage treatment failure).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of genetically homologous and genetically heterologous P. vivax infections</measure>
+    <time_frame>Up to Day 180</time_frame>
+    <description>Polymerase Chain Reaction (PCR) analysis of Plasmodium species such as PvMSP-1, PvCSP and PvAMA-1 will be used to distinguish between genetically homologous and genetically heterologous infection on all subjects at screening (Day 1; pre-dose), and at all times of potential recrudescence/relapse or re-infection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Healthcare resource use for P. vivax relapses</measure>
+    <time_frame>Up to day 180</time_frame>
+    <description>Healthcare resource use (excluding clinic visits scheduled as part of the study) data will be collected to characterize P. vivax relapse at study enrolment (for the primary P. vivax infection), the Day 15 visit, and at study visits from Day 22 onwards for subjects with confirmed P. vivax parasitemia.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Population pharmacokinetic profile profile for tafenoquine</measure>
+    <time_frame>Days 2, 3, 8, 15, 29 and 60</time_frame>
+    <description>Blood samples will be collected on Days 2, 3, 8, 15, 29 and 60 of the study for pharmacokinetic analyses, including but not limited to oral clearance (CL/F) and volume of distribution (V/F).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of P. falciparum malaria</measure>
+    <time_frame>Up to Day 180</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety as assessed by adverse events</measure>
+    <time_frame>Up to Day 180</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety as assessed by Electrocardiogram (ECG)</measure>
+    <time_frame>12 hours after first dose of blinded study medication, Day 29, at relapse or premature withdrawal visit, assessed Up to Day 180</time_frame>
+    <description>12-lead ECG will be performed in triplicate at screening but single ECGs will be performed subsequently as indicated unless prolonged QTc is seen.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events caused by treatment to prevent P. vivax relapses, especially hemolytic anemia</measure>
+    <time_frame>Up to Day 180</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety as assessed by clinical chemistry parameters</measure>
+    <time_frame>Assessed up to Day 120, and at relapse or premature withdrawal visit</time_frame>
+    <description>Clinical chemistry includes creatine phosphokinase, blood urea nitrogen, serum creatinine, total and indirect bilirubin and liver clinical chemistry.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety as assessed by clinical hematology parameters</measure>
+    <time_frame>Assessed up to Day 120, and at relapse or premature withdrawal visit</time_frame>
+    <description>Hematology includes hemoglobin, hematocrit, red blood cell/white blood cell/platelet counts, mean cell volume, white blood cell differential and reticulocyte count.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety as assessed by clinical urinalysis</measure>
+    <time_frame>Assessed up to Day 120, and at relapse or premature withdrawal visit</time_frame>
+    <description>Urinalysis includes protein, glucose, ketones, bilirubin, blood, nitrites, urobilinogen and leukocyte esterase by dipstick method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Over-the-counter medications purchased during the study for P. vivax relapses</measure>
+    <time_frame>Up to day 180</time_frame>
+    <description>The data will be collected for over-the-counter medications purchase to assess socio-economic impact of P. vivax relapses.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Any travel or other costs incurred in seeking or receiving healthcare during the study for P. vivax relapses</measure>
+    <time_frame>Up to day 180</time_frame>
+    <description>The data will be collected for any travel or other costs incurred in seeking or receiving healthcare during the study for P. vivax relapses, excluding travel for clinic visits scheduled as part of the study .</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time lost from normal occupation during the study due to P. vivax relapses</measure>
+    <time_frame>Up to day 180</time_frame>
+    <description>The data will be collected for to assess time lost from normal occupation during the study for P. vivax relapses, excluding time lost to attend clinic visits scheduled as part of study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between tafenoquine plasma concentration and P. vivax relapses at 4 and 6 month, if data permit</measure>
+    <time_frame>Up to Day 180</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between tafenoquine plasma concentration and change in methemoglobin, if data permit</measure>
+    <time_frame>Up to Day 180</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between tafenoquine plasma concentration and change in hemoglobin, if data permit</measure>
+    <time_frame>Up to Day 180</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety as asessed by vital signs</measure>
+    <time_frame>Up to Day 180</time_frame>
+    <description>Vital signs assessed include height and weight (screening only), blood pressure, temperature, heart rate and respiratory rate.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">251</enrollment>
+  <condition>Malaria, Vivax</condition>
+  <arm_group>
+    <arm_group_label>Tafenoquine+ Chloroquine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All subjects will receive one of two formulations of CQ from Days 1 to 3 (600 mg [2×CQ 300 mg] on Day 1, 600 mg on Day 2 and 300 mg on Day 3, each once daily [OD] orally; OR, 620 mg [4×CQ 155 mg] on Day 1, 620 mg on Day 2 and 310 mg on Day 3, each once daily [OD] orally). Tafenoquine 300mg (2×TQ 150 mg) will be given as a single oral dose on Day 1 or Day 2. Primaquine matching placebo will be given OD orally beginning on Day 1 or Day 2 and continue for 14 days total dosing. All subjects will be followed-up till 180 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Primaquine+ Chloroquine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All subjects will receive one of two formulations of CQ from Days 1 to 3 (600 mg [2×CQ 300 mg] on Day 1, 600 mg on Day 2 and 300 mg on Day 3, each once daily [OD] orally; OR, 620 mg [4×CQ 155 mg] on Day 1, 620 mg on Day 2 and 310 mg on Day 3, each once daily [OD] orally). Primaquine 15mg will be given OD orally beginning on Day 1 or Day 2 and continue for 14 total dosing. Tafenoquine matching placebo will be given as a single oral dose on Day 1 or Day 2. All subjects will be followed-up till 180 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tafenoquine</intervention_name>
+    <description>Tafenoquine will be supplied as a dark pink, capsule-shaped, film-coated tablet that is plain on both sides. Each tablet will contain 150mg TQ.</description>
+    <arm_group_label>Tafenoquine+ Chloroquine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tafenoquine Placebo</intervention_name>
+    <description>Placebo TQ tablets will be supplied as a dark pink, capsule-shaped, film-coated tablet that is plain on both sides, with common excipients of appropriate quality.</description>
+    <arm_group_label>Primaquine+ Chloroquine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Chloroquine</intervention_name>
+    <description>One of two formulations of commercially available generic chloroquine may be utilized in this study:
+tablets containing 500 mg chloroquine phosphate (equivalent to 300 mg chloroquine free base); or,
+tablets containing 250 mg chloroquine phosphate (equivalent to 155 mg chloroquine free base).</description>
+    <arm_group_label>Tafenoquine+ Chloroquine</arm_group_label>
+    <arm_group_label>Primaquine+ Chloroquine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Primaquine</intervention_name>
+    <description>Commercially available primaquine containing primaquine phosphate united states pharmacopeia (USP), 26.3 mg (equivalent to primaquine base 15 mg) will be utilized in this study. Primaquine, a pink film-coated tablet imprinted W on one side and P97 on the other side. The PQ tablets for this study have been over-encapsulated in a Swedish orange size B supro capsule.</description>
+    <arm_group_label>Primaquine+ Chloroquine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Primaquine Placebo</intervention_name>
+    <description>Placebo to match PQ will be supplied as Swedish orange size B supro capsules with common excipients of appropriate quality.</description>
+    <arm_group_label>Tafenoquine+ Chloroquine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  A female is eligible to enter and participate in the study if she is non-pregnant,
+             nonlactating and if she is of: a. Non-childbearing potential defined as:
+             post-menopausal (12 months of spontaneous amenorrhea or &lt;6 months of spontaneous
+             amenorrhea with serum follicle-stimulating hormone &gt;40 milli-International units per
+             milliliter [mIU/mL]), or pre-menopausal and has had a hysterectomy or a bilateral
+             oophorectomy (removal of the ovaries) or a bilateral tubal ligation, negative
+             pregnancy test or, b. Child-bearing potential, has a negative pregnancy test at
+             screening, and agrees to comply with one of the following during the treatment stage
+             of the study and for a period of 90 days after stopping study medication: Use of oral
+             contraceptive, either combined or progestogen alone used in conjunction with double
+             barrier method as defined below. Use of an intrauterine device with a documented
+             failure rate of &lt;1% per year; Use of depo provera injection; Double barrier method
+             consisting of spermicide with either condom or diaphragm; Male partner who is sterile
+             prior to the female subject's entry into the study and is the sole sexual partner for
+             that female. Complete abstinence from intercourse for 2 weeks prior to administration
+             of study medication, throughout the study and for a period of 90 days after stopping
+             study medication.
+
+          -  The subject has a glucose 6-phosphate dehydrogenase (G6PD) value (measured by a
+             quantitative spectrophotometric phenotype assay) as follows: Female subjects must
+             have an enzyme level &gt;= 40 percent of the site median value for G6PD normal males.
+             Male subjects must have an enzyme level &gt;= 70 percent of the site median value for
+             G6PD normal males.
+
+          -  The subject has a screening hemoglobin (Hb) value as follows: Any subject with a G6PD
+             value &gt;=70 percent of the site median value must have a screening Hb value &gt;=7 g/dL;
+             Female subjects with a G6PD value is &gt;=40 - &lt;70 percent of the site median value must
+             have a screening Hb value &gt;=8 g/dL.
+
+          -  The subject has a QT duration corrected for heart rate by Fridericia's Formula (QTcF)
+             &lt;450 milisecond (msec). Reading based on an average of triplicate Electrocardiograms
+             (ECGs) obtained over a brief recording period by machine or manual over-read.
+
+          -  The subject has a positive malarial smear for P. vivax .
+
+          -  The subject has a parasite density of &gt;100 and &lt;100,000 per microliter (μL).
+
+          -  Male or female subject aged 16 years or older (18 years or older in Ethiopia) at the
+             time of signing the informed consent.
+
+          -  The subject agrees to G6PD genotyping.
+
+          -  The subject is willing and able to comply with the study protocol.
+
+          -  The subject or parent/legal guardian, as applicable, has given written informed,
+             dated consent; and the subject has given written assent, if applicable, to
+             participate in the study.
+
+        Exclusion Criteria:
+
+          -  The subject has a mixed malaria infection (identified by a malarial smear or rapid
+             diagnostic test).
+
+          -  The subject has severe P. vivax malaria as defined by World Health Organization (WHO)
+             criteria.
+
+          -  The subject has a history of allergy to chloroquine, mefloquine, tafenoquine,
+             primaquine, or to any other 4- or 8-aminoquinoline.
+
+          -  The subject has a liver alanine aminotransferase (ALT) &gt;2 x upper limit of normal
+             (ULN).
+
+          -  The subject has severe vomiting (no food or inability to take food during the
+             previous 8 hours).
+
+          -  The subject has a clinically significant concurrent illness (e.g., pneumonia,
+             septicemia), pre-existing condition (e.g., renal disease, malignancy), condition that
+             may affect absorption of study medication (e.g., vomiting, severe diarrhea), or
+             clinical signs and symptoms of severe cardiovascular disease (e.g., uncontrolled
+             congestive heart failure, severe coronary artery disease).
+
+          -  The subject has a history of porphyria, psoriasis, or epilepsy.
+
+          -  The subject has a history of significant ocular disease (e.g. surgery to the globe,
+             glaucoma, diabetic retinopathy) or has evidence of corneal or retinal abnormalities
+             identified in the clinical screening ophthalmologic examination.
+
+          -  The subject has taken anti-malarials (e.g., artemisinin-based combination therapies,
+             mefloquine, primaquine, or any other 4- or 8-aminoquinoline) within 30 days prior to
+             study entry.
+
+          -  The subject has taken or will likely require during the study the use of medications
+             from the following classes: Histamine-2 blockers and antacids; Drugs with hemolytic
+             potential; Drugs known to prolong the QTcF interval; The biguanides phenformin and
+             buformin (but excluding metformin); Drugs that are substrates of the renal
+             transporters OCT2, MATE1 AND MATE-2K and have a narrow therapeutic index (for
+             example, the anti-arrhythmic agents dofetilide, procainamide and pilsicainide)
+
+          -  The subject has received treatment with any investigational drug within 30 days of
+             study entry, or within 5 half-lives, whichever is longer.
+
+          -  The subject has a recent history of illicit drug abuse or heavy alcohol intake, such
+             that full participation in the study could be compromised.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>GSK Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>GlaxoSmithKline</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Manaus</city>
+        <state>Amazonas</state>
+        <zip>69040-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Cali</city>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Monteria</city>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Gondar</city>
+        <country>Ethiopia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Jimma</city>
+        <country>Ethiopia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Iquitos</city>
+        <state>Loreto</state>
+        <zip>Iqui 01</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Bangkok</city>
+        <zip>10400</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Mae Sot</city>
+        <zip>63110</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tak</city>
+        <zip>63170</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Ho Chi Minh</city>
+        <country>Vietnam</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+    <country>Colombia</country>
+    <country>Ethiopia</country>
+    <country>Peru</country>
+    <country>Thailand</country>
+    <country>Vietnam</country>
+  </location_countries>
+  <verification_date>April 2017</verification_date>
+  <lastchanged_date>April 6, 2017</lastchanged_date>
+  <firstreceived_date>June 19, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Tafenoquine</keyword>
+  <keyword>Plasmodium vivax</keyword>
+  <keyword>Hemolysis</keyword>
+  <keyword>Primaquine</keyword>
+  <keyword>Chloroquine</keyword>
+  <keyword>Glucose-6-phosphate dehydrogenase (G6PD)</keyword>
+  <keyword>Relapse</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Malaria</mesh_term>
+    <mesh_term>Malaria, Vivax</mesh_term>
+    <mesh_term>Hemolysis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Primaquine</mesh_term>
+    <mesh_term>Chloroquine</mesh_term>
+    <mesh_term>Chloroquine diphosphate</mesh_term>
+    <mesh_term>Tafenoquine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="143281">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01235546</url>
+  </required_header>
+  <id_info>
+    <org_study_id>F090323006</org_study_id>
+    <secondary_id>NIH 1R01HD064729-01A1</secondary_id>
+    <nct_id>NCT01235546</nct_id>
+  </id_info>
+  <brief_title>Study of Effectiveness and Safety of Azithromycin-based Extended-spectrum Prophylaxis to Prevent Post Cesarean Infection</brief_title>
+  <acronym>C/SOAP</acronym>
+  <official_title>Cesarean Section Optimal Antibiotic Prophylaxis Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Alan Tita</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Texas</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of North Carolina</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Mission Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ochsner Health System</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The University of Texas Health Science Center, Houston</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Columbia University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Utah</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Mississippi Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Alabama at Birmingham</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Cesarean Section Optimal Antibiotic Prophylaxis (C/SOAP) study is a large pragmatic
+      multi-center randomized clinical trial designed to evaluate the comparative effectiveness
+      and safety of azithromycin-based extended-spectrum antibiotic prophylaxis (azithromycin plus
+      standard narrow-spectrum cephalosporin) relative to standard single-agent cephalosporin
+      (preferably prior to surgical incision) to prevent post-cesarean infection.
+
+      Hypothesis: Compared to narrow-spectrum prophylaxis (i.e. cefazolin alone, or clindamycin if
+      cephalosporin allergy) prior to surgical incision, the addition of extended-spectrum
+      prophylaxis (azithromycin + cefazolin) reduces the incidence of post-cesarean infection.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>May 2011</start_date>
+  <completion_date type="Actual">December 2015</completion_date>
+  <primary_completion_date type="Actual">December 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double Blind (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Composite of endometritis and/or wound infection and/or other post-cesarean infections (occurring within 6 weeks of delivery)</measure>
+    <time_frame>Up to 6 weeks after delivery</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Individual post-cesarean infections: Endometritis, wound infection (including necrotizing fascitis), other infections including abscess, septic thrombosis, pneumonia, pyelonephritis and breast infection</measure>
+    <time_frame>Up 6 weeks after delivery</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Neonatal morbidities including death, RDS, BPD, PVL, suspected or proven sepsis, NEC, IVH and systemic inflammatory response syndrome</measure>
+    <time_frame>Up to 3 months after birth</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>NICU admission</measure>
+    <time_frame>Up to 3 months after birth</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Neonatal readmission</measure>
+    <time_frame>Up to 3 months after birth</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Maternal fever</measure>
+    <time_frame>Up to 6 weeks after delivery</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Maternal postpartum readmission or unscheduled visit</measure>
+    <time_frame>Up to 6 weeks after delivery</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Maternal postpartum antibiotic use</measure>
+    <time_frame>Up to 6 weeks after delivery</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Composite Maternal serious adverse events</measure>
+    <time_frame>Up to 6 weeks after delivery</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Composite neonatal serious adverse events</measure>
+    <time_frame>Up to 3 months after birth</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Infant pyloric stenosis</measure>
+    <time_frame>up to 3 months after birth</time_frame>
+    <description>Any diagnosis of pyloric stenosis based on clinical presentation and radiological and/or surgical confirmation</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Post-cesarean infection by chorioamnionic colonization with ureaplasmas</measure>
+    <time_frame>Up to 6 weeks after delivery</time_frame>
+    <description>Does the impact of extended regimen vary by the presence or absence of ureaplasmas at randomization?</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Effect modifiers</measure>
+    <time_frame>Up to 6 weeks after delivery</time_frame>
+    <description>Does the impact of extended prophylaxis vary by specific factors including obesity, wound size, duration from administration to incision</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">2013</enrollment>
+  <condition>Endometritis</condition>
+  <condition>Wound Infection</condition>
+  <condition>Abscess</condition>
+  <condition>Surgical Site Infection</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>250 cc normal saline</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Azithromycin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Azithromycin</intervention_name>
+    <description>500 mg in 250 cc normal saline 1 time dose</description>
+    <arm_group_label>Azithromycin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>250 cc normal saline</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Pregnant Women aged 14 years and over at ≥ 24 weeks' viable gestation who will undergo
+        unscheduled/non-elective cesareans with either:
+
+          1. Labor (spontaneous or induced): active labor (ongoing contractions and at least 4cm
+             dilated or contractions for at least 4 hours with documented cervical change of ≥1cm
+             dilatation or ≥50% effacement), or
+
+          2. Membrane rupture (standardized to duration of at least 4 hours prior to
+             randomization).
+
+        Exclusion Criteria:
+
+          -  Patient unwilling or unable to provide consent
+
+          -  Multiple pregnancy
+
+          -  Known azithromycin (or other macrolide) allergy
+
+          -  Vaginal delivery
+
+          -  Elective or scheduled cesarean prior to labor or membrane rupture.
+
+          -  Azithromycin, erythromycin or other macrolide antibiotic use within 7 days of
+             enrollment.
+
+          -  Clinical chorioamnionitis or any other active bacterial infection (e.g.
+             pyelonephritis, pneumonia, abscess) at time of randomization.
+
+          -  Patient is unable or unlikely to follow-up after delivery (e.g. no prenatal care or a
+             non-resident patient)
+
+          -  Fetal demise or major congenital anomaly
+
+          -  Significant liver disease defined as known cirrhosis or elevated transaminases of at
+             least 3-fold upper limit of normal
+
+          -  Significant renal disease defined as serum creatinine known to be &gt;2.0 mg/dl or on
+             dialysis.
+
+          -  Active congestive heart failure (EF&lt;45%) or pulmonary edema
+
+          -  Active diarrhea at time of delivery
+
+          -  Any patient with significant electrolyte abnormalities such as hypokalemia or
+             hypocalcemia
+
+          -  Any patient with structural heart disease or arrhythmias, or taking any medications
+             known to prolong the QT interval
+
+          -  Patient currently being treated with efavirenz, nelfinavir or fluconazole
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>14 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alan TN Tita, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Alabama at Birmingham</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ochsner Clinic Foundation</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Mississippi Medical Center</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mission Hospital</name>
+      <address>
+        <city>Ashville</city>
+        <state>North Carolina</state>
+        <zip>28801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of North Carolina</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599-7516</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Medical Branch</name>
+      <address>
+        <city>Galveston</city>
+        <state>Texas</state>
+        <zip>77555-0587</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Health Science Center at Houston</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77225</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Tita AT, Rouse DJ, Blackwell S, Saade GR, Spong CY, Andrews WW. Emerging concepts in antibiotic prophylaxis for cesarean delivery: a systematic review. Obstet Gynecol. 2009 Mar;113(3):675-82. doi: 10.1097/AOG.0b013e318197c3b6. Review.</citation>
+    <PMID>19300334</PMID>
+  </reference>
+  <reference>
+    <citation>Andrews WW, Hauth JC, Cliver SP, Savage K, Goldenberg RL. Randomized clinical trial of extended spectrum antibiotic prophylaxis with coverage for Ureaplasma urealyticum to reduce post-cesarean delivery endometritis. Obstet Gynecol. 2003 Jun;101(6):1183-9.</citation>
+    <PMID>12798523</PMID>
+  </reference>
+  <reference>
+    <citation>Tita AT, Hauth JC, Grimes A, Owen J, Stamm AM, Andrews WW. Decreasing incidence of postcesarean endometritis with extended-spectrum antibiotic prophylaxis. Obstet Gynecol. 2008 Jan;111(1):51-6. doi: 10.1097/01.AOG.0000295868.43851.39.</citation>
+    <PMID>18165392</PMID>
+  </reference>
+  <verification_date>June 2016</verification_date>
+  <lastchanged_date>June 14, 2016</lastchanged_date>
+  <firstreceived_date>November 4, 2010</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Alabama at Birmingham</investigator_affiliation>
+    <investigator_full_name>Alan Tita</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Pregnancy</keyword>
+  <keyword>Cesarean section</keyword>
+  <keyword>Antibiotic</keyword>
+  <keyword>Infections</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Wound Infection</mesh_term>
+    <mesh_term>Surgical Wound Infection</mesh_term>
+    <mesh_term>Endometritis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

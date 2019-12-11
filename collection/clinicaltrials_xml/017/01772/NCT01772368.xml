@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="102328">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01772368</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FSS-AS-201</org_study_id>
+    <nct_id>NCT01772368</nct_id>
+  </id_info>
+  <brief_title>Dose Ranging Study of the Salmeterol Component of Fluticasone /Salmeterol Spiromax Compared to Fluticasone Spiromax and Advair Diskus in Asthma Subjects</brief_title>
+  <official_title>A Six-Period Crossover, Dose-Ranging Study to Evaluate the Efficacy and Safety of Four Doses of FS Spiromax (Fluticasone Propionate/Salmeterol Xinafoate Inhalation Powder) Administered as Single Doses Compared With Single Doses of Fluticasone Propionate Spiromax and Open Label Advair Diskus in Adult and Adolescent Subjects With Persistent Asthma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Teva Branded Pharmaceutical Products, R&amp;D Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Teva Pharmaceutical Industries</source>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study is to evaluate the dose response, efficacy, and safety
+      of 4 different doses of salmeterol Spiromax (6.25, 12.5, 25, and 50 mcg) each combined with
+      a fixed dose of fluticasone propionate (100 mcg) delivered as Fluticasone/Salmeterol
+      Spiromax® Inhalation Powder (FS Spiromax) when administered as a single dose in subjects 12
+      years of age and older with persistent asthma.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2013</start_date>
+  <completion_date type="Actual">July 2013</completion_date>
+  <primary_completion_date type="Actual">June 2013</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Area under curve (AUC) for forced expiratory volume at one second (FEV1) over 12 hours post-dose</measure>
+    <time_frame>Treatment Visits 1, 2, 3, 4, 5, 6</time_frame>
+    <description>This is the baseline-adjusted area under curve for Forced Expiratory Volume (in liters) in 1 second from zero to 12 hours post inhaler dose. For each pulmonary function test, the subject will be allowed up to five efforts and can stop once three acceptable and two repeatable efforts have been achieved. If repeatability criteria are not met, the highest FEV1 from the best acceptable effort will be chosen. If acceptability criteria are not met, the highest FEV1 from the best effort will be chosen. All baseline FEV1 values during the treatment period will be obtained between 05:30 and 11:00 AM and must be within ± 1 hour of the time of the screening FEV1 time. The primary analysis will be performed using an analysis of covariance.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in FEV1 at 12 hours</measure>
+    <time_frame>Baseline and Treatment Visits 1, 2, 3, 4, 5, 6</time_frame>
+    <description>During all treatment visits (TV1, TV2, TV3, TV4, TV5, and TV6), the highest FEV1 value from three acceptable and two repeatable maneuvers will be obtained at each serial time point. This FEV1 will be compared to the FEV1 from the Screening Visit.</description>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Actual">72</enrollment>
+  <condition>Asthma</condition>
+  <arm_group>
+    <arm_group_label>FS Spiromax 100/6.25 mcg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will inhale 100 mcg fluticasone propionate and 6.25 mcg salmeterol xinafoate per dose.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FS Spiromax 100/12.5mcg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will inhale 100 mcg fluticasone propionate and 12.5 mcg salmeterol xinafoate per dose.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FS Spiromax 100/25</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will inhale 100 mcg fluticasone propionate and 25 mcg salmeterol xinafoate per dose.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FS Spiromax 100/50</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will inhale 100 mcg fluticasone propionate and 50 mcg salmeterol xinafoate per dose.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Fluticasone propionate 100 mcg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will inhale 100 mcg fluticasone propionate per dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Advair Diskus 100/50 mcg</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects will inhale 100 mcg fluticasone propionate and 50 mcg salmeterol xinafoate per dose. This arm is the only arm which is open-label.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>FS Spiromax 6.25</intervention_name>
+    <description>Fluticasone/Salmeterol Spiromax fixed dose of 100 mcg is an inhalation driven, multi-dose dry powder inhaler (DPI) containing salmeterol xinafoate (6.25 mcg)</description>
+    <arm_group_label>FS Spiromax 100/6.25 mcg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fluticasone propionate Spiromax</intervention_name>
+    <description>This inhaler will be provided in a device identical in appearance to FS Spiromax. It is an inhalation driven, multiple-dose, dry powder inhaler (MDPI) containing 100 or 50 mcg of fluticasone propionate per inhalation dispersed in a lactose monohydrate excipient and contained within a reservoir.</description>
+    <arm_group_label>Fluticasone propionate 100 mcg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Advair Diskus</intervention_name>
+    <description>Each inhalation consists of a dry powder formulation of 100 mcg fluticasone propionate and 50 mcg salmeterol xinafoate in a lactose excipient.</description>
+    <arm_group_label>Advair Diskus 100/50 mcg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>FS Spiromax 12.5</intervention_name>
+    <description>Fluticasone/Salmeterol Spiromax fixed dose of 100 mcg is an inhalation driven, multi-dose dry powder inhaler (DPI) containing salmeterol xinafoate (12.5 mcg)</description>
+    <arm_group_label>FS Spiromax 100/12.5mcg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>FS Spiromax 25</intervention_name>
+    <description>Fluticasone/Salmeterol Spiromax fixed dose of 100 mcg is an inhalation driven, multi-dose dry powder inhaler (DPI) containing salmeterol xinafoate (25 mcg)</description>
+    <arm_group_label>FS Spiromax 100/25</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>FS Spiromax 50</intervention_name>
+    <description>Fluticasone/Salmeterol Spiromax fixed dose of 100 mcg is an inhalation driven, multi-dose dry powder inhaler (DPI) containing salmeterol xinafoate (50 mcg)</description>
+    <arm_group_label>FS Spiromax 100/50</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Written informed consent/assent
+
+          -  General good health
+
+          -  Diagnosis of asthma as defined by the National Institutes of Health (NIH)
+
+          -  A best FEV1 of 40%-85% of the predicted normal value during the screening visit (SV)
+
+          -  Subjects need to demonstrate a ≥ 15% reversibility of FEV1 within 30 minutes
+             following 4 inhalations of albuterol inhalation aerosol (if required, spacers are
+             permitted for reversibility testing) at the SV.
+
+          -  Other inclusion criteria apply
+
+        Exclusion Criteria:
+
+          -  History of life-threatening asthma that is defined for this protocol as an asthma
+             episode that required intubation.
+
+          -  Culture-documented or suspected bacterial or viral infection of the upper or lower
+             respiratory tract, sinus, or middle ear that is not resolved within 2 weeks prior to
+             the SV.
+
+          -  Any asthma exacerbation requiring oral corticosteroids within 3 months of the SV. A
+             subject must not have had any hospitalization for asthma within 6 months prior to the
+             SV.
+
+          -  Taking long-acting β-agonists within 2 weeks of the SV
+
+          -  Other exclusion criteria apply.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 10453</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 10452</name>
+      <address>
+        <city>North Dartmouth</city>
+        <state>Massachusetts</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 10455</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 10454</name>
+      <address>
+        <city>Skillman</city>
+        <state>New Jersey</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 10448</name>
+      <address>
+        <city>Raleigh</city>
+        <state>North Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 10451</name>
+      <address>
+        <city>Medford</city>
+        <state>Oregon</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 10449</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 10457</name>
+      <address>
+        <city>El Paso</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 10450</name>
+      <address>
+        <city>New Braunfels</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 10456</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2016</verification_date>
+  <lastchanged_date>July 20, 2016</lastchanged_date>
+  <firstreceived_date>January 17, 2013</firstreceived_date>
+  <firstreceived_results_disposition_date>March 19, 2015</firstreceived_results_disposition_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Asthma</keyword>
+  <keyword>dry powder inhaler</keyword>
+  <keyword>long-acting beta2-agonist</keyword>
+  <keyword>bronchodilation</keyword>
+  <keyword>bronchodilator</keyword>
+  <keyword>metered dose inhaler</keyword>
+  <keyword>inhaled corticosteroid</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Asthma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Fluticasone</mesh_term>
+    <mesh_term>Fluticasone Propionate, Salmeterol Xinafoate Drug Combination</mesh_term>
+    <mesh_term>Salmeterol Xinafoate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted, but a results disposition has been submitted -->
+</clinical_study>

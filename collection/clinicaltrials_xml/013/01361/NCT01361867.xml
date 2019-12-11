@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="133650">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01361867</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2009-P-002030</org_study_id>
+    <nct_id>NCT01361867</nct_id>
+  </id_info>
+  <brief_title>Robotic Assessment of Lower Extremity Motor Learning</brief_title>
+  <official_title>Robotic Assessment of Lower Extremity</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Spaulding Rehabilitation Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Spaulding Rehabilitation Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators hypothesize that the motor learning processes observed in the lower
+      extremity will be similar to those seen in upper arm experiments. Furthermore, the
+      investigators hypothesize that lower extremity motor learning can be quantified with an
+      adapted model of the force-field adaption paradigm (FFAP) introduced by Shadmehr et al. for
+      studying motor learning in the upper extremities.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Current rehabilitation assessment techniques make it difficult to monitor the day to day
+      changes in patient functional abilities. In an ideal setting, one would like to be able to
+      observe how subtle changes in the way that therapy is delivered affects the manner and the
+      time it takes patients to learn the adaptations necessary to recover lost function. To this
+      end, the investigators seek to apply a paradigm that has been used to study motor learning
+      in the upper extremity (the FFAP) to the Lokomat gait orthosis platform. Over the last
+      decade the FFAP has been used to elucidate the mechanisms and processes that contribute to
+      motor learning in the upper extremity. The broad acceptance of this paradigm within the
+      motor control community sets a precedent for application to the lower extremity and its use
+      in clinical environments.
+
+      Implementation of the FFAP in the Lokomat system will allow motor learning to be assessed
+      during lower extremity motor tasks. Such a tool could be used to systemically assess the
+      effectiveness of different aspects of therapy, such as the effects of training session
+      duration, number of exercise repetitions, inter-trial (inter-session) intervals, and
+      magnitude of perturbation.
+
+      In this initial pilot, the investigators seek to apply our Lokomat implementation of the
+      FFAP to healthy adult subjects in order to understand the feasibility of this approach and
+      form a database of healthy subject learning rates. This initial step will allow us to bridge
+      the scientific gap between lower extremity and upper limb motor learning research, while
+      yielding data that can serve as a basis of comparison for future studies with patients.
+      Additionally, such a methodology would suggest new avenues of research for lower limb motor
+      learning and create an increased understanding of the motor principles that govern the
+      spectrum of human movements.
+
+      Ultimately, by understanding the fundamental motor learning principles that drive
+      neurorehabilitation the investigators can better understand what makes rehabilitation
+      successful and attempt to better improve current rehabilitation protocols.
+
+      Before the testing session begins, the subject will be placed within the Lokomat by securing
+      subjects at the trunk, pelvis, and lower extremities using adjustable cuffs with Velcro
+      straps, so that the hip and knee joints are aligned to those of the Lokomat. Each testing
+      session will begin with walking for approximately 5 minutes in the standard clinical mode of
+      operation.
+
+      Optional use of body weight support and foot straps can be used to ensure subject is walking
+      comfortably within the Lokomat. Clinical mode allows subject to be walked by the Lokomat
+      along a predefined trajectory with the pace of the treadmill matched to the robotic legs.
+      After subject has acclimated to Lokomat walking, the motor learning experiments will begin.
+      The format of the motor learning experiments is as follows:
+
+        -  &quot;Free-run mode&quot;- Subject walks as normally as possible within the Lokomat, while the
+           Lokomat compensates for its own weight, but does not restrict the subject's movements.
+           Subject's walking pattern is recorded as the baseline movements of the experiment.
+
+        -  Force field mode- Subject experiences small force perturbations from the Lokomat. These
+           forces are perpendicular to their path (moving the foot upward), velocity dependent,
+           and occur primarily in swing phase (when velocity is greatest). These forces are able
+           to slightly alter the subject's walking trajectory. This generates error which drives
+           the motor learning system and causes adaptation, which takes the form of compensatory
+           forces equal and opposite to the force field. It is important to note that any forces
+           outside the standard Lokomat safety range will not be experienced by the subject since
+           the standard safety limits for clinical use remain present in the device.
+
+        -  Error clamp mode- Similar to the clinical mode, where the subject is limited to walking
+           along a predefined trajectory, during the error clamp mode, the subject is required to
+           walk along their average baseline trajectory (recorded during the Free-run mode), but
+           can do so at the speed of their choosing. Error clamp trials are interspersed between
+           force field trials, and used to measure adaptive compensatory forces. Any forces not
+           used to move the subject along the path are instead compensatory forces that reflect
+           the subject's adaptation. These forces can be measured throughout the experiment and
+           used to infer the subjects' rate of learning.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>February 2010</start_date>
+  <completion_date type="Anticipated">December 2017</completion_date>
+  <primary_completion_date type="Actual">September 2016</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of subject motor adaptation</measure>
+    <time_frame>4 hours</time_frame>
+    <description>rate subject motor adaptation</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Healthy Subjects</condition>
+  <arm_group>
+    <arm_group_label>Lokomat session</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The subject is put on the Lokomat and the program will vary between free walking and perturbed walking.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Lokomat</intervention_name>
+    <description>The subject is put into the Lokomat and the program will vary between free walking and perturbed walking.</description>
+    <arm_group_label>Lokomat session</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Males and females, healthy adults age 18-55 years, with normal gait.
+
+        Exclusion Criteria:
+
+          -  Lower extremity fractures
+
+          -  Current or previous history of orthopedic injury that would prevent safe use of the
+             Lokomat
+
+          -  Body/femoral length size beyond the limits of Lokomat robotic arm (femur length
+             between 350-470mm)
+
+          -  Body weight &gt; 135kg (~298 lbs) maximum limit of the body weight support system
+
+          -  Skin lesions on the lower extremities
+
+          -  Cardiovascular or pulmonary contraindications
+
+          -  Motor system or proprioceptive impairments
+
+          -  Severe cognitive impairments that would prevent the use of the Lokomat
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Paolo Bonato, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Spaulding Rehabilitation Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Spaulding Rehabilitation Hospital Boston</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02129</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2017</verification_date>
+  <lastchanged_date>January 3, 2017</lastchanged_date>
+  <firstreceived_date>May 25, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Spaulding Rehabilitation Hospital</investigator_affiliation>
+    <investigator_full_name>Paolo Bonato</investigator_full_name>
+    <investigator_title>Director, Motion Analysis Laboratory</investigator_title>
+  </responsible_party>
+  <keyword>motor adaptation</keyword>
+  <keyword>force-field adaptation paradigm</keyword>
+  <keyword>lower extremity motor learning</keyword>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

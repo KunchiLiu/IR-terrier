@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="17438">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02879877</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UP0029</org_study_id>
+    <secondary_id>2016-001129-15</secondary_id>
+    <nct_id>NCT02879877</nct_id>
+  </id_info>
+  <brief_title>A First-In-Human Study With a Single Ascending Dose of UCB7858 in Healthy Volunteers</brief_title>
+  <official_title>A Subject-blind, Investigator-blind, Randomized, Placebo-controlled, First-in-human Study Evaluating the Safety/Tolerability and Pharmacokinetics of Single Ascending Intravenous and Subcutaneous Doses of UCB7858 in Healthy Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>UCB Biopharma S.P.R.L.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Parexel</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>UCB Pharma</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is designed to evaluate the safety and tolerability of UCB7858 when given as
+      single ascending doses administered by intravenous or subcutaneous infusion in healthy
+      subjects.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>July 2016</start_date>
+  <completion_date type="Anticipated">September 2017</completion_date>
+  <primary_completion_date type="Anticipated">September 2017</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Participant, Care Provider, Investigator</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of adverse events following administration of UCB7858</measure>
+    <time_frame>Day 1 up to Day 72</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maximum plasma concentration (Cmax)</measure>
+    <time_frame>Predose (Day 1) up to Day 72</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to reach Cmax (tmax)</measure>
+    <time_frame>Predose (Day 1) up to Day 72</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the curve from time 0 to time t, the time of last quantifiable concentration [AUC(0-t last)]</measure>
+    <time_frame>Predose (Day 1) up to Day 72</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the curve from 0 to infinity (AUC-inf)</measure>
+    <time_frame>Predose (Day 1) up to Day 72</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The terminal plasma half-life (t1/2)</measure>
+    <time_frame>Predose (Day 1) up to Day 72</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma clearance (CL) of UCB7858 following intravenous administration</measure>
+    <time_frame>Predose (Day 1) up to Day 72</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Volume of distribution (Vss) for UCB5878 at steady state following intravenous administration</measure>
+    <time_frame>Predose (Day 1) up to Day 72</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Apparent volume of distribution (Vss/F) of UCB5878 following subcutaneous administration</measure>
+    <time_frame>Predose (Day 1) up to Day 72</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Apparent plasma clearance (CL/F) of UCB5878 following subcutaneous administration</measure>
+    <time_frame>Predose (Day 1) up to Day 72</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Absolute bioavailability (F) of UCB5878 given subcutaneously, using the ratio of area under the curve from time 0 to infinity for subcutaneous (sc) administration and intravenous (iv) infusion (AUC 0-inf_sc/AUC_iv)</measure>
+    <time_frame>Predose (Day 1) up to Day 72</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Healthy Volunteers</condition>
+  <arm_group>
+    <arm_group_label>UCB7858 (intravenous)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Various single doses, administered to various cohorts.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo (intravenous)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Single dose placebo comparator for each cohort of iv administration.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>UCB7858 (subcutaneous)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Various single doses, administered to various cohorts.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo (subcutaneous)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Single dose placebo comparator for each cohort of sc administration.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>UCB7858</intervention_name>
+    <arm_group_label>UCB7858 (intravenous)</arm_group_label>
+    <arm_group_label>UCB7858 (subcutaneous)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <arm_group_label>Placebo (intravenous)</arm_group_label>
+    <arm_group_label>Placebo (subcutaneous)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Healthy male and female volunteers who gave their written consent by signing the
+             Informed Consent Form
+
+          -  Subjects in the age between 18 and 55 years old with normal weight as determined by a
+             body mass index (BMI) between 18 and 30 kg/m^2, with a body weight of at least 50 kg
+             for male subjects or 45 kg for female subjects
+
+          -  Subject has clinical laboratory test results within the reference ranges of the
+             testing laboratory (including normal renal and liver function) or test results that
+             are outside the specified ranges and that are deemed as clinically non-significant
+
+          -  Subjects has blood pressure (BP) and pulse within normal range in a supine position
+             after 5 minutes rest
+
+          -  Subject's electrocardiogram (ECG) is considered 'normal' or 'abnormal' but clinically
+             non-significant
+
+        Exclusion Criteria:
+
+          -  Subject has any medical or psychiatric condition that, in the opinion of the
+             Investigator, could jeopardize or would compromise the subject's ability to
+             participate in this study: Subject has any acute or chronic illness which, in the
+             opinion of the Investigator, may place the subject at risk because of participation
+             in the study. Subject has any clinically relevant abnormal findings in physical
+             examination, laboratory tests, vital signs, or ECG, which, in the opinion of the
+             Investigator, may place the subject at risk because of participation in the study.
+
+          -  Tests positive for Human Immunodeficiency Virus (HIV)-1 or-2 antibodies, Hepatitis B
+             Virus (HBV) surface antigen, or Hepatitis C Virus (HCV) antibody
+
+          -  Hepatic impairment
+
+          -  Renal impairment
+
+          -  Any of the following hematological function tests at the Screening Visit: Hemoglobin
+             &lt;111g/L (for women) or &lt;113g/L (for men); Absolute neutrophil count &lt;1.5x10^9/L
+             (&lt;1000/mm^3); Platelets &lt;150x10^9/L
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>UCB Cares</last_name>
+    <role>Study Director</role>
+    <affiliation>+1 877 822 9493 (UCB)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>UCB Cares</last_name>
+    <phone>+1 877 822</phone>
+    <phone_ext>9493</phone_ext>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Up0029 001</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 9, 2017</lastchanged_date>
+  <firstreceived_date>July 29, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>First in human</keyword>
+  <keyword>subjects</keyword>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

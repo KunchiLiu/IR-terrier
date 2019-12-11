@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="42301">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02555657</url>
+  </required_header>
+  <id_info>
+    <org_study_id>3475-119</org_study_id>
+    <secondary_id>2015-001020-27</secondary_id>
+    <secondary_id>153082</secondary_id>
+    <nct_id>NCT02555657</nct_id>
+  </id_info>
+  <brief_title>Study of Single Agent Pembrolizumab (MK-3475) Versus Single Agent Chemotherapy for Metastatic Triple Negative Breast Cancer (MK-3475-119/KEYNOTE-119)</brief_title>
+  <official_title>A Randomized Open-Label Phase III Study of Single Agent Pembrolizumab Versus Single Agent Chemotherapy Per Physician's Choice for Metastatic Triple Negative Breast Cancer (mTNBC) - (KEYNOTE-119)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Merck Sharp &amp; Dohme Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Merck Sharp &amp; Dohme Corp.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this study, participants with metastatic triple negative breast cancer (mTNBC) will be
+      randomly assigned to receive either single agent pembrolizumab or single agent chemotherapy
+      chosen by the treating physician (TPC) in accordance with local regulations and guidelines,
+      consisting of either capecitabine, eribulin, gemcitabine, or vinorelbine. The primary study
+      hypothesis is that pembrolizumab extends progression free and/or overall survival compared
+      to TPC
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>October 2015</start_date>
+  <completion_date type="Anticipated">November 2017</completion_date>
+  <primary_completion_date type="Anticipated">May 2017</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>Up to 28 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Up to 28 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response Rate (ORR)</measure>
+    <time_frame>Up to 28 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate (DCR)</measure>
+    <time_frame>Up to 28 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Metastatic Triple Negative Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Pembrolizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive pembrolizumab 200 mg intravenously (IV) every 3 weeks (Q3W) for up to 35 administrations.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Chemotherapy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants receive capecitabine, eribulin, gemcitabine, or vinorelbine as TPC in accordance with local regulations and guidelines.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>pembrolizumab</intervention_name>
+    <arm_group_label>Pembrolizumab</arm_group_label>
+    <other_name>MK-3475</other_name>
+    <other_name>KEYTRUDA®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>capecitabine</intervention_name>
+    <arm_group_label>Chemotherapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>eribulin</intervention_name>
+    <arm_group_label>Chemotherapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>gemcitabine</intervention_name>
+    <arm_group_label>Chemotherapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>vinorelbine</intervention_name>
+    <arm_group_label>Chemotherapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Centrally confirmed mTNBC
+
+          -  Newly obtained tumor biopsy from metastatic site
+
+          -  Central determination of programmed cell death ligand 1 (PD-L1) tumor status
+
+          -  Received either one or two prior systemic treatments for metastatic breast cancer
+
+          -  Documented disease progression on the most recent therapy
+
+          -  Previously treated with an anthracycline and/or taxane in the neoadjuvant/adjuvant or
+             metastatic setting
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1
+
+          -  Adequate organ function
+
+        Exclusion Criteria:
+
+          -  Participation in another clinical trial within 4 weeks
+
+          -  Monoclonal antibody (mAb) for direct anti-neoplastic treatment within 4 weeks
+
+          -  Chemotherapy, targeted small molecule therapy, or radiation therapy within at least 2
+             weeks
+
+          -  Active autoimmune disease that required systemic treatment in the past 2 years
+
+          -  Diagnosed with immunodeficiency or receiving systemic steroid therapy or another form
+             of immunosuppressive therapy within 7 days
+
+          -  Known additional malignancy that required treatment or progressed in last 5 years
+
+          -  Known active brain metastases and/or carcinomatous meningitis
+
+          -  Prior therapy with an anti-programmed cell death (PD)-1, anti-PD-ligand-1
+             (anti-PD-L1), anti-PD-L2 agent or with an agent directed to another co-inhibitory
+             T-cell receptor (e.g. cytotoxic T-lymphocyte associated protein 4 [CTLA-4], OX-40,
+             CD137) or previously participated in any Merck pembrolizumab (MK-3475) clinical
+             studies
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Merck Sharp &amp; Dohme Corp.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0613)</name>
+      <address>
+        <city>Chandler</city>
+        <state>Arizona</state>
+        <zip>85224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0627)</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0604)</name>
+      <address>
+        <city>San Marcos</city>
+        <state>California</state>
+        <zip>92069</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0617)</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0611)</name>
+      <address>
+        <city>Fort Wayne</city>
+        <state>Indiana</state>
+        <zip>46845</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0612)</name>
+      <address>
+        <city>Cedar Rapids</city>
+        <state>Iowa</state>
+        <zip>52403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0011)</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0007)</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0021)</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0015)</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0040)</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0628)</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89169</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0002)</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0020)</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0044)</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0629)</name>
+      <address>
+        <city>West Harrison</city>
+        <state>New York</state>
+        <zip>10604</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0614)</name>
+      <address>
+        <city>Asheville</city>
+        <state>North Carolina</state>
+        <zip>28806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0008)</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0602)</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45220</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0003)</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0022)</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0025)</name>
+      <address>
+        <city>Porland</city>
+        <state>Oregon</state>
+        <zip>97239-3011</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0027)</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0016)</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0041)</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0026)</name>
+      <address>
+        <city>Sioux Falls</city>
+        <state>South Dakota</state>
+        <zip>57104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0001)</name>
+      <address>
+        <city>Germantown</city>
+        <state>Tennessee</state>
+        <zip>38138</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0019)</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0033)</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78731</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0032)</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0042)</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0036)</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78217</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0034)</name>
+      <address>
+        <city>Tyler</city>
+        <state>Texas</state>
+        <zip>75702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0029)</name>
+      <address>
+        <city>Fairfax</city>
+        <state>Virginia</state>
+        <zip>22031</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0028)</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0035)</name>
+      <address>
+        <city>Salem</city>
+        <state>Virginia</state>
+        <zip>24153</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0605)</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0607)</name>
+      <address>
+        <city>Morgantown</city>
+        <state>West Virginia</state>
+        <zip>26506</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme (Argentina) Inc.</name>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme</name>
+      <address>
+        <city>North Ryde</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MSD Belgium BVBA/SPRL</name>
+      <address>
+        <city>Brussels</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MSD Brasil</name>
+      <address>
+        <city>Sao Paulo</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MDS Colombia SAS</name>
+      <address>
+        <city>Bogota</city>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MSD France</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MSD Sharp &amp; Dohme GmbH</name>
+      <address>
+        <city>Haar</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MSD CARD</name>
+      <address>
+        <city>Guatemala</city>
+        <country>Guatemala</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme (Asia) Ltd.</name>
+      <address>
+        <city>Hong Kong</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MSD Ireland (Human Health) Ltd.</name>
+      <address>
+        <city>Dublin</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MSD Italia S.r.l.</name>
+      <address>
+        <city>Rome</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MSD K.K.</name>
+      <address>
+        <city>Chiyoda-Ku, Tokyo</city>
+        <zip>102-8667</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MSD Korea LTD</name>
+      <address>
+        <city>Seoul</city>
+        <zip>4130</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MSD</name>
+      <address>
+        <city>Petaling Jaya</city>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MSD</name>
+      <address>
+        <city>Mexico City</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme BV</name>
+      <address>
+        <city>Haarlem</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme (New Zealand) Ltd.,</name>
+      <address>
+        <city>Wellington</city>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme, Peru S.R.L.</name>
+      <address>
+        <city>Lima</city>
+        <country>Peru</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme (I.A.) Corporation</name>
+      <address>
+        <city>Makati</city>
+        <country>Philippines</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MSD Polska Sp. Z o.o.</name>
+      <address>
+        <city>Warsaw</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme IDEA, Inc.</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme (I.A.) Corp</name>
+      <address>
+        <city>Singapore</city>
+        <country>Singapore</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MSD (Pty) LTD South Africa</name>
+      <address>
+        <city>Midrand</city>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp and Dohme de Espana S.A.</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MSD Sweden</name>
+      <address>
+        <city>Stockholm</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MSD International GmbH</name>
+      <address>
+        <city>Lucerne 6</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme (I.A.) Corp.</name>
+      <address>
+        <city>Taipei</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MSD (Thailand) Ltd.</name>
+      <address>
+        <city>Bangkok</city>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme Ilaclari Ltd. Sti</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme Ltd.</name>
+      <address>
+        <city>Hoddesdon</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Australia</country>
+    <country>Belgium</country>
+    <country>Brazil</country>
+    <country>Colombia</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Guatemala</country>
+    <country>Hong Kong</country>
+    <country>Ireland</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Malaysia</country>
+    <country>Mexico</country>
+    <country>Netherlands</country>
+    <country>New Zealand</country>
+    <country>Peru</country>
+    <country>Philippines</country>
+    <country>Poland</country>
+    <country>Russian Federation</country>
+    <country>Singapore</country>
+    <country>South Africa</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>Switzerland</country>
+    <country>Taiwan</country>
+    <country>Thailand</country>
+    <country>Turkey</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://keynoteclinicaltrials.com</url>
+    <description>Merck Oncology Clinical Trial Information</description>
+  </link>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 15, 2017</lastchanged_date>
+  <firstreceived_date>September 18, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>PD1</keyword>
+  <keyword>PD-1</keyword>
+  <keyword>PDL1</keyword>
+  <keyword>PD-LI</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Triple Negative Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Gemcitabine</mesh_term>
+    <mesh_term>Capecitabine</mesh_term>
+    <mesh_term>Pembrolizumab</mesh_term>
+    <mesh_term>Vinorelbine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

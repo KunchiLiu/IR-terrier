@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="47312">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02490306</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VGR 01</org_study_id>
+    <nct_id>NCT02490306</nct_id>
+  </id_info>
+  <brief_title>Evaluating Use of Microwave Technology to Differentiate Hemorrhagic Stroke From Infarction Before Arrival to Hospital</brief_title>
+  <acronym>AmbuStroke</acronym>
+  <official_title>An Open Multicenter Study on Suspected Stroke Patients Evaluating the Possibility to Use Microwave Technology to Differentiate Hemorrhage From Infarction Before Arrival to Hospital</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mikael Elam</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Medfield Diagnostics</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Chalmers University of Technology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Sahlgrenska University Hospital, Sweden</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective, open, multicenter study that will enroll patients with clinical signs
+      of stroke in the prehospital setting. A follow-up microwave measurement will be performed by
+      the hospital investigator for the patients admitted to the Stroke Unit at Sahlgrenska
+      University Hospital in conjunction with a CT scan, if this is performed as part of the
+      standard of care within 48 hours of stroke onset. The study assesses the diagnostic
+      capability, measurement performance, safety and usability of Strokefinder MD100 in a
+      prehospital environment.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a prospective, open, multicenter study that will enroll patients with clinical signs
+      of stroke in the prehospital setting.
+
+      When the dispatch center (in Sweden SOS Alarm 112) decides to dispatch an ambulance with
+      highest priority (1, with lights/sirens active) for a suspected case of stroke, a research
+      nurse staffed single responder vehicle equipped with Strokefinder MD100 will be dispatched
+      to the scene, if deemed possible to reach the site ahead of the first ambulance. The
+      research nurse will evaluate if the patient fulfills all of the inclusion criteria and none
+      of the exclusion criteria, on delegation from the prehospital investigator. If confirmed to
+      be suitable for the study the patient is asked about verbal informed consent. If the answer
+      is affirmative the microwave measurement will be performed with the patient lying on the
+      ambulance stretcher or another suitable surface. The procedure will take less than five
+      minutes (the duration of the actual measurement is &lt; 1 minute) and will not interfere with
+      the patient's standard of care during transport or at the receiving hospital. Written
+      informed consent is acquired by the hospital investigator, as soon as possible after the
+      acute phase of care is completed.
+
+      A follow-up microwave measurement will be performed by the hospital investigator for the
+      patients admitted to the Stroke Unit at Sahlgrenska University Hospital/Sahlgrenska in
+      conjunction with a Computed Tomography (CT) scan, if this is performed as part of the
+      standard of care within 48 hours of stroke onset.
+
+      The measurement data will be evaluated for the presence of signal artifacts. The diagnostic
+      ability of the device will be evaluated using a leave-one-out cross validation (LOOCV)
+      method with the CT diagnosis as ground truth. The time from arrival at patient side to
+      completion of measurement procedure, and the duration for the measurement procedure itself,
+      will be measured.
+
+      Safety will be evaluated throughout the study, and a safety follow-up will be performed by
+      the hospital investigator 24 hours after the last microwave measurement is finalized. No
+      further follow-up of patients is planned.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>July 2015</start_date>
+  <completion_date type="Anticipated">April 2017</completion_date>
+  <primary_completion_date type="Anticipated">April 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The diagnostic ability as measured by the area under receiver operating characteristic curve (AUC) of the device for patient groups A and B in the prehospital setting, using the leave-one-out cross validation (LOOCV) method</measure>
+    <time_frame>The diagnostic procedure will take less than 5 minutes</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The diagnostic ability as measured by the AUC of the device for patient group C vs. groups A + B in the prehospital setting, using the LOOCV method</measure>
+    <time_frame>The diagnostic procedure will take less than 5 minutes</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The diagnostic ability as measured by the AUC of the device for patient groups A and B in the hospital setting, using the LOOCV method</measure>
+    <time_frame>The diagnostic procedure will take less than 5 minutes</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of patients that the device will deliver adequate measurement data for in the prehospital setting</measure>
+    <time_frame>The diagnostic procedure will take less than 5 minutes</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean time (± standard deviation) needed from arrival at patient side to completion of measurement procedure in the prehospital setting</measure>
+    <time_frame>The diagnostic procedure will take less than 5 minutes</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean time (± standard deviation) needed to complete the measurement procedure (prehospital and hospital settings)</measure>
+    <time_frame>The diagnostic procedure will take less than 5 minutes</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Any adverse events occurring within 24 hours from the measurement procedure(s)</measure>
+    <time_frame>Within 24 hours</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Stroke</condition>
+  <arm_group>
+    <arm_group_label>Hemorrhagic stroke</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patient group A is defined as patients that are diagnosed with hemorrhagic stroke. Note that the diagnosis is not known in the prehospital phase of the study.
+Interventions: Strokefinder MD100 prehospital measurement; Strokefinder MD100 hospital measurement</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ischemic stroke</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patient group B is defined as patients that are diagnosed with ischemic stroke. Note that the diagnosis is not known in the prehospital phase of the study.
+Interventions: Strokefinder MD100 prehospital measurement; Strokefinder MD100 hospital measurement</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stroke mimics</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patient group C is defined as patients with stroke mimics, i.e. with initially suspected stroke but not diagnosed with stroke. Note that the diagnosis is not known in the prehospital phase of the study.
+Interventions: Strokefinder MD100 prehospital measurement</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Strokefinder MD100 prehospital measurement</intervention_name>
+    <description>A prehospital microwave measurement will be performed with the patient lying on the ambulance stretcher or another suitable surface.</description>
+    <arm_group_label>Hemorrhagic stroke</arm_group_label>
+    <arm_group_label>Ischemic stroke</arm_group_label>
+    <arm_group_label>Stroke mimics</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Strokefinder MD100 hospital measurement</intervention_name>
+    <description>A follow-up microwave measurement will be performed at the hospital in conjunction with a Computed Tomography (CT) scan, if this is performed as part of the standard of care within 48 hours of stroke onset.</description>
+    <arm_group_label>Hemorrhagic stroke</arm_group_label>
+    <arm_group_label>Ischemic stroke</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patient should be ≥ 18 years of age
+
+          -  Patient has clinical signs of stroke
+
+          -  Patient/close relative confirms orally that the patient wants to participate in the
+             study (during acute phase)
+
+          -  Signed Informed Consent Form (after acute phase)
+
+        Exclusion Criteria:
+
+          -  Pregnant or nursing woman
+
+          -  Woman of child bearing potential and not taking adequate contraceptive precautions
+
+          -  Patient diagnosed with a condition associated with risk of poor protocol compliance
+
+          -  The diagnostic procedure is deemed to interfere with the standard of care
+
+          -  Any other condition or symptoms preventing the patient from entering the study,
+             according to the investigator´s judgment
+
+          -  Any patient that according to the Declaration of Helsinki is deemed unsuitable for
+             study enrolment
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mikael Elam, PhD, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sahlgrenska University Hospital, Department of Clinical Neurophysiology</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Ambulans och Prehospital Akutsjukvård</name>
+      <address>
+        <city>Gothenburg</city>
+        <state>Västra Götaland</state>
+        <zip>411 04</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sahlgrenska University Hospital, Stroke Unit</name>
+      <address>
+        <city>Gothenburg</city>
+        <state>Västra Götaland</state>
+        <zip>413 45</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <verification_date>April 2016</verification_date>
+  <lastchanged_date>April 15, 2016</lastchanged_date>
+  <firstreceived_date>June 29, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Sahlgrenska University Hospital</investigator_affiliation>
+    <investigator_full_name>Mikael Elam</investigator_full_name>
+    <investigator_title>Professor, MD</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Stroke</mesh_term>
+    <mesh_term>Infarction</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

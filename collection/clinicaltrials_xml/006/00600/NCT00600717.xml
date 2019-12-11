@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="191425">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00600717</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB 06-04-23</org_study_id>
+    <nct_id>NCT00600717</nct_id>
+  </id_info>
+  <brief_title>Normative High-frequency MEG Database for Children</brief_title>
+  <acronym>MEG</acronym>
+  <official_title>Localizing Sensorimotor, Auditory, Visual and Language Cortices With Magnetoencephalography</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Children's Hospital Medical Center, Cincinnati</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Cincinnati</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Children's Hospital Medical Center, Cincinnati</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this study is to characterize the normal neuromagnetic profile of
+      sensorimotor, auditory, visual, and language cortices in children and adults using
+      magnetoencephalography (MEG). We hope to build the world's first high-frequency MEG data for
+      the developing brain. High-frequency neuromagnetic signals are associated with
+      high-frequency oscillations (HFOs), ripple, fast ripple or high-gamma activation in the
+      brain.
+
+      MEG is a new powerful tool for noninvasively measuring neuromagnetic signals originating
+      from the brain. Since MEG can detect neuromagnetic signals with high spatial and temporal
+      resolution, many brain properties can be studied. For pediatric purposes, MEG can (1)
+      evaluate the functionalities of the sensorimotor, auditory, visual, and language systems
+      non-invasively during normal maturation; (2) identify abnormalities in these functionalities
+      that occur with neurological or neurodevelopmental disorders; and (3) provide a
+      pre-operative &quot;functional map&quot; for neurosurgeons to improve surgical outcomes and decrease
+      morbidity and mortality.
+
+      Previously MEG has been used to provide a single three-dimensional point that estimates the
+      'center' of cortical regions [1,2]. In this study three new techniques will be used to
+      extend the usefulness of MEG beyond this point-like estimate of a cortical primary sensory
+      input or motor output region. The three new techniques are independent component analysis,
+      S-transform, and magnetic spatial filtering. The three new techniques for data analysis will
+      be used in conjunction with non-invasive MEG data collection. The three techniques will
+      provide us with the following important information about the brain: (1) the patterns of
+      synchronization and de-synchronization of evoked cortical activation and (2) the volumetric
+      extent of these active sensorimotor, auditory, visual and language cortices in children and
+      adults. This approach may lead to a new way to study the brain functions in normal children
+      and in children with various brain disorders.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      I. PURPOSE OF STUDY The purpose of this study is to characterize neuromagnetic activation in
+      0-3,000 Hz in normal children and adults using our state of the art MEG system. MEG is an
+      instrument that allows for quantitative measurement of brain function with very high
+      temporal and spatial resolution (see Appendix A). Conventional MEG data analysis methods
+      focus on the magnetic signal in the time domain. In order to extend the usefulness of MEG,
+      we will use three advanced signal-processing techniques to focus on the magnetic signal in
+      the frequency domain. Our MEG system combined with the three advanced signal-processing
+      techniques may open new windows to understanding development of the brain.
+
+      Specifically, we propose to study sensorimotor, auditory, visual and language evoked
+      magnetic fields in normal children. Since the maturation of the brain may be associated with
+      changes in the neuromagnetic signals generated in the sensorimotor, auditory, visual and
+      language systems, one group of adults will be included to clarify the maturational changes.
+      The normative data of the proposed study would be essential for identification of the
+      abnormalities of the brain in various disorders; such data will be the foundation for
+      development of clinical applications in children with MEG. The following aims and
+      exploratory hypothesis will be probed:
+
+      Specific Aim 1. To characterize the evoked sensorimotor, auditory, visual and language
+      evoked magnetic responses The working hypothesis for this aim is that at least one magnetic
+      response will be identified in the averaged magnetic waveforms following sensorimotor,
+      auditory, visual and language stimulation. The latency and amplitude of the evoked magnetic
+      responses can be quantitatively measured and normal, age-adjusted ranges determined.
+      Statistical comparisons between children and adults and across pediatric age ranges will be
+      performed. Furthermore, we will characterize the neuromagnetic activation in each subgroup
+      in children to estimate the maturational changes of the brain.
+
+      The hypotheses for this aim are all exploratory, as our intent is to gather normative data.
+      The following are hypotheses with which we will probe our data:
+
+        1. The neuromagnetic responses evoked by sensorimotor, auditory and visual stimulation be
+           simple patterns.
+
+        2. The neuromagnetic responses evoked by language stimulation would be a complex pattern.
+
+        3. Among the four modalities, for latencies and amplitudes, sensorimotor evoked magnetic
+           response will have the smallest coefficient of variation and language evoked responses
+           will have the largest.
+
+      We have the hardware, software, techniques and skills to quantitatively measure and
+      statistically compare the evoked magnetic responses. The MEG results in normal children will
+      provide a foundation for future studies in diseased populations of children.
+
+      Specific Aim 2. To volumetrically localize the neuromagnetic spectral distributions evoked
+      by sensorimotor, auditory, visual and language stimulation The working hypothesis for this
+      aim is that the three-dimensional distribution of neuromagnetic spectral power can reveal
+      the focal changes around sensorimotor, auditory, visual and language cortices in children.
+      The development of the multichannel MEG system makes it possible to simultaneously record
+      the neuromagnetic activation of the entire cortex. The newest magnetic signal processing
+      techniques have the ability to reconstruct the three-dimensional neuromagnetic activation
+      (see Appendix A, Figure 6, for an example). The frequency-spectral profile can provide novel
+      information about the specific neural activation patterns in eloquent cortex. This
+      exploratory aim will use the same data recorded for Specific Aim 1.
+
+      The hypotheses for this aim are:
+
+        1. Each eloquent brain area (sensorimotor, auditory, visual and language cortex) may be
+           associated with one or more specific frequency bands. The spectral power of certain
+           frequency bands may increase at specific brain areas.
+
+        2. High frequency oscillation can be identified in all the four modalities; however, the
+           three-dimensional distributions of the high frequency oscillation are different across
+           the modalities. The high frequency components may be identified before the conventional
+           magnetic responses.
+
+        3. Synchronization and de-synchronization can be observed in sensorimotor, auditory,
+           visual and language systems. However, the frequency bands and regions are different
+           among the four modalities.
+
+      The three techniques can measure in a reliable, non-biased, and quantitative magnetic
+      manner, signals in the frequency domain. Since conventional MEG data analysis methods focus
+      on magnetic signal in the time domain, the present study can provide a novel neuromagnetic
+      profile of the brain in children. The new objective neuromagnetic parameters will enable us
+      to quantitatively evaluate the brain function and maturation in normal children and possibly
+      in children with brain disorders in the future.
+
+      Specific Aim 3. To quantitatively estimate neuromagnetic maturational changes in
+      sensorimotor, auditory, visual and language systems in children The working hypothesis for
+      this aim is that MEG combined with the three new signal processing techniques can reveal the
+      maturational change of sensorimotor, auditory, visual and language systems in children. The
+      proposed research focuses on children. We will recruit one group of adults as a reference,
+      so that we can differentiate the neuromagnetic maturational change from inter-individual
+      variation. Since most of the previous MEG reports [3,4] on functional brain mapping focus on
+      adults, the MEG data from the adult group also allow us to compare our results with the
+      results from other MEG sites. With the three new signal-processing techniques as well as the
+      conventional methods, this study will provide quantitative data to estimate the maturational
+      changes of the brain. This exploratory aim will use the same data recorded for Specific Aims
+      1 and 2.
+
+      The hypotheses for this aim are:
+
+        1. In normal children, sensorimotor, auditory, visual evoked magnetic responses change
+           linearly with age. However, language evoked magnetic responses may change nonlinearly
+           due to the development of lateralization.
+
+        2. The neuromagnetic differences between girls and boys may be observed in auditory,
+           visual and language systems. However, this phenomenon may be only observable over
+           certain ages.
+
+        3. The maturational changes of the brain may be associated with frequency changes in
+           normal children. The development of the brain in childhood through adulthood can be
+           then quantitatively monitored using MEG.
+
+      Once we complete the studies for specific aim 1 and aim 2, we will address this aim. We
+      consider that this aim can be directly addressed because we will have all the data, analysis
+      software and hardware available. The maturational neuromagnetic results will enable us to
+      objectively evaluate the brain function in various age groups. We consider that the results
+      will contribute to the clinical management of children with developmental brain disorders.
+
+      II. SIGNIFICANCE OF STUDY IN RELATION TO HUMAN HEALTH Many disorders of cerebral function
+      are associated with abnormal patterns of brain activity, which can be assessed using
+      neurophysiology. Neurophysiologic measures can thus provide insight into the underlying
+      biology of both normal and diseased brain.
+
+      MEG is an evolving, noninvasive technology which allows for very precise spatial and
+      temporal measurements of neurophysiological function (see Appendix A). MEG measures very
+      weak magnetic fields originating from the human brain [5]. Its time resolution is under 1
+      millisecond, significantly shorter than that of functional magnetic resonance imaging
+      (fMRI), and its spatial discrimination is 2-3 mm for sources in the cerebral cortex, much
+      better than electroencephalography (EEG) [6,7]. MEG provides unique neurophysiologic data
+      not obtainable by other neuroimaging techniques. The three advanced signal-processing
+      methods can reveal aspects of neuronal function that previously could not be obtained by
+      conventional MEG data analysis methods, such as averaging or dipole modeling.
+
+      We propose to use these MEG signal-processing techniques to characterize the normal
+      neuromagnetic profile of children. Recent changes in the software which we employ in this
+      study do not pose any additional risk to study participants. This study focuses on
+      functional brain mapping using MEG in normal children. These maps will then be available for
+      comparison to children with epilepsy and other neurological disorders.
+
+      For clinical purposes, there are at least two very valuable roles for MEG, functional
+      mapping and determination of the locations of epileptic foci [3,4]. Neurosurgeons frequently
+      face the dilemma of deciding whether operating to remove an epileptogenic region will cause
+      greater harm than the pathology itself. This dilemma is greatest when there is reason to
+      believe that the eloquent cortex involved is critical to either motor skills or speech
+      skills. MEG can solve this problem by localizing critical brain regions and providing a
+      &quot;brain map&quot; to guide the surgeons [3,4]. The &quot;brain map&quot; is also called magnetic source
+      imaging (MSI). MSI is a combination of functional data derived from MEG recording
+      co-registered with structural magnetic resonance imaging (MRI). MSI shows the anatomical
+      location of the functional brain activity.
+
+      Functional brain mapping for children with intractable epilepsy is necessary to reduce
+      surgical morbidity and has broad clinical applicability for several reasons. First, the
+      prevalence, morbidity, and mortality of childhood epilepsy are high, and seizures in about
+      40% of patients cannot be controlled adequately by medication alone. In these patients,
+      surgical treatment must be considered. Second, the spectrum of prenatally and postnatally
+      acquired lesions in children with intractable seizures often creates difficulty in
+      localization of epileptic regions using conventional EEG. Third, epileptogenic tissue is
+      commonly not distinguishable from normal cortex in the operating room, making surgery guided
+      by simple intraoperative visual inspection problematic and accurate pre-surgical anatomic
+      localization critical. Fourth, the standard additional approach to intraoperative
+      localization, which is electrocorticography (ECoG), is more invasive and risky. To record
+      ECoG, the electrodes have to be placed directly on the brain. Disadvantages of the current
+      approach include need for a craniotomy, risks of surgical complications like infection and
+      intracerebral hemorrhage, and time delays during the operative procedure itself. In
+      contrast, MEG is a non-invasive outpatient procedure. It reduces risk, time and expense for
+      the patients.
+
+      In summary, the outcome of the proposed research will be significant. First of all, the
+      normal MEG data obtained in this study will be the basis for identification of the
+      abnormalities in various brain disorders in children. Second, the three new
+      signal-processing methods can open new windows to understanding the brain function. Third,
+      gaining greater experience with data acquisition and statistical analysis with this
+      relatively new clinical tool will help us establish standardized routines for clinical
+      applications. Moreover, the results of the present study can be directly transferred to
+      epilepsy surgery to produce improved surgical outcomes.
+    </textblock>
+  </detailed_description>
+  <overall_status>Unknown status</overall_status>
+  <last_known_status>Recruiting</last_known_status>
+  <start_date>November 2006</start_date>
+  <completion_date type="Anticipated">July 2012</completion_date>
+  <primary_completion_date type="Anticipated">July 2012</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Healthy Children</arm_group_label>
+    <description>This normative study recruit healthy children.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Since this study focuses on normal MEG data, only normal subjects will be studied. Since
+        women, girls, and minorities are included in the population to whom recruiting materials
+        are directed, we anticipate that subject selection will be equitable.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Healthy and cooperative
+
+          -  Ages 6-18 (male or female)
+
+          -  Normal hearing and vision
+
+          -  Normal hand movement
+
+          -  No history for neurological or psychiatric disease
+
+          -  No family history for genetic neurological or psychiatric diseases.
+
+          -  No metal implants such as pacemaker, neuron-stimulator, cochlear device, etc.
+
+        Exclusion Criteria:
+
+          -  If you are taking any medications for depression, neurologic, or psychiatric
+             condition
+
+          -  If you do not feel well, have epilepsy or other brain disorders
+
+          -  If you have had a recent concussion or head injury
+
+          -  If you have any metal, such as dental braces, in your body that would cause &quot;magnetic
+             noise&quot;, you may not be able to be in this study. If you would like, we can do a
+             simple, quick &quot;magnetic noise screening&quot; in the MEG Center, which can tell us whether
+             you can be in the study.
+
+          -  If you have any electrical or metal implants such as pacemakers, neuro-stimulators,
+             or orthopedic pins or plates. The research nurse will discuss all exclusions with you
+             in further detail before the magnetic resonance imaging (MRI) scan.
+
+          -  If you could not pass the pre-experimental screening
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>6 Years</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jing Xiang, Ph.D M.D.</last_name>
+    <role>Study Director</role>
+    <affiliation>Children's Hospital Medical Center, Cincinnati</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Douglas Rose, M.D</last_name>
+    <role>Study Director</role>
+    <affiliation>Children's Hospital Medical Center, Cincinnati</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jing Xiang, PhD</last_name>
+    <phone>5137225844</phone>
+    <email>Jing.xiang@cchmc.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jing Xiang, Ph.D. M.D.</last_name>
+    <phone>5136366303</phone>
+    <email>jing.xiang@cchmc.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>MEG</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yingying Wang, Master</last_name>
+      <phone>513-636-3495</phone>
+      <email>yingying.wang@cchmc.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.cincinnatichildrens.org/research/div/neurology/labs/xiang-lab/</url>
+    <description>Xiang Lab</description>
+  </link>
+  <results_reference>
+    <citation>Kotecha R, Xiang J, Wang Y, Huo X, Hemasilpin N, Fujiwara H, Rose D, deGrauw T. Time, frequency and volumetric differences of high-frequency neuromagnetic oscillation between left and right somatosensory cortices. Int J Psychophysiol. 2009 May;72(2):102-10. doi: 10.1016/j.ijpsycho.2008.10.009. Epub 2008 Nov 14.</citation>
+    <PMID>19041674</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wang Y, Xiang J, Kotecha R, Vannest J, Liu Y, Rose D, Schapiro M, Degrauw T. Spatial and frequency differences of neuromagnetic activities between the perception of open- and closed-class words. Brain Topogr. 2008 Dec;21(2):75-85. doi: 10.1007/s10548-008-0060-7. Epub 2008 Aug 5.</citation>
+    <PMID>18679788</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Liu Y, Xiang J, Wang Y, Vannest JJ, Byars AW, Rose DF. Spatial and frequency differences of neuromagnetic activities in processing concrete and abstract words. Brain Topogr. 2008 Spring;20(3):123-9. Epub 2007 Dec 6.</citation>
+    <PMID>18058218</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Xiang J, Xiao Z. Spatiotemporal and frequency signatures of noun and verb processing: a wavelet-based beamformer study. J Clin Exp Neuropsychol. 2009 Aug;31(6):648-57. doi: 10.1080/13803390802448651. Epub 2008 Dec 22.</citation>
+    <PMID>19105073</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Guo X, Xiang J, Mun-Bryce S, Bryce M, Huang S, Huo X, Wang Y, Rose D, Degrauw T, Gartner K, Song T, Schmit J, Vargus-Adams J. Aberrant high-gamma oscillations in the somatosensory cortex of children with cerebral palsy: a meg study. Brain Dev. 2012 Aug;34(7):576-83. doi: 10.1016/j.braindev.2011.09.012. Epub 2011 Oct 21.</citation>
+    <PMID>22018901</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Korostenskaja M, Pardos M, Kujala T, Rose DF, Brown D, Horn P, Wang Y, Fujiwara H, Xiang J, Kabbouche MA, Powers SW, Hershey AD. Impaired auditory information processing during acute migraine: a magnetoencephalography study. Int J Neurosci. 2011 Jul;121(7):355-65. doi: 10.3109/00207454.2011.560312. Epub 2011 Mar 22.</citation>
+    <PMID>21425948</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zhang R, Wu T, Wang Y, Liu H, Zou Y, Liu W, Xiang J, Xiao C, Yang L, Fu Z. Interictal magnetoencephalographic findings related with surgical outcomes in lesional and nonlesional neocortical epilepsy. Seizure. 2011 Nov;20(9):692-700. doi: 10.1016/j.seizure.2011.06.021. Epub 2011 Jul 22.</citation>
+    <PMID>21782477</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wang Y, Xiang J, Vannest J, Holroyd T, Narmoneva D, Horn P, Liu Y, Rose D, deGrauw T, Holland S. Neuromagnetic measures of word processing in bilinguals and monolinguals. Clin Neurophysiol. 2011 Sep;122(9):1706-17. doi: 10.1016/j.clinph.2011.02.008. Epub 2011 Mar 16.</citation>
+    <PMID>21414839</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Korostenskaja M, Pardos M, Fujiwara H, Kujala T, Horn P, Rose D, Byars A, Brown D, Seo JH, Wang Y, Vannest J, Xiang J, Degrauw T, Näätänen R, Lee KH. Neuromagnetic evidence of impaired cortical auditory processing in pediatric intractable epilepsy. Epilepsy Res. 2010 Nov;92(1):63-73. doi: 10.1016/j.eplepsyres.2010.08.008. Epub 2010 Sep 21.</citation>
+    <PMID>20863661</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Meng L, Xiang J, Kotecha R, Rose D, Zhao H, Zhao D, Yang J, Degrauw T. White matter abnormalities in children and adolescents with temporal lobe epilepsy. Magn Reson Imaging. 2010 Nov;28(9):1290-8. doi: 10.1016/j.mri.2010.03.046. Epub 2010 Jul 24.</citation>
+    <PMID>20656430</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Huo X, Wang Y, Kotecha R, Kirtman EG, Fujiwara H, Hemasilpin N, Degrauw T, Rose DF, Xiang J. High gamma oscillations of sensorimotor cortex during unilateral movement in the developing brain: a MEG study. Brain Topogr. 2011 Jan;23(4):375-84. doi: 10.1007/s10548-010-0151-0. Epub 2010 Jun 25.</citation>
+    <PMID>20577795</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wang X, Xiang J, Wang Y, Pardos M, Meng L, Huo X, Korostenskaja M, Powers SW, Kabbouche MA, Hershey AD. Identification of abnormal neuromagnetic signatures in the motor cortex of adolescent migraine. Headache. 2010 Jun;50(6):1005-16. doi: 10.1111/j.1526-4610.2010.01674.x. Epub 2010 May 7.</citation>
+    <PMID>20487034</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Chen Y, Xiang J, Kirtman EG, Wang Y, Kotecha R, Liu Y. Neuromagnetic biomarkers of visuocortical development in healthy children. Clin Neurophysiol. 2010 Sep;121(9):1555-62. doi: 10.1016/j.clinph.2010.03.029. Epub 2010 Apr 14.</citation>
+    <PMID>20395171</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Huo X, Xiang J, Wang Y, Kirtman EG, Kotecha R, Fujiwara H, Hemasilpin N, Rose DF, Degrauw T. Gamma oscillations in the primary motor cortex studied with MEG. Brain Dev. 2010 Sep;32(8):619-24. doi: 10.1016/j.braindev.2009.09.021.</citation>
+    <PMID>19836911</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Xiang J, Liu Y, Wang Y, Kirtman EG, Kotecha R, Chen Y, Huo X, Fujiwara H, Hemasilpin N, Lee K, Mangano FT, Leach J, Jones B, DeGrauw T, Rose D. Frequency and spatial characteristics of high-frequency neuromagnetic signals in childhood epilepsy. Epileptic Disord. 2009 Jun;11(2):113-25. doi: 10.1684/epd.2009.0253. Epub 2009 May 27.</citation>
+    <PMID>19473946</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Xiang J, Liu Y, Wang Y, Kotecha R, Kirtman EG, Chen Y, Huo X, Fujiwara H, Hemasilpin N, DeGrauw T, Rose D. Neuromagnetic correlates of developmental changes in endogenous high-frequency brain oscillations in children: a wavelet-based beamformer study. Brain Res. 2009 Jun 5;1274:28-39. doi: 10.1016/j.brainres.2009.03.068. Epub 2009 Apr 9.</citation>
+    <PMID>19362072</PMID>
+  </results_reference>
+  <verification_date>February 2012</verification_date>
+  <lastchanged_date>February 8, 2012</lastchanged_date>
+  <firstreceived_date>June 14, 2007</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Children's Hospital Medical Center, Cincinnati</investigator_affiliation>
+    <investigator_full_name>Jing Xiang</investigator_full_name>
+    <investigator_title>Director of MEG Research</investigator_title>
+  </responsible_party>
+  <keyword>Magnetoencephalography(MEG)</keyword>
+  <keyword>Sensorimotor</keyword>
+  <keyword>Auditory</keyword>
+  <keyword>Visual</keyword>
+  <keyword>Language</keyword>
+  <keyword>This study focuses on normal MEG data</keyword>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

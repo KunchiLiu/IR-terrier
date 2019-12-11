@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="100220">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01799889</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GS-US-339-0102</org_study_id>
+    <nct_id>NCT01799889</nct_id>
+  </id_info>
+  <brief_title>Entospletinib in Adults With Relapsed or Refractory Hematologic Malignancies</brief_title>
+  <official_title>A Phase 2, Open-Label Study Evaluating the Efficacy, Safety, Tolerability, and Pharmacodynamics of GS-9973 in Subjects With Relapsed or Refractory Hematologic Malignancies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Gilead Sciences</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Gilead Sciences</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate the efficacy, safety, tolerability, and pharmacodynamics of
+      entospletinib. Participants with the following relapsed or refractory hematologic
+      malignancies will be enrolled into the study: relapsed or refractory chronic lymphocytic
+      leukemia (CLL), mantle cell lymphoma (MCL), diffuse large B-cell lymphoma (DLBCL),
+      follicular lymphoma (FL), or non-FL indolent non-Hodgkin lymphomas (iNHL; including
+      lymphoplasmacytoid lymphoma/ Waldenström macroglobulinemia [LPL/WM], small lymphocytic
+      lymphoma [SLL], or marginal zone lymphoma [MZL]).
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 14, 2013</start_date>
+  <completion_date type="Anticipated">May 2019</completion_date>
+  <primary_completion_date type="Anticipated">December 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression Free Survival</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+    <description>Progression Free Survival (PFS) is defined as the interval from first dose of entospletinib to the earlier of the first documentation of definitive disease progression or death from any cause.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of abnormal laboratory data and adverse events</measure>
+    <time_frame>Up to 4 years</time_frame>
+    <description>This composite endpoint is to assess the safety and tolerability profile of entospletinib. Safety will be assessed by grading of laboratory values and adverse events according to the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.03.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate</measure>
+    <time_frame>Up to 4 years</time_frame>
+    <description>Objective response rate (ORR) will be determined from the participants' best response during entospletinib therapy and will include complete response (CR) and partial response (PR) (or very good partial response [VGPR] or minor response [MR] for subjects with LPL/WM).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response</measure>
+    <time_frame>Up to 4 years</time_frame>
+    <description>Duration of response (DOR) is defined as time from the first response (CR or PR [or VGPR or MR for participants with LPL/WM]) is achieved until the earlier of the first documentation of definitive disease progression or death from any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to response</measure>
+    <time_frame>Up to 4 years</time_frame>
+    <description>Time to response (TTR) is defined as time from the first dose of entospletinib to the first time the response (CR or PR [or VGPR or MR for subjects with LPL/WM]) is achieved.</description>
+  </secondary_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">385</enrollment>
+  <condition>Chronic Lymphocytic Leukemia</condition>
+  <condition>Mantle Cell Lymphoma</condition>
+  <condition>Diffuse Large B-cell Lymphoma</condition>
+  <condition>Non-FL Indolent Non-Hodgkin's Lymphoma</condition>
+  <condition>Follicular Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Entospletinib LPL/WM, SLL, MZL</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with LPL/WM, SLL, and MZL will receive entospletinib 800 mg twice daily.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Entospletinib FL</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with FL will receive entospletinib 800 mg twice daily.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Entospletinib DLBCL</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with DLBCL will receive entospletinib 800 mg twice daily.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Entospletinib MCL</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with MCL will receive entospletinib 800 mg twice daily.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Entospletinib CLL</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with CLL will receive entospletinib 800 mg twice daily.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Entospletinib SDD CLL Prior BTK Exposure</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with CLL who have previously been treated with a bruton tyrosine kinase (BTK) and now have progressive disease will receive entospletinib SDD 400 mg twice daily.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Entospletinib SDD CLL Prior PI3K Exposure</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with CLL who have previously been treated with a phosphatidylinositol 3-kinase (P13K) and now have progressive disease will receive entospletinib SDD 400 mg twice daily.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Entospletinib SDD CLL Dose Ranging</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with CLL who are B-cell receptor (BCR) treatment-naive will be randomized to receive 100, 200, or 400 mg of entospletinib SDD twice daily.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Entospletinib</intervention_name>
+    <description>Entospletinib tablet administered orally</description>
+    <arm_group_label>Entospletinib LPL/WM, SLL, MZL</arm_group_label>
+    <arm_group_label>Entospletinib FL</arm_group_label>
+    <arm_group_label>Entospletinib DLBCL</arm_group_label>
+    <arm_group_label>Entospletinib MCL</arm_group_label>
+    <arm_group_label>Entospletinib CLL</arm_group_label>
+    <other_name>GS-9973</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Entospletinib SDD</intervention_name>
+    <description>Entospletinib spray-dried dispersion (SDD) tablet administered orally</description>
+    <arm_group_label>Entospletinib SDD CLL Prior BTK Exposure</arm_group_label>
+    <arm_group_label>Entospletinib SDD CLL Prior PI3K Exposure</arm_group_label>
+    <arm_group_label>Entospletinib SDD CLL Dose Ranging</arm_group_label>
+    <other_name>GS-9973 SDD</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:
+
+          -  Diagnosis of B-cell iNHL, DLBCL, MCL, or CLL as documented by medical records and
+             with histology based on criteria established by the World Health Organization
+
+          -  For institutions that have Phase 3 or Phase 4 protocols studying idelalisib
+             (Zydelig®) ; individuals with malignancies being studied in these protocols must have
+             failed screening in the respective idelalisib protocol
+
+          -  Prior treatment for lymphoid malignancy requiring treatment for progressive disease
+
+          -  Presence of radiographically measurable lymphadenopathy or extranodal lymphoid
+             malignancy
+
+          -  All acute toxic effects of any prior antitumor therapy resolved to Grade ≤ 1 before
+             the start of study drug
+
+          -  Karnofsky performance status of ≥ 60
+
+          -  Life expectancy of at least 3 months
+
+        Key Exclusion Criteria:
+
+          -  Known histological transformation from iNHL or CLL to an aggressive form of
+             non-Hodgkin lymphoma (ie, Richter transformation) except if the CLL patient is
+             enrolling in the B-cell receptor (BCR) previously treated cohort
+
+          -  Known active central nervous system or leptomeningeal lymphoma
+
+          -  Presence of known intermediate- or high-grade myelodysplastic syndrome
+
+          -  Evidence of ongoing systemic bacterial, fungal, or viral infection at the time of
+             start of study drug
+
+          -  Ongoing liver injury
+
+          -  Ongoing or recent hepatic encephalopathy
+
+          -  Ongoing drug-induced pneumonitis
+
+          -  Ongoing inflammatory bowel disease
+
+          -  Ongoing alcohol or drug addiction
+
+          -  Pregnancy or breastfeeding
+
+          -  History of prior allogeneic bone marrow progenitor cell or solid organ
+             transplantation
+
+          -  Ongoing immunosuppressive therapy
+
+          -  Concurrent participation in an investigational drug trial with therapeutic intent
+
+        NOTE: Other protocol defined Inclusion/ Exclusion criteria may apply.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gilead Study Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Gilead Sciences</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Gilead Study Team</last_name>
+    <email>GS9973alerts@gilead.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35249</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elizabeth Busby</last_name>
+      <phone>205-934-0337</phone>
+      <email>lizbusby@uab.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Andres Forero-Torres, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Arizona Oncology Associates</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Janice Miller</last_name>
+      <phone>520-886-0206</phone>
+      <email>janice.miller@usoncology.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Julie Klinker</last_name>
+      <phone>520-886-0206</phone>
+      <email>julie.klinker@usoncology.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Christopher Di Simone, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Saint Joseph Medical Center</name>
+      <address>
+        <city>Burbank</city>
+        <state>California</state>
+        <zip>91505</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>City of Hope National Medical Center</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sutter Medical Group</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95816</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sharp Memorial Hospital</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Pacific Hematology Oncology Associates</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rocky Mountain Cancer Centers, LLP</name>
+      <address>
+        <city>Boulder</city>
+        <state>Colorado</state>
+        <zip>80303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Heather Harsh</last_name>
+      <phone>303-388-4876</phone>
+      <email>heather.harsh@usoncology.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Bobbie Donnachaidh</last_name>
+      <phone>303-388-4876</phone>
+      <email>bobbie.donnachaidh@usoncology.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>David Andorsky, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente of Colorado</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joshua Gordon</last_name>
+      <phone>303-764-5056</phone>
+      <email>Josh.B.Gordon@kp.org</email>
+    </contact>
+    <investigator>
+      <last_name>Alex Menter</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Norwalk Hospital</name>
+      <address>
+        <city>Norwalk</city>
+        <state>Connecticut</state>
+        <zip>06856</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jennifer Long</last_name>
+      <phone>203-852-2996</phone>
+      <email>Jennifer.Long@norwalkhealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Richard Frank, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center of Central Connecticut</name>
+      <address>
+        <city>Southington</city>
+        <state>Connecticut</state>
+        <zip>06489</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Cancer - Colonial</name>
+      <address>
+        <city>Ft. Myers</city>
+        <state>Florida</state>
+        <zip>33905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nancy Solak</last_name>
+      <phone>239-938-0800</phone>
+      <email>nsolak@flcancer.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Stacy Gilmore</last_name>
+      <phone>239-938-0800</phone>
+      <email>sgilmore@flcancer.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Lowell Hart, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Cancer Institute</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Baptist Cancer Institute</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ocala Oncology Center</name>
+      <address>
+        <city>Ocala</city>
+        <state>Florida</state>
+        <zip>34471</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Valerie Mitchell</last_name>
+      <phone>352-732-4938</phone>
+      <email>valerie.mitchell2@usoncology.com</email>
+    </contact>
+    <investigator>
+      <last_name>Rama Balaraman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Northside Hospital</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30341</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robin Williams</last_name>
+      <phone>770-496-9419</phone>
+      <email>Robin.Williams@gacancer.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Charles Sykes</last_name>
+      <phone>478-745-6130</phone>
+      <phone_ext>x128</phone_ext>
+      <email>charles.sykes@gacancer.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Rodolofo Bordoni, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gwinnett Hospital System Dba The Center for Cancer Care</name>
+      <address>
+        <city>Lawrenceville</city>
+        <state>Georgia</state>
+        <zip>30046</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kathy Frank</last_name>
+      <phone>678-533-1567</phone>
+      <email>kfrank@suburban-hemonc.com</email>
+    </contact>
+    <investigator>
+      <last_name>Christopher Hagenstad, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Northwest Georgia Oncology Center</name>
+      <address>
+        <city>Marietta</city>
+        <state>Georgia</state>
+        <zip>30060</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mary Gilley</last_name>
+      <phone>770-281-5131</phone>
+      <email>mgilley@ngoc.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Latanya Alphonse</last_name>
+      <phone>770-281-5118</phone>
+      <email>lalphonse@ngoc.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Dean Kirkel, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Howard Weiner</last_name>
+      <phone>773-702-2084</phone>
+      <email>hweiner@medicine.bsd.uchicago.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Thirman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Alexian Brothers Hospital Network</name>
+      <address>
+        <city>Elk Grove Village</city>
+        <state>Illinois</state>
+        <zip>60007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Illinois Cancer Specialists</name>
+      <address>
+        <city>Niles</city>
+        <state>Illinois</state>
+        <zip>60714</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pian Moy</last_name>
+      <phone>847-827-9060</phone>
+      <email>pian.moy@usoncology.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Heather Lee</last_name>
+      <phone>847-259-0624</phone>
+      <email>heather.lee@usoncology.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Leonard Klein, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University Simon Cancer Center</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bobbie Frye</last_name>
+      <phone>317-274-2992</phone>
+      <email>fryeba@iupui.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jose Azar, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hematology Oncology Clinic, PLLC</name>
+      <address>
+        <city>Baton Rouge</city>
+        <state>Louisiana</state>
+        <zip>70809</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tufts Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>U Massachusettes Memorial Medical Center</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01655</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan Health System</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Karmanos Cancer Institute</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Minnesota Oncology Hematology, PA</name>
+      <address>
+        <city>Woodbury</city>
+        <state>Minnesota</state>
+        <zip>55125</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lori Green</last_name>
+      <phone>651-735-7414</phone>
+      <email>lori.green@usoncology.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Holly Desma</last_name>
+      <phone>651-735-7414</phone>
+      <email>hollyjo.desma@usoncology.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Patrick Flynn, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hattiesburg Clinic</name>
+      <address>
+        <city>Hattiesburg</city>
+        <state>Mississippi</state>
+        <zip>39401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tammy McBeth</last_name>
+      <phone>601-288-2495</phone>
+      <email>tmcbeth@forrestgeneral.com</email>
+    </contact>
+    <investigator>
+      <last_name>John Hrom, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ellis Fischel Cancer Center-University of Missouri</name>
+      <address>
+        <city>Columbia</city>
+        <state>Missouri</state>
+        <zip>65212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Angela Waller</last_name>
+      <phone>573-884-0053</phone>
+      <email>wallera@health.missouri.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Daniel Kingsley, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Oncology Hematology West PC dba Nebraska Cancer Specialists</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anne Marie Fredrichs</last_name>
+      <phone>402-691-6971</phone>
+      <email>afredrichs@nebraskacancer.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Faye Park</last_name>
+      <phone>402-691-6971</phone>
+      <email>fpark@nebraskacancer.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Stefano Tarantolo, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>One Medical Center Drive</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <zip>03756</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Frederick Lansigan, MD</last_name>
+      <phone>603-650-5529</phone>
+      <email>frederick.lansigan@hitchcock.org</email>
+    </contact>
+    <investigator>
+      <last_name>Frederick Lansigan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hematology Oncology Associates of Northern New Jersey</name>
+      <address>
+        <city>Morristown</city>
+        <state>New Jersey</state>
+        <zip>07962</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michelle MacKenzie</last_name>
+      <phone>973-538-3593</phone>
+      <phone_ext>2338</phone_ext>
+      <email>mmackenzie@hoannj.com</email>
+    </contact>
+    <investigator>
+      <last_name>Charles Farber, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Medical Center</name>
+      <address>
+        <city>Bronx,</city>
+        <state>New York</state>
+        <zip>10467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Alliance</name>
+      <address>
+        <city>Lake Success</city>
+        <state>New York</state>
+        <zip>11042</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Judith Lovecchio</last_name>
+      <phone>516-488-2918</phone>
+      <phone_ext>101</phone_ext>
+      <email>jlovecchio@researchcra.com</email>
+    </contact>
+    <investigator>
+      <last_name>Morton Coleman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of North Carolina</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elizabeth Tita</last_name>
+      <phone>919-966-4432</phone>
+      <email>elizabeth_tita@med.unc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Catherine Coombs, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gabrail Cancer Center Research</name>
+      <address>
+        <city>Canton</city>
+        <state>Ohio</state>
+        <zip>44718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Oncology Hematology Care</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sarah Cornman</last_name>
+      <phone>216-444-4432</phone>
+      <email>Cornmas@ccf.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Basel Rouphail</last_name>
+      <phone>216-636-5643</phone>
+      <email>rouphab@ccf.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Brian Hill, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ohio State University Comprehensive Cancer Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sona Hardikar</last_name>
+      <phone>614-366-0372</phone>
+      <email>sona.hardikar@osumc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Farrukh Awan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Williamette Valley Cancer Center and Research Institute</name>
+      <address>
+        <city>Springfield</city>
+        <state>Oregon</state>
+        <zip>97477</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wade Carson</last_name>
+      <phone>541-741-3451</phone>
+      <email>wade.carson@usoncology.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Betty Olguin</last_name>
+      <phone>541-741-3451</phone>
+      <email>betty.goracke-olguin@usoncology.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jeff Sharman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>South Carolina Oncology Associates, PA</name>
+      <address>
+        <city>Columbia</city>
+        <state>South Carolina</state>
+        <zip>29210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Bon Secours Saint Francis Health System</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Prairie Lakes Health Care System, Inc.</name>
+      <address>
+        <city>Watertown</city>
+        <state>South Dakota</state>
+        <zip>57201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wellmont Medical Associates Oncology and Hematology</name>
+      <address>
+        <city>Bristol</city>
+        <state>Tennessee</state>
+        <zip>37620</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Associates in Oncology and Hematology</name>
+      <address>
+        <city>Chattanooga</city>
+        <state>Tennessee</state>
+        <zip>37421</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Jones Clinic PC</name>
+      <address>
+        <city>Germantown</city>
+        <state>Tennessee</state>
+        <zip>38138</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tennessee Oncology, PLLC</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sara Colding</last_name>
+      <phone>615-524-4127</phone>
+      <email>sara.colding@scresearch.net</email>
+    </contact>
+    <investigator>
+      <last_name>Ian Flinn, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Arlington Cancer Center</name>
+      <address>
+        <city>Arlington</city>
+        <state>Texas</state>
+        <zip>76012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology-Austin Midtown</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andreas Shaw</last_name>
+      <phone>512-614-5935</phone>
+      <email>Andrea.Shaw@usoncology.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Lauren Hendrix</last_name>
+      <phone>512-341-8724</phone>
+      <email>lauren.hendrix@usoncology.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jason Melear, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology-Medical City Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rhonda Waldrop</last_name>
+      <phone>972-566-4291</phone>
+      <email>rhonda.waldrop@usoncology.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Karen Holck</last_name>
+      <phone>972-566-4291</phone>
+      <email>karen.holck@usoncology.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jay Courtright, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Cancer and Blood Disorders</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Care Network of South Texas</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78217</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maria Lopez</last_name>
+      <phone>210-656-7177</phone>
+      <email>Maria.lopez2@usoncology.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Julie MacLaren</last_name>
+      <phone>210-656-7177</phone>
+      <email>Julie.maclaren@usoncology.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Allyson Harroff, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Care Center of South Texas</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Judith Guild</last_name>
+      <phone>281-863-4896</phone>
+      <email>judith.guild@mckesson.com</email>
+    </contact>
+    <investigator>
+      <last_name>Roger Lyons, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Cancer Specialists, PC</name>
+      <address>
+        <city>Fairfax</city>
+        <state>Virginia</state>
+        <zip>22031</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lisa Chapuran</last_name>
+      <phone>703-280-5390</phone>
+      <email>lisa.chapuran@usoncology.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Janine Prime</last_name>
+      <phone>703-280-5390</phone>
+      <email>janine.prime@usoncology.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Dipti Patel-Donnelly, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Cancer Institute</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Nilson</last_name>
+      <phone>804-288-7159</phone>
+      <email>dnilson@vacancer.com</email>
+    </contact>
+    <investigator>
+      <last_name>James Khatcheressian, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia Basin Hematology and Oncology</name>
+      <address>
+        <city>Kennewick</city>
+        <state>Washington</state>
+        <zip>99336</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kari Blankenship</last_name>
+      <phone>206-288-1172</phone>
+      <email>kblanken@seattlecca.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Alisa Bradford</last_name>
+      <phone>206-288-6747</phone>
+      <email>abradfor@seattlecca.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Andrei Shustov, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Northwest Cancer Specialists, PC</name>
+      <address>
+        <city>Vancouver</city>
+        <state>Washington</state>
+        <zip>98684</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Susan Papenfuse</last_name>
+      <phone>360-449-6521</phone>
+      <email>susan.papenfuse@usoncology.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Judith Welch</last_name>
+      <phone>360-449-6522</phone>
+      <email>Judith.welch@usoncology.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Kathryn Kolibaba, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Yakima Valley Memorial Hospital North Star Lodge</name>
+      <address>
+        <city>Yakima</city>
+        <state>Washington</state>
+        <zip>98902</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mark Lapsley</last_name>
+      <phone>509-574-3493</phone>
+      <email>mark.lapsley@yvmh.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Beth Parker</last_name>
+      <phone>509-574-3493</phone>
+      <email>beth.parker@yvmh.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Thomas Giever, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Marshfield Clinic Research Foundation</name>
+      <address>
+        <city>Marshfield</city>
+        <state>Wisconsin</state>
+        <zip>54449</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mary Spindler</last_name>
+      <phone>715-387-9444</phone>
+      <email>spindler.mary@mcrf.mfldclin.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ali Bseiso, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Waukesha Memorial Hospital</name>
+      <address>
+        <city>Waukesha</city>
+        <state>Wisconsin</state>
+        <zip>53188</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chanda Miller</last_name>
+      <phone>262-928-5539</phone>
+      <email>Chanda.miller@phci.org</email>
+    </contact>
+    <investigator>
+      <last_name>Timothy Wassenaar, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Victoria Regional Health Centre</name>
+      <address>
+        <city>Barrie</city>
+        <state>Ontario</state>
+        <zip>L4M 6M2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kim Marsh-Gray</last_name>
+      <phone>705-728-9090</phone>
+      <phone_ext>43340</phone_ext>
+      <email>marshk@rvh.on.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Michele Harris</last_name>
+      <phone>705-728-9090</phone>
+      <phone_ext>43342</phone_ext>
+      <email>harrism@rvh.on.ca</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Derek Nay, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sir Mortimer B. Davis-Jewish General Hospital</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H3T 1E2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cara Lau</last_name>
+      <phone>514-340-8222</phone>
+      <phone_ext>8325</phone_ext>
+      <email>clau@jgh.mcgill.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Monica Dobocan</last_name>
+      <phone>514-340-8222</phone>
+      <phone_ext>8326</phone_ext>
+      <email>mdobocan@jgh.mcgill.ca</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Sarit Assouline</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 31, 2017</lastchanged_date>
+  <firstreceived_date>February 13, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>GS-US-339-0102</keyword>
+  <keyword>SYK inhibitor</keyword>
+  <keyword>GS-9973</keyword>
+  <keyword>entospletinib</keyword>
+  <keyword>CLL</keyword>
+  <keyword>leukemia</keyword>
+  <keyword>lymphoma</keyword>
+  <keyword>MCL</keyword>
+  <keyword>DLBCL</keyword>
+  <keyword>iNHL</keyword>
+  <keyword>FL</keyword>
+  <keyword>MZL</keyword>
+  <keyword>LPL</keyword>
+  <keyword>SLL</keyword>
+  <keyword>WM</keyword>
+  <keyword>Waldenström's macroglobulinemia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Follicular</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Leukemia, Lymphoid</mesh_term>
+    <mesh_term>Leukemia, Lymphocytic, Chronic, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Mantle-Cell</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

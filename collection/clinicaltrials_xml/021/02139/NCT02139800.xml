@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="74193">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02139800</url>
+  </required_header>
+  <id_info>
+    <org_study_id>819208</org_study_id>
+    <secondary_id>1U01HD072906-01A1</secondary_id>
+    <nct_id>NCT02139800</nct_id>
+  </id_info>
+  <brief_title>Sustained Aeration of Infant Lungs Trial</brief_title>
+  <acronym>SAIL</acronym>
+  <official_title>Sustained Aeration of Infant Lungs Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a 2-arm randomized, controlled, multi-center clinical trial to determine which
+      of two strategies at birth are best to optimally aerate the lung of preterm infants.
+      Specifically we will determine in 600 infants of 23-26 weeks gestational age (GA) requiring
+      respiratory support at birth which of two lung opening strategies - either a standard
+      PEEP/CPAP of 5-7 cm H2O in the delivery room (DR), as compared to early lung recruitment
+      using Sustained Inflation (SI) in the DR, will result in a lower rate of the combined
+      endpoint of death or bronchopulmonary dysplasia (BPD) at 36 weeks gestational age.
+
+      Hypotheses:
+
+        1. Early lung recruitment with SI superimposed upon standard PEEP/CPAP in the DR will
+           reduce the need for mechanical ventilation in the first seven days of life, and reduce
+           need for surfactant use; and
+
+        2. A policy of DR SI on standard PEEP/CPAP recruitment will confer better outcomes at 36
+           weeks post-menstrual age (PMA) than standard PEEP/CPAP
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The SAIL trial aims to provide evidence for changing policy or standard of care. The context
+      of this trial is an unacceptable rate of poor long-term outcomes of preterm infants born as
+      Extremely Low Gestational Age Newborns (ELGAN) &lt;1000 g birthweight (BW), but especially for
+      those born between 23-26 weeks' gestational age (GA). Such infants are the most vulnerable
+      and immature in all organ systems, including the lungs and the brain. These infants are at
+      high risk of death and bronchopulmonary dysplasia (BPD) during their initial
+      hospitalization, neurodevelopmental impairment (NDI) and pulmonary problems in infancy and
+      childhood.
+
+      The SAIL trial focuses on facilitating the difficult transition of these most vulnerable
+      infants from a liquid filled in-utero lung to an ex-utero air-filled lung. Sustained
+      Inflation (SI) is a promising delivery room (DR) intervention, with evidence of short-term
+      efficacy with minimal risk of additional harm beyond current standard accepted Newborn
+      Resuscitation Program (NRP) Guidelines. This protocol proposes a fully informed consenting
+      procedure. We propose to evaluate the impact of a SI in the DR on the need for mechanical
+      ventilation in the first week of life which would also impact mortality rates and the
+      incidence and severity of BPD.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>August 2014</start_date>
+  <completion_date type="Anticipated">December 2017</completion_date>
+  <primary_completion_date type="Anticipated">December 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Combined outcome of death or bronchopulmonary dysplasia</measure>
+    <time_frame>36 weeks</time_frame>
+    <description>To determine in infants born at 23-26 weeks gestational age requiring respiratory support at birth, which of two treatment strategies when compared, results in a lower rate of the combined endpoint of death or bronchopulmonary dysplasia.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen profile over first 24 hours post delivery room using hourly FiO2 records</measure>
+    <time_frame>First 24 hours post delivery</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen profile with highest FiO2 level up to 48 hours</measure>
+    <time_frame>48 hours of life</time_frame>
+    <description>Highest FiO2 level recorded during the first 48 hours post DR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heart rate in the Delivery Room (DR)</measure>
+    <time_frame>First 30 seconds of life in DR</time_frame>
+    <description>Categorical variable with 3 levels: &lt;60, 60-100, &gt;100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Detailed status on departure from the Delivery room (DR)</measure>
+    <time_frame>Resuscitation time will vary - 1 to 30 minutes</time_frame>
+    <description>Type of respiratory support (CPAP, PPV) and Fraction of Inspired Oxygen (FiO2) on departure from DR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Use of inotropes on arrival in NICU</measure>
+    <time_frame>First 48 hours of life</time_frame>
+    <description>Circulatory support post-delivery room</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for intubation in delivery room or by 24 hours of age</measure>
+    <time_frame>First 30 seconds to 24 hours of life</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pressure-volume characteristics in the Delivery room (DR)</measure>
+    <time_frame>Expected average 30 minutes</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chest x-ray reports showing pneumothorax or new chest drains in the first 48 hours of life</measure>
+    <time_frame>First 48 hours of life</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of any chest drain in-situ post-DR</measure>
+    <time_frame>During hospitalization - up to 36 weeks Post Menstrual Age (PMA)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Head ultrasound and/or MRI findings of intraventricular hemorrhage by all grades focusing on grades 3 and 4 by 48 hour and by day 10</measure>
+    <time_frame>48 hours to 10 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chest x-ray between days 7-10</measure>
+    <time_frame>First 7-10 days of life</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Death or need for positive pressure ventilation at 7 days</measure>
+    <time_frame>First 7 days of life</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Highest FiO2 and Area under the FiO2 curve for the first week of life</measure>
+    <time_frame>First 7 days of life</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pneumothorax and pulmonary interstitial emphysema (PIE)</measure>
+    <time_frame>First 10 days of life</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Survival to discharge home without BPD, retinopathy of prematurity (grades 3 &amp; 4), or significant brain abnormalities on head ultrasound</measure>
+    <time_frame>Expected discharge between 36 - 40 weeks PMA</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of respiratory support (ventilation, CPAP, supplemental oxygen)</measure>
+    <time_frame>During hospitalization - up to 36 weeks Post Menstrual Age (PMA)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Death in hospital</measure>
+    <time_frame>During expected hospitalization 23 - 40 weeks PMA</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Retinopathy of prematurity (ROP) stage 3 or greater requiring treatment</measure>
+    <time_frame>36 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Use of postnatal steroids for treatment of BPD</measure>
+    <time_frame>During hospitalization - up to 36 weeks Post Menstrual Age (PMA)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospital stay</measure>
+    <time_frame>Average discharge between 36 - 40 weeks PMA</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neurodevelopmental and respiratory outcome at 22-26 months corrected gestational age</measure>
+    <time_frame>22-26 months corrected gestational age</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Preterm Birth</condition>
+  <condition>Extreme Prematurity</condition>
+  <arm_group>
+    <arm_group_label>Control Arm-Standard of care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Control Arm-Respiratory support using Standard of Care positive-end expiratory pressure/continuous positive airway pressure (PEEP/CPAP) of 5-7 cm H2O compared to Sustained Inflation intervention</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sustained Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Administer delivery room respiratory support using a Sustained Inflation (SI) intervention and expiratory pressure/continuous positive airway pressure (PEEP/CPAP) of 5-7 cm H2O</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Sustained Inflation</intervention_name>
+    <description>The first sustained inflation will use inflation pressure of 20 cm H20 for 15 seconds</description>
+    <arm_group_label>Sustained Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Standard of Care</intervention_name>
+    <description>Newborn Resuscitation Program (NRP) Guidelines using a standard PEEP/CPAP of 5-7 cm H2O as compared to the Sustained Inflation intervention</description>
+    <arm_group_label>Control Arm-Standard of care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Gestational age (GA) at least 23 weeks but less than 27 completed weeks by best
+             obstetrical estimate
+
+          -  Requiring resuscitation/respiratory intervention at birth -&quot;apneic, labored
+             breathing, gasping&quot; (as defined in NRP 2011 AAP 6th Edition p.45)
+
+        Exclusion Criteria:
+
+          -  Considered non-viable by the attending neonatologist
+
+          -  Refusal of antenatal informed consent
+
+          -  Known major anomalies, pulmonary hypoplasia
+
+          -  Mothers who are unable to consent for their medical care and who do not have a
+             surrogate guardian will not be approached for consent
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>23 Weeks</minimum_age>
+    <maximum_age>26 Weeks</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Haresh Kirpalani, BM, MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Children's Hospital of Philadelphia</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Peter Davis, MD, FRAXP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Royal Women's Hospital, Melbourne, Australia</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Helmut Hummler, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Children's Hospital, University of Ulm, Ulm Germany</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Martin Keszler, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Women &amp; Infants Hospital of Rhode Island, Providence, RI</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>GianLuca Lista, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ospedale dei Bambini, Milan Italy</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Arjan te_Pas, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Leiden University Medical Center, Leiden, Netherlands</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Haresh Kirpalani, BM,MSc</last_name>
+    <phone>215-590-2455</phone>
+    <email>kirpalanih@email.chop.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sarah J Ratcliffe, PhD</last_name>
+    <phone>215-573-7398</phone>
+    <email>sratclif@upenn.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Loma Linda University</name>
+      <address>
+        <city>Loma Linda</city>
+        <state>California</state>
+        <zip>92354</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lila Dalton, RN, BSN</last_name>
+      <phone>909-558-5830</phone>
+      <email>LDalton@llu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Andrew Hopper, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, Davis Children's Hospital</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rosa Pesavento</last_name>
+      <phone>916-734-8121</phone>
+      <email>rpesavento@ucdavis.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Francis Poulain, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sharp Mary Birch Hospital for Women &amp; Newborns</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Melissa Brown, RRT-NPS, RCP</last_name>
+      <phone>858-493-4196</phone>
+      <email>Melissa.Brown@sharp.com</email>
+    </contact>
+    <investigator>
+      <last_name>Anup Katheria, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Christiana Care</name>
+      <address>
+        <city>Newark</city>
+        <state>Delaware</state>
+        <zip>19713</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kelly Gray, RN, CCRC</last_name>
+      <phone>302-733-2247</phone>
+      <email>kgray@christianacare.org</email>
+    </contact>
+    <investigator>
+      <last_name>Ursula Guillen, MD, MSE</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tufts University</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Diane White</last_name>
+      <phone>734-615-7840</phone>
+      <email>dfwhite@med.umich.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Steven Donn, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Med Health</name>
+      <address>
+        <city>Raleigh</city>
+        <state>North Carolina</state>
+        <zip>27610</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Claudia Cadet, MD</last_name>
+      <phone>919-350-8198</phone>
+      <email>ccadet@wakemed.org</email>
+    </contact>
+    <investigator>
+      <last_name>Claudia Cadet, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital of the Univerity of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aasma Chaudhary</last_name>
+      <phone>215-917-2322</phone>
+      <email>Aasma.Chaudhary@uphs.upenn.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Elizabeth Foglia, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Pennsylvania Hospital</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Toni Mancini, RN</last_name>
+      <phone>215-829-7118</phone>
+      <email>toni.mancini@uphs.upenn.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Soraya Abbasi, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Women &amp; Infants Hospital of Rhode Island</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Danielle T St.Pierre</last_name>
+      <phone>401-274-1122</phone>
+      <phone_ext>48667</phone_ext>
+      <email>dtstpierre@wihri.org</email>
+    </contact>
+    <investigator>
+      <last_name>Martin Keszler, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mater Mother's Hospital</name>
+      <address>
+        <city>Brisbane</city>
+        <state>Queensland</state>
+        <zip>QLD 4101</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Angela Pearson, BHlthSci</last_name>
+      <phone>07 3163 5306</phone>
+      <email>Angela.Pearson@mater.org.au</email>
+    </contact>
+    <investigator>
+      <last_name>Helen Liley, MB,ChB,FRACP</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Women's Hospital</name>
+      <address>
+        <city>Melbourne</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Louise Owen, MD</last_name>
+      <phone>+6 13 83452000</phone>
+      <email>louise.owen@thewomens.org.au</email>
+    </contact>
+    <investigator>
+      <last_name>Peter Davis, MD, FRAXP</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Academic Teaching Hospital, Landeskrankenhaus Feldkirch</name>
+      <address>
+        <city>Feldkirch</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wolfgang Stelzl</last_name>
+      <phone>+43 5522 3032900</phone>
+      <email>wolfgang.stelzl@lkhf.at</email>
+    </contact>
+    <investigator>
+      <last_name>Burkhard Simma, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Alexandra Hospital,</name>
+      <address>
+        <city>Edmonton</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sylvia Vanos</last_name>
+      <phone>1 780 735 4647</phone>
+      <email>Sylvia.Vanos@albertahealthservices.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Georg Schmoelzer, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Freiburg</name>
+      <address>
+        <city>Freiburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel Klotz</last_name>
+      <phone>+49 761 270 44510</phone>
+      <email>daniel.klotz@uniklinik-freiburg.de</email>
+    </contact>
+    <investigator>
+      <last_name>Daniel Klotz, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital, University of Ulm</name>
+      <address>
+        <city>Ulm</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maria Zernickel</last_name>
+      <phone>. 0731 - 500 - 57145</phone>
+      <email>Maria.Zernickel@uniklinik-ulm.de</email>
+    </contact>
+    <investigator>
+      <last_name>Helmut Hummler, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale dei Bambini</name>
+      <address>
+        <city>Milan</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Petrina Bastrenta, MD</last_name>
+      <phone>0039-3356635626</phone>
+      <email>petrina.bastrenta@asst-fbf-sacco.it</email>
+    </contact>
+    <investigator>
+      <last_name>GianLuca Lista, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Children's Hospit</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03080</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Seung Han Shin, MD</last_name>
+      <phone>+82-2-2072-7230</phone>
+      <email>revival421@snu.ac.kr</email>
+    </contact>
+    <investigator>
+      <last_name>Han-Suk Kim, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Samsung Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hui Jae Woo</last_name>
+      <phone>+82-2-3410-3728</phone>
+      <email>huijae999.woo@samsung.com</email>
+    </contact>
+    <investigator>
+      <last_name>Won Soon Park, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Emma Children's Hospital, AMC</name>
+      <address>
+        <city>Amsterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wes Onland, MD</last_name>
+      <phone>+31 20 5663477</phone>
+      <email>w.onland@amc.uva.nl</email>
+    </contact>
+    <investigator>
+      <last_name>Anton H. van Kaam, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Leiden University Medical Center</name>
+      <address>
+        <city>Leiden</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ilona Narayen, MD</last_name>
+      <phone>+3171-5264987</phone>
+      <email>i.c.narayen@lumc.nl</email>
+    </contact>
+    <investigator>
+      <last_name>Arjan te Pas, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>KK Women's and Children's Hospital</name>
+      <address>
+        <city>Singapore City</city>
+        <zip>168753</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rowena Dela Puerta, MS</last_name>
+      <phone>+65 63948724</phone>
+      <email>rowena.puerta@kkh.com.sg</email>
+    </contact>
+    <investigator>
+      <last_name>Juin Yee Kong, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Austria</country>
+    <country>Canada</country>
+    <country>Germany</country>
+    <country>Italy</country>
+    <country>Korea, Republic of</country>
+    <country>Netherlands</country>
+    <country>Singapore</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://sailtrial.org</url>
+    <description>Contains both public page and research team members page.</description>
+  </link>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 23, 2017</lastchanged_date>
+  <firstreceived_date>May 8, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Neonatal resuscitation</keyword>
+  <keyword>Extreme Low Gestational Age Newborn (ELGAN)</keyword>
+  <keyword>Delivery Room</keyword>
+  <keyword>Continuous positive airway pressure (CPAP)</keyword>
+  <keyword>Positive pressure ventilation (PPV)</keyword>
+  <keyword>Sustained inflation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Premature Birth</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

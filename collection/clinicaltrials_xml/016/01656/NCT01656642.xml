@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="111179">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01656642</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GP28384</org_study_id>
+    <secondary_id>2012-002738-35</secondary_id>
+    <nct_id>NCT01656642</nct_id>
+  </id_info>
+  <brief_title>A Phase 1b Study of Atezolizumab in Combination With Vemurafenib or Vemurafenib Plus Cobimetinib in Participants With BRAFV600-Mutation Positive Metastatic Melanoma</brief_title>
+  <official_title>A Phase Ib, Open-Label Study of The Safety and Pharmacology of Atezolizumab (Anti PD-L1 Antibody) Administered in Combination With Vemurafenib or Vemurafenib Plus Cobimetinib in Patients With BRAFV600-Mutation Positive Metastatic Melanoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Genentech, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Genentech, Inc.</source>
+  <brief_summary>
+    <textblock>
+      This is an open-label, multicenter, Phase Ib, dose-escalation and cohort-expansion study of
+      atezolizumab (anti-PD-L1 antibody) in combination with vemurafenib or vemurafenib plus
+      cobimetinib in participants with BRAFV600-mutation positive metastatic melanoma. Enrolled
+      participants may continue treatment until they are no longer experiencing clinical benefit
+      as assessed by the investigator and in alignment with the protocol.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">August 13, 2012</start_date>
+  <completion_date type="Anticipated">November 28, 2018</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2017</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Participants With Dose Limiting Toxicities (DLT)</measure>
+    <time_frame>21 days (or 28 days for Cohort 4) following the first administration of atezolizumab</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With Adverse Events (AEs) and Serious Adverse Events (SAEs)</measure>
+    <time_frame>up to approximately 6 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Concentration-Time Curve (AUC) of Atezolizumab</measure>
+    <time_frame>pre-dose, 30 minutes post-dose on Day 1 of Cycle 1 and 2, pre-dose on Day 15 and Day 8 of Cycle 1, pre-dose on Day 1 of Cycle 3, 4, 5, 7, 8 and every 8 cycles thereafter up to 90 days following the end of treatment visit (up to approximately 6 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Serum Concentration (Cmax) of Atezolizumab</measure>
+    <time_frame>pre-dose, 30 minutes post-dose on Day 1 of Cycle 1 and 2, pre-dose on Day 15 and Day 8 of Cycle 1, pre-dose on Day 1 of Cycle 3, 4, 5, 7, 8 and every 8 cycles thereafter up to 90 days following the end of treatment visit (up to approximately 6 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Minimum Observed Serum Trough Concentration (Cmin) of Atezolizumab</measure>
+    <time_frame>pre-dose on Day 1 of Cycle 1 and 2, pre-dose on Day 15 and Day 8 of Cycle 1, pre-dose on Day 1 of Cycle 3, 4, 5, 7, 8 and every 8 cycles thereafter up to 90 days following the end of treatment visit (up to approximately 6 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Plasma Concentration (Cmax) of Vemurafenib</measure>
+    <time_frame>run-in period: pre-dose on Day 1, 8, and 22, 3 hours post-dose on Day 22; combination treatment period: pre-dose on Day 1 of Cycle 1 and 2, 3 hours post-dose on Day 1 of Cycle 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Minimum Observed Plasma Trough Concentration (Cmin) of Vemurafenib</measure>
+    <time_frame>run-in period: pre-dose on Day 1, 8, and 22; combination treatment period: pre-dose on Day 1 of Cycle 1 and 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Plasma Concentration (Cmax) of Cobimetinib</measure>
+    <time_frame>run-in period: pre-dose on Day 1, 8, and 22; combination treatment period: pre-dose on Day 1 and 15 of Cycle 1 and Day 15 of Cycle 2, 3 hours post-dose on Day 15 of Cycle 1</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Minimum Observed Plasma Trough Concentration (Cmin) of Cobimetinib</measure>
+    <time_frame>run-in period: pre-dose on Day 1, 8, and 22; combination treatment period: pre-dose on Day 1 and 15 of Cycle 1 and Day 15 of Cycle 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Best Overall Response According to Response Evaluation Criteria in Solid Tumors (RECIST)</measure>
+    <time_frame>Baseline until disease progression or death, whichever occurred first (assessed at baseline, every 6 weeks of combination treatment period for first 24 weeks and then every 9 weeks up to approximately 6 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Objective Response According to Response Evaluation Criteria in Solid Tumors (RECIST)</measure>
+    <time_frame>Baseline until disease progression or death, whichever occurred first (assessed at baseline, every 6 weeks of combination treatment period for first 24 weeks and then every 9 weeks up to approximately 6 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Objective Response According to RECIST</measure>
+    <time_frame>Baseline until disease progression or death, whichever occurred first (assessed at baseline, every 6 weeks of combination treatment period for first 24 weeks and then every 9 weeks up to approximately 6 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS) Duration</measure>
+    <time_frame>Baseline until death up to 6 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS) According to Response Evaluation Criteria in Solid Tumors (RECIST)</measure>
+    <time_frame>Baseline until disease progression or death, whichever occurred first (assessed at baseline, every 6 weeks of combination treatment period for first 24 weeks and then every 9 weeks up to approximately 6 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean Atezolizumab Dose</measure>
+    <time_frame>approximately 12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Anti-Atezolizumab Antibodies</measure>
+    <time_frame>pre-dose on Day 1 (run-in period), pre-dose on Day 1 of Cycle 2, 3, 4 and 8, and every 8 cycles thereafter up to 90 days following the end of treatment visit (up to approximately 6 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total Number of Atezolizumab Cycles</measure>
+    <time_frame>approximately 12 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>7</number_of_arms>
+  <enrollment type="Actual">68</enrollment>
+  <condition>Malignant Melanoma</condition>
+  <arm_group>
+    <arm_group_label>C1: Ate+ Vem - No Run-in</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort 1 (C1): Participants will receive atezolizumab (Ate) 1200 milligrams (mg) every 3 weeks (q3w) along with vemurafenib (Vem) 750 mg QD for 21 days in each cycle followed by 7 days off treatment (28-day cycle). Treatment will continue until disease progression, unacceptable toxicity, or withdrawal of consent occurs.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>C2: Ate + Vem (56 Day Run-in)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Run-in period (56 days): participants will receive vemurafenib 960 mg orally twice daily from day 1 to 49 and vemurafenib 720 mg orally twice daily from day 50 to 56. Combination treatment period: Participants will receive fixed dose of atezolizumab 1200 mg IV q3w in combination with vemurafenib 720 mg orally twice daily in 21 days cycle.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>C3: Ate + Vem (28 Day Run-in)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Run-in period (28 days): participants will receive vemurafenib 960 mg orally twice daily for 21 days, then vemurafenib 720 mg orally twice daily for 7 days. Combination treatment period: Participants will receive fixed dose of atezolizumab 1200 mg IV q3w in combination with vemurafenib 720 mg orally twice daily in 21 days cycle.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>C4: Ate + Vem + Cob (28 Day Run-in)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Run-in period (28 days): participants will receive vemurafenib 960 mg orally twice daily for 21 days, then vemurafenib 720 mg orally twice daily for 7 days in combination with cobimetinib (Cob) 60 mg IV once daily, 21 days on/7 days off schedule (21/7). Combination treatment period: Participants will receive fixed dose of atezolizumab 800 mg IV q2w in combination with vemurafenib 720 mg orally twice daily and cobimetinib 60 mg orally once daily 21/7 in 28 days cycle.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ECA: Ate + Vem + Cob (Mandatory Biopsy PD)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Expansion cohort A (ECA): Approximately 10 participants who experienced disease progression (PD) after receiving prior checkpoint inhibitor therapy will be enrolled and treated with atezolizumab + vemurafenib + cobimetinib. Serial biopsy tissue sample collections of accessible lesions will be mandatory for all participants enrolled in this cohort. The doses will be decided based on the results of Cohorts 1-4.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ECB: Ate + Vem + Cob (Mandatory Biopsy)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Approximately 20 participants will be enrolled and treated with atezolizumab + vemurafenib + cobimetinib. Serial biopsy tissue sample collections of accessible lesions will be mandatory for all participants. The doses will be decided based on the results of Cohorts 1-4.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ECC: Ate + Vem + Cob (No Mandatory Biopsy)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Approximately 10 participants who experienced disease progression after receiving prior checkpoint inhibitor therapy will be enrolled and treated with atezolizumab + vemurafenib + cobimetinib. Serial biopsy tissue sample collections will be optional for all participants enrolled in this cohort. The doses will be decided based on the results of Cohorts 1-4.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Atezolizumab [TECENTRIQ]</intervention_name>
+    <description>Atezolizumab will be administered every 3 weeks (q3w) or every 2 weeks (q2w).</description>
+    <arm_group_label>C1: Ate+ Vem - No Run-in</arm_group_label>
+    <arm_group_label>C2: Ate + Vem (56 Day Run-in)</arm_group_label>
+    <arm_group_label>C3: Ate + Vem (28 Day Run-in)</arm_group_label>
+    <arm_group_label>C4: Ate + Vem + Cob (28 Day Run-in)</arm_group_label>
+    <arm_group_label>ECA: Ate + Vem + Cob (Mandatory Biopsy PD)</arm_group_label>
+    <arm_group_label>ECB: Ate + Vem + Cob (Mandatory Biopsy)</arm_group_label>
+    <arm_group_label>ECC: Ate + Vem + Cob (No Mandatory Biopsy)</arm_group_label>
+    <other_name>MPDL3280A, an engineered anti-PD-L1 antibody</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cobimetinib</intervention_name>
+    <description>Oral repeating dose</description>
+    <arm_group_label>C4: Ate + Vem + Cob (28 Day Run-in)</arm_group_label>
+    <arm_group_label>ECA: Ate + Vem + Cob (Mandatory Biopsy PD)</arm_group_label>
+    <arm_group_label>ECB: Ate + Vem + Cob (Mandatory Biopsy)</arm_group_label>
+    <arm_group_label>ECC: Ate + Vem + Cob (No Mandatory Biopsy)</arm_group_label>
+    <other_name>GDC-0973; XL518, Cotellic</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vemurafenib</intervention_name>
+    <description>Oral repeating dose, depending on arm/cohort</description>
+    <arm_group_label>C1: Ate+ Vem - No Run-in</arm_group_label>
+    <arm_group_label>C2: Ate + Vem (56 Day Run-in)</arm_group_label>
+    <arm_group_label>C3: Ate + Vem (28 Day Run-in)</arm_group_label>
+    <arm_group_label>C4: Ate + Vem + Cob (28 Day Run-in)</arm_group_label>
+    <arm_group_label>ECA: Ate + Vem + Cob (Mandatory Biopsy PD)</arm_group_label>
+    <arm_group_label>ECB: Ate + Vem + Cob (Mandatory Biopsy)</arm_group_label>
+    <arm_group_label>ECC: Ate + Vem + Cob (No Mandatory Biopsy)</arm_group_label>
+    <other_name>Zelboraf</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histologic or cytologic documentation of metastatic or Stage IIIc unresectable
+             melanoma, with BRAFV600 mutation as assessed by BRAF V600 Mutation Test. Origin of
+             the primary tumor may be of skin, mucosal, or acral locations but not of uveal
+             origin. Participants having an unknown primary tumor may be eligible if uveal
+             melanoma can be ruled out
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1
+
+          -  Adequate hematologic and end organ function
+
+          -  Measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) Version
+             1.1
+
+          -  For women of childbearing potential, agreement to remain abstinent (refrain from
+             heterosexual intercourse) or use 2 effective forms of contraceptive methods including
+             at least 1 that results in a failure rate of less than (&lt;) 1 percent (%) per year
+             during the treatment period and for at least 6 months after the last dose of study
+             drug
+
+          -  For men, agreement to remain abstinent (refrain from heterosexual intercourse) or use
+             2 contraceptive measures, and agreement to refrain from donating sperm
+
+          -  Agreement to mandatory archival tissue or fresh biopsy
+
+          -  Agreement to the collection of serial fresh lesion samples (required, if feasible,
+             for entry into Escalation Cohorts 4 and expansion cohorts and optional, but
+             encouraged in Escalation Cohorts 2 &amp; 3)
+
+        Exclusion Criteria:
+
+          -  Receipt of prior systemic anti-cancer therapy for unresectable, locally advanced or
+             metastatic melanoma
+
+          -  Receipt of prior immunomodulatory agents, including programmed death-1 (PD)-1 or
+             programmed death-ligand 1 (PD-L1) targeted therapy or cytotoxic
+             T-lymphocyte-associated antigen 4 (CTLA-4) targeted therapy, including ipilimumab
+             (this exclusion criterion does not apply to patients enrolled in Expansion Cohort A)
+
+          -  Receipt of prior mitogen-activated protein kinase (MAPK) inhibitor pathway agents,
+             including mitogen-activated protein kinase (MEK) kinase inhibitor and BRAF kinase
+             inhibitor
+
+          -  Major surgical procedure within 28 days prior to Day 1 or anticipation of need for a
+             major surgical procedure during the course of the study
+
+          -  Radiotherapy less than or equal to (&lt;=) 7 days prior to Day 1
+
+          -  Adverse events from prior anti-cancer therapy that have not resolved to Grade &lt;= 1
+             except for alopecia
+
+          -  Any active malignancy (other than BRAF-mutated melanoma) or a previous malignancy
+             within the past 3 years
+
+          -  For participants to be enrolled into the vemurafenib+cobimetinib+ atezolizumab
+             cohorts: history of or evidence of retinal pathology on ophthalmologic examination
+             that is considered a risk factor for neurosensory retinal detachment/central serous
+             chorioretinopathy, retinal vein occlusion, or neovascular macular degeneration
+
+          -  Pregnant or breastfeeding women
+
+          -  Intake of St. John's wort or hyperforin (potent cytochrome P450 CYP3A4 enzyme
+             inducer) or grapefruit juice (potent cytochrome P450 CYP3A4 enzyme inhibitor) within
+             7 days prior to initiation of study treatment
+
+          -  Known hypersensitivity to biopharmaceuticals produced in Chinese hamster ovary cells
+             or any component of the atezolizumab formulation or known hypersensitivity to any
+             component of cobimetinib or vemurafenib
+
+          -  Inability to comply with study and follow-up procedures
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>Genentech, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>UCLA</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Angeles Clinic and Research Institute - W LA Office</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Health Science Center; Biomedical Research Bldg. Room 511</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Cancer Specialists - Sarasota</name>
+      <address>
+        <city>Sarasota</city>
+        <state>Florida</state>
+        <zip>34232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Cancer Specialists</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital.</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Med Ctr</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dana Farber Can Ins</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sarah Cannon Research Institute</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MD Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2017</verification_date>
+  <lastchanged_date>April 4, 2017</lastchanged_date>
+  <firstreceived_date>August 1, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>PD-L1</keyword>
+  <keyword>PD-1</keyword>
+  <keyword>PDL1</keyword>
+  <keyword>antiPD-L1</keyword>
+  <keyword>MPDL3280A</keyword>
+  <keyword>Melanoma</keyword>
+  <keyword>BRAF</keyword>
+  <keyword>MPDL320A</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Melanoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

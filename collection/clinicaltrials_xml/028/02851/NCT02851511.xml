@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="19617">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02851511</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB201600785</org_study_id>
+    <nct_id>NCT02851511</nct_id>
+  </id_info>
+  <brief_title>Augmenting Cognitive Training In Older Adults</brief_title>
+  <acronym>ACT</acronym>
+  <official_title>Augmenting Cognitive Training In Older Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Florida</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Miami</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Arizona</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Florida</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A randomized two-phase clinical trial will enroll 360 participants with age-related
+      cognitive decline, but not Alzheimer's disease or other neurodegenerative diseases
+      (MoCA&gt;25). Cognitively healthy elderly adults will undergo a CT intervention or education
+      training-control (TC) condition in combination with transcranial direct current stimulation
+      (tDCS) or sham tDCS control. The CT intervention will employ a suite of adaptive training
+      tasks (Double Decision - Useful Field of View, Card Shark - Working Memory, and Freeze Frame
+      - Arousal-Alerting) from the POSIT Science Brain HQ6, a well validated CT method for
+      enhancing cognitive functioning in the elderly. TC will involve exposure to educational
+      nature videos and related content questions of the same interval and duration as CT,
+      providing a well-matched active control. Participants will receive CT or TC in conjunction
+      with tDCS or sham/placebo prefrontal stimulation administered during training. Participants
+      will be assessed at baseline, after CT (12 weeks), and at 12-month follow-up. At each time
+      point, a comprehensive neurocognitive, clinical and multimodal neuroimaging assessment of
+      brain function, metabolic state, and brain structure will be conducted. Functional magnetic
+      resonance imaging (FMRI) will be used to assess brain response during working memory,
+      attention and memory encoding. Proton magnetic resonance spectroscopy (MRS) will assess
+      cerebral metabolites and gamma-aminobutyric acid (GABA) concentrations. GABA concentrations
+      from MRS will provide a sensitive marker of neuro-plastic change in task-associated brain
+      regions. Alzheimer's disease risk factors (APOE4, familial history), baseline
+      clinical/demographic characteristics (e.g., diabetes), and neuroimaging biomarkers (e.g.,
+      white matter abnormality load) will assess factors with predictive value for individual
+      response to tDCS and CT. Based on power analyses of intervention effects, 80 participants
+      will be randomized to the four treatment conditions in phase 1. Following the intervention,
+      CT (n=40) and TC (n=40) conditions will be compared. Interim analyses aimed at showing that
+      CT has previously established strong effects on cognitive outcomes will be performed,
+      thereby enabling elimination of the TC condition. Phase 2 will enroll the remaining 280
+      participants into the two CT intervention conditions.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>August 2016</start_date>
+  <completion_date type="Anticipated">August 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Improvements in CT-associated neurocognitive ability following CT and tDCS</measure>
+    <time_frame>Change from baseline to post assessment (3 months)</time_frame>
+    <description>Composite measure of cognitive and functional abilities.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Improvements in neural functions following CT and tDCS</measure>
+    <time_frame>Change from baseline to post assessment (3 months)</time_frame>
+    <description>activation in working memory, attentional brain systems, and other regions of interest (measure = beta values from SPM models)</description>
+  </primary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">360</enrollment>
+  <condition>Aging</condition>
+  <arm_group>
+    <arm_group_label>Cognitive Training + Active Stimulation</arm_group_label>
+    <description>This arm receives cognitive training combined with active tDCS.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cognitive Training + Sham Stimulation</arm_group_label>
+    <description>This arm receives cognitive training combined with sham tDCS.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Educational Training + Active Stimulation</arm_group_label>
+    <description>This arm receives educational training combined with active tDCS.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Educational Training + Sham Stimulation</arm_group_label>
+    <description>This arm receives educational training combined with sham tDCS.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Cognitive Training</intervention_name>
+    <arm_group_label>Cognitive Training + Active Stimulation</arm_group_label>
+    <arm_group_label>Cognitive Training + Sham Stimulation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>tDCS (active stimulation)</intervention_name>
+    <arm_group_label>Cognitive Training + Active Stimulation</arm_group_label>
+    <arm_group_label>Educational Training + Active Stimulation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>tDCS (sham stimulation)</intervention_name>
+    <arm_group_label>Cognitive Training + Sham Stimulation</arm_group_label>
+    <arm_group_label>Educational Training + Sham Stimulation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Educational Training</intervention_name>
+    <arm_group_label>Educational Training + Active Stimulation</arm_group_label>
+    <arm_group_label>Educational Training + Sham Stimulation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Study participants will consist of healthy individuals who have expressed an interest in
+        taking part in an intervention aimed at optimizing and possibly preserving cognitive
+        functioning and brain health.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age 65 to 90 years; this age group was selected because it is at high risk of
+             age-related cognitive decline and have a sufficiently long life expectancy to
+             participate in the study;
+
+          -  Evidence of age-related cognitive decline in at least one of the three training
+             domains, as defined by performance ½ standard deviation below normative function on
+             NIH Toolbox derived composite measures of Attention/Executive Function (Dimensional
+             Card Sort, Flanker Task), Working Memory (Picture Sequence, List Sorting); or
+             Processing Speed (Pattern Comparison, Oral Digit Symbol).
+
+          -  Ability to participate in the intervention and attend training sessions;
+
+          -  Willingness to be randomized to either treatment group;
+
+        Exclusion Criteria:
+
+          -  Failure to provide informed consent;
+
+          -  Lives in a nursing home; persons living in assisted or independent housing will not
+             be excluded;
+
+          -  Cancer in active treatment currently, besides skin cancer;
+
+          -  Severe arthritis or disability that limits use of hands, cannot press buttons or
+             press a keyboard key for tasks;
+
+          -  Significant cognitive impairment, defined as a known diagnosis of MCI or dementia,
+             Alzheimer's disease or a Montreal Cognitive Assessment (MoCA) score &lt; 25. Scores will
+             be adjusted for education and ethnicity. Unable to communicate because of severe
+             hearing loss or speech disorder;
+
+          -  Severe visual impairment, which would preclude completion of the assessments and/or
+             intervention;
+
+          -  Progressive, degenerative neurologic disease, e.g., Parkinson's Disease, multiple
+             sclerosis, ALS;
+
+          -  Terminal illness with life expectancy less than 12 months, as determined by a
+             physician;
+
+          -  Stroke involving a large vessel (Mini stroke/TIA may be allowed; leukoaraiosis on
+             neuroimaging is allowed unless present with VaD or VCI diagnosis);
+
+          -  Brain Tumor or any foreign body known or previously identified in brain;
+
+          -  Currently on gaba-ergic or glutamatergic medications, or sodium channel blockers,
+             which alter or block the ability of tDCS to facilitate tissue excitability.
+
+          -  Severe cardiac disease, including NYHA Class III or IV congestive heart failure,
+             clinically significant aortic stenosis, history of cardiac arrest, use of a cardiac
+             defibrillator, or uncontrolled angina;
+
+          -  Severe uncontrolled diabetes with medication noncompliance, diabetic coma, or
+             frequent insulin reactions;
+
+          -  Severe uncontrolled hypertension, e.g., SBP &gt; 200, DBP &gt; 110 mmHg;
+
+          -  Other significant co-morbid disease that in the opinion of the PI would impair
+             ability to participate in the intervention, e.g. renal failure on hemodialysis,
+             severe psychiatric disorder (e.g. bipolar, schizophrenia), excessive alcohol use (&gt;14
+             drinks per week);
+
+          -  Member of household is already enrolled;
+
+          -  Lives outside of the study site or is planning to move out of the area in next 2
+             years or leave the area for &gt;3 months during the next year;
+
+          -  Contraindications to MRI: claustrophobia, any kind of metallic stents or ferrous
+             metal objects in the body, heart valve prosthesis, defibrillator, pacemaker, aneurysm
+             clip, neurostimulation system, cochlear implants, inner ear prosthesis, insulin pump
+             or other infusion pump or other implanted device; ia:
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Adam Woods, Ph.D.</last_name>
+    <phone>352-294-5842</phone>
+    <email>ajwoods@ufl.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Florida Institute on Aging</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32610</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Adam J. Woods, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2017</verification_date>
+  <lastchanged_date>February 22, 2017</lastchanged_date>
+  <firstreceived_date>July 7, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

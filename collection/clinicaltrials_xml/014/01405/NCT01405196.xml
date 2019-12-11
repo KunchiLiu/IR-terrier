@@ -1,0 +1,1434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="130341">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01405196</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B0151006</org_study_id>
+    <secondary_id>2011-000420-15</secondary_id>
+    <secondary_id>BUTTERFLY</secondary_id>
+    <nct_id>NCT01405196</nct_id>
+  </id_info>
+  <brief_title>Subcutaneous Treatment In Randomized Subjects To Evaluate Safety And Efficacy In Generalized Lupus Erythematosus</brief_title>
+  <acronym>BUTTERFLY</acronym>
+  <official_title>A Double-blind, Randomized, Placebo-controlled, Multicenter, Dose-ranging Study To Evaluate The Efficacy And Safety Of Pf-04236921 In Subjects With Systemic Lupus Erythematosus (Sle)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pfizer</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this study is to evaluate and compare efficacy of 3 dose levels of
+      PF-04236921 to placebo in subjects with generalized lupus using a measure called the
+      Systemic Lupus Erythematosus (SLE) Responder Index. The study will evaluate secondary and
+      exploratory measures as well.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>December 2011</start_date>
+  <completion_date type="Actual">March 2014</completion_date>
+  <primary_completion_date type="Actual">March 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The primary endpoint of the study is the proportion of subjects achieving the SLE Responder Index (SRI).</measure>
+    <time_frame>week 24</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of subjects with an improvement of greater than or equal to 4 in the Systemic Lupus Erythematosus Disease Activity Index (SLEDAI)-2K score.</measure>
+    <time_frame>week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of subjects with no new British Isles Lupus Assessment Group (BILAG) A organ domain scores or 2 new BILAG B organ domain scores</measure>
+    <time_frame>week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of subjects with No worsening of Physician's Global Assessment (PhGA) score.</measure>
+    <time_frame>week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of subjects who develop anti-drug antibodies (ADAs) and neutralizing antibodies (Nabs), if observed.</measure>
+    <time_frame>week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in patient reported outcome measures using Short Form-36, European Quality of Life-5 Dimensional questionnaire, Functional Assessment of Chronic Illness Therapy-Fatigue and Visual Analog Scale scores.</measure>
+    <time_frame>week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects achieving SRI at all timepoints except Week 24</measure>
+    <time_frame>week 4, 8, 12, 16, and 20</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects achieving modified SRI at all timepoints</measure>
+    <time_frame>week 4, 8, 12, 16, 20, and 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects achieving BILAG based Combined Lupus Assessment (BICLA) response at all timepoints</measure>
+    <time_frame>week 4, 8, 12, 16, 20, and 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of subjects with abnormal immunoglobulins, anti-dsDNA, C3, or C4 at baseline that become normal.</measure>
+    <time_frame>week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of subjects receiving corticosteroids greater than 7.5 mg per day whose dose has been reduced by both &gt;= 25% from baseline and to &lt;= 7.5 mg per day during Week 12 through Week 24.</measure>
+    <time_frame>week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the safety and tolerability of PF-04236921 at the different dose levels compared to placebo for adverse events, laboratory changes, ECGs, and vital signs.</measure>
+    <time_frame>Week 4, 8, 12, 16, 20, and 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood concentration of PF-04236921</measure>
+    <time_frame>Week 4, 8, 12, 16, 20, and 24</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">183</enrollment>
+  <condition>Lupus Erythematosus, Systemic</condition>
+  <arm_group>
+    <arm_group_label>10 mg of PF-04236921</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>50 mg of PF-04236921</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>200 mg of PF-04236921</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>PF-04236921</intervention_name>
+    <description>subcutaneous injection; administered at day 1, weeks 8, 16.</description>
+    <arm_group_label>10 mg of PF-04236921</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>PF-04236921</intervention_name>
+    <description>subcutaneous injection; administered at day 1, weeks 8, 16.</description>
+    <arm_group_label>50 mg of PF-04236921</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>PF-04236921</intervention_name>
+    <description>subcutaneous injection; administered at day 1, weeks 8, 16.</description>
+    <arm_group_label>200 mg of PF-04236921</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>PF-04236921</intervention_name>
+    <description>subcutaneous injection; administered at day 1, weeks 8, 16</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Male or female subjects between ages of 18 and 75 years old at time of signing
+             consent.
+
+          -  Have a clinical diagnosis of SLE according to 1997 update on the revised 1982
+             American College of Rheumatology (ACR) criteria.
+
+          -  Have a unequivocally positive anti-nuclear antibody (ANA) test result.
+
+          -  Active disease at screening defined by both: SLEDAI-2K score greater than or equal to
+             6 and BILAG Level A disease in more than or equal to 1 organ system (except renal or
+             central nervous system) or BILAG B disease in more than or equal to 2 organ systems
+             if no level A disease in present.
+
+        Exclusion Criteria:
+
+          -  Any prior history of treatment with PF-04236921, or anti-IL-6 agent;
+
+          -  Have received any of the following within 364 days of day 1: a biologic
+             investigational agent other than B cell targeted therapy; required 3 or more courses
+             of systemic corticosteroids for concomitant conditions; history of previously
+             untreated or current evidence of active or untreated latent infection with
+             Tuberculosis (TB), evidence of prior untreated or currently active TB by chest
+             radiography, residing with or frequent close contact with an individual with active
+             TB.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Anniston Medical Clinic, PC</name>
+      <address>
+        <city>Anniston</city>
+        <state>Alabama</state>
+        <zip>36207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pinnacle Research Group, LLC</name>
+      <address>
+        <city>Anniston</city>
+        <state>Alabama</state>
+        <zip>36207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Achieve Clinical Research, LLC</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Med Investigations, Inc.</name>
+      <address>
+        <city>Fair Oaks</city>
+        <state>California</state>
+        <zip>95628</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Premier Clinical Research, LLC</name>
+      <address>
+        <city>Lakewood</city>
+        <state>California</state>
+        <zip>90712</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Research</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90813</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St Mary Medical Center</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90813</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cedars-Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wallace Rheumatic Study Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA Division of Rheumatology</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095-1670</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA Rheumatology Clinical Research Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095-1670</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ronald Reagan UCLA Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095-6984</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Inland Rheumatology and Osteoporosis Medical Group</name>
+      <address>
+        <city>Upland</city>
+        <state>California</state>
+        <zip>91786</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Inland Rheumatology Clinical Trials, Inc.</name>
+      <address>
+        <city>Upland</city>
+        <state>California</state>
+        <zip>91786</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Asthma, Allergy, Arthritis and Lung Center</name>
+      <address>
+        <city>Daytona Beach</city>
+        <state>Florida</state>
+        <zip>32114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Southeastern Arthritis Center</name>
+      <address>
+        <city>Gainesville,</city>
+        <state>Florida</state>
+        <zip>32607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Southeastern Community Pharmacy</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Southeastern Integrated Medical, PL, d/b/a Florida Medical Research Institute</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Southeastern lmaging &amp; Diagnostics</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New Horizon Research Center</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33175</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Arthritis Associates</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Millennium Research</name>
+      <address>
+        <city>Ormond Beach</city>
+        <state>Florida</state>
+        <zip>32174</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Arthritis Center</name>
+      <address>
+        <city>Palm Harbor</city>
+        <state>Florida</state>
+        <zip>34684</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Advent Clinical Research Centers, Inc.</name>
+      <address>
+        <city>Pinellas Park</city>
+        <state>Florida</state>
+        <zip>33781</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Burnette &amp; Silverfield, MDS PLC</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Grady Health Systems</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Idaho Arthritis Center</name>
+      <address>
+        <city>Meridian</city>
+        <state>Idaho</state>
+        <zip>83642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beacon Medical Group Rheumatology</name>
+      <address>
+        <city>Granger</city>
+        <state>Indiana</state>
+        <zip>46530</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana CTSI Clinical Research Center</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Drug Services</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins University School of Medicine</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Outpatient Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Outpatient Express Testing Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tufts Medical Center/ Center for Arthritis and Rheumatic Diseases</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109-5008</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan Health System</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109-5422</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan Health System,</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109-5872</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Health System (Henry Ford Medical Center)</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201-3450</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Shores Rheumatology P.C</name>
+      <address>
+        <city>St. Claire Shores</city>
+        <state>Michigan</state>
+        <zip>48081</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Nevada School of Medicine</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Albuquerque Clinical Trials</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Arthritis and Osteoporosis Medical Associates, PLLC</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Feinstein Institute for Medical Research</name>
+      <address>
+        <city>Manhasset</city>
+        <state>New York</state>
+        <zip>11030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Center for Musculoskeletal Care</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Allergy/Immunology and Rheumatology</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14623</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The University of North Carolina Clinical and Translational Research Center</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27514</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The University of North Carolina Hospitals Investigational Drug Services</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27514</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The University of North Carolina at Chapel Hill</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Joint and Muscle Medical Care</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Box Arthritis &amp; Rheumatology of the Carolinas, PLLC</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Foundation</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Paramount Medical Research and Consulting, LLC</name>
+      <address>
+        <city>Middleburg Heights</city>
+        <state>Ohio</state>
+        <zip>44130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oklahoma Medical Research Foundation</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Center of Reading, LLP</name>
+      <address>
+        <city>Wyomissing</city>
+        <state>Pennsylvania</state>
+        <zip>19610</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Low Country Rheumatology, PA/Low Country Research</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29406</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Arthritis Clinic</name>
+      <address>
+        <city>Jackson</city>
+        <state>Tennessee</state>
+        <zip>38305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>West Tennessee Research Institute</name>
+      <address>
+        <city>Jackson</city>
+        <state>Tennessee</state>
+        <zip>38305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UT Southwestern Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390-8577</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UT Southwestern Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rheumatic Disease Clinical Research Center, LLC</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Accurate Clinical Research, Inc.</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77034</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Southwest Rheumatology Research, LLC</name>
+      <address>
+        <city>Mesquite</city>
+        <state>Texas</state>
+        <zip>75150</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Seattle Arthritis Clinic</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98133</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tacoma Center for Arthritis Research, PS</name>
+      <address>
+        <city>Tacoma</city>
+        <state>Washington</state>
+        <zip>98405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mountain State Clinical Research</name>
+      <address>
+        <city>Clarksburg</city>
+        <state>West Virginia</state>
+        <zip>26301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Framingham Centro Medico</name>
+      <address>
+        <city>La Plata</city>
+        <state>Buenos Aires</state>
+        <zip>B1902COS</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto CAICI S.R.L.</name>
+      <address>
+        <city>Rosario</city>
+        <state>Santa Fe</state>
+        <zip>S2000PBJ</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Medico Privado de Reumatologia</name>
+      <address>
+        <city>San Miguel de Tucuman</city>
+        <state>Tucuman</state>
+        <zip>T4000AXL</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Educación Medica e Investigaciones Clinicas &quot;Norberto Quirno&quot; CEMIC</name>
+      <address>
+        <city>C.a.b.a</city>
+        <zip>C1431FWO</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Polivalente de Asistencia e Investigación Clínica - CER- San Juan</name>
+      <address>
+        <city>San Juan</city>
+        <zip>J5402DIL</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sociedad Medica del Aparato Locomotor S.A. (SOMEAL)</name>
+      <address>
+        <city>Santiago</city>
+        <state>Region Metropolitana</state>
+        <zip>7510186</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Estudios Reumatologicos</name>
+      <address>
+        <city>Santiago</city>
+        <state>RM</state>
+        <zip>7501126</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Medico Prosalud</name>
+      <address>
+        <city>Santiago</city>
+        <state>RM</state>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mix Supplier S.A.</name>
+      <address>
+        <city>Envigado</city>
+        <state>Antioquia, Colombia</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Integral de Reumatologia REUMALAB S.A.S.</name>
+      <address>
+        <city>Envigado</city>
+        <state>Antioquia</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Pablo Tobon Uribe</name>
+      <address>
+        <city>Medellin</city>
+        <state>Antioquia</state>
+        <zip>0</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Integral de Reumatología del Caribe CIRCARIBE SAS</name>
+      <address>
+        <city>Barranquilla</city>
+        <state>Atlantico</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Congregacion de Hermanas Franciscanas Misioneras de Maria Auxiliadora- Clinica Asunción</name>
+      <address>
+        <city>Barranquilla</city>
+        <state>Atlantico</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Organizacion Clinica General del Norte S.A.</name>
+      <address>
+        <city>Barranquilla</city>
+        <state>Atlantico</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Farmamix Ltda.</name>
+      <address>
+        <city>Bogota, Distrito Capital</city>
+        <state>Cundimarca</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Integral de Reumatologia e Inmunologia S.A.S.- CIREI S.A.S.</name>
+      <address>
+        <city>Bogota</city>
+        <state>Cundinamarca</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Riesgo De Fractura S.A</name>
+      <address>
+        <city>Bogota</city>
+        <state>Cundinamarca</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Servimed E.U</name>
+      <address>
+        <city>Bucaramanga</city>
+        <state>Santander</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Farmamix Ltda.</name>
+      <address>
+        <city>Bogota</city>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Charité - Universitaetsmedizin Berlin</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10117</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Charité University Medicine Berlin. Schlosspark-Klinik</name>
+      <address>
+        <city>Berlin</city>
+        <zip>14059</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Erlangen</name>
+      <address>
+        <city>Erlangen</city>
+        <zip>91054</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CIRI am Klinikum der Goethe-Universitaet</name>
+      <address>
+        <city>Frankfurt/Main</city>
+        <zip>60528</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Koeln</name>
+      <address>
+        <city>Koeln</city>
+        <zip>50937</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Leipzig AoeR, Department fuer Innere Medizin</name>
+      <address>
+        <city>Leipzig</city>
+        <zip>04103</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Qualiclinic Kft.</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1036</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Debreceni Egyetem Orvos és Egeszsegtudomanyi Centrum</name>
+      <address>
+        <city>Debrecen</city>
+        <zip>H-4032</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bekes Megyei Kepviselo-testulet Pandy Kalman Korhaz Infektologia, Hepatologia es Immunologia</name>
+      <address>
+        <city>Gyula</city>
+        <zip>5700</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dong-A University Medical Center 1</name>
+      <address>
+        <city>Busan</city>
+        <zip>602-715</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spitalul Clinic Republican</name>
+      <address>
+        <city>Chisinau</city>
+        <state>Md-2025</state>
+        <zip>2025</zip>
+        <country>Moldova, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Investigacion REUMED, Clinica Anglo Americana</name>
+      <address>
+        <city>San Isidro</city>
+        <state>Lima</state>
+        <zip>Lima 27</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigaciones Clínicas SAC</name>
+      <address>
+        <city>Santiago de Surco</city>
+        <state>Lima</state>
+        <zip>Lima 33</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigaciones Clinicas SAC</name>
+      <address>
+        <city>Surco</city>
+        <state>Lima</state>
+        <zip>Lima 33</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Unidad de Investigación en Medicina Interna y Enfermedades Críticas</name>
+      <address>
+        <city>Arequipa</city>
+        <zip>AQ 54</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NZOZ Centrum Reumatologiczne Indywidualna Specjalistyczna Praktyka Lekarska lek.med. Barbara Bazela</name>
+      <address>
+        <city>Elblag</city>
+        <zip>82-300</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medyczne Centrum Hetmanska - Indywidualna Specjalistyczna Praktyka Lekarska -</name>
+      <address>
+        <city>Poznan</city>
+        <zip>60-218</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Prywatna Praktyka Lekarska Prof. UM Dr hab. med. Pawel Hrycaj</name>
+      <address>
+        <city>Poznan</city>
+        <zip>61-397</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centralny Szpital Kliniczny Ministerstwa Spraw Wewnetrznych</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>02-507</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Puerto Rico</name>
+      <address>
+        <city>Rio Piedras</city>
+        <zip>00935</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Division of Rheumatology, Allergy and Immunology</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00935</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spitalul Clinic Colentina</name>
+      <address>
+        <city>Bucuresti</city>
+        <zip>020125</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spitalul Clinic Sf. Maria</name>
+      <address>
+        <city>Bucuresti</city>
+        <zip>11172</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spitalul Clinic Jedetean de urgenta Cluj, Reumatologie</name>
+      <address>
+        <city>Cluj Napoca</city>
+        <zip>400006</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spitalul Clinic Judetean de Urgenta &quot;Sf. Apostol Andrei&quot;</name>
+      <address>
+        <city>Galati</city>
+        <zip>800578</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Taiwan University Hospital</name>
+      <address>
+        <city>Taipei TOC</city>
+        <zip>100</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Chile</country>
+    <country>Colombia</country>
+    <country>Germany</country>
+    <country>Hungary</country>
+    <country>Korea, Republic of</country>
+    <country>Moldova, Republic of</country>
+    <country>Peru</country>
+    <country>Poland</country>
+    <country>Puerto Rico</country>
+    <country>Romania</country>
+    <country>Taiwan</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Mexico</country>
+  </removed_countries>
+  <link>
+    <url>https://trialinfoemail.pfizer.com/pages/landing.aspx?StudyID=B0151006&amp;StudyName=Subcutaneous%20Treatment%20In%20Randomized%20Subjects%20To%20Evaluate%20Safety%20And%20Efficacy%20In%20Generalized%20Lupus%20Erythematosus%0A%20%20</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>December 2015</verification_date>
+  <lastchanged_date>December 14, 2015</lastchanged_date>
+  <firstreceived_date>July 27, 2011</firstreceived_date>
+  <firstreceived_results_disposition_date>December 14, 2015</firstreceived_results_disposition_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>double-blind</keyword>
+  <keyword>placebo-controlled</keyword>
+  <keyword>multicenter</keyword>
+  <keyword>dose-ranging</keyword>
+  <keyword>efficacy</keyword>
+  <keyword>safety</keyword>
+  <keyword>lupus.</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lupus Erythematosus, Systemic</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted, but a results disposition has been submitted -->
+</clinical_study>

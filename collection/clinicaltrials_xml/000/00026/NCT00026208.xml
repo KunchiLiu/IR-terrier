@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="234151">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00026208</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LYMHD0002</org_study_id>
+    <secondary_id>IRB-13081</secondary_id>
+    <nct_id>NCT00026208</nct_id>
+  </id_info>
+  <brief_title>Combination Chemotherapy Plus Low-Dose Radiation Therapy in Treating Patients With Stage I or Stage IIA Hodgkin's Lymphoma</brief_title>
+  <official_title>Risk Adapted Stanford V-C With Radiotherapy for Clinical Stage I and IIA Favorable Hodgkin's Disease: The G5 Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing
+      so they stop growing or die. Radiation therapy uses high-energy x-rays to damage tumor
+      cells. Combining chemotherapy with radiation therapy may kill more tumor cells.
+
+      PURPOSE: This phase II trial is studying how well giving combination chemotherapy together
+      with low-dose radiation therapy works in treating patients with stage I or stage IIA
+      Hodgkin's lymphoma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:
+
+        -  Evaluate the freedom from progression in patients with stage I or IIA Hodgkin's
+           lymphoma with a favorable prognosis treated with Stanford V-C chemotherapy comprising
+           cyclophosphamide, doxorubicin, vinblastine, prednisone, vincristine, bleomycin, and
+           etoposide with low-dose radiotherapy.
+
+        -  Minimize the early and late effects of treatment in these patients by avoiding staging
+           laparotomy and its consequences, limiting cumulative doses of chemotherapy, and
+           reducing the dose of radiotherapy to moderately bulky sites of disease.
+
+        -  Assess early and late treatment-related toxicity, freedom from second disease
+           progression, and overall survival at 5 and 10 years in patients treated with this
+           regimen.
+
+      OUTLINE: This is a multicenter study.
+
+      Patients receive Stanford V-C chemotherapy comprising cyclophosphamide IV over 30-60 minutes
+      weekly on weeks 1 and 5; doxorubicin IV and vinblastine IV over 5 minutes once weekly on
+      weeks 1, 3, 5, and 7; oral prednisone every other day on weeks 1-8; vincristine IV and
+      bleomycin IV over 5 minutes once weekly on weeks 2, 4, 6, and 8; and etoposide IV over 60
+      minutes on days 1 and 2 of weeks 3 and 7. Beginning 2-3 weeks after completion of
+      chemotherapy, patients undergo low-dose radiotherapy 5 days a week for approximately 3
+      weeks.
+
+      Patients are followed every 3 months for 2 years, every 6 months for 3 years, and then
+      annually thereafter.
+
+      PROJECTED ACCRUAL: A total of 80 patients will be accrued for this study within 5 years.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 2001</start_date>
+  <completion_date type="Actual">February 13, 2017</completion_date>
+  <primary_completion_date type="Actual">February 13, 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free survival by Kaplan-Meier</measure>
+    <time_frame>at completion of therapy and then annually for 3 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Early and late treatment-related toxicity</measure>
+    <time_frame>Duration of study</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Freedom from second disease progression by Kaplan-Meier</measure>
+    <time_frame>at completion of therapy and then annually for 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival by Kaplan-Meier</measure>
+    <time_frame>at 5 and 10 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of complete response by positron-emission tomography scan</measure>
+    <time_frame>between weeks 4 and 5 of chemotherapy</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">76</enrollment>
+  <condition>Lymphoma, Hodgkin Disease</condition>
+  <condition>Lymphoma</condition>
+  <condition>Hodgkin Disease</condition>
+  <condition>Lymphoma: Hodgkin</condition>
+  <arm_group>
+    <arm_group_label>chemotherapy + Stanford V-C</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>bleomycin</intervention_name>
+    <description>5 u/m2 IV week 2, 4, 6, 8</description>
+    <arm_group_label>chemotherapy + Stanford V-C</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cyclophosphamide</intervention_name>
+    <description>650 mg/m2</description>
+    <arm_group_label>chemotherapy + Stanford V-C</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>prednisone</intervention_name>
+    <description>40 mg/m2, Oral. Every other day. Taper 10 mg qod during last 2 weeks of chemotherapy</description>
+    <arm_group_label>chemotherapy + Stanford V-C</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>vincristine</intervention_name>
+    <description>1.4 mg/m2; IV wk 2, 4, 6, 8</description>
+    <arm_group_label>chemotherapy + Stanford V-C</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Adriamycin</intervention_name>
+    <description>25 mg/m2</description>
+    <arm_group_label>chemotherapy + Stanford V-C</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Velban</intervention_name>
+    <description>6 mg/m2, IV wk 1, 3, 5, 7</description>
+    <arm_group_label>chemotherapy + Stanford V-C</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>VP-16</intervention_name>
+    <description>60 mg/m2 x 2; IV wk 3, 7 (d 15, 16, 43, 44)</description>
+    <arm_group_label>chemotherapy + Stanford V-C</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:DISEASE CHARACTERISTICS:
+
+          -  Diagnosis of stage I or IIA Hodgkin's lymphoma
+
+               -  Previously untreated disease
+
+               -  Eligible subtypes:
+
+                    1. Nodular sclerosis
+
+                    2. Mixed cellularity
+
+                    3. Classical, not otherwise specified
+
+          -  No lymphocyte-predominant Hodgkin's lymphoma
+
+          -  No mediastinal mass that is one-third or more of the maximum intrathoracic diameter
+             on a standing posterior chest x-ray
+
+          -  No lymph node mass more than 10 cm in greatest transaxial diameter
+
+          -  No more than 1 extranodal site of disease
+
+          -  No constitutional (B) symptoms present at diagnosis
+
+        PATIENT CHARACTERISTICS:
+
+        Age:
+
+          -  18 to 70
+
+        Performance status:
+
+          -  Not specified
+
+        Life expectancy:
+
+          -  Not specified
+
+        Hematopoietic:
+
+          -  Granulocyte count at least 2,000/mm^3
+
+          -  Platelet count at least 150,000/mm^3
+
+        Hepatic:
+
+          -  Bilirubin no greater than 2.5 mg/dL
+
+        Renal:
+
+          -  Creatinine no greater than 2 mg/dL
+
+        Cardiovascular:
+
+          -  Ejection fraction at least 50% for patients over age 50 or with a history of cardiac
+             disease
+
+        Other:
+
+          -  HIV negative
+
+          -  Not pregnant or nursing
+
+          -  Negative pregnancy test
+
+          -  Fertile patients must use effective contraception
+
+          -  No other prior or concurrent malignancy within the past 5 years except basal cell
+             skin cancer
+
+          -  No other medical contraindication to study therapy
+
+        PRIOR CONCURRENT THERAPY:
+
+        Biologic therapy:
+
+          -  No prior biologic therapy
+
+        Chemotherapy:
+
+          -  No prior chemotherapy
+
+        Endocrine therapy:
+
+          -  No prior endocrine therapy
+
+        Radiotherapy:
+
+          -  No prior radiotherapy
+
+        Surgery:
+
+          -  Not specified
+
+        Other:
+
+          -  No other concurrent investigational drugs
+
+          -  No other concurrent antineoplastic therapy
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ranjana Advani</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford University School of Medicine</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Medical Center</name>
+      <address>
+        <city>Vallejo</city>
+        <state>California</state>
+        <zip>94589</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 2, 2017</lastchanged_date>
+  <firstreceived_date>November 9, 2001</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Stanford University</investigator_affiliation>
+    <investigator_full_name>Ranjana Advani</investigator_full_name>
+    <investigator_title>Saul A. Rosenberg, MD, Professor of Lymphoma</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Hodgkin Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Prednisone</mesh_term>
+    <mesh_term>Bleomycin</mesh_term>
+    <mesh_term>Doxorubicin</mesh_term>
+    <mesh_term>Vincristine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

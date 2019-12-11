@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="17400">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02880371</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ARRAY-382-201</org_study_id>
+    <nct_id>NCT02880371</nct_id>
+  </id_info>
+  <brief_title>A Study of ARRY-382 in Combination With Pembrolizumab for the Treatment of Patients With Advanced Solid Tumors</brief_title>
+  <official_title>A Study of ARRY-382 in Combination With Pembrolizumab, a Programmed Cell Death Receptor 1 (PD-1) Antibody, for the Treatment of Patients With Advanced Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Array BioPharma</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Array BioPharma</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open-label, multicenter Phase 1b/2 study to determine the maximum tolerated dose
+      (MTD) and/or recommended Phase 2 dose (RP2D) of ARRY-382 in combination with pembrolizumab
+      in adult patients with selected advanced solid tumors (Part A), to assess the
+      pharmacodynamic effects of the combination and to describe the preliminary antitumor
+      activity of the combination in patients with advanced unresectable/metastatic melanoma (Part
+      B), and to estimate the efficacy of the combination in patients with PD-L1-positive NSCLC
+      (Part C).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      ARRY-382 is an inhibitor of CSF1R (colony-stimulating factor-1 receptor).
+
+      Each part of the study consists of a 28-day screening period, 21-day treatment cycles until
+      disease progression, unacceptable toxicity, withdrawal of consent, or death (or other
+      discontinuation criteria are met), and a 30-day safety follow-up period. Patients will be
+      monitored for overall survival (OS) until 1 year after the date of the last patient's first
+      visit.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>August 2016</start_date>
+  <completion_date type="Anticipated">October 2018</completion_date>
+  <primary_completion_date type="Anticipated">October 2018</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>(Phase 1b/Part A) Incidence of dose-limiting toxicities (DLTs)</measure>
+    <time_frame>Cycle 1 (up to 21 days)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>(Part B) Effect of the combination on circulating biomarkers of immune response</measure>
+    <time_frame>Duration of Part B is approximately 2.5 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>(Part C) Efficacy of the combination in terms of the objective response rate</measure>
+    <time_frame>Duration of Part C is approximately 1 year</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>(Phase 1b/Part A, Part B) Preliminary antitumor activity of the combination in terms of objective response rate</measure>
+    <time_frame>Phase 1b is expected to last until disease progression; Duration of Part B is approximately 2.5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(Phase 1b/Part A, Part B, Part C) Preliminary antitumor activity of the combination based on immune-related response criteria</measure>
+    <time_frame>Phase 1b is expected to last until disease progression; Duration of Part B is approximately 2.5 years; Duration of Part C is approximately 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(Phase 1b/Part A, Part B, Part C) Safety and tolerability of the combination in terms of adverse events and serious adverse events</measure>
+    <time_frame>Phase 1b: Patient safety will be evaluated throughout the treatment period, which is expected to last 6-10 months for each patient; Duration of Part B is approximately 2.5 years; Duration of Part C is approximately 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(Part B) Evaluation of the pharmacodynamics of single-agent ARRY-382 in tumor tissue after 14 days of treatment in terms of immune biomarkers by IHC and/or RNA analysis</measure>
+    <time_frame>Approximately 14 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(Phase 1b/Part A, Part B, Part C) Preliminary antitumor activity of the combination in terms of duration of response</measure>
+    <time_frame>Phase 1b is expected to last until disease progression; Duration of Part B is approximately 2.5 years; Duration of Part C is approximately 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(Phase 1b/Part A, Part B, Part C) Preliminary antitumor activity of the combination in terms of progression-free survival</measure>
+    <time_frame>Phase 1b is expected to last until disease progression; Duration of Part B is approximately 2.5 years; Duration of Part C is approximately 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(Phase 1b/Part A, Part B, Part C) Preliminary antitumor activity of the combination in terms of overall survival</measure>
+    <time_frame>Duration of Phase 1b is approximately 1 year; Duration of Part B is approximately 2.5 years; Duration of Part C is approximately 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(Phase 1b/Part A, Part B, Part C) Evaluation of the plasma concentration-time profiles of ARRY-382 and its metabolites in the combination</measure>
+    <time_frame>Phase 1b: Patient safety will be evaluated throughout the treatment period, which is expected to last 6-10 months for each patient; Duration of Part B is approximately 2.5 years; Duration of Part C is approximately 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(Phase 1b/Part A, Part B, Part C) Area under the plasma concentration-time curve over the dosing interval (AUCτ) of ARRY-382 and its three metabolites</measure>
+    <time_frame>Phase 1b: Patient safety will be evaluated throughout the treatment period, which is expected to last 6-10 months for each patient; Duration of Part B is approximately 2.5 years; Duration of Part C is approximately 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(Phase 1b/Part A, Part B, Part C) Maximum plasma concentration (Cmax) of ARRY-382 and its three metabolites</measure>
+    <time_frame>Phase 1b: Patient safety will be evaluated throughout the treatment period, which is expected to last 6-10 months for each patient; Duration of Part B is approximately 2.5 years; Duration of Part C is approximately 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(Phase 1b/Part A, Part B, Part C) Time of maximum observed plasma concentration (Tmax) of ARRY-382 and its three metabolites</measure>
+    <time_frame>Phase 1b: Patient safety will be evaluated throughout the treatment period, which is expected to last 6-10 months for each patient; Duration of Part B is approximately 2.5 years; Duration of Part C is approximately 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(Phase 1b/Part A, Part B, Part C) Plasma concentration measured just before the next dose of study drug (Ctrough) of ARRY-382 and its three metabolites</measure>
+    <time_frame>Phase 1b: Patient safety will be evaluated throughout the treatment period, which is expected to last 6-10 months for each patient; Duration of Part B is approximately 2.5 years; Duration of Part C is approximately 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(Phase 1b/Part A, Part B, Part C) Accumulation ratio based on AUC (RAUC) of ARRY-382 and its three metabolites</measure>
+    <time_frame>Phase 1b: Patient safety will be evaluated throughout the treatment period, which is expected to last 6-10 months for each patient; Duration of Part B is approximately 2.5 years; Duration of Part C is approximately 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(Phase 1b/Part A, Part B, Part C) Metabolite-to-parent ratio based on AUC (MRAUC) of ARRY-382 and its three metabolites</measure>
+    <time_frame>Phase 1b: Patient safety will be evaluated throughout the treatment period, which is expected to last 6-10 months for each patient; Duration of Part B is approximately 2.5 years; Duration of Part C is approximately 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(Phase 1b/Part A, Part B, Part C) Metabolite-to-parent ratio based on Cmax (MRCmax) of ARRY-382 and its three metabolites</measure>
+    <time_frame>Phase 1b: Patient safety will be evaluated throughout the treatment period, which is expected to last 6-10 months for each patient; Duration of Part B is approximately 2.5 years; Duration of Part C is approximately 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(Phase 1b/Part A, Part B, Part C) Accumulation ratio based on Cmax (RCmax) of ARRY-382 and its three metabolites</measure>
+    <time_frame>Phase 1b: Patient safety will be evaluated throughout the treatment period, which is expected to last 6-10 months for each patient; Duration of Part B is approximately 2.5 years; Duration of Part C is approximately 1 year</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>Advanced Solid Tumors</condition>
+  <arm_group>
+    <arm_group_label>Part A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in Part A will receive escalating doses of single-agent ARRY-382 in combination with 2 mg/kg pembrolizumab.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in Part B will receive the RP2D dose of ARRY-382 determined during Part A in combination with 2 mg/kg pembrolizumab.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part C</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in Part C will receive the RP2D dose of ARRY-382 determined during Part A in combination with 200 mg pembrolizumab.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ARRY-382</intervention_name>
+    <description>ARRAY-382 will be taken by mouth once daily at a fixed dose.</description>
+    <arm_group_label>Part A</arm_group_label>
+    <arm_group_label>Part B</arm_group_label>
+    <arm_group_label>Part C</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pembrolizumab</intervention_name>
+    <description>Pembrolizumab will be administered intravenously over 30 minutes every 3 weeks.</description>
+    <arm_group_label>Part A</arm_group_label>
+    <arm_group_label>Part B</arm_group_label>
+    <arm_group_label>Part C</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:
+
+        All Study Parts:
+
+          -  Personally signed and dated informed consent form
+
+          -  Diagnosis of cancer that has been histologically or cytologically confirmed
+
+          -  Eastern Cooperative Oncology Group Performance Status of 0 or 1
+
+          -  For male patients and female patients of childbearing potential, agreement to use an
+             effective method of contraception per institutional standards through 4 months after
+             the last administration of study treatment (i.e., ARRY-382, pembrolizumab)
+
+          -  For females of childbearing potential only, negative serum human chorionic
+             gonadotropin (hCG) pregnancy test result at baseline and nonlactating
+
+          -  Willingness and ability to comply with scheduled visits, treatment plan, laboratory
+             tests, and other study procedures
+
+        Part A (1 of the following):
+
+          -  Ovarian cancer, triple-negative breast cancer, head and neck squamous cell cancer,
+             bladder cancer, metastatic colorectal cancer, pancreatic ductal adenocarcinoma, or
+             gastric cancer that is measurable or evaluable, nonmeasurable as defined by RECIST
+             v1.1 and meets 1 of the following criteria:
+
+               -  is refractory to standard of care
+
+               -  no standard therapy available
+
+               -  patient refuses standard therapy
+
+          -  Advanced, unresectable, or metastatic melanoma with or without prior treatment and
+             measurable or evaluable, nonmeasurable disease as defined by RECIST v1.1
+
+          -  Advanced/metastatic PD-L1-positive NSCLC (defined as a tumor proportion score [TPS] ≥
+             50%) with measurable or evaluable, non-measurable disease as defined by RECIST v1.1
+             and any of the following:
+
+               -  No prior systemic chemotherapy if tumor does not have EGFR or ALK genomic
+                  aberrations
+
+               -  Disease progression on or after platinum-containing chemotherapy;
+
+               -  If tumor has EGFR or ALK genomic aberrations, disease progression on an
+                  FDA-approved therapy for EGFR or ALK genomic tumor aberrations
+
+        Part B:
+
+          -  Advanced, unresectable, or metastatic melanoma with or without prior treatment,
+             measurable disease as defined by RECIST v1.1, and a minimum of 3 lesions
+
+        Part C:
+
+          -  Advanced/metastatic PD-L1-positive NSCLC (defined as a TPS ≥ 50%) with measurable
+             disease as defined by RECIST v1.1 (1 of the following):
+
+               -  No prior systemic chemotherapy if tumor does not have EGFR or ALK genomic
+                  aberrations
+
+               -  Disease progression on or after platinum-containing chemotherapy;
+
+               -  If tumor has EGFR or ALK genomic aberrations, disease progression on an
+                  FDA-approved therapy for EGFR or ALK genomic tumor aberrations
+
+        Key Exclusion Criteria:
+
+          -  Prior treatment as follows:
+
+               -  Part A: an immune CPI (e.g., PD-1, PD-L1, or cytotoxic T-lymphocyte antigen 4
+                  [CTLA-4] inhibitor). NOTE: For patients with melanoma, prior treatment with
+                  ipilimumab is allowed if it was administered as adjuvant therapy and treatment
+                  was completed at least 3 months prior to enrollment.
+
+               -  Parts B: Prior treatment with a PD-1 or PD-L1-directed immune CPI or prior
+                  treatment with a CSF-1R inhibitor or CSF-1 (or MCSF) inhibitor. NOTE: Prior
+                  treatment with ipilimumab is allowed if it was administered as adjuvant therapy
+                  and treatment was completed at least 3 months prior to enrollment.
+
+               -  Part C:
+
+                    -  Prior treatment with an immune CPI (e.g., PD-1, PD-L1, or CTLA-4 inhibitor)
+                       or a CSF-1R or CSF-1 (or MCSF) inhibitor
+
+                    -  More than 1 prior systemic treatment for metastatic disease (disease
+                       relapse during treatment or within 6 months following adjuvant therapy will
+                       be considered metastatic disease)
+
+          -  Symptomatic brain metastasis at screening
+
+          -  Active autoimmune disease, documented history of autoimmune syndrome or disease, or a
+             chronic medical condition that requires chronic steroid therapy or immunosuppressive
+             medication
+
+          -  History of pneumonitis or interstitial lung disease
+
+          -  Severe, acute, or chronic medical or psychiatric condition or laboratory abnormality
+             that may increase the risk associated with study participation or study drug
+             administration or that may interfere with the interpretation of study results and, in
+             the judgment of the Investigator, would make the patient an inappropriate candidate
+             for the study
+
+          -  Ocular melanoma
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Array BioPharma, Inc.</last_name>
+    <role>Study Director</role>
+    <affiliation>303-381-6604</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Array BioPharma, Inc.</last_name>
+    <phone>303-381-6604</phone>
+    <email>clinicaltrials@arraybiopharma.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>UCLA Department of Medicine</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonathan Goldman, MD</last_name>
+      <phone>310-829-5471</phone>
+      <email>jwgoldman@mednet.ucla.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jonathan Goldman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kayla Pacheco</last_name>
+      <phone>720-724-8635</phone>
+      <email>Kayla.Pacheco@UCDenver.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kim Walczyk</last_name>
+      <phone>303-724-8633</phone>
+      <email>Kimberly.Walczyk@UCDenver.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Rene Gonzalez, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Horizon Oncology Research, Inc.</name>
+      <address>
+        <city>Lafayette</city>
+        <state>Indiana</state>
+        <zip>47905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sheri Akridge</last_name>
+      <phone>765-446-5111</phone>
+      <phone_ext>19162</phone_ext>
+      <email>sakridge@horizonbioadvance.com</email>
+    </contact>
+    <investigator>
+      <last_name>Wael A. Harb, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Justin Gainor</last_name>
+      <phone>617-724-4000</phone>
+      <email>jgainor@partners.org</email>
+    </contact>
+    <investigator>
+      <last_name>Justin Gainor, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Karmanos Cancer Institute</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Edgar de la Cruz</last_name>
+      <phone>313-576-8387</phone>
+      <email>delacruz@karmanos.org</email>
+    </contact>
+    <investigator>
+      <last_name>Amy Weise, D.O.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Regions Hospital</name>
+      <address>
+        <city>St. Paul</city>
+        <state>Minnesota</state>
+        <zip>55101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Angie Martizna</last_name>
+      <phone>651-254-1698</phone>
+      <email>Angela.Martizna@ParkNicollet.com</email>
+    </contact>
+    <investigator>
+      <last_name>Arkadiusz Dudek, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sarah Cannon Research Institute</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>ASKSarah Line</last_name>
+      <phone>877-691-7274</phone>
+      <email>asksarah@scresearch.net</email>
+    </contact>
+    <investigator>
+      <last_name>Melissa Johnson, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology, P.A., Sammons Cancer Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Charles L Cowey, MD</last_name>
+      <phone>214-370-1000</phone>
+      <email>C.Cowey@usoncology.com</email>
+    </contact>
+    <investigator>
+      <last_name>Charles L Cowey, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Utah Cancer Specialists</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Johnny Walker</last_name>
+      <phone>801-281-6864</phone>
+      <email>jwalker@utahcancer.com</email>
+    </contact>
+    <investigator>
+      <last_name>Justin Call, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 2, 2017</lastchanged_date>
+  <firstreceived_date>August 2, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Advanced Solid Tumors</keyword>
+  <keyword>Pembrolizumab</keyword>
+  <keyword>ARRY-382</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Pembrolizumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

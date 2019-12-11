@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="92979">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01894477</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2524.00</org_study_id>
+    <secondary_id>NCI-2013-01261</secondary_id>
+    <secondary_id>2524</secondary_id>
+    <secondary_id>2524.00</secondary_id>
+    <secondary_id>K12HL087165</secondary_id>
+    <secondary_id>P30CA015704</secondary_id>
+    <nct_id>NCT01894477</nct_id>
+  </id_info>
+  <brief_title>Treosulfan, Fludarabine Phosphate, and Total Body Irradiation Before Donor Stem Cell Transplant in Treating Patients With Myelodysplastic Syndrome or Acute Myeloid Leukemia</brief_title>
+  <official_title>A Randomized Phase II Study of Treosulfan, Fludarabine and Low-Dose TBI as Conditioning for Allogeneic Hematopoietic Cell Transplantation in Patients With Myelodysplastic Syndrome (MDS) or Acute Myeloid Leukemia (AML)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fred Hutchinson Cancer Research Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fred Hutchinson Cancer Research Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial studies how well treosulfan, fludarabine phosphate, and total body
+      irradiation before donor stem cell transplant works in treating patients with
+      myelodysplastic syndrome or acute myeloid leukemia. Giving chemotherapy, such as treosulfan
+      and fludarabine phosphate, and total-body irradiation before a donor stem cell transplant
+      helps stop the growth of cancer cells. It may also stop the patient's immune system from
+      rejecting the donor's stem cells. The donated stem cells may replace the patient's immune
+      cells and help destroy any remaining cancer cells (graft-versus-tumor effect). Sometimes the
+      transplanted cells from a donor can also make an immune response against the body's normal
+      cells. Giving tacrolimus before and mycophenolate mofetil after the transplant may stop this
+      from happening.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To determine the better of two treosulfan-based conditioning regimens in patients with
+      myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML), by comparing 6-month
+      progression-free survival.
+
+      SECONDARY OBJECTIVES:
+
+      I. Determine the effects of two conditioning regimens on changes in gene expression
+      profiles, and evaluate the association of gene expression profiles and disease relapse.
+
+      II. Determine the incidence of progression-free survival at 1 year and 2 years after
+      hematopoietic cell transplantation (HCT).
+
+      III. Evaluate overall survival (OS) at 6 months, at 1 year and at 2 years after HCT.
+
+      IV. Determine the incidence of grades II-IV acute graft-versus-host disease (GVHD).
+
+      V. Determine the incidence of chronic GVHD.
+
+      VI. Determine donor chimerism around days +28 and +84.
+
+      OUTLINE:
+
+      CONDITIONING REGIMEN: Patients receive treosulfan intravenously (IV) over 2 hours on days -6
+      to -4 and fludarabine phosphate IV over 30 minutes on days -6 to -2. Patients undergo
+      low-dose total-body irradiation (TBI) on day 0.
+
+      TRANSPLANT: Patients undergo allogeneic peripheral blood stem cell (PBSC) transplant or bone
+      marrow transplant on day 0.
+
+      GVHD PROPHYLAXIS: Patients with a related donor receive tacrolimus orally (PO) every 8 or 12
+      hours on days -3 to 56 with taper to day 180. Beginning 4-6 hours after PBSC infusion,
+      patients also receive mycophenolate mofetil PO every 12 hours to day 28. Patients with an
+      unrelated donor receive tacrolimus PO every 8 or 12 hours on days -3 to 100 with taper to
+      day 180. Beginning 4-6 hours after PBSC infusion, patients also receive mycophenolate
+      mofetil PO every 8 hours to day 40 with taper to day 96.
+
+      NOTE: Patients with related donors eligible for FHCRC protocol 2545 may receive cyclosporine
+      IV, instead of tacrolimus, beginning on day -3 to day 50 with a taper to day 180.
+
+      After completion of study treatment, patients are followed up periodically.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>November 2013</start_date>
+  <primary_completion_date type="Anticipated">February 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression free survival (PFS)</measure>
+    <time_frame>At 6 months post-transplant</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in gene expression profiles</measure>
+    <time_frame>Baseline and at day 0 within 6 hours of conditioning prior to transplant</time_frame>
+    <description>Differences between arms in the changes in gene expression will be compared. 80% power to detect mean differences of approximately 1.4 standard deviation units, at the 2-sided 0.05 level of significance (with Bonferroni correction for 50 genes).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of acute GVHD, graded by the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.0</measure>
+    <time_frame>Up to 84 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of chronic GVHD graded by the NCI CTCAE version 4.0</measure>
+    <time_frame>Up to 5 years after HCT</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of relapse/progression</measure>
+    <time_frame>Up to 5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NRM</measure>
+    <time_frame>Up to 5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Up to 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Relapse risk as measured by degree of change in gene expression profiles</measure>
+    <time_frame>Baseline and at day 0 within 6 hours of conditioning prior to transplant</time_frame>
+    <description>Among genes identified whose expression is modified by conditioning, degree of change in expression will be evaluated to determine if it is correlated with relapse risk and offers improved prediction of relapse risk over that obtained with standard clinical parameters (cytogenetics, blast count, International Prognostic Scoring System score, minimal residual disease. To account for censoring and the competing risk of non-relapse mortality (NRM), the analysis will be a time-to-event analysis of relapse using Cox regression, with change in expression as a continuous covariate (on a log scale). 8</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">102</enrollment>
+  <condition>Acute Myeloid Leukemia in Remission</condition>
+  <condition>Chronic Myelomonocytic Leukemia</condition>
+  <condition>Minimal Residual Disease</condition>
+  <condition>Myelodysplastic Syndrome</condition>
+  <condition>Myelodysplastic/Myeloproliferative Neoplasm</condition>
+  <condition>Myelodysplastic/Myeloproliferative Neoplasm, Unclassifiable</condition>
+  <arm_group>
+    <arm_group_label>Treatment (treosulfan, fludarabine phosphate, TBI)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>CONDITIONING REGIMEN: Patients receive treosulfan IV over 2 hours on days -6 to -4 and fludarabine phosphate IV over 30 minutes on days -6 to -2. Patients undergo low-dose TBI on day 0.
+TRANSPLANT: Patients undergo allogeneic PBSC transplant or bone marrow transplant on day 0.
+GVHD PROPHYLAXIS: Patients with a related donor receive tacrolimus PO every 8 or 12 hours on days -3 to 56 with taper to day 180. Beginning 4-6 hours after PBSC infusion, patients also receive mycophenolate mofetil PO every 12 hours to day 28. Patients with an unrelated donor receive tacrolimus PO every 8 or 12 hours on days -3 to 100 with taper to day 180. Beginning 4-6 hours after PBSC infusion, patients also receive mycophenolate mofetil PO every 8 hours to day 40 with taper to day 96.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Allogeneic Bone Marrow Transplantation</intervention_name>
+    <description>Undergo allogeneic bone marrow transplant</description>
+    <arm_group_label>Treatment (treosulfan, fludarabine phosphate, TBI)</arm_group_label>
+    <other_name>Allo BMT</other_name>
+    <other_name>Allogeneic BMT</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fludarabine Phosphate</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (treosulfan, fludarabine phosphate, TBI)</arm_group_label>
+    <other_name>2-F-ara-AMP</other_name>
+    <other_name>9H-Purin-6-amine, 2-fluoro-9-(5-O-phosphono-.beta.-D-arabinofuranosyl)-</other_name>
+    <other_name>Beneflur</other_name>
+    <other_name>Fludara</other_name>
+    <other_name>SH T 586</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Laboratory Biomarker Analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Treatment (treosulfan, fludarabine phosphate, TBI)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Peripheral Blood Stem Cell Transplantation</intervention_name>
+    <description>Undergo allogeneic PBSC transplant</description>
+    <arm_group_label>Treatment (treosulfan, fludarabine phosphate, TBI)</arm_group_label>
+    <other_name>PBPC transplantation</other_name>
+    <other_name>Peripheral Blood Progenitor Cell Transplantation</other_name>
+    <other_name>Peripheral Stem Cell Support</other_name>
+    <other_name>Peripheral Stem Cell Transplantation</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Total-Body Irradiation</intervention_name>
+    <description>Undergo TBI</description>
+    <arm_group_label>Treatment (treosulfan, fludarabine phosphate, TBI)</arm_group_label>
+    <other_name>TOTAL BODY IRRADIATION</other_name>
+    <other_name>Whole-Body Irradiation</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Treosulfan</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (treosulfan, fludarabine phosphate, TBI)</arm_group_label>
+    <other_name>1,2,3, 4-Butanetetrol, 1,4-dimethanesulfonate, [R-(R*,S*)]-</other_name>
+    <other_name>Dihydroxybusulfan</other_name>
+    <other_name>Ovastat</other_name>
+    <other_name>Treosulphan</other_name>
+    <other_name>Tresulfon</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  MDS, myelodysplastic syndrome/myeloproliferative neoplasia overlap disorders
+             (including chronic myelomonocytic leukemia [CMML], and MDS/myeloproliferative
+             neoplasm [MPN] unclassifiable syndromes)
+
+          -  AML, other than acute promyelocytic leukemia (APL), in first or second remission or
+             with minimal residual disease
+
+          -  With Karnofsky index or Lansky Play-Performance scale &gt; 70% on pre-transplant
+             evaluation
+
+          -  Able to give informed consent (if &gt; 18 years), or with a legal guardian capable of
+             giving informed consent (if &lt; 18 years)
+
+          -  Patients with previous autologous or allogeneic HCT are allowed to enroll
+
+          -  DONOR: Human leukocyte antigen (HLA)-identical related donors or
+
+          -  DONOR: Unrelated donors matched for HLA-A, B, C, DRB1, and DQB1 as defined by high
+             resolution deoxyribonucleic acid (DNA) typing; mismatch for one HLA allele is allowed
+
+          -  DONOR: Donors able to undergo peripheral blood stem cell collection or bone marrow
+             harvest
+
+          -  DONOR: Donors in good general health, with a Karnofsky or Lansky play performance
+             score &gt; 90%
+
+          -  DONOR: Donors able to give informed consent (if &gt; 18 years), or with a legal guardian
+             capable of giving informed consent (if &lt; 18 years)
+
+        Exclusion Criteria:
+
+          -  Receiving umbilical cord blood
+
+          -  With impaired cardiac function as evidenced by ejection fraction &lt; 35% (or, if unable
+             to obtain ejection fraction, shortening fraction of &lt; 26%) or cardiac insufficiency
+             requiring treatment or symptomatic coronary artery disease; patients with a
+             shortening fraction &lt; 26% may be enrolled if approved by a cardiologist
+
+          -  With impaired pulmonary function as evidenced by partial pressure of oxygen (pO2) &lt;
+             70 mm Hg and carbon monoxide diffusing capability test (DLCO) &lt; 70% of predicted or
+             pO2 &lt; 80 mm Hg and DLCO &lt; 60% of predicted; (or, for pediatric patients unable to
+             perform pulmonary function tests, then oxygen (O2) saturation &lt; 92% on room air), or
+             receiving supplementary continuous oxygen
+
+          -  With impaired renal function as evidenced by creatinine-clearance &lt; 50% for age,
+             weight, height or serum creatinine &gt; 2 x upper limit of normal or dialysis-dependent
+
+          -  With hepatic dysfunction as evidenced by total bilirubin &gt; 2.0 x upper limit of
+             normal or evidence of synthetic dysfunction or severe cirrhosis
+
+          -  With hepatic dysfunction as evidenced by aspartate aminotransferase (AST) &gt; 2.0 x
+             upper limit of normal or evidence of synthetic dysfunction or severe cirrhosis
+
+          -  With active infectious disease requiring deferral of conditioning, as recommended by
+             an infectious disease specialist
+
+          -  With human immunodeficiency virus (HIV)-positivity or active infectious hepatitis
+
+          -  With central nervous system (CNS) leukemic involvement not clearing with intrathecal
+             chemotherapy, cranial irradiation or both prior to initiating conditioning (day -6)
+
+          -  Patients with active non-hematological malignancies (except non-melanoma skin
+             cancers) or those with non-hematological malignancies who have been rendered with no
+             evidence of disease, but have a greater than 20% chance of having disease recurrence
+             within 5 years; this exclusion does not apply to patients with non-hematologic
+             malignancies that do not require therapy
+
+          -  With life expectancy severely limited by diseases other than malignancy
+
+          -  Women who are pregnant or lactating
+
+          -  With known hypersensitivity to treosulfan or fludarabine (fludarabine phosphate)
+
+          -  Receiving another experimental drug within 4 weeks before initiation of conditioning
+             (day -6)
+
+          -  Unable to give informed consent (if &gt; 18 years) or with a legal guardian (if &lt; 18
+             years) unable to give informed consent
+
+          -  DONOR: Individuals deemed unable to undergo marrow harvesting or PBSC mobilization
+             and leukapheresis
+
+          -  DONOR: Individuals who are HIV-positive
+
+          -  DONOR: Individuals with active infectious hepatitis
+
+          -  DONOR: Females with a positive pregnancy test
+
+          -  DONOR: Persons unable to give informed consent (if &gt; 18 years) or with a legal
+             guardian (if &lt; 18 years) unable to give informed consent
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>H. Joachim Deeg</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fred Hutch/University of Washington Cancer Consortium</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Fred Hutch/University of Washington Cancer Consortium</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2016</verification_date>
+  <lastchanged_date>August 30, 2016</lastchanged_date>
+  <firstreceived_date>July 1, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Syndrome</mesh_term>
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Leukemia, Myeloid</mesh_term>
+    <mesh_term>Leukemia, Myeloid, Acute</mesh_term>
+    <mesh_term>Myelodysplastic Syndromes</mesh_term>
+    <mesh_term>Preleukemia</mesh_term>
+    <mesh_term>Myeloproliferative Disorders</mesh_term>
+    <mesh_term>Leukemia, Myelomonocytic, Chronic</mesh_term>
+    <mesh_term>Myelodysplastic-Myeloproliferative Diseases</mesh_term>
+    <mesh_term>Neoplasm, Residual</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Fludarabine</mesh_term>
+    <mesh_term>Fludarabine phosphate</mesh_term>
+    <mesh_term>Treosulfan</mesh_term>
+    <mesh_term>Busulfan</mesh_term>
+    <mesh_term>Vidarabine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

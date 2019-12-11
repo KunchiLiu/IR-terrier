@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="74862">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02131064</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BO28408</org_study_id>
+    <nct_id>NCT02131064</nct_id>
+  </id_info>
+  <brief_title>A Study Comparing Kadcyla Plus Perjeta Treatment to Chemotherapy Combined With Herceptin Plus Perjeta in Patients With HER2-Positive Breast Cancer</brief_title>
+  <official_title>A RANDOMIZED, MULTICENTER, OPEN-LABEL, TWO-ARM, PHASE III NEOADJUVANT STUDY EVALUATING TRASTUZUMAB EMTANSINE PLUS PERTUZUMAB COMPARED WITH CHEMOTHERAPY PLUS TRASTUZUMAB AND PERTUZUMAB FOR PATIENTS WITH HER2-POSITIVE BREAST CANCER</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hoffmann-La Roche</source>
+  <brief_summary>
+    <textblock>
+      In this randomized, multicenter, open-label, two-arm study, Kadcyla (trastuzumab emtansine)
+      plus Perjeta (pertuzumab) will be compared to chemotherapy plus Herceptin (trastuzumab) plus
+      Perjeta in the treatment of operable HER2-positive breast cancer. Patients will be
+      randomized in a 1: 1 ratio to receive either of the following neoadjuvant treatments for a
+      total of six 3-week cycles:
+
+      Arm A: Docetaxel + carboplatin + Herceptin + Perjeta Arm B: Kadcyla + Perjeta
+
+      Following treatment, patients will undergo surgery. After recovery, patients will be given
+      the following adjuvant treatment:
+
+      Arm A: Herceptin + Perjeta Arm B: Kadcyla + Perjeta Treatment can be stopped due to disease
+      recurrence, unacceptable toxicity, withdrawal of consent, or study termination. Study is
+      expected to last approximately 45 months.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>June 2014</start_date>
+  <completion_date type="Anticipated">January 2018</completion_date>
+  <primary_completion_date type="Anticipated">January 2018</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Local evaluation of pathological complete response (pCR)</measure>
+    <time_frame>Approximately 21 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Event-free survival (EFS)</measure>
+    <time_frame>Approximately 36 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Invasive disease-free survival (IDFS)</measure>
+    <time_frame>Approximately 36 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>Approximately 36 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Breast-conserving surgery rate</measure>
+    <time_frame>Approximately 36 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>Approximately 36 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of hepatic events</measure>
+    <time_frame>Approximately 36 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of cardiac events</measure>
+    <time_frame>Approximately 36 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health related quality of life as assessed by the European organization for reasearch and treatment of cancer (EORTC) quality of life questionnaire (QLQ) C30/BR23</measure>
+    <time_frame>Up to 36 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Observed drug serum concentrations</measure>
+    <time_frame>Up to 20 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of anti-therapeutic antibodies</measure>
+    <time_frame>Up to 20 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">444</enrollment>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Herceptin (trastuzumab) + Perjeta (pertuzumab) + Chemotherapy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Kadcyla (trastuzumab emtansine) + Perjeta (pertuzumab)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>carboplatin</intervention_name>
+    <description>Given IV at a dose eliciting an area under the concentration-time curve (AUC) of 6</description>
+    <arm_group_label>Herceptin (trastuzumab) + Perjeta (pertuzumab) + Chemotherapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>docetaxel</intervention_name>
+    <description>75 mg/m2 given IV every 3 weeks</description>
+    <arm_group_label>Herceptin (trastuzumab) + Perjeta (pertuzumab) + Chemotherapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>pertuzumab [Perjeta]</intervention_name>
+    <description>420 mg given IV every 3 weeks (840 mg loading dose)</description>
+    <arm_group_label>Herceptin (trastuzumab) + Perjeta (pertuzumab) + Chemotherapy</arm_group_label>
+    <arm_group_label>Kadcyla (trastuzumab emtansine) + Perjeta (pertuzumab)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>trastuzumab [Herceptin]</intervention_name>
+    <description>6 mg/kg given IV every 3 weeks (8 mg/kg loading dose)</description>
+    <arm_group_label>Herceptin (trastuzumab) + Perjeta (pertuzumab) + Chemotherapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>trastuzumab emtansine [Kadcyla]</intervention_name>
+    <description>3.6 mg/kg given as an intravenous (IV) infusion every 3 weeks</description>
+    <arm_group_label>Kadcyla (trastuzumab emtansine) + Perjeta (pertuzumab)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  age &gt;/= 18 years
+
+          -  Histologically confirmed invasive breast cancer with a primary tumor size of &gt; 2 cm
+
+          -  HER2-positive breast cancer
+
+          -  Patients with multifocal tumors (more than one tumor confined to the same quadrant as
+             the primary tumor) if all sampled lesions are centrally confirmed as HER2-positive
+
+          -  Stage at presentation: cT2-cT4, cN0-cN3, cM0
+
+          -  Known hormone receptor status of the primary tumor
+
+          -  Patient agreement to undergo mastectomy or breast-conserving surgery after
+             neoadjuvant therapy
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1
+
+          -  Baseline LVEF &gt;55% measured by echocardiogram (ECHO) or multiple-gated acquisition
+             (MUGA)
+
+          -  Effective contraception as defined by protocol
+
+        Exclusion Criteria:
+
+          -  Stage IV (metastatic) breast cancer
+
+          -  Patients who have received prior anti-cancer therapy for breast cancer except those
+             patients with a history of breast lobular carcinoma in situ (LCIS) that was
+             surgically managed or ductal carcinoma in situ (DCIS) treated exclusively with
+             mastectomy. In case of prior history of LCIS/DCIS, &gt;5 years must have passed from
+             surgery until diagnosis of current breast cancer
+
+          -  Patients with multicentric (multiple tumors involving more than 1 quadrant) or
+             bilateral breast cancer
+
+          -  Patients who have undergone incisional and/or excisional biopsy of primary tumor
+             and/or axillary lymph nodes
+
+          -  Axillary lymph node dissection or positive sentinel lymph node prior to start of
+             neoadjuvant therapy.
+
+          -  History of concurrent or previous non-breast malignancies except for appropriately
+             treated (1) non-melanoma skin cancer and (2) in situ carcinomas, including cervix,
+             colon, and skin. A patient with previous invasive non-breast cancer is eligible
+             provided he/she has been disease-free &gt;/= 5 years
+
+          -  Treatment with any investigational drug within 28 days prior to randomization
+
+          -  Current National Cancer Institute Common Terminology Criteria for Adverse Events (NCI
+             CTCAE) v4.03 Grade &gt;/= 2 peripheral neuropathy
+
+          -  Any significant concurrent medical or surgical conditions or findings that would
+             jeopardize the patient's safety or ability to complete the study
+
+          -  Pregnancy or breastfeeding
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>Hoffmann-La Roche</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <address>
+        <city>Fullerton</city>
+        <state>California</state>
+        <zip>92835</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095-1772</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>San Luis Obispo</city>
+        <state>California</state>
+        <zip>93401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>San Luis Obispo</city>
+        <state>California</state>
+        <zip>93454</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Santa Monica</city>
+        <state>California</state>
+        <zip>90404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Scarborough</city>
+        <state>Maine</state>
+        <zip>04074</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Henderson</city>
+        <state>Nevada</state>
+        <zip>89052</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lake Success</city>
+        <state>New York</state>
+        <zip>11042</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Asheville</city>
+        <state>North Carolina</state>
+        <zip>28806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29414</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Edegem</city>
+        <zip>2650</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Liège</city>
+        <zip>4000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Namur</city>
+        <zip>5000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Wilrijk</city>
+        <zip>2610</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T6G 1Z2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M4N 3M5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5B 1W8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H2L 4M1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H3T 1E2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Quebec</city>
+        <zip>G1S 4L8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Angers</city>
+        <zip>49000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Besancon</city>
+        <zip>25030</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Brest</city>
+        <zip>29200</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>La Roche Sur Yon</city>
+        <zip>85925</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lille</city>
+        <zip>59020</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Marseille</city>
+        <zip>13273</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Nantes</city>
+        <zip>44202</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Saint Herblain</city>
+        <zip>44805</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Strasbourg</city>
+        <zip>67091</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Böblingen</city>
+        <zip>71032</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Düsseldorf</city>
+        <zip>40235</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Erlangen</city>
+        <zip>91054</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Mainz</city>
+        <zip>55131</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>München</city>
+        <zip>80336</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Gyeonggi-do</city>
+        <zip>10408</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Gyeonggi-do</city>
+        <zip>13620</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Seoul</city>
+        <zip>03080</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Seoul</city>
+        <zip>05505</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Seoul</city>
+        <zip>06351</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Seoul</city>
+        <zip>120-752</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Moscovskaya Oblast</city>
+        <state>Moskovskaja Oblast</state>
+        <zip>143423</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kislino, Kursk Region</city>
+        <zip>305524</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Moscow</city>
+        <zip>115478</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Orenburg</city>
+        <zip>460021</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Saratov</city>
+        <zip>410004</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>St Petersburg</city>
+        <zip>197022</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Sabadell</city>
+        <state>Barcelona</state>
+        <zip>08208</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>San Sebastian</city>
+        <state>Guipuzcoa</state>
+        <zip>20014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lleida</city>
+        <state>Lerida</state>
+        <zip>25198</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Avila</city>
+        <zip>05071</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Barcelona</city>
+        <zip>08003</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Barcelona</city>
+        <zip>08006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Jaen</city>
+        <zip>23007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>La Coruña</city>
+        <zip>15006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Madrid</city>
+        <zip>28007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Madrid</city>
+        <zip>28050</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Madrid</city>
+        <zip>28223</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Malaga</city>
+        <zip>29020</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Sevilla</city>
+        <zip>41013</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Valencia</city>
+        <zip>46010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Zaragoza</city>
+        <zip>50009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kaohsiung</city>
+        <zip>807</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Taipei</city>
+        <zip>00112</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Taipei</city>
+        <zip>100</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Taipei</city>
+        <zip>104</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Taipei</city>
+        <zip>112</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Taipei</city>
+        <zip>11490</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cherkassy</city>
+        <zip>18009</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Dnipropetrovsk</city>
+        <zip>43102</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kharkiv</city>
+        <zip>61070</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lvov</city>
+        <zip>79031</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Korea, Republic of</country>
+    <country>Russian Federation</country>
+    <country>Spain</country>
+    <country>Taiwan</country>
+    <country>Ukraine</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Ireland</country>
+    <country>Italy</country>
+  </removed_countries>
+  <verification_date>August 2016</verification_date>
+  <lastchanged_date>August 1, 2016</lastchanged_date>
+  <firstreceived_date>May 2, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Ado-trastuzumab emtansine</mesh_term>
+    <mesh_term>Pertuzumab</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+    <mesh_term>Trastuzumab</mesh_term>
+    <mesh_term>Maytansine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

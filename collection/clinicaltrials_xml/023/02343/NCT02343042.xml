@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="58607">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02343042</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KCP-330-017</org_study_id>
+    <nct_id>NCT02343042</nct_id>
+  </id_info>
+  <brief_title>Selinexor and Backbone Treatments of Multiple Myeloma Patients</brief_title>
+  <acronym>STOMP</acronym>
+  <official_title>A Phase 1b/2 Study of Selinexor (KPT-330) in Combination With Backbone Treatments for Relapsed/Refractory Multiple Myeloma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Karyopharm Therapeutics Inc</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Karyopharm Therapeutics Inc</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will independently assess the efficacy and safety of four combination therapies
+      for the treatment of patients with relapsed/refractory multiple myeloma (RR MM): selinexor +
+      pomalidomide + dexamethasone (SPd), selinexor + bortezomib + dexamethasone (SVd), selinexor
+      + lenalidomide+ dexamethasone (SRd), and selinexor + daratumumab + dexamethasone (SDd). The
+      abbreviations for combination treatments have been revised to use V (Velcade) for bortezomib
+      and R (Revlimid) for lenalidomide.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Multi-center, open-label, randomized (for dose schedule) clinical study with dose escalation
+      (Phase 1) and expansion (Phase 2) stages to independently assess the maximum tolerated dose
+      (MTD,) efficacy, and safety of selinexor + pomalidomide + dexamethasone (SPd), selinexor +
+      bortezomib + dexamethasone (SVd), selinexor + lenalidomide + dexamethasone (SRd), and
+      selinexor + daratumumab + dexamethasone (SDd) in patients with relapsed/refractory multiple
+      myeloma (RR MM).
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 2015</start_date>
+  <completion_date type="Anticipated">April 2018</completion_date>
+  <primary_completion_date type="Anticipated">March 2018</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximal Tolerated Dose (MTD) and Recommended Phase 2 dose (RP2D) for Selinexor</measure>
+    <time_frame>12 months</time_frame>
+    <description>- Determine the MTD and RP2D; selinexor once weekly or twice weekly for all arms.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with Adverse Events as a measure of safety and tolerability</measure>
+    <time_frame>12 months</time_frame>
+    <description>- Evaluate the safety and tolerability of SPd (selinexor + pomalidomide + dexamethasone), SVd (selinexor + bortezomib + dexamethasone ), SRd (selinexor + lenalidomide + dexamethasone ), and SDd (selinexor + daratumumab + dexamethasone) in patients with relapsed/refractory multiple myeloma using National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE), v 4.03.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">262</enrollment>
+  <condition>Multiple Myeloma</condition>
+  <arm_group>
+    <arm_group_label>Arm 1 Selinexor, Low-dose Dexamethasone &amp; Pomalidomide (SPd)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Pomalidomide will be dosed at 4 mg daily for 21 days per cycle.
+Cohort 1.1: Selinexor 80 mg with dexamethasone 40 mg once weekly . Cohort 1.2: Selinexor 60 mg with dexamethasone 20 mg twice weekly ; dexamethasone 40 mg weekly will also be given (without selinexor) on Days 22 &amp; 24.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2 Selinexor, Low-dose Dexamethasone &amp; Bortezomib (SVd)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>One cycle is either 21 or 35 days (depending on bortezomib dosing schedule).
+Cohort 2.1: Selinexor 80 mg with dexamethasone 40 mg once weekly. Bortezomib 1.3 mg/m2 subcutaneous (SC) once weekly.
+Cohort 2.2: Selinexor 60 mg with dexamethasone 20 mg twice weekly; dexamethasone 40 mg weekly will also be given on Days 29 and 31. Bortezomib 1.3 mg/m2 SC dosed once weekly.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 3 Selinexor, Low-dose dexamethasone, &amp; Lenalidomide (SRd)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Lenalidomide at 25mg daily for 21 days per 28 day cycle. Cohort 3.1: Selinexor 80mg with dexamethasone 40mg once weekly. Cohort 3.2: Selinexor 60mg with dexamethasone 20mg twice weekly; dexamethasone 40mg weekly will also be given (without selinexor) on Days 22 and 24.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 4 Selinexor, Low-dose dexamethasone, &amp; Daratumumab (SDd)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Daratumumab at 16mg/kg IV every week for cycles 1 and 2; then every 2 weeks for cycles 3-6, then once a month for cycles 6 and beyond. A cycle is 28 days.
+Cohort 4.1: Selinexor 100mg with dexamethasone 40mg once weekly. Cohort 4.2: Selinexor 60mg with dexamethasone 20mg twice weekly;
+dexamethasone 40mg weekly, or equivalent dose of other corticosteroid, may be given intravenously or by mouth will also be given (without selinexor: For once weekly dosing, Cycles 1 and 2: Days 2, 3, 9, 10, 16, 17, 23, and 24; Cycles 3-6: Days 2, 3, 16, and 17; Cycles &gt;6: Days 2 and 3. For twice weekly dosing, Cycles 1 and 2: Days 2, 9, 16, 17, 22, 23, and 24; Cycles 3-6: Days 2, 16, 22, 24; Cycles &gt;6: Days 2, 22, and 24.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Selinexor</intervention_name>
+    <description>Tablets</description>
+    <arm_group_label>Arm 1 Selinexor, Low-dose Dexamethasone &amp; Pomalidomide (SPd)</arm_group_label>
+    <arm_group_label>Arm 2 Selinexor, Low-dose Dexamethasone &amp; Bortezomib (SVd)</arm_group_label>
+    <arm_group_label>Arm 3 Selinexor, Low-dose dexamethasone, &amp; Lenalidomide (SRd)</arm_group_label>
+    <arm_group_label>Arm 4 Selinexor, Low-dose dexamethasone, &amp; Daratumumab (SDd)</arm_group_label>
+    <other_name>KPT-330</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexamethasone</intervention_name>
+    <description>Oral tablets in a multi-dose vial.</description>
+    <arm_group_label>Arm 1 Selinexor, Low-dose Dexamethasone &amp; Pomalidomide (SPd)</arm_group_label>
+    <arm_group_label>Arm 2 Selinexor, Low-dose Dexamethasone &amp; Bortezomib (SVd)</arm_group_label>
+    <arm_group_label>Arm 3 Selinexor, Low-dose dexamethasone, &amp; Lenalidomide (SRd)</arm_group_label>
+    <arm_group_label>Arm 4 Selinexor, Low-dose dexamethasone, &amp; Daratumumab (SDd)</arm_group_label>
+    <other_name>Decadron</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lenalidomide</intervention_name>
+    <description>25mg Oral capsule</description>
+    <arm_group_label>Arm 3 Selinexor, Low-dose dexamethasone, &amp; Lenalidomide (SRd)</arm_group_label>
+    <other_name>REVLIMID</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pomalidomide</intervention_name>
+    <description>4 mg oral tablets</description>
+    <arm_group_label>Arm 1 Selinexor, Low-dose Dexamethasone &amp; Pomalidomide (SPd)</arm_group_label>
+    <other_name>Pomalyst</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bortezomib</intervention_name>
+    <description>3.5mg for injection supplied as lyophilized powder in single-use viles for subcutaneous injection.</description>
+    <arm_group_label>Arm 2 Selinexor, Low-dose Dexamethasone &amp; Bortezomib (SVd)</arm_group_label>
+    <other_name>Velcade</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Daratumumab</intervention_name>
+    <description>16mg/kg Intravenous</description>
+    <arm_group_label>Arm 4 Selinexor, Low-dose dexamethasone, &amp; Daratumumab (SDd)</arm_group_label>
+    <other_name>Darzalex</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Histologically confirmed diagnosis, measurable disease and evidence of disease
+             progression of MM, as described below.
+
+          2. Symptomatic MM, based on IMWG guidelines. Patients must have measurable disease as
+             defined by at least one of the following:
+
+               -  Serum M-protein ≥ 0.5 g/dL by serum electrophoresis (SPEP) or, for IgA myeloma,
+                  by quantitative IgA
+
+               -  Urinary M-protein excretion at least 200 mg/24 hours
+
+               -  Serum FLC ≥ 100 mg/L, provided that FLC ratio is abnormal
+
+               -  If serum protein electrophoresis is felt to be unreliable for routine M-protein
+                  measurement, then quantitative Ig levels by nephelometry or turbidometry are
+                  acceptable.
+
+          3. Any non-hematological toxicities (except for peripheral neuropathy as described in
+             exclusion criterion #22) that patients experienced from treatments in previous
+             clinical studies must have resolved to ≤ Grade 2 by Cycle 1 Day 1.
+
+          4. Adequate hepatic function within 21 days prior to C1 D1:
+
+          5. Adequate renal function within 21 days prior to C1 D1:
+
+          6. Adequate hematopoietic function within 21 days prior to C1 D1:
+
+          7. SPd (Arm 1) Only:
+
+             Relapsed and refractory MM with:
+
+               -  Documented evidence of PD after achieving at least SD for ≥ 1 cycle during a
+                  previous MM regimen (i.e., relapsed MM)
+
+               -  ≤ 25% response (i.e., patients never achieved ≥ MR) or PD during or within 60
+                  days from the end of the most recent MM regimen (i.e., refractory MM)
+
+               -  Previously undergone ≥ 2 cycles of lenalidomide and a proteasome inhibitor (in
+                  separate therapeutic regimens [not for maintenance] or in combination)
+
+          8. SVd (Arm 2) Only:
+
+             Relapsed or refractory MM with:
+
+               -  Documented evidence of relapse after ≥ 1 previous line of therapy
+
+               -  Not refractory to bortezomib in their most recent line of therapy
+
+          9. SRd (Arm 3) Only:
+
+               -  Patients who received ≥ 1 prior therapeutic regimen (prior lenalidomide is
+                  allowed as long as patient was not refractory to prior lenalidomide)
+
+         10. SDd (Arm 4 Only):
+
+               -  Patients who received ≥ 3 prior lines of therapy, including a proteasome
+                  inhibitor and an immunomodulatory agent.
+
+        Exclusion Criteria:
+
+          1. Smoldering MM.
+
+          2. MM that does not express M-protein or FLC (i.e., non-secretory MM is excluded), and
+             quantitative immunoglobulin levels cannot be used instead
+
+          3. Documented active systemic amyloid light chain amyloidosis
+
+          4. Active MM involving the central nervous system (CNS)
+
+          5. Active plasma cell leukemia
+
+          6. Blood (or blood product) transfusions and blood growth factors within 7 days of C1 D1
+             only for patients enrolling into the Expansion Phase
+
+          7. Radiation, chemotherapy, or immunotherapy or any other anticancer therapy ≤ 2 weeks
+             prior to C1 D1, and radio-immunotherapy within 6 weeks prior to C1 D1. Patients on
+             long-term glucocorticoids during Screening, including use for spinal cord
+             compression, do not require a washout period. Prior radiation is permitted for
+             treatment of fractures or to prevent fractures as well as for pain management
+
+          8. Treatment with an investigational anti-cancer therapy within 3 weeks prior to C1 D1
+
+          9. Prior autologous stem cell transplantation &lt; 1 month, or allogeneic stem cell
+             transplantation &lt; 3 months prior to C1 D1
+
+         10. Active graft versus host disease after allogeneic stem cell transplantation
+
+         11. A life expectancy of &lt; 3 months
+
+         12. Major surgery within 4 weeks prior to C1 D1
+
+         13. Active, unstable cardiovascular function:
+
+               1. Symptomatic ischemia, or
+
+               2. Uncontrolled clinically-significant conduction abnormalities (e.g., patients
+                  with ventricular tachycardia on antiarrhythmics are excluded; patients with 1st
+                  degree atrioventricular (AV) block or asymptomatic left anterior fascicular
+                  block/right bundle branch block (LAFB/RBBB) will not be excluded), or
+
+               3. Congestive heart failure (CHF) of New York Heart Association (NYHA) Class ≥ 3,
+                  or
+
+               4. Myocardial infarction (MI) within 3 months prior to C1 D1
+
+               5. Ejection fraction (EF) &lt; 50% at screening
+
+         14. Uncontrolled active hypertension
+
+         15. Uncontrolled active infection requiring parenteral antibiotics, antivirals, or
+             antifungals within one week prior to first dose
+
+         16. Known active hepatitis A, B or C
+
+         17. Known HIV infection or HIV seropositivity
+
+         18. Prior history of malignancies: cancer treated with curative intent &gt; 5 years before
+             study enrollment and without evidence of recurrence will be allowed. Cancer treated
+             with curative intent &lt; 5 years previously will not be allowed unless approved by the
+             medical monitor. Exceptions include:
+
+               1. Resected basal or squamous cell carcinoma of the skin
+
+               2. Carcinoma in situ of the cervix
+
+         19. Any active gastrointestinal dysfunction that prevents the patient from swallowing
+             tablets, or interferes with absorption of study treatment
+
+         20. Currently pregnant or breastfeeding
+
+         21. A serious psychiatric or medical condition which, in the opinion of the investigator,
+             could interfere with treatment
+
+         22. Hypersensitivity to any of the treatments for the Arm in which the patient is
+             enrolled
+
+         23. In the SVd (Arm 2)only:
+
+             -Prior history of neuropathy Grade &gt; 2, or Grade 2 neuropathy with pain at screening
+             (within 21 days prior to C1 D1)
+
+         24. Prior participation in a selinexor clinical trial
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael Kauffman, MD, Ph.D</last_name>
+    <role>Study Director</role>
+    <affiliation>Karyopharm Therapeutics Inc</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Michael Kauffman, MD, PhD</last_name>
+    <email>mkauffman@karyopharm.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sharon Shacham, PhD</last_name>
+    <email>SShacham@karyopharm.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Jonnsson Comprehensive Cancer Center / University of Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>0095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gary Schiller, MD, PhD</last_name>
+      <phone>888-798-0719</phone>
+      <email>GSchiller@mednet.ucla.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Gary Schiller, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Suzanne Lentzsch, MD</last_name>
+      <phone>212-305-5065</phone>
+      <email>CTOInformation@columbia.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Suzanne Lentzsch, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Duke Institute of Cancer/ Duke University</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cristina Gasparetto, MD</last_name>
+      <phone>919-668-1017</phone>
+      <email>gaspa001@mc.duke.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Cristina Gasparetto, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Swedish Cancer Institute</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>William Bensinger, MD</last_name>
+      <phone>855-922-6237</phone>
+    </contact>
+    <investigator>
+      <last_name>William Bensinger, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Southern Alberta Cancer Research Institute / University of Calgary</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N 4Z6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nazar Bahlis</last_name>
+      <phone>+1 (403) 944-1880</phone>
+      <email>nbahlis@ucalgary.ca</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cross Cancer Institute / University of Alberta</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T6G 1Z2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chris Venner</last_name>
+      <phone>780-432-8771</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Vancouver General Hospital</name>
+      <address>
+        <city>Vancouver,</city>
+        <state>British Columbia</state>
+        <zip>V5Z 1M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tina Haqq</last_name>
+      <phone>604.736.2033</phone>
+    </contact>
+    <investigator>
+      <last_name>Heather Sutherland</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Care Manitoba</name>
+      <address>
+        <city>Winnipeg</city>
+        <state>Manitoba</state>
+        <zip>R3E 0V9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Hospital of Newfoundland</name>
+      <address>
+        <city>St. John's</city>
+        <state>Newfoundland and Labrador</state>
+        <zip>A1B 3V6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Debra Bergstrom</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Queen Elizabeth II Health Sciences Center</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <zip>B3H 2Y9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Darrell White</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Juravinski Cancer Centre / Hamilton Health Sciences</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>L8V 5C2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Ottawa Hospital</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1H 8L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Princess Margaret Cancer Centre</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 2M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Saima Dean</last_name>
+      <phone>416 946 4501</phone>
+      <phone_ext>5241</phone_ext>
+    </contact>
+    <investigator>
+      <last_name>Christine Chen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Maisonneuve-Rosemont Hospital</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H1T 2M4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Victoria Hospital / McGill University</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H3A 1A1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>L'Hôtel-Dieu de Québec</name>
+      <address>
+        <city>Quebec City</city>
+        <state>Quebec</state>
+        <zip>G1R 2J6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saskatchewan Cancer Agency - Allan Blair Cancer Centre</name>
+      <address>
+        <city>Regina</city>
+        <state>Saskatchewan</state>
+        <zip>S4T 7TI</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Haji Chalchal</last_name>
+      <phone>639-625-2010</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 31, 2017</lastchanged_date>
+  <firstreceived_date>January 13, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Selinexor</keyword>
+  <keyword>KCP-330</keyword>
+  <keyword>STOMP</keyword>
+  <keyword>Multiple Myeloma</keyword>
+  <keyword>Relapsed/Refractory</keyword>
+  <keyword>Dexamethasone</keyword>
+  <keyword>Pomalidomide</keyword>
+  <keyword>Bortezomib</keyword>
+  <keyword>Karyopharm</keyword>
+  <keyword>Lenalidomide</keyword>
+  <keyword>Daratumumab</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Multiple Myeloma</mesh_term>
+    <mesh_term>Neoplasms, Plasma Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Dexamethasone acetate</mesh_term>
+    <mesh_term>Dexamethasone</mesh_term>
+    <mesh_term>Dexamethasone 21-phosphate</mesh_term>
+    <mesh_term>Lenalidomide</mesh_term>
+    <mesh_term>Pomalidomide</mesh_term>
+    <mesh_term>Daratumumab</mesh_term>
+    <mesh_term>Thalidomide</mesh_term>
+    <mesh_term>Bortezomib</mesh_term>
+    <mesh_term>BB 1101</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

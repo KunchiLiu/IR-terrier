@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="86105">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01984242</url>
+  </required_header>
+  <id_info>
+    <org_study_id>WO29074</org_study_id>
+    <secondary_id>2013-003167-58</secondary_id>
+    <nct_id>NCT01984242</nct_id>
+  </id_info>
+  <brief_title>A Phase 2 Study of Atezolizumab (an Engineered Anti-Programmed Death-Ligand 1 [PD-L1] Antibody) as Monotherapy or in Combination With Bevacizumab (Avastin®) Compared to Sunitinib (Sutent®) in Participants With Untreated Advanced Renal Cell Carcinoma</brief_title>
+  <acronym>IMmotion150</acronym>
+  <official_title>A Phase II, Randomized Study of Atezolizumab (Anti PD-L1 Antibody) Administered as Monotherapy or in Combination With Bevacizumab Versus Sunitinib in Participants With Untreated Advanced Renal Cell Carcinoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hoffmann-La Roche</source>
+  <brief_summary>
+    <textblock>
+      This multicenter, randomized, open-label study will evaluate the efficacy, safety and
+      tolerability of atezolizumab as monotherapy or in combination with bevacizumab versus
+      sunitinib in participants with histologically confirmed, previously untreated locally
+      advanced or metastatic renal cell carcinoma who have not received prior systemic therapy
+      either in the adjuvant or metastatic setting.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>January 2014</start_date>
+  <completion_date type="Anticipated">August 2019</completion_date>
+  <primary_completion_date type="Anticipated">August 2019</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-Free Survival per Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST v.1.1) via Central Independent Review Committee (IRC) Assessment in Intent-to-Treat (ITT) Population</measure>
+    <time_frame>From randomization until disease progression or death from any cause (up to approximately 2.5 years)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Progression-Free Survival per Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST v.1.1) via Central IRC Assessment in Participants who Have Detectable PD-L1 Expression</measure>
+    <time_frame>From randomization until disease progression or death from any cause (up to approximately 2.5 years)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival per RECIST v.1.1 in Participants who Have Tumors With Higher Than Median Expression of an Immune Gene Signature</measure>
+    <time_frame>From randomization until disease progression or death from any cause (up to approximately 2.5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival per RECIST v.1.1 in Participants who Have Tumors With Higher Than the 33rd Percentile Expression of an Immune Gene Signature</measure>
+    <time_frame>From randomization until disease progression or death from any cause (up to approximately 2.5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival Using Investigator Assessment</measure>
+    <time_frame>From randomization until disease progression or death from any cause (up to approximately 2.5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Overall Response (Complete + Partial Response [CR+PR]) per RECIST v1.1 Using Investigator Assessment</measure>
+    <time_frame>From randomization until disease progression or death from any cause (up to approximately 2.5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Overall Response (CR+PR) per RECIST v1.1 via an Independent Central Radiologic Review</measure>
+    <time_frame>From randomization until disease progression or death from any cause (up to approximately 2.5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Overall Response per Modified RECIST Using Investigator Assessment</measure>
+    <time_frame>From randomization until disease progression or death from any cause (up to approximately 2.5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival per Modified RECIST Using Investigator Assessment</measure>
+    <time_frame>From randomization until disease progression or death from any cause (up to approximately 2.5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response per RECIST v1.1 Criteria</measure>
+    <time_frame>From randomization until disease progression or death from any cause (up to approximately 2.5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response per Modified RECIST Criteria</measure>
+    <time_frame>From randomization until disease progression or death from any cause (up to approximately 2.5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>From randomization up to death or study completion (Up to approximately 2.5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Crossover Treatment Phase Participants With a Best Overall Response of CR or PR</measure>
+    <time_frame>From Day 1 of crossover Cycle 1 (cycle length=6 weeks) until disease progression or death from any cause (up to approximately 1.5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response in Crossover Treatment Phase Participants</measure>
+    <time_frame>From Day 1 of crossover Cycle 1 (cycle length=6 weeks) until disease progression or death from any cause (up to approximately 1.5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival in Crossover Treatment Phase Participants</measure>
+    <time_frame>From Day 1 of crossover Cycle 1 (cycle length=6 weeks) until disease progression or death from any cause (up to approximately 1.5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Adverse Events</measure>
+    <time_frame>From randomization until 30 days after last dose of study treatment (up to approximately 5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Anti-Therapeutic Antibodies (ATA) to Atezolizumab</measure>
+    <time_frame>Pre-infusion (0 hour) (infusion duration = 60 minutes) on Day 1 of Cycles 1, 2, 4 and 8, thereafter every 8 cycles (each cycle = 6 weeks) until end of treatment visit (up to approximately 2.5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Serum Concentration (Cmax) of Atezolizumab</measure>
+    <time_frame>30 min post-infusion (infusion duration = 60 minutes) on Cycle 1 (cycle length = 6 weeks), Day 1</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Minimum Serum Concentration (Cmin) of Atezolizumab</measure>
+    <time_frame>Pre-infusion (0 hour) on Day 1 of Cycles 1, 2, and 4; Day 22 of Cycles 1, 2, and 4 (each cycle = 6 weeks); and at study termination (up to approximately 2.5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmax of Bevacizumab</measure>
+    <time_frame>30 min post-infusion (infusion duration = 90 minutes) on Day 1 of Cycles 1 and 2 (each cycle = 6 weeks)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmin of Bevacizumab</measure>
+    <time_frame>Pre-infusion (0 hour) (infusion duration = 60 minutes) on Day 1 of Cycles 1 and 2 (each cycle = 6 weeks), and at study termination (up to approximately 2.5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>M.D. Anderson Symptom Inventory (MDASI) Score</measure>
+    <time_frame>From randomization up to end of treatment (up to approximately 2.5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Brief Fatigue Inventory (BFI) Score</measure>
+    <time_frame>From randomization up to end of treatment (up to approximately 2.5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Euro Quality of Life 5 Dimension Questionnaire (EQ-5D) Score</measure>
+    <time_frame>From randomization up to end of treatment (up to approximately 2.5 years)</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">305</enrollment>
+  <condition>Renal Cell Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>A: Atezolizumab + Bevacizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Atezolizumab 1200 milligrams (mg) and bevacizumab 15 milligrams per kilogram (mg/kg) intravenous (IV) infusions every 3 weeks (q3w) on Day 1 and Day 22 of each 6-week cycle until disease progression.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B: Atezolizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Atezolizumab 1200 mg IV infusions q3w on Day 1 and Day 22 of each 6-week cycle until disease progression. Upon disease progression, participants may crossover to receive atezolizumab + bevacizumab combination until disease progression, unacceptable toxicity, withdrawal from study, or study completion or termination.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>C: Sunitinib</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Sunitinib 50 mg orally once daily on Days 1 to 28 of each 6-week cycle until disease progression. Upon disease progression, participants (except EU participants) may crossover to receive atezolizumab + bevacizumab combination until disease progression, unacceptable toxicity, withdrawal from study, or study completion or termination.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Atezolizumab</intervention_name>
+    <description>1200 mg IV q3w</description>
+    <arm_group_label>A: Atezolizumab + Bevacizumab</arm_group_label>
+    <arm_group_label>B: Atezolizumab</arm_group_label>
+    <other_name>Tecentriq, MPDL3280A, RO5541267</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bevacizumab</intervention_name>
+    <description>15 mg/kg IV q3w</description>
+    <arm_group_label>A: Atezolizumab + Bevacizumab</arm_group_label>
+    <other_name>Avastin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sunitinib</intervention_name>
+    <description>50 mg orally once daily for 4 weeks, followed by 2 weeks of rest</description>
+    <arm_group_label>C: Sunitinib</arm_group_label>
+    <other_name>Sutent</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Unresectable advanced or metastatic renal cell carcinoma with component of clear cell
+             histology and/or component of sarcomatoid histology that has not been previously
+             treated with any systemic agents, including treatment in the adjuvant setting
+
+          -  Measurable disease, as defined by RECIST v1.1
+
+          -  Karnofsky performance score greater than or equal to (&gt;/=) 70
+
+          -  Adequate hematologic and end-organ function as defined by protocol
+
+          -  Women of childbearing potential and male participants with partners of childbearing
+             potential must agree to use highly effective methods of contraception as defined by
+             protocol
+
+        Exclusion Criteria:
+
+        Disease-Specific Exclusions:
+
+          -  Radiotherapy for renal cell carcinoma within 14 days prior to Cycle 1, Day 1 with the
+             exception of: Single-fraction radiotherapy given for the indication of pain control
+
+          -  Known active malignancies or metastasis of the brain or spinal cord or leptomeningeal
+             disease, as determined by computed tomography (CT) or magnetic resonance imaging
+             (MRI) evaluation during screening and prior radiographic assessments
+
+          -  Uncontrolled pleural effusion, pericardial effusion, or ascites requiring recurrent
+             drainage procedures (once monthly or more frequently)
+
+          -  Uncontrolled hypercalcemia or symptomatic hypercalcemia
+
+          -  Malignancies other than renal cell carcinoma within 5 years prior to Cycle 1, Day 1,
+             with the exception of those with a negligible risk of metastasis or death, treated
+             with expected curative outcome
+
+        General Medical Exclusions:
+
+          -  Life expectancy of less than (&lt;) 12 weeks
+
+          -  Pregnant and lactating women
+
+          -  History of severe allergic, anaphylactic, or other hypersensitivity reactions to
+             chimeric or humanized antibodies or fusion proteins
+
+          -  History of autoimmune disease
+
+          -  History of idiopathic pulmonary fibrosis, organizing pneumonia, drug-induced
+             pneumonitis, idiopathic pneumonitis, or evidence of active pneumonitis on screening
+             chest CT scan
+
+          -  Participants with active or chronic hepatitis B, active hepatitis C, Human
+             Immunodeficiency Virus (HIV) positive test, significant cardiovascular disease
+
+          -  Prior allogeneic stem cell or solid organ transplant
+
+        Exclusion Criteria Related to Medications:
+
+          -  Prior treatment with Cluster of Differentiation 137 (CD137) agonists, anti-Cytotoxic
+             T-Lymphocyte Antigen-4 (CTLA-4), anti-PD-1, or anti PD-L1 therapeutic antibody or
+             pathway-targeting agents
+
+          -  Treatment with systemic immunostimulatory agents for any reason within 6 weeks or
+             five half-lives of the drug, whichever is shorter, prior to Cycle 1, Day 1
+
+          -  Treatment with systemic immunosuppressive medications within 2 weeks prior to Cycle
+             1, Day 1
+
+        Bevacizumab- and Sunitinib-Specific Exclusions:
+
+          -  Inadequately controlled hypertension
+
+          -  Prior history of hypertensive crisis or hypertensive encephalopathy
+
+          -  New York Heart Association Class II or greater congestive heart failure
+
+          -  History of myocardial infarction or unstable angina, stroke or transient ischemic
+             attack within 3 months prior to Cycle 1, Day 1
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>Hoffmann-La Roche</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Pinnacle Oncology Hematology</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85258</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>City of Hope Comprehensive Cancer Center</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ Colorado Health Sci Ctr</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rocky Mountain Cancer Ctr - Denver (Williams)</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Yale Uni School of Medicine; Section of Medical Oncology</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510-3289</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Georgetown U; Lombardi Comp Can</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20016-1468</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SCRI Florida Cancer Specialists South</name>
+      <address>
+        <city>Ft Myers</city>
+        <state>Florida</state>
+        <zip>33916</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic-Jacksonville</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Cancer Specialist, North Region</name>
+      <address>
+        <city>St Petersburg</city>
+        <state>Florida</state>
+        <zip>33705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dana Farber Cancer Inst.</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Karmanos Cancer Institute.</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Comprehensive Cancer Centers of Nevada</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89128</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oncology Hematology Care Inc</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Foundation; Taussig Cancer Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oncology Associates of Oregon, P.C</name>
+      <address>
+        <city>Eugene</city>
+        <state>Oregon</state>
+        <zip>97401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwest Cancer Specialists, P.C.</name>
+      <address>
+        <city>Tualatin</city>
+        <state>Oregon</state>
+        <zip>97062</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tennessee Oncology PLLC - Nashville (20th Ave)</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt Medical Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232-7610</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology-Baylor Sammons Cancer Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fakultni nemocnice Olomouc</name>
+      <address>
+        <city>Olomouc</city>
+        <zip>775 20</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fakultni nemocnice v Motole</name>
+      <address>
+        <city>Praha 5</city>
+        <zip>150 06</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Masarykova nemocnice Usti nad Labem</name>
+      <address>
+        <city>Ústí nad Labem</city>
+        <zip>401 13</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ICO Paul Papin; Oncologie Medicale.</name>
+      <address>
+        <city>Angers</city>
+        <zip>49055</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Oscar Lambret; Cancerologie Urologie Digestive</name>
+      <address>
+        <city>Lille</city>
+        <zip>59020</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Leon Berard; Departement Oncologie Medicale</name>
+      <address>
+        <city>Lyon</city>
+        <zip>69373</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Saint Louis; Oncologie Medicale</name>
+      <address>
+        <city>Paris</city>
+        <zip>75475</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Europeen Georges Pompidou; Service D'Oncologie Medicale</name>
+      <address>
+        <city>Paris</city>
+        <zip>75908</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Bordeaux</name>
+      <address>
+        <city>Pessac</city>
+        <zip>33604</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Claudius Regaud; Departement Oncologie Medicale</name>
+      <address>
+        <city>Toulouse</city>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Gustave Roussy; Departement Oncologie Medicale</name>
+      <address>
+        <city>Villejuif</city>
+        <zip>94805</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medizinische Hochschule; Zentrum Innere Medizin; Abt. Hämatologie u. Onkologie</name>
+      <address>
+        <city>Hannover</city>
+        <zip>30625</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum rechts der Isar der TU München; Klinikapotheke</name>
+      <address>
+        <city>Munich</city>
+        <zip>81675</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum d.Universität München Campus Großhadern</name>
+      <address>
+        <city>München</city>
+        <zip>81377</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Raffaele; Medical Oncology</name>
+      <address>
+        <city>Milano</city>
+        <state>Lombardia</state>
+        <zip>20132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Irccs Istituto Nazionale Dei Tumori (Int);S.C. Medicina Oncologica 2</name>
+      <address>
+        <city>Milano</city>
+        <state>Lombardia</state>
+        <zip>20133</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Oncology, Arezzo</name>
+      <address>
+        <city>Arezzo</city>
+        <state>Toscana</state>
+        <zip>52100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Universitaria Senese, U.O.C. Immunoterapia Oncologica</name>
+      <address>
+        <city>Siena</city>
+        <state>Toscana</state>
+        <zip>53100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centrum Med. Ostrobramska NZOZ Magodent</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>04-125</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Prof. Dr. I. Chiricuta Institute of Oncology</name>
+      <address>
+        <city>Cluj Napoca</city>
+        <zip>400015</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medisprof SRL</name>
+      <address>
+        <city>Cluj-Napoca</city>
+        <zip>400058</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spitalul Judetean de Urgenta Satu Mare</name>
+      <address>
+        <city>Satu Mare</city>
+        <zip>440055</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Universitaria de Navarra</name>
+      <address>
+        <city>Pamplona</city>
+        <state>Navarra</state>
+        <zip>31008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Vall d'Hebron</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinic de Barcelona. Unidad de Nuevas Terapias;Oncology Department</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Univ 12 de Octubre</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp de Madrid Norte Sanchinarro; Centro Integral; Onco Clara Campal</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28050</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp Clinico Univ Lozano Blesa</name>
+      <address>
+        <city>Zaragoza</city>
+        <zip>50009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Clatterbridge Cancer Ctr NHS Foundation Trust</name>
+      <address>
+        <city>Bebington</city>
+        <zip>CH63 4JY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Barts and the London NHS Trust.</name>
+      <address>
+        <city>London</city>
+        <zip>EC1A 7BE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Marsden Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>SW3 6JJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Christie Hospital Nhs Trust; Medical Oncology</name>
+      <address>
+        <city>Manchester</city>
+        <zip>M2O 4BX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Czech Republic</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Italy</country>
+    <country>Poland</country>
+    <country>Romania</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Ukraine</country>
+  </removed_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 2, 2017</lastchanged_date>
+  <firstreceived_date>November 7, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Renal Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Bevacizumab</mesh_term>
+    <mesh_term>Sunitinib</mesh_term>
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

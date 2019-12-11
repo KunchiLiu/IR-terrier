@@ -1,0 +1,3423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="136257">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01327547</url>
+  </required_header>
+  <id_info>
+    <org_study_id>A4001098</org_study_id>
+    <secondary_id>2010-021994-35</secondary_id>
+    <nct_id>NCT01327547</nct_id>
+  </id_info>
+  <brief_title>A Study Of Maraviroc In HIV Co-Infected Subjects With Hepatitis C And/Or Hepatitis B</brief_title>
+  <official_title>A Multicenter, Randomized, Blinded, Placebo-controlled Study To Evaluate The Safety Of Maraviroc In Combination With Other Antiretroviral Agents In Hiv-1-infected Subjects Co-infected With Hepatitis C And/or Hepatitis B Virus</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ViiV Healthcare</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>ViiV Healthcare</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To describe liver enzyme elevations in patients who are coinfected with HIV and either
+      Hepatitis C (HCV) and/or Hepatitis B (HBV) receiving maraviroc or placebo in combination
+      with their current suppressive anti-HIV drug therapy.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>May 2011</start_date>
+  <completion_date type="Actual">March 2015</completion_date>
+  <primary_completion_date type="Actual">April 2013</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Participants With Grade 3 and Grade 4 Alanine Aminotransferase (ALT) Abnormalities at Week 48</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Percentage of participants with Grade 3 or Grade 4 ALT abnormalities defined as &gt;5x upper limit of normal (ULN) for participants whose baseline ALT ≤ULN, or &gt;3.5x baseline for participants whose baseline ALT &gt;ULN, at Week 48 in the maraviroc arm versus the placebo arm. The baseline was defined as the last measurement prior to Day 1 dosing.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to Development of Grade 3 and Grade 4 ALT Abnormalities at Week 48</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Time taken in days to development of Grade 3 and Grade 4 ALT abnormalities defined as &gt;5x ULN for subjects whose baseline ALT ≤ULN, or &gt;3.5x baseline for subjects whose baseline ALT &gt;ULN, at Week 48.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Grade 3 and Grade 4 ALT Abnormalities Associated With a Change From Baseline ALT &gt;100 IU/L at Week 48</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Percentage of participants who had Grade 3 and Grade 4 ALT abnormalities associated with a change from baseline ALT &gt;100 IU/L during the 48-week period. Baseline will be defined as the last measurement prior to Day 1 dosing.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Development of Grade 3 and Grade 4 ALT Abnormalities at Week 48 Associated With a Change From Baseline ALT &gt;100 IU/L</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Time to development of Grade 3 and Grade 4 ALT abnormalities associated with a change from baseline ALT &gt;100 IU/L during the 48-week period. Baseline will be defined as the last measurement prior to Day 1 dosing.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Hy's Law Abnormalities at Week 48</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Hy's law was defined as a total bilirubin &gt;2x ULN with a simultaneous ALT or aspartate transaminase (AST)&gt;3x ULN, excluding participants with an alkaline phosphatase&gt;3x ULN</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Plasma Human Immunodeficiency Virus (HIV)-1 Ribonucleic Acid (RNA) Concentration &lt;40 Copies/mL at Week 48</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>The Food and Drug Administration (FDA's) snapshot algorithm was used to derive the efficacy endpoint of the proportion of participants with HIV-1 RNA &lt;40 copies/mL at Week 48. This algorithm included the missing data imputation method and used the plasma HIV-1 RNA concentration in the visit window only, followed the &quot;virology-first principle&quot; and considered a participant who had a missing plasma HIV-1 RNA concentration, or switched to a prohibited background anti-retroviral regimen or discontinues from the study or study drug as a failure (MSDF).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in CD4+ and CD8+ Cell Counts at Week 48</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Immunologic response (magnitude of change in CD4+ and CD8+ cell counts from baseline) was measured. Baseline value for CD4 and CD8 is defined as the pre-dose measurement taken at Day 1 visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Markers of Immune Activation: CD38 Expression on CD4 and CD8 Cells - Week 48</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Plasma samples were used to determine markers of immune activation namely CD38 expression on CD4 and CD8 cells.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Markers of Immune Activation: C-reactive Protein (CRP) - Week 48</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Plasma samples were used to determine markers of immune activation namely CRP.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Markers of Immune Activation: D Dimer - Week 48</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Plasma samples were used to determine markers of immune activation namely D-Dimer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Markers of Immune Activation: Transforming Growth Factor-beta (TGF Beta) - Week 48</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Plasma samples were used to determine markers of immune activation namely TGF beta.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Plasma Hepatitis C Virus (HCV) RNA at Week 48</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Plasma samples were used to determine HCV RNA using the Roche COBAS Ampliprep/COBAS HCV Taqman assay, RUO version (LOD=15 IU/mL).Baseline value for HCV RNA/HBV DNA is defined as the pre-dose measurement taken at Day 1 visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Plasma Hepatitis B Virus (HBV) DNA at Week 48</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Plasma samples were used to determine HBV DNA using the Roche COBAS Taqman HBV assay. Baseline value for HCV RNA/HBV DNA is defined as the pre-dose measurement taken at Day 1 visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Enhanced Liver Fibrosis (ELF) Test at Week 48</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>The markers of fibrosis assessed in this test comprised hyaluronic acid (CHA), tissue inhibitor of metalloproteinase (CTIMP1) and procollagen III N-terminal peptide (CP3NP); these are components of the extracellular matrix and basement sinusoidal membrane of the liver and are elevated during activation of the stellate cell. The ELF tests were performed on an ADVIA Centaur XP and the composite score was calculated as follows: ELF score = 2.278 + 0.851 ln(CHA) + 0.751 ln (CP3NP) + 0.394 ln(CTIMP1).
+ELF score &lt; 7.7: no to mild fibrosis; ≥ 7.7 — &lt; 9.8: Moderate fibrosis; ≥ 9.8 — &lt; 11.3: Severe fibrosis; ≥ 11.3: Cirrhosis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in the Hepatic Elastography (FibroscanTM) at Week 48</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Participants had transient hepatic elastography using FibroScan technology. It rapidly and non invasively measures hepatic tissue stiffness. Through a probe, a low frequency vibration of low amplitude is transmitted to the liver. The velocity of the wave that is generated during the procedure correlates directly with tissue stiffness as it passes through the liver; the harder or stiffer the liver, the faster the shear wave propagates. Results are reported in kilopascals (kPa). A negative change in the fibroscan values (i.e. decrease in liver stiffness) correlates with a decrease in fibrosis and thus improved outcome.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">138</enrollment>
+  <condition>HIV Coinfection</condition>
+  <arm_group>
+    <arm_group_label>1.0</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Maraviroc</intervention_name>
+    <description>150mg, 300mg or 600mg twice daily x 144 weeks; dosing dependent on components of the current suppressive anti-HIV therapy</description>
+    <arm_group_label>1.0</arm_group_label>
+    <other_name>Selzentry, Celsentri</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>150mg, 300mg or 600mg twice daily x 144 weeks; dosing dependent on components of the current suppressive anti-HIV therapy</description>
+    <arm_group_label>2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  HIV coinfected with HCV and/or HBV.
+
+          -  Undetectable HIV-1 RNA for at least 3 months prior to the screening visit
+
+          -  Treatment with current antiretroviral therapy (3-6 drugs excluding low-dose
+             ritonavir) for at least 5 months.
+
+        Exclusion Criteria:
+
+          -  Currently receiving maraviroc.
+
+          -  Active opportunistic infections.
+
+          -  ALT and/or AST &gt;5x upper limit of normal.
+
+          -  Direct bilirubin &gt;1.5x upper limit of normal.
+
+          -  Severe or decompensated liver disease.
+
+          -  Liver disease unrelated to viral hepatitis infection.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>The Office of Dr. Franco Antonio Felizarta, M.D.</name>
+      <address>
+        <city>Bakersfield</city>
+        <state>California</state>
+        <zip>93301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AIDS Research Alliance</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90015</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alameda Health System - Highland Hospital</name>
+      <address>
+        <city>Oakland</city>
+        <state>California</state>
+        <zip>94602</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California Davis Research</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95811</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, San Francisco - Hepatitis/HIV Clinical Trials Group (HHCTG)</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, San Francisco - Mt. Zion Hospital</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Community AIDS Resource Inc dba Care Resource</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33137</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of South Florida Health - HIV Clinical Research Unit</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33602</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rowan Tree Medical, P.A.</name>
+      <address>
+        <city>Wilton Manors</city>
+        <state>Florida</state>
+        <zip>33305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Georgia Regents Medical Center</name>
+      <address>
+        <city>Augusta</city>
+        <state>Georgia</state>
+        <zip>30912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Iowa Hospitals and Clinics</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Michael's Medical Center</name>
+      <address>
+        <city>Newark</city>
+        <state>New Jersey</state>
+        <zip>07102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Icahn School of Medicine at Mount Sinai</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Faculty Practice Associates</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Mount Sinai Hospital</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New York Medical College</name>
+      <address>
+        <city>Valhalla</city>
+        <state>New York</state>
+        <zip>10595</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>I.D. Consultants, P.A.</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Sunnybrook Medical Office</name>
+      <address>
+        <city>Clackamas</city>
+        <state>Oregon</state>
+        <zip>97015</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Northwest</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97227</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Southwest Infectious Disease Clinical Research Inc.</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Southwestern Medical Center at Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Health Care Center Downtown</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fakultni nemocnice Brno</name>
+      <address>
+        <city>Brno</city>
+        <zip>625 00</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital de la Croix Rousse</name>
+      <address>
+        <city>Lyon cedex 4</city>
+        <zip>69317</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Cochin Saint Vincent de Paul</name>
+      <address>
+        <city>Paris CEDEX 14</city>
+        <zip>75679</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Tenon, Service des Maladies Infectieuses</name>
+      <address>
+        <city>Paris</city>
+        <zip>75020</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>EPIMED - Gesellschaft fuer epidemiologische und klinische Forschung in der Medizin mbH</name>
+      <address>
+        <city>Berlin</city>
+        <zip>12157</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Bonn, Immunologische Ambulanz HIV</name>
+      <address>
+        <city>Bonn</city>
+        <zip>53127</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ifi - Studien und Projekte GmbH</name>
+      <address>
+        <city>Hamburg</city>
+        <zip>20099</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Hamburg-Eppendorf</name>
+      <address>
+        <city>Hamburg</city>
+        <zip>20246</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum der Universitaet zu Koeln</name>
+      <address>
+        <city>Koeln</city>
+        <zip>50937</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ludwig-Maximilians-Universitaet</name>
+      <address>
+        <city>Muenchen</city>
+        <zip>80336</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Egyesített Szent István és Szent László Kórház - Rendelőintézet</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1097</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>EMC Instytut Medyczny S.A. Przychodnia przy ul. Lowieckiej</name>
+      <address>
+        <city>Wroclaw</city>
+        <state>Dolnoslaskie</state>
+        <zip>50-220</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wojewodzki Szpital Obserwacyjno - Zakazny im. Tadeusza Browicza w Bydgoszczy</name>
+      <address>
+        <city>Bydgoszcz</city>
+        <zip>85-030</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SPZOZ Wojewodzki Szpital Zakazny</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>01-201</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ararat Research Center</name>
+      <address>
+        <city>Ponce</city>
+        <zip>00717</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Farmacia UPR-CTU</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00935</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Puerto Rico - School of Medicine</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00935</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Vall d'Hebron</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Reina Sofia - Hospital Provincial</name>
+      <address>
+        <city>Cordoba</city>
+        <zip>14004</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Carlos Iii</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28029</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Nuestra Señora de Valme</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Consorcio Hospital General Universitario de Valencia</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harrison Wing Research Office, Guys and St. Thomas' NHS Foundation Trust</name>
+      <address>
+        <city>London</city>
+        <zip>SE1 7EH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St Stephen's AIDS Trust</name>
+      <address>
+        <city>London</city>
+        <zip>SW10 9NH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Czech Republic</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Hungary</country>
+    <country>Poland</country>
+    <country>Puerto Rico</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://trialinfoemail.pfizer.com/pages/landing.aspx?StudyID=A4001098&amp;StudyName=A%20Study%20Of%20Maraviroc%20In%20HIV%20Co-Infected%20Subjects%20With%20Hepatitis%20C%20And/Or%20Hepatitis%20B</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>June 2015</verification_date>
+  <lastchanged_date>June 29, 2015</lastchanged_date>
+  <firstreceived_date>March 22, 2011</firstreceived_date>
+  <firstreceived_results_date>April 9, 2014</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>HIV coinfection</keyword>
+  <keyword>maraviroc</keyword>
+  <keyword>CCR5 blocker</keyword>
+  <keyword>entry inhibitor</keyword>
+  <keyword>liver disease</keyword>
+  <keyword>viral hepatitis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Hepatitis</mesh_term>
+    <mesh_term>Hepatitis A</mesh_term>
+    <mesh_term>Hepatitis C</mesh_term>
+    <mesh_term>Hepatitis B</mesh_term>
+    <mesh_term>Coinfection</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Maraviroc</mesh_term>
+    <mesh_term>Anti-Retroviral Agents</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>In this 148 week, multicenter, multi-national, double-blind, randomized, placebo-controlled Phase 4 study, a total of 138 participants were randomized, out of which 137 participants received the study drug. The study was conducted in 43 centers in 9 countries. This document presents all data analyzed through Week 48 of the study.</recruitment_details>
+      <pre_assignment_details>One participant who was randomized into the study was withdrawn prior to receiving treatment due to poor venous access.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Maraviroc</title>
+          <description>Participants who received maraviroc in combination with HAART</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>Participants who received placebo in combination with HAART</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="70"/>
+                <participants group_id="P2" count="67"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>In Study, Off Drug</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="70"/>
+                <participants group_id="P2" count="67"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Non-Compliance With Study Treatment</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Does Not Meet Entrance Criteria</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Non-compliance - alcohol consumption</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Requirement for prohibited medication</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Non-compliance with study procedures</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Continuing in the study</title>
+              <participants_list>
+                <participants group_id="P1" count="56"/>
+                <participants group_id="P2" count="56"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Maraviroc</title>
+          <description>Participants who received maraviroc in combination with HAART</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Participants who received placebo in combination with HAART</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="70"/>
+            <count group_id="B2" value="67"/>
+            <count group_id="B3" value="137"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age, Customized</title>
+          <units>Participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>&lt;18 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>18-44 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="46"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>45-64 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="42"/>
+                    <measurement group_id="B2" value="47"/>
+                    <measurement group_id="B3" value="89"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>≥65 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Gender</title>
+          <units>Participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Female</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Male</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="60"/>
+                    <measurement group_id="B2" value="57"/>
+                    <measurement group_id="B3" value="117"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Participants With Grade 3 and Grade 4 Alanine Aminotransferase (ALT) Abnormalities at Week 48</title>
+        <description>Percentage of participants with Grade 3 or Grade 4 ALT abnormalities defined as &gt;5x upper limit of normal (ULN) for participants whose baseline ALT ≤ULN, or &gt;3.5x baseline for participants whose baseline ALT &gt;ULN, at Week 48 in the maraviroc arm versus the placebo arm. The baseline was defined as the last measurement prior to Day 1 dosing.</description>
+        <time_frame>48 weeks</time_frame>
+        <population>The analysis was performed on the Full Analysis Set (FAS) which included participants who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, last observation carried forward (LOCF) was used if the value at that timepoint was missing.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Maraviroc</title>
+            <description>Participants who received maraviroc in combination with HAART</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants who received placebo in combination with HAART</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With Grade 3 and Grade 4 Alanine Aminotransferase (ALT) Abnormalities at Week 48</title>
+          <description>Percentage of participants with Grade 3 or Grade 4 ALT abnormalities defined as &gt;5x upper limit of normal (ULN) for participants whose baseline ALT ≤ULN, or &gt;3.5x baseline for participants whose baseline ALT &gt;ULN, at Week 48 in the maraviroc arm versus the placebo arm. The baseline was defined as the last measurement prior to Day 1 dosing.</description>
+          <population>The analysis was performed on the Full Analysis Set (FAS) which included participants who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, last observation carried forward (LOCF) was used if the value at that timepoint was missing.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="70"/>
+                <count group_id="O2" value="67"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.4"/>
+                    <measurement group_id="O2" value="1.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>A stratified analysis was conducted by summarizing the difference in proportions adjusted for the randomization strata formed by crossing levels of stratification variables. The Cochran-Mantel-Haenszel (CMH) approach was used. No formal hypothesis test was performed.</groups_desc>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <param_type>Difference in proportion</param_type>
+            <param_value>-0.0020</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.0417</ci_lower_limit>
+            <ci_upper_limit>0.0376</ci_upper_limit>
+            <estimate_desc>Difference in proportion: CMH approach weighted by hepatitis B virus (HBV) status and usage of protease inhibitor (PI) regimen strata was used to calculate the statistics.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Development of Grade 3 and Grade 4 ALT Abnormalities at Week 48</title>
+        <description>Time taken in days to development of Grade 3 and Grade 4 ALT abnormalities defined as &gt;5x ULN for subjects whose baseline ALT ≤ULN, or &gt;3.5x baseline for subjects whose baseline ALT &gt;ULN, at Week 48.</description>
+        <time_frame>48 weeks</time_frame>
+        <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Maraviroc</title>
+            <description>Participants who received maraviroc in combination with HAART</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants who received placebo in combination with HAART</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Development of Grade 3 and Grade 4 ALT Abnormalities at Week 48</title>
+          <description>Time taken in days to development of Grade 3 and Grade 4 ALT abnormalities defined as &gt;5x ULN for subjects whose baseline ALT ≤ULN, or &gt;3.5x baseline for subjects whose baseline ALT &gt;ULN, at Week 48.</description>
+          <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="70"/>
+                <count group_id="O2" value="67"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="NA">Since only 2 participants overall experienced protocol-defined Grade 3 or Grade 4 ALT primary safety endpoint abnormalities during the 48-week period, it was not possible to calculate the median time to primary safety endpoint abnormalities.</measurement>
+                    <measurement group_id="O2" value="NA">Since only 2 participants overall experienced protocol-defined Grade 3 or Grade 4 ALT primary safety endpoint abnormalities during the 48-week period, it was not possible to calculate the median time to primary safety endpoint abnormalities.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Participants With Grade 3 and Grade 4 ALT Abnormalities Associated With a Change From Baseline ALT &gt;100 IU/L at Week 48</title>
+        <description>Percentage of participants who had Grade 3 and Grade 4 ALT abnormalities associated with a change from baseline ALT &gt;100 IU/L during the 48-week period. Baseline will be defined as the last measurement prior to Day 1 dosing.</description>
+        <time_frame>48 weeks</time_frame>
+        <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Maraviroc</title>
+            <description>Participants who received maraviroc in combination with HAART</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants who received placebo in combination with HAART</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With Grade 3 and Grade 4 ALT Abnormalities Associated With a Change From Baseline ALT &gt;100 IU/L at Week 48</title>
+          <description>Percentage of participants who had Grade 3 and Grade 4 ALT abnormalities associated with a change from baseline ALT &gt;100 IU/L during the 48-week period. Baseline will be defined as the last measurement prior to Day 1 dosing.</description>
+          <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="70"/>
+                <count group_id="O2" value="67"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.40"/>
+                    <measurement group_id="O2" value="1.50"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0"/>
+                    <measurement group_id="O2" value="0.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Development of Grade 3 and Grade 4 ALT Abnormalities at Week 48 Associated With a Change From Baseline ALT &gt;100 IU/L</title>
+        <description>Time to development of Grade 3 and Grade 4 ALT abnormalities associated with a change from baseline ALT &gt;100 IU/L during the 48-week period. Baseline will be defined as the last measurement prior to Day 1 dosing.</description>
+        <time_frame>48 weeks</time_frame>
+        <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Maraviroc</title>
+            <description>Participants who received maraviroc in combination with HAART</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants who received placebo in combination with HAART</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Development of Grade 3 and Grade 4 ALT Abnormalities at Week 48 Associated With a Change From Baseline ALT &gt;100 IU/L</title>
+          <description>Time to development of Grade 3 and Grade 4 ALT abnormalities associated with a change from baseline ALT &gt;100 IU/L during the 48-week period. Baseline will be defined as the last measurement prior to Day 1 dosing.</description>
+          <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+          <units>Days</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="70"/>
+                <count group_id="O2" value="67"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="NA">Since only 2 participants overall experienced protocol-defined Grade 3 or Grade 4 ALT primary safety endpoint abnormalities during the 48-week period, it was not possible to calculate the median time to primary safety endpoint abnormalities.</measurement>
+                    <measurement group_id="O2" value="NA">Since only 2 participants overall experienced protocol-defined Grade 3 or Grade 4 ALT primary safety endpoint abnormalities during the 48-week period, it was not possible to calculate the median time to primary safety endpoint abnormalities.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Participants With Hy's Law Abnormalities at Week 48</title>
+        <description>Hy’s law was defined as a total bilirubin &gt;2x ULN with a simultaneous ALT or aspartate transaminase (AST)&gt;3x ULN, excluding participants with an alkaline phosphatase&gt;3x ULN</description>
+        <time_frame>48 weeks</time_frame>
+        <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Maraviroc</title>
+            <description>Participants who received maraviroc in combination with HAART</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants who received placebo in combination with HAART</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With Hy's Law Abnormalities at Week 48</title>
+          <description>Hy’s law was defined as a total bilirubin &gt;2x ULN with a simultaneous ALT or aspartate transaminase (AST)&gt;3x ULN, excluding participants with an alkaline phosphatase&gt;3x ULN</description>
+          <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="70"/>
+                <count group_id="O2" value="67"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Participants With Plasma Human Immunodeficiency Virus (HIV)-1 Ribonucleic Acid (RNA) Concentration &lt;40 Copies/mL at Week 48</title>
+        <description>The Food and Drug Administration (FDA’s) snapshot algorithm was used to derive the efficacy endpoint of the proportion of participants with HIV-1 RNA &lt;40 copies/mL at Week 48. This algorithm included the missing data imputation method and used the plasma HIV-1 RNA concentration in the visit window only, followed the “virology-first principle” and considered a participant who had a missing plasma HIV-1 RNA concentration, or switched to a prohibited background anti-retroviral regimen or discontinues from the study or study drug as a failure (MSDF).</description>
+        <time_frame>48 weeks</time_frame>
+        <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Maraviroc</title>
+            <description>Participants who received maraviroc in combination with HAART</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants who received placebo in combination with HAART</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With Plasma Human Immunodeficiency Virus (HIV)-1 Ribonucleic Acid (RNA) Concentration &lt;40 Copies/mL at Week 48</title>
+          <description>The Food and Drug Administration (FDA’s) snapshot algorithm was used to derive the efficacy endpoint of the proportion of participants with HIV-1 RNA &lt;40 copies/mL at Week 48. This algorithm included the missing data imputation method and used the plasma HIV-1 RNA concentration in the visit window only, followed the “virology-first principle” and considered a participant who had a missing plasma HIV-1 RNA concentration, or switched to a prohibited background anti-retroviral regimen or discontinues from the study or study drug as a failure (MSDF).</description>
+          <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="70"/>
+                <count group_id="O2" value="67"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="80.0"/>
+                    <measurement group_id="O2" value="79.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>A stratified analysis was conducted by summarizing the difference in proportions adjusted for the randomization strata formed by crossing levels of stratification variables. The Cochran-Mantel-Haenszel (CMH) approach was used. No formal hypothesis test was performed.</groups_desc>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <param_type>Difference in proportion</param_type>
+            <param_value>0.0399</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.0275</ci_lower_limit>
+            <ci_upper_limit>0.1073</ci_upper_limit>
+            <estimate_desc>Difference in proportion: CMH approach weighted by HBV status and usage of PI regimen strata was used to calculate the statistics.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in CD4+ and CD8+ Cell Counts at Week 48</title>
+        <description>Immunologic response (magnitude of change in CD4+ and CD8+ cell counts from baseline) was measured. Baseline value for CD4 and CD8 is defined as the pre-dose measurement taken at Day 1 visit.</description>
+        <time_frame>48 weeks</time_frame>
+        <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Maraviroc</title>
+            <description>Participants who received maraviroc in combination with HAART</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants who received placebo in combination with HAART</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in CD4+ and CD8+ Cell Counts at Week 48</title>
+          <description>Immunologic response (magnitude of change in CD4+ and CD8+ cell counts from baseline) was measured. Baseline value for CD4 and CD8 is defined as the pre-dose measurement taken at Day 1 visit.</description>
+          <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+          <units>Cells/µL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="69"/>
+                <count group_id="O2" value="67"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>CD4+</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.1" spread="142.58"/>
+                    <measurement group_id="O2" value="42.0" spread="166.35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>CD8+</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.8" spread="229.53"/>
+                    <measurement group_id="O2" value="28.9" spread="293.18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>The above analysis is for CD4+ cells. Results are from an analysis of covariance (ANCOVA) model with change from baseline as the response variable and the following fixed effect model terms: treatment (Maraviroc or placebo), baseline value of the response variable, hepatitis B virus status (HBV), Protease inhibitor (PI)-based regimen.</groups_desc>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>0.1174</p_value>
+            <p_value_desc>Not specified.</p_value_desc>
+            <method>ANCOVA</method>
+            <param_type>Difference in Least Square (LS) Mean</param_type>
+            <param_value>-41.12</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-92.72</ci_lower_limit>
+            <ci_upper_limit>10.49</ci_upper_limit>
+            <estimate_desc>Difference in Least Square (LS) Mean</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>The above analysis is for CD8+ cells. Results are from an analysis of covariance (ANCOVA) model with change from baseline as the response variable and the following fixed effect model terms: treatment (Maraviroc or placebo), baseline value of the response variable, hepatitis B virus status (HBV), Protease inhibitor (PI)-based regimen.</groups_desc>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>0.5930</p_value>
+            <p_value_desc>Not specified.</p_value_desc>
+            <method>ANCOVA</method>
+            <param_type>Difference in LS Mean</param_type>
+            <param_value>-21.96</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-103.05</ci_lower_limit>
+            <ci_upper_limit>59.12</ci_upper_limit>
+            <estimate_desc>Difference in LS Mean</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Markers of Immune Activation: CD38 Expression on CD4 and CD8 Cells - Week 48</title>
+        <description>Plasma samples were used to determine markers of immune activation namely CD38 expression on CD4 and CD8 cells.</description>
+        <time_frame>48 weeks</time_frame>
+        <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Maraviroc</title>
+            <description>Participants who received maraviroc in combination with HAART</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants who received placebo in combination with HAART</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Markers of Immune Activation: CD38 Expression on CD4 and CD8 Cells - Week 48</title>
+          <description>Plasma samples were used to determine markers of immune activation namely CD38 expression on CD4 and CD8 cells.</description>
+          <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+          <units>cell/mm³</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="69"/>
+                <count group_id="O2" value="67"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-12.2" spread="129.82"/>
+                    <measurement group_id="O2" value="43.0" spread="135.71"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>The above analysis is for CD38 expression on CD4 and CD8 cells. Results are from an ANCOVA model with change from baseline as the response variable and the following fixed effect model terms: treatment (Maraviroc or placebo), baseline value of the response variable, HBV, PI-based regimen.</groups_desc>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>0.0153</p_value>
+            <p_value_desc>Not specified.</p_value_desc>
+            <method>ANCOVA</method>
+            <param_type>Difference in LS Mean</param_type>
+            <param_value>-56.06</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-101.20</ci_lower_limit>
+            <ci_upper_limit>-10.92</ci_upper_limit>
+            <estimate_desc>Difference in LS Mean</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Markers of Immune Activation: C-reactive Protein (CRP) - Week 48</title>
+        <description>Plasma samples were used to determine markers of immune activation namely CRP.</description>
+        <time_frame>48 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Maraviroc</title>
+            <description>Participants who received maraviroc in combination with HAART</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants who received placebo in combination with HAART</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Markers of Immune Activation: C-reactive Protein (CRP) - Week 48</title>
+          <description>Plasma samples were used to determine markers of immune activation namely CRP.</description>
+          <units>mg/dL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="70"/>
+                <count group_id="O2" value="67"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.4" spread="8.18"/>
+                    <measurement group_id="O2" value="3.1" spread="26.66"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>The above analysis is for C-reactive protein cells. Results are from an ANCOVA model with change from baseline as the response variable and the following fixed effect model terms: treatment (Maraviroc or placebo), baseline value of the response variable, HBV, PI-based regimen.</groups_desc>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>0.4476</p_value>
+            <p_value_desc>Not specified.</p_value_desc>
+            <method>ANCOVA</method>
+            <param_type>Difference in LS Mean</param_type>
+            <param_value>-2.53</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-9.11</ci_lower_limit>
+            <ci_upper_limit>4.05</ci_upper_limit>
+            <estimate_desc>Difference in LS Mean</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Markers of Immune Activation: D Dimer - Week 48</title>
+        <description>Plasma samples were used to determine markers of immune activation namely D-Dimer.</description>
+        <time_frame>48 weeks</time_frame>
+        <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Maraviroc</title>
+            <description>Participants who received maraviroc in combination with HAART</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants who received placebo in combination with HAART</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Markers of Immune Activation: D Dimer - Week 48</title>
+          <description>Plasma samples were used to determine markers of immune activation namely D-Dimer.</description>
+          <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+          <units>ng/dL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="68"/>
+                <count group_id="O2" value="65"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-101.1" spread="753.24"/>
+                    <measurement group_id="O2" value="-20.4" spread="215.62"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>The above analysis is for D-Dimer cells. Results are from an ANCOVA model with change from baseline as the response variable and the following fixed effect model terms: treatment (Maraviroc or placebo), baseline value of the response variable, HBV, PI-based regimen.</groups_desc>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>0.9904</p_value>
+            <p_value_desc>Not specifed.</p_value_desc>
+            <method>ANCOVA</method>
+            <param_type>Difference in LS Mean</param_type>
+            <param_value>0.30</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-48.66</ci_lower_limit>
+            <ci_upper_limit>49.26</ci_upper_limit>
+            <estimate_desc>Difference in LS Mean</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Markers of Immune Activation: Transforming Growth Factor-beta (TGF Beta) - Week 48</title>
+        <description>Plasma samples were used to determine markers of immune activation namely TGF beta.</description>
+        <time_frame>48 weeks</time_frame>
+        <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Maraviroc</title>
+            <description>Participants who received maraviroc in combination with HAART</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants who received placebo in combination with HAART</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Markers of Immune Activation: Transforming Growth Factor-beta (TGF Beta) - Week 48</title>
+          <description>Plasma samples were used to determine markers of immune activation namely TGF beta.</description>
+          <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+          <units>ng/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="67"/>
+                <count group_id="O2" value="66"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="64.1" spread="4857.31"/>
+                    <measurement group_id="O2" value="-165.0" spread="2584.89"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>The above analysis is for TGF-beta cells. Results are from an ANCOVA model with change from baseline as the response variable and the following fixed effect model terms: treatment (Maraviroc or placebo), baseline value of the response variable, HBV, PI-based regimen.</groups_desc>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>0.3786</p_value>
+            <p_value_desc>Not specified</p_value_desc>
+            <method>ANCOVA</method>
+            <param_type>Difference in LS Mean</param_type>
+            <param_value>498.04</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-617.33</ci_lower_limit>
+            <ci_upper_limit>1613.41</ci_upper_limit>
+            <estimate_desc>Difference in LS Mean</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Plasma Hepatitis C Virus (HCV) RNA at Week 48</title>
+        <description>Plasma samples were used to determine HCV RNA using the Roche COBAS Ampliprep/COBAS HCV Taqman assay, RUO version (LOD=15 IU/mL).Baseline value for HCV RNA/HBV DNA is defined as the pre-dose measurement taken at Day 1 visit.</description>
+        <time_frame>48 weeks</time_frame>
+        <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Maraviroc</title>
+            <description>Participants who received maraviroc in combination with HAART</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants who received placebo in combination with HAART</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Plasma Hepatitis C Virus (HCV) RNA at Week 48</title>
+          <description>Plasma samples were used to determine HCV RNA using the Roche COBAS Ampliprep/COBAS HCV Taqman assay, RUO version (LOD=15 IU/mL).Baseline value for HCV RNA/HBV DNA is defined as the pre-dose measurement taken at Day 1 visit.</description>
+          <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+          <units>IU/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="45"/>
+                <count group_id="O2" value="45"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-3.2" spread="0.60"/>
+                    <measurement group_id="O2" value="-3.2" spread="0.68"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>0.8024</p_value>
+            <p_value_desc>Not specified.</p_value_desc>
+            <method>ANCOVA</method>
+            <param_type>Difference in LS Mean</param_type>
+            <param_value>0.03</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.22</ci_lower_limit>
+            <ci_upper_limit>0.28</ci_upper_limit>
+            <estimate_desc>Difference in LS Mean</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Plasma Hepatitis B Virus (HBV) DNA at Week 48</title>
+        <description>Plasma samples were used to determine HBV DNA using the Roche COBAS Taqman HBV assay. Baseline value for HCV RNA/HBV DNA is defined as the pre-dose measurement taken at Day 1 visit.</description>
+        <time_frame>48 weeks</time_frame>
+        <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Maraviroc</title>
+            <description>Participants who received maraviroc in combination with HAART</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants who received placebo in combination with HAART</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Plasma Hepatitis B Virus (HBV) DNA at Week 48</title>
+          <description>Plasma samples were used to determine HBV DNA using the Roche COBAS Taqman HBV assay. Baseline value for HCV RNA/HBV DNA is defined as the pre-dose measurement taken at Day 1 visit.</description>
+          <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+          <units>IU/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="15"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-2.6" spread="1.55"/>
+                    <measurement group_id="O2" value="-3.0" spread="0.11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Results are from an ANCOVA model with change from baseline as the response variable and the following fixed effect model terms: treatment (Maraviroc or placebo), baseline value of the response variable, HBV, PI-based regimen.</groups_desc>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>0.7778</p_value>
+            <p_value_desc>Not specified.</p_value_desc>
+            <method>ANCOVA</method>
+            <param_type>Difference in LS Mean</param_type>
+            <param_value>0.15</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.93</ci_lower_limit>
+            <ci_upper_limit>1.23</ci_upper_limit>
+            <estimate_desc>Difference in LS Mean</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Enhanced Liver Fibrosis (ELF) Test at Week 48</title>
+        <description>The markers of fibrosis assessed in this test comprised hyaluronic acid (CHA), tissue inhibitor of metalloproteinase (CTIMP1) and procollagen III N-terminal peptide (CP3NP); these are components of the extracellular matrix and basement sinusoidal membrane of the liver and are elevated during activation of the stellate cell. The ELF tests were performed on an ADVIA Centaur XP and the composite score was calculated as follows: ELF score = 2.278 + 0.851 ln(CHA) + 0.751 ln (CP3NP) + 0.394 ln(CTIMP1).
+ELF score &lt; 7.7: no to mild fibrosis; ≥ 7.7 — &lt; 9.8: Moderate fibrosis; ≥ 9.8 — &lt; 11.3: Severe fibrosis; ≥ 11.3: Cirrhosis.</description>
+        <time_frame>48 weeks</time_frame>
+        <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Maraviroc</title>
+            <description>Participants who received maraviroc in combination with HAART</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants who received placebo in combination with HAART</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Enhanced Liver Fibrosis (ELF) Test at Week 48</title>
+          <description>The markers of fibrosis assessed in this test comprised hyaluronic acid (CHA), tissue inhibitor of metalloproteinase (CTIMP1) and procollagen III N-terminal peptide (CP3NP); these are components of the extracellular matrix and basement sinusoidal membrane of the liver and are elevated during activation of the stellate cell. The ELF tests were performed on an ADVIA Centaur XP and the composite score was calculated as follows: ELF score = 2.278 + 0.851 ln(CHA) + 0.751 ln (CP3NP) + 0.394 ln(CTIMP1).
+ELF score &lt; 7.7: no to mild fibrosis; ≥ 7.7 — &lt; 9.8: Moderate fibrosis; ≥ 9.8 — &lt; 11.3: Severe fibrosis; ≥ 11.3: Cirrhosis.</description>
+          <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+          <units>ELF score</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="70"/>
+                <count group_id="O2" value="67"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.2" spread="0.70"/>
+                    <measurement group_id="O2" value="0.1" spread="0.71"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Results are from an ANCOVA model with change from baseline as the response variable and the following fixed effect model terms: treatment (Maraviroc or placebo), baseline value of the response variable, HBV, PI-based regimen.</groups_desc>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>0.5201</p_value>
+            <p_value_desc>Not specified.</p_value_desc>
+            <method>ANCOVA</method>
+            <param_type>Difference in LS Mean</param_type>
+            <param_value>0.07</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.15</ci_lower_limit>
+            <ci_upper_limit>0.30</ci_upper_limit>
+            <estimate_desc>Difference in LS Mean</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in the Hepatic Elastography (FibroscanTM) at Week 48</title>
+        <description>Participants had transient hepatic elastography using FibroScan technology. It rapidly and non invasively measures hepatic tissue stiffness. Through a probe, a low frequency vibration of low amplitude is transmitted to the liver. The velocity of the wave that is generated during the procedure correlates directly with tissue stiffness as it passes through the liver; the harder or stiffer the liver, the faster the shear wave propagates. Results are reported in kilopascals (kPa). A negative change in the fibroscan values (i.e. decrease in liver stiffness) correlates with a decrease in fibrosis and thus improved outcome.</description>
+        <time_frame>48 weeks</time_frame>
+        <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Maraviroc</title>
+            <description>Participants who received maraviroc in combination with HAART</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants who received placebo in combination with HAART</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in the Hepatic Elastography (FibroscanTM) at Week 48</title>
+          <description>Participants had transient hepatic elastography using FibroScan technology. It rapidly and non invasively measures hepatic tissue stiffness. Through a probe, a low frequency vibration of low amplitude is transmitted to the liver. The velocity of the wave that is generated during the procedure correlates directly with tissue stiffness as it passes through the liver; the harder or stiffer the liver, the faster the shear wave propagates. Results are reported in kilopascals (kPa). A negative change in the fibroscan values (i.e. decrease in liver stiffness) correlates with a decrease in fibrosis and thus improved outcome.</description>
+          <population>The analysis was performed on the FAS which included participant who had received at least one dose of study drug. For calculating proportions at the analysis timepoint of interest, ie week 48, LOCF was used if the value at that timepoint was missing.</population>
+          <units>kPa</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="25"/>
+                <count group_id="O2" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.3" spread="2.41"/>
+                    <measurement group_id="O2" value="0.3" spread="5.71"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Results are from an ANCOVA model with change from baseline as the response variable and the following fixed effect model terms: treatment (Maraviroc or placebo), baseline value of the response variable, HBV, PI-based regimen.</groups_desc>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>0.1457</p_value>
+            <p_value_desc>Not specified.</p_value_desc>
+            <method>ANCOVA</method>
+            <param_type>Difference in LS Mean</param_type>
+            <param_value>-1.82</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-4.29</ci_lower_limit>
+            <ci_upper_limit>0.65</ci_upper_limit>
+            <estimate_desc>Difference in LS Mean</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>48 Weeks</time_frame>
+      <desc>The same event may appear as both an AE and a SAE. However, what is presented are distinct events. An event may be categorized as serious in one subject and as nonserious in another subject, or one subject may have experienced both a serious and nonserious event during the study.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Maraviroc</title>
+          <description>Participants who received maraviroc in combination with HAART</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Participants who received placebo in combination with HAART</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA v16.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="11" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Angina pectoris</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Atrial flutter</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Bradycardia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Myocardial infarction</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Supraventricular tachycardia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Adrenal insufficiency</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Cushing's syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cataract nuclear</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Gastritis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Chest pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cholangitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Appendicitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Bronchopneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Cellulitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia necrotising</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Foot fracture</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Jaw fracture</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Procedural hypotension</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Splenic haematoma</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Alanine aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Aspartate aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Blood glucose increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diabetes mellitus</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Syncope</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Depression</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Substance abuse</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nephrolithiasis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Breast calcifications</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Epididymitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Fibrocystic breast disease</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Asthma</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Chronic obstructive pulmonary disease</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Non-cardiogenic pulmonary oedema</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>MedDRA v16.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="58" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="57" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Eosinophilia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Angina pectoris</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Supraventricular tachycardia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Tachycardia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Deafness</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Ear pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Tinnitus</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Vertigo</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Vertigo positional</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arteriosclerotic retinopathy</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Chalazion</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Conjunctival hyperaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Eye swelling</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Retinopathy</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal discomfort</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Abdominal pain upper</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Anal fissure</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Anal haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Dry mouth</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Dyspepsia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Faecaloma</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Flatulence</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Gastritis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Gastrointestinal disorder</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Gastrooesophageal reflux disease</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Haemorrhoids</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Hiatus hernia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Proctitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Tongue disorder</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Tooth loss</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Toothache</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Asthenia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Axillary pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Chest pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Chills</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Facial pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Feeling abnormal</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Influenza like illness</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Malaise</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Mucosal inflammation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Nodule</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Oedema peripheral</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cholestasis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Hepatic pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Hepatomegaly</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Hyperbilirubinaemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Hypertransaminasaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Liver disorder</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Seasonal allergy</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Abscess neck</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Acarodermatitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Acute tonsillitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Bronchitis</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Cellulitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Chlamydial infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Folliculitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Gastritis viral</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Gastroenteritis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Gingival abscess</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Herpes simplex</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Herpes zoster</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Laryngitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Latent tuberculosis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Nasopharyngitis</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Onychomycosis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Oral candidiasis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Oral herpes</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Oral infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Otitis externa</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Otitis media</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Otitis media fungal</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Penile abscess</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Pharyngitis</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Rash pustular</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Respiratory tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Rhinitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Schistosomiasis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Secondary syphilis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Sinusitis</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Subcutaneous abscess</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Syphilis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Tinea infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Tonsillitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Tooth abscess</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Tooth infection</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Upper respiratory tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Urethritis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Viral infection</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Arthropod sting</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Contusion</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Exposure to communicable disease</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Fibula fracture</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Hand fracture</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Joint injury</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Laceration</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Ligament sprain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Limb injury</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Muscle strain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Procedural pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Radius fracture</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Spinal compression fracture</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Alanine aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Aspartate aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Blood creatinine increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Blood pressure increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Gamma-glutamyltransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Intraocular pressure increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Lipase increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Transaminases increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Viral load increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Weight decreased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Decreased appetite</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Dyslipidaemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Gout</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Hypercholesterolaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Hypertriglyceridaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Obesity</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Bursitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Flank pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Intervertebral disc protrusion</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Joint effusion</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Muscle spasms</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Muscular weakness</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Musculoskeletal chest pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Musculoskeletal pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Musculoskeletal stiffness</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Pain in extremity</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Pain in jaw</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Rotator cuff syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Spinal osteoarthritis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Anogenital warts</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Skin papilloma</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Ageusia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Amnesia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Burning sensation</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Carpal tunnel syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Cervicobrachial syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Complex regional pain syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Dysaesthesia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Dysgeusia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Hypertonia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Hypoaesthesia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Intercostal neuralgia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Migraine</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Sciatica</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Somnolence</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abnormal dreams</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Anxiety</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Depression</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Dissociation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Nightmare</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Sleep disorder</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dysuria</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Haematuria</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Leukocyturia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Micturition urgency</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Nephrolithiasis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Renal cyst</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Urinary hesitation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Breast mass</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Epididymitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Erectile dysfunction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Genital rash</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Prostatitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Pruritus genital</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Testicular pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Asthma</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Haemoptysis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Nasal congestion</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Oropharyngeal pain</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Pharyngeal erythema</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Productive cough</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Sinus congestion</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Sneezing</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Upper-airway cough syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acne</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Alopecia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Dermatitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Hyperhidrosis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Night sweats</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Pruritus</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Rash</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Rash maculo-papular</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Rosacea</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Seborrhoeic dermatitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Skin lesion</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Skin mass</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Surgical and medical procedures</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal hernia repair</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Skin lesion excision</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Tooth extraction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Haematoma</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Hot flush</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Hypertension</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Varicose vein</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="70"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>Pfizer has the right to review disclosures, requesting a delay of less than 60 days. Investigator will postpone single center publications until after disclosure of pooled data (all sites), less than 12 months from study completion/termination at all participating sites. Investigator may not disclose previously undisclosed confidential information other than study results.</restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Results of the population pharmacokinetic analysis and exposure-response relationship between maraviroc pharmacokinetics and liver fibrosis biomarkers at 48 weeks, will be included when the Basic Results are finalized off the Last Subject Last Visit.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Pfizer ClinicalTrials.gov Call Center</name_or_title>
+      <organization>Pfizer, Inc.</organization>
+      <phone>1-800-718-1021</phone>
+      <email>ClinicalTrials.gov_Inquiries@pfizer.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>

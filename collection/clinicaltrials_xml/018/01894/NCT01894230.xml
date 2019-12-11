@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="92998">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01894230</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00044989</org_study_id>
+    <secondary_id>Pro00045542</secondary_id>
+    <nct_id>NCT01894230</nct_id>
+  </id_info>
+  <brief_title>Genetically Guided Statin Therapy</brief_title>
+  <official_title>Genetically Guided Statin Therapy to Improve Medication Adherence</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Duke University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>David Grant U.S. Air Force Medical Center</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Duke University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to examine if using genetics can improve statin adherence in
+      patients who should be taking statins but are not because of prior side effects. This study
+      will assist physicians/providers in making a personalized health care plan for prevention of
+      cardiovascular disease.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      HMG Co-A reductase inhibitors (&quot;statins&quot;) are commonly prescribed to lower low density
+      lipoprotein cholesterol (LDLc) and to prevent cardiovascular disease (CVD), a leading cause
+      of morbidity and mortality. Long-term adherence to statins in the primary care environment
+      is challenging; consequences of statin non-adherence include higher LDLc levels,
+      hospitalizations, costs, and death due to CVD.
+
+      Medication non-adherence is complex and multifactorial and can be associated with a number
+      of factors including medication cost, complexity of medication regimen, poor
+      provider-patient relationship / communication, and adverse side effects. For statins, side
+      effects such as muscle aches, cramping, and pain (referred to broadly as statin-related
+      myopathy) are a frequent cause of non-adherence. These symptoms are non-specific and are
+      frequent reasons for stopping statin therapy, due to patient or provider concern about the
+      possibility of statin-related myopathy. Many patients may be needlessly deprived of the
+      cardiovascular benefits of long-term statin use.
+
+      A genetic risk factor for statin myopathy and subsequent non-adherence has recently been
+      identified. In a genome-wide association study, a genetic variant (named SLCO1B1*5) was a
+      main contributor of statin myopathy. It was demonstrated that the SLCO1B1*5 variant is not
+      only a predictor of myopathy, but also of premature statin discontinuation. The risk with
+      the *5 allele is statin specific: greatest with simvastatin and atorvastatin use, the least
+      with pravastatin or rosuvastatin. Therefore, the SLCO1B1*5 variant is common, can predict
+      myopathy, subsequent non-adherence, and due to its statin-specific effects creates a novel
+      research paradigm for personalizing statins to an individual's genetic profile. Carriers of
+      the SLCO1B1*5 variant may do best on rosuvastatin, pravastatin, or fluvastatin whereas
+      non-carriers may be treated with any statin.
+
+      The objective of this study is to conduct a randomized trial comparing two strategies:
+
+        1. genetically guided statin therapy vs.
+
+        2. usual care (i.e., a strategy without genetics) on the effects of statin adherence and
+           LDLc lowering.
+
+      The overall hypothesis is that genetically guided statin therapy will lead to greater statin
+      adherence and lower LDLc when compared to a non-guided strategy. The design of this trial
+      will randomize primary care patients within Duke University Health System (DUHS) and travis
+      Air Force Base (TAFB) clinics that are nonadherent to statins due to prior side-effects in
+      an unblinded, 1:1 fashion, stratified by SLCO1B1*5 genotype.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 2013</start_date>
+  <completion_date type="Actual">April 2016</completion_date>
+  <primary_completion_date type="Actual">April 2016</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Medication adherence</measure>
+    <time_frame>Baseline, three and eight months</time_frame>
+    <description>The primary outcome of this study is the Morisky Medication Adherence Survey (MMAS), a self-reported measure of adherence, collected at baseline and at 3 and 8 months of follow-up. The eight-item MMAS survey will be used. This is a modified version of the original four-item MMAS capturing further aspects of adherence behavior. The survey includes 8 yes/no items that are summed to create an overall adherence score ranging from of 0 to 8, with higher scores indicating better adherence. The primary hypothesis is that the genetically guided statin therapy leads to greater adherence of statin therapy, corresponding to a higher MMAS score.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Low density lipoprotein cholesterol (LDLc)</measure>
+    <time_frame>Baseline, three and eight months</time_frame>
+    <description>The continuous outcomes LDLc will be modeled as a linear regression with arm, genotype, and site as predictors. Baseline LDLc will also be included as a covariate to account for baseline variability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Medication possession ratio (MPR)</measure>
+    <time_frame>Eight months</time_frame>
+    <description>Medication possession ration will be calculated based on number of statin medication refills over time from randomization to end of follow up.
+MPR is calculated as follows:
+Sum of the days' supply of all statin medications is the sum of the number of pills dispensed for each statin prescription during follow up (taken from 3-month, 4-month and 8-month statin utilization review)
+Sum of the days of follow up = date of 8-month follow up survey - date of randomization
+MPR = #1/#2 MPR will be modeled as a linear regression with arm, genotype, and site as predictors.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>New statin prescriptions</measure>
+    <time_frame>Three months</time_frame>
+    <description>The number of new prescriptions is binary and will be modeled with logistic regression with arm, genotype, and site as predictors. Any variables imbalanced between arms will also be included as covariates.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Brief Pain Inventory (BPI)</measure>
+    <time_frame>Three and eight months</time_frame>
+    <description>Brief Pain Inventory data will be taken from 3 and 8-month follow up Patient Surveys.
+Pain severity and pain interference will be compared between groups
+Both of these measures will be modeled as a linear regression with arm, genotype, and site as predictors. Transformations of the response may be explored depending on the distribution of the regression residuals.
+Baseline pain scores will also be included as a covariate to account for baseline variability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in SF-12 Health Survey</measure>
+    <time_frame>Three and eight month follow up</time_frame>
+    <description>3 month and 8-month SF12 scores will be compared
+Both of these measures will be modeled as a linear regression with arm, genotype, and site as predictors. Transformations of the response may be explored depending on the distribution of the regression residuals.
+Baseline SF-12 scores will also be included as a covariate to account for baseline variability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical activity</measure>
+    <time_frame>Eight months</time_frame>
+    <description>Activity levels will be compared at the end of 8-months
+Activity levels are defined by a three-level ordinal variable. A proportional odds model will be used with arm, genotype, and site as predictors. The assumption of proportional odds will be checked, and if it is not met, a multinomial regression model will be used.
+Baseline physical activity will also be included as a covariate to account for baseline variability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Beliefs about medications (BMQ)</measure>
+    <time_frame>Baseline, three and eight months</time_frame>
+    <description>Questionnaire administered at baseline, 3 months, and 8 months
+This instrument assesses beliefs regarding necessity and concerns related to disease-specific medications
+The score ranges from 5 to 25 representing the sum of 5 questions. The score represents a count and will be modeled with Poisson regression with arm, site, and genotype as predictors.
+Baseline BMQ scores will also be included as a covariate to account for baseline variability.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">167</enrollment>
+  <condition>Hypercholesterolemia</condition>
+  <condition>HMG COA Reductase Inhibitor Adverse Reaction</condition>
+  <arm_group>
+    <arm_group_label>Genotype results plus usual care</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Genetic testing for SLCO1B1*5 allele
+Reporting for SLCO1B1*5 allele at randomization</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Usual care only</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Genetic testing for SLCO1B1*5 allele
+Reporting for SLCO1B1*5 allele at the end of study</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>Reporting for SLCO1B1*5 allele at randomization</intervention_name>
+    <description>Reporting of genetic test results to patient and provider at randomization</description>
+    <arm_group_label>Genotype results plus usual care</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>Reporting for SLCO1B1*5 allele at the end</intervention_name>
+    <description>Usual care recommendations provided to patient and provider at randomization. Genotyping results provided at the end of study.</description>
+    <arm_group_label>Usual care only</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>Genetic testing for SLCO1B1*5 allele</intervention_name>
+    <description>Blood test for SLCO1B1*5 allele</description>
+    <arm_group_label>Genotype results plus usual care</arm_group_label>
+    <arm_group_label>Usual care only</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Current patient (defined as seen in the last year) of the Duke Primary Care at
+             Pickett Road, Pickens Family Medicine Center or Travis AFB
+
+          -  Age greater than or equal to 18 years
+
+          -  Current non-utilization of statin therapy for either of the following reasons: (a)
+             Prior side effects thought to be attributed by the patient to statin use AND/OR (b)
+             Physician removal of statin due to presumed associated side effects
+
+          -  No statin use for the past 6 weeks
+
+          -  Active email account
+
+          -  Computer access available in order to complete on-line surveys
+
+          -  Ability to provide informed consent
+
+        Exclusion Criteria:
+
+          -  Prior rhabdomyolysis, or CK elevation &gt; 10 times the upper limit of normal with any
+             statin therapy
+
+          -  Prior unexplained elevation in hepatic enzymes (AST or ALT &gt; 3 times upper limit of
+             normal) with any statin therapy
+
+          -  Current daily grapefruit juice usage (on average &gt;1quart/day)
+
+          -  Expected long term use (longer than 3 months) of the following medications known to
+             interfere with statin metabolism or disposition at time of enrollment until the
+             randomization is complete. However, short-term (&lt;14 days) is allowed for the duration
+             of the study
+
+          -  Participation in a drug research study in the past 30 days
+
+          -  Previous use of 4 or more statins
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Deepak Voora, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Duke University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Henry Lau, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>David Grant US Air Force Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>David Grant US Air Force Medical Center</name>
+      <address>
+        <city>Travis Air Force Base</city>
+        <state>California</state>
+        <zip>94535</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2016</verification_date>
+  <lastchanged_date>October 24, 2016</lastchanged_date>
+  <firstreceived_date>July 3, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>high cholesterol</keyword>
+  <keyword>genetic testing</keyword>
+  <keyword>medication adherence</keyword>
+  <keyword>statins</keyword>
+  <keyword>Adverse Effects</keyword>
+  <keyword>pharmacogenetics</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Hypercholesterolemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

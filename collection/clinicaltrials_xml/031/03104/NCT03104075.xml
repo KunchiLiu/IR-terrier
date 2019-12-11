@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="214">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03104075</url>
+  </required_header>
+  <id_info>
+    <org_study_id>16-071J-1</org_study_id>
+    <nct_id>NCT03104075</nct_id>
+  </id_info>
+  <brief_title>Genomics and Epigenomics of the Elderly Response to Pneumococcal Vaccines</brief_title>
+  <official_title>Genomics and Epigenomics of the Elderly Response to Pneumococcal Vaccines</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Jackson Laboratory</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>UConn Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Alabama at Birmingham</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The Jackson Laboratory</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective, single-site, randomized, then open-label study designed to develop a
+      detailed transcriptional and epigenetic profile of the immune response to pneumococcal
+      vaccination with conjugated and non-conjugated polysaccharide vaccines in the senescent
+      immune system of older adults.
+
+      In this study, 40 healthy adults ages 65 and older that have never received pneumococcal
+      vaccination, will be randomized in a 1:1 ratio to receive Prevnar-13 (Pfizer), a conjugated
+      13-valent vaccine or Pneumovax 23 (Merck), a non-conjugated 23-valent vaccine. Following
+      randomized assignment of vaccine, the study will be open-label.
+
+      Six (6) study visits will occur over about 70 days, with an optional 7th visit for
+      participants to receive a second vaccination with the other pneumococcal vaccine one to two
+      years after randomization. Participants will provide blood samples for transcriptional,
+      epigenetic and biological analyses pre- and post-vaccination.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This prospective, single-site, randomized, then open-label study is designed to develop a
+      detailed transcriptional and epigenetic profile of the immune response to pneumococcal
+      vaccination with conjugated and non-conjugated polysaccharide vaccines in the senescent
+      immune system of older adults. This knowledge may lead to development of more effective
+      vaccines through increased understanding of the effects of immunosenescence on mechanisms of
+      immune response to pneumococcal vaccination in the elderly.
+
+      Forty (40) healthy adults ages 65 and older that have never received pneumococcal
+      vaccination, will be randomized in a 1:1 ratio to receive Prevnar-13 (Pfizer), a conjugated
+      13-valent vaccine or Pneumovax 23 (Merck), a non-conjugated 23-valent vaccine. Following
+      randomized assignment of vaccine, the study will be open-label.The study sample will be
+      drawn from the population of healthy elderly in the catchment area of UConn Health in
+      Farmington, CT.
+
+      The first six (6) study visits are planned to occur over 67 days at Days -7, 0, 1, 10, 28
+      (±3 d) and 60 (± 5d). Participants will provide blood samples for transcriptional,
+      epigenetic and biological analyses pre- and post-vaccination.
+
+      One to two years after receiving the randomly-assigned vaccination, participants may opt to
+      receive administration of a second pneumococcal vaccine with the vaccine that they did not
+      receive by random assignment at Visit 2 (Day 0). This second vaccine will be provided at no
+      charge to the participant. Administration of this vaccine will occur at an optional Visit 7
+      for participants who choose to receive the second vaccine and will be scheduled at the
+      participant's convenience one-two years after receiving the first pneumococcal vaccine.
+
+      If the participant opts to receive the second vaccine within the study and attends optional
+      Visit 7, blood samples for genomic and biologic analysis will be collected at the visit.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2017</start_date>
+  <completion_date type="Anticipated">April 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized assignment to group will be in a 1:1 ratio utilizing block randomization in blocks of 10 to receive Prevnar-13 or Pneumovax 23. Following randomized assignment of vaccine, the study will be open-label.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pneumococcal-specific antibody responses</measure>
+    <time_frame>70 days</time_frame>
+    <description>To vaccinate healthy elderly with two distinct pneumococcal vaccines, collect longitudinal blood samples and assess pneumococcal-specific antibody responses</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Identification of the coding and non-coding regulatory sites associated with different immune responses following vaccination with PPSV23 and PCV13</measure>
+    <time_frame>730 days</time_frame>
+    <description>RNA-seq and ATAC-seq to enable quantitative assessment of both coding RNA's and ncsRNA's as well as to resolve the epigenetic landscape of immune cells in the context of vaccine responses.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Alterations to APCs, Tfh cells or B cells in response to PPSV23 and PCV13 stratified by responder status</measure>
+    <time_frame>730 days</time_frame>
+    <description>Measure of functional status of immune cells in the elderly stratified according to their pneumococcal vaccine responder status.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Pneumonia</condition>
+  <condition>Aging</condition>
+  <arm_group>
+    <arm_group_label>Prevnar 13</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Prevnar-13 (Pneumococcal 13valent Conj Vaccine Diphtheria CRM197 Protein) will be administered at the single 0.5 ml dose, by intramuscular injection with routine clinical care.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pneumovax 23</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Pneumovax 23 (Pneumococcal Vaccine Polyvalent) will be administered at the single 0.5ml dose, by intramuscular injection with routine clinical care.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Pneumococcal 13valent Conj Vaccine Diphtheria CRM197 Protein</intervention_name>
+    <description>One to two years after receiving the randomly-assigned vaccination, participants may opt to receive administration of a second pneumococcal vaccine with Pneumovax 23</description>
+    <arm_group_label>Prevnar 13</arm_group_label>
+    <other_name>Prevnar 13</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Pneumococcal Vaccine Polyvalent</intervention_name>
+    <description>One to two years after receiving the randomly-assigned vaccination, participants may opt to receive administration of a second pneumococcal vaccine with Prevnar-13</description>
+    <arm_group_label>Pneumovax 23</arm_group_label>
+    <other_name>Pneumovax 23</other_name>
+    <other_name>Pnu-Imune 23</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Able and willing to provide written informed consent
+
+          -  Male or Female, 65 years of age or older
+
+          -  Willing to receive pneumococcal vaccination with Prevnar 13 (Wyeth/ Pfizer) or
+             Pneumovax 23 (Merck), as randomly assigned.
+
+          -  Available to attend 6 study visits over 67 days (Visit 7 is optional at Day 365-720).
+
+        Exclusion Criteria:
+
+          -  Previous pneumococcal vaccination with Prevnar 13 or Pneumovax 23.
+
+          -  History of anaphylactic/anaphylactoid or severe allergic reaction to any component of
+             Pneumovax 23, Prevnar 13 or any diphtheria toxoid-containing vaccine.
+
+          -  Established diagnosis of diabetes
+
+          -  History of receiving Zostavax (shingles vaccine) within previous 4 weeks. (Study
+             entry may be delayed to satisfy a 28-day interval between vaccinations)
+
+          -  Known history of any of the following co-morbid conditions:
+
+               -  Malignancy (participants without a recurrence in the last 5 years will be
+                  allowed)
+
+               -  Congestive Heart Failure
+
+               -  Cardiovascular Disease (unstable ≤ 6 months*)
+
+               -  Kidney disease
+
+               -  Renal failure
+
+               -  Impaired hepatic function
+
+               -  Autoimmune disease such as: Rheumatoid Arthritis, systemic lupus erythematosus
+                  (SLE), Inflammatory Bowel Disease, etc.
+
+               -  Use of medicines during past 6 months known to alter immune response such as
+                  high-dose corticosteroids
+
+               -  HIV, AIDS or other Immunodeficiency
+
+               -  Recent (≤ 3 months) trauma or surgery
+
+               -  Current substance and/or alcohol abuse * Unstable disease is defined as a change
+                  in therapy or hospitalization for worsening disease.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jacques Banchereau, Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Jackson Laboratory</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lisa Kenyon-Pesce, MPH</last_name>
+    <phone>860.679.2305</phone>
+    <email>kenyon-pesce@uchc.edu</email>
+  </overall_contact>
+  <reference>
+    <citation>Cech TR, Steitz JA. The noncoding RNA revolution-trashing old rules to forge new ones. Cell. 2014 Mar 27;157(1):77-94. doi: 10.1016/j.cell.2014.03.008. Review.</citation>
+    <PMID>24679528</PMID>
+  </reference>
+  <reference>
+    <citation>Moens L, Wuyts M, Meyts I, De Boeck K, Bossuyt X. Human memory B lymphocyte subsets fulfill distinct roles in the anti-polysaccharide and anti-protein immune response. J Immunol. 2008 Oct 15;181(8):5306-12.</citation>
+    <PMID>18832686</PMID>
+  </reference>
+  <reference>
+    <citation>Burton RL, Nahm MH. Development and validation of a fourfold multiplexed opsonization assay (MOPA4) for pneumococcal antibodies. Clin Vaccine Immunol. 2006 Sep;13(9):1004-9.</citation>
+    <PMID>16960111</PMID>
+  </reference>
+  <reference>
+    <citation>Wittkowski KM, Lee E, Nussbaum R, Chamian FN, Krueger JG. Combining several ordinal measures in clinical studies. Stat Med. 2004 May 30;23(10):1579-92.</citation>
+    <PMID>15122738</PMID>
+  </reference>
+  <reference>
+    <citation>Banchereau J, Palucka AK, Dhodapkar M, Burkeholder S, Taquet N, Rolland A, Taquet S, Coquery S, Wittkowski KM, Bhardwaj N, Pineiro L, Steinman R, Fay J. Immune and clinical responses in patients with metastatic melanoma to CD34(+) progenitor-derived dendritic cell vaccine. Cancer Res. 2001 Sep 1;61(17):6451-8.</citation>
+    <PMID>11522640</PMID>
+  </reference>
+  <reference>
+    <citation>Palucka K, Banchereau J. Dendritic-cell-based therapeutic cancer vaccines. Immunity. 2013 Jul 25;39(1):38-48. doi: 10.1016/j.immuni.2013.07.004. Review.</citation>
+    <PMID>23890062</PMID>
+  </reference>
+  <reference>
+    <citation>Park S, Nahm MH. Older adults have a low capacity to opsonize pneumococci due to low IgM antibody response to pneumococcal vaccinations. Infect Immun. 2011 Jan;79(1):314-20. doi: 10.1128/IAI.00768-10. Epub 2010 Nov 1.</citation>
+    <PMID>21041499</PMID>
+  </reference>
+  <reference>
+    <citation>McElhaney JE, Zhou X, Talbot HK, Soethout E, Bleackley RC, Granville DJ, Pawelec G. The unmet need in the elderly: how immunosenescence, CMV infection, co-morbidities and frailty are a challenge for the development of more effective influenza vaccines. Vaccine. 2012 Mar 9;30(12):2060-7. doi: 10.1016/j.vaccine.2012.01.015. Epub 2012 Jan 27. Review.</citation>
+    <PMID>22289511</PMID>
+  </reference>
+  <reference>
+    <citation>O'Connor D, Trück J, Lazarus R, Clutterbuck EA, Voysey M, Jeffery K, Pollard AJ. The effect of chronic cytomegalovirus infection on pneumococcal vaccine responses. J Infect Dis. 2014 May 15;209(10):1635-41. doi: 10.1093/infdis/jit673. Epub 2013 Dec 2.</citation>
+    <PMID>24302755</PMID>
+  </reference>
+  <reference>
+    <citation>Leng SX, Qu T, Semba RD, Li H, Yao X, Nilles T, Yang X, Manwani B, Walston JD, Ferrucci L, Fried LP, Margolick JB, Bream JH. Relationship between cytomegalovirus (CMV) IgG serology, detectable CMV DNA in peripheral monocytes, and CMV pp65(495-503)-specific CD8+ T cells in older adults. Age (Dordr). 2011 Dec;33(4):607-14. doi: 10.1007/s11357-011-9205-9. Epub 2011 Jan 28.</citation>
+    <PMID>21274637</PMID>
+  </reference>
+  <reference>
+    <citation>Bai L, Deng S, Reboulet R, Mathew R, Teyton L, Savage PB, Bendelac A. Natural killer T (NKT)-B-cell interactions promote prolonged antibody responses and long-term memory to pneumococcal capsular polysaccharides. Proc Natl Acad Sci U S A. 2013 Oct 1;110(40):16097-102. doi: 10.1073/pnas.1303218110. Epub 2013 Sep 16.</citation>
+    <PMID>24043771</PMID>
+  </reference>
+  <reference>
+    <citation>Bentebibel SE, Lopez S, Obermoser G, Schmitt N, Mueller C, Harrod C, Flano E, Mejias A, Albrecht RA, Blankenship D, Xu H, Pascual V, Banchereau J, Garcia-Sastre A, Palucka AK, Ramilo O, Ueno H. Induction of ICOS+CXCR3+CXCR5+ TH cells correlates with antibody responses to influenza vaccination. Sci Transl Med. 2013 Mar 13;5(176):176ra32. doi: 10.1126/scitranslmed.3005191.</citation>
+    <PMID>23486778</PMID>
+  </reference>
+  <reference>
+    <citation>Atianand MK, Fitzgerald KA. Long non-coding RNAs and control of gene expression in the immune system. Trends Mol Med. 2014 Nov;20(11):623-31. doi: 10.1016/j.molmed.2014.09.002. Epub 2014 Sep 25. Review.</citation>
+    <PMID>25262537</PMID>
+  </reference>
+  <reference>
+    <citation>Carpenter S, Aiello D, Atianand MK, Ricci EP, Gandhi P, Hall LL, Byron M, Monks B, Henry-Bezy M, Lawrence JB, O'Neill LA, Moore MJ, Caffrey DR, Fitzgerald KA. A long noncoding RNA mediates both activation and repression of immune response genes. Science. 2013 Aug 16;341(6147):789-92. doi: 10.1126/science.1240925. Epub 2013 Aug 1.</citation>
+    <PMID>23907535</PMID>
+  </reference>
+  <reference>
+    <citation>Noren Hooten N, Fitzpatrick M, Wood WH 3rd, De S, Ejiogu N, Zhang Y, Mattison JA, Becker KG, Zonderman AB, Evans MK. Age-related changes in microRNA levels in serum. Aging (Albany NY). 2013 Oct;5(10):725-40.</citation>
+    <PMID>24088671</PMID>
+  </reference>
+  <reference>
+    <citation>Olivieri F, Procopio AD, Montgomery RR. Effect of aging on microRNAs and regulation of pathogen recognition receptors. Curr Opin Immunol. 2014 Aug;29:29-37. doi: 10.1016/j.coi.2014.03.006. Epub 2014 Apr 25. Review.</citation>
+    <PMID>24769423</PMID>
+  </reference>
+  <reference>
+    <citation>Cusanovich DA, Daza R, Adey A, Pliner HA, Christiansen L, Gunderson KL, Steemers FJ, Trapnell C, Shendure J. Multiplex single cell profiling of chromatin accessibility by combinatorial cellular indexing. Science. 2015 May 22;348(6237):910-4. doi: 10.1126/science.aab1601. Epub 2015 May 7.</citation>
+    <PMID>25953818</PMID>
+  </reference>
+  <reference>
+    <citation>Khaskhely N, Mosakowski J, Thompson RS, Khuder S, Smithson SL, Westerink MA. Phenotypic analysis of pneumococcal polysaccharide-specific B cells. J Immunol. 2012 Mar 1;188(5):2455-63. doi: 10.4049/jimmunol.1102809. Epub 2012 Jan 23.</citation>
+    <PMID>22271652</PMID>
+  </reference>
+  <reference>
+    <citation>Kolibab K, Smithson SL, Rabquer B, Khuder S, Westerink MA. Immune response to pneumococcal polysaccharides 4 and 14 in elderly and young adults: analysis of the variable heavy chain repertoire. Infect Immun. 2005 Nov;73(11):7465-76.</citation>
+    <PMID>16239548</PMID>
+  </reference>
+  <reference>
+    <citation>Leggat DJ, Khaskhely NM, Iyer AS, Mosakowski J, Thompson RS, Weinandy JD, Westerink MA. Pneumococcal polysaccharide vaccination induces polysaccharide-specific B cells in adult peripheral blood expressing CD19⁺CD20⁺CD3⁻CD70⁻CD27⁺IgM⁺CD43⁺CD5⁺/⁻. Vaccine. 2013 Sep 23;31(41):4632-40. doi: 10.1016/j.vaccine.2013.07.030. Epub 2013 Aug 1.</citation>
+    <PMID>23911852</PMID>
+  </reference>
+  <reference>
+    <citation>Leggat DJ, Thompson RS, Khaskhely NM, Iyer AS, Westerink MA. The immune response to pneumococcal polysaccharides 14 and 23F among elderly individuals consists predominantly of switched memory B cells. J Infect Dis. 2013 Jul;208(1):101-8. doi: 10.1093/infdis/jit139. Epub 2013 Apr 1.</citation>
+    <PMID>23547142</PMID>
+  </reference>
+  <reference>
+    <citation>Schenkein JG, Park S, Nahm MH. Pneumococcal vaccination in older adults induces antibodies with low opsonic capacity and reduced antibody potency. Vaccine. 2008 Oct 9;26(43):5521-6. doi: 10.1016/j.vaccine.2008.07.071. Epub 2008 Aug 13.</citation>
+    <PMID>18706464</PMID>
+  </reference>
+  <reference>
+    <citation>Maue AC, Yager EJ, Swain SL, Woodland DL, Blackman MA, Haynes L. T-cell immunosenescence: lessons learned from mouse models of aging. Trends Immunol. 2009 Jul;30(7):301-5. doi: 10.1016/j.it.2009.04.007. Epub 2009 Jun 21. Review.</citation>
+    <PMID>19541537</PMID>
+  </reference>
+  <reference>
+    <citation>Nikolich-Žugich J, Li G, Uhrlaub JL, Renkema KR, Smithey MJ. Age-related changes in CD8 T cell homeostasis and immunity to infection. Semin Immunol. 2012 Oct;24(5):356-64. doi: 10.1016/j.smim.2012.04.009. Epub 2012 May 1. Review.</citation>
+    <PMID>22554418</PMID>
+  </reference>
+  <reference>
+    <citation>Clutterbuck EA, Lazarus R, Yu LM, Bowman J, Bateman EA, Diggle L, Angus B, Peto TE, Beverley PC, Mant D, Pollard AJ. Pneumococcal conjugate and plain polysaccharide vaccines have divergent effects on antigen-specific B cells. J Infect Dis. 2012 May 1;205(9):1408-16. doi: 10.1093/infdis/jis212. Epub 2012 Mar 29.</citation>
+    <PMID>22457293</PMID>
+  </reference>
+  <reference>
+    <citation>Steinman RM, Banchereau J. Taking dendritic cells into medicine. Nature. 2007 Sep 27;449(7161):419-26. Review.</citation>
+    <PMID>17898760</PMID>
+  </reference>
+  <reference>
+    <citation>Banchereau J, Thompson-Snipes L, Zurawski S, Blanck JP, Cao Y, Clayton S, Gorvel JP, Zurawski G, Klechevsky E. The differential production of cytokines by human Langerhans cells and dermal CD14(+) DCs controls CTL priming. Blood. 2012 Jun 14;119(24):5742-9. doi: 10.1182/blood-2011-08-371245. Epub 2012 Apr 25.</citation>
+    <PMID>22535664</PMID>
+  </reference>
+  <reference>
+    <citation>Klechevsky E, Flamar AL, Cao Y, Blanck JP, Liu M, O'Bar A, Agouna-Deciat O, Klucar P, Thompson-Snipes L, Zurawski S, Reiter Y, Palucka AK, Zurawski G, Banchereau J. Cross-priming CD8+ T cells by targeting antigens to human dendritic cells through DCIR. Blood. 2010 Sep 9;116(10):1685-97. doi: 10.1182/blood-2010-01-264960. Epub 2010 Jun 7.</citation>
+    <PMID>20530286</PMID>
+  </reference>
+  <reference>
+    <citation>Klechevsky E, Morita R, Liu M, Cao Y, Coquery S, Thompson-Snipes L, Briere F, Chaussabel D, Zurawski G, Palucka AK, Reiter Y, Banchereau J, Ueno H. Functional specializations of human epidermal Langerhans cells and CD14+ dermal dendritic cells. Immunity. 2008 Sep 19;29(3):497-510. doi: 10.1016/j.immuni.2008.07.013.</citation>
+    <PMID>18789730</PMID>
+  </reference>
+  <reference>
+    <citation>Yu CI, Becker C, Metang P, Marches F, Wang Y, Toshiyuki H, Banchereau J, Merad M, Palucka AK. Human CD141+ dendritic cells induce CD4+ T cells to produce type 2 cytokines. J Immunol. 2014 Nov 1;193(9):4335-43. doi: 10.4049/jimmunol.1401159. Epub 2014 Sep 22. Erratum in: J Immunol. 2014 Dec 15;193(12):6210.</citation>
+    <PMID>25246496</PMID>
+  </reference>
+  <reference>
+    <citation>Yu CI, Becker C, Wang Y, Marches F, Helft J, Leboeuf M, Anguiano E, Pourpe S, Goller K, Pascual V, Banchereau J, Merad M, Palucka K. Human CD1c+ dendritic cells drive the differentiation of CD103+ CD8+ mucosal effector T cells via the cytokine TGF-β. Immunity. 2013 Apr 18;38(4):818-30. doi: 10.1016/j.immuni.2013.03.004. Epub 2013 Apr 4.</citation>
+    <PMID>23562160</PMID>
+  </reference>
+  <reference>
+    <citation>Shi Y, Yamazaki T, Okubo Y, Uehara Y, Sugane K, Agematsu K. Regulation of aged humoral immune defense against pneumococcal bacteria by IgM memory B cell. J Immunol. 2005 Sep 1;175(5):3262-7.</citation>
+    <PMID>16116217</PMID>
+  </reference>
+  <reference>
+    <citation>Takizawa M, Sugane K, Agematsu K. Role of tonsillar IgD+CD27+ memory B cells in humoral immunity against pneumococcal infection. Hum Immunol. 2006 Dec;67(12):966-75. Epub 2006 Oct 30.</citation>
+    <PMID>17174745</PMID>
+  </reference>
+  <reference>
+    <citation>Dullaers M, Li D, Xue Y, Ni L, Gayet I, Morita R, Ueno H, Palucka KA, Banchereau J, Oh S. A T cell-dependent mechanism for the induction of human mucosal homing immunoglobulin A-secreting plasmablasts. Immunity. 2009 Jan 16;30(1):120-9. doi: 10.1016/j.immuni.2008.11.008.</citation>
+    <PMID>19144318</PMID>
+  </reference>
+  <reference>
+    <citation>Xu W, Joo H, Clayton S, Dullaers M, Herve MC, Blankenship D, De La Morena MT, Balderas R, Picard C, Casanova JL, Pascual V, Oh S, Banchereau J. Macrophages induce differentiation of plasma cells through CXCL10/IP-10. J Exp Med. 2012 Sep 24;209(10):1813-23, S1-2. Epub 2012 Sep 17.</citation>
+    <PMID>22987802</PMID>
+  </reference>
+  <reference>
+    <citation>Haq K, McElhaney JE. Immunosenescence: Influenza vaccination and the elderly. Curr Opin Immunol. 2014 Aug;29:38-42. doi: 10.1016/j.coi.2014.03.008. Epub 2014 Apr 25. Review.</citation>
+    <PMID>24769424</PMID>
+  </reference>
+  <reference>
+    <citation>High KP, Akbar AN, Nikolich-Zugich J. Translational research in immune senescence: assessing the relevance of current models. Semin Immunol. 2012 Oct;24(5):373-82. doi: 10.1016/j.smim.2012.04.007. Epub 2012 May 23. Review.</citation>
+    <PMID>22633440</PMID>
+  </reference>
+  <reference>
+    <citation>Montecino-Rodriguez E, Berent-Maoz B, Dorshkind K. Causes, consequences, and reversal of immune system aging. J Clin Invest. 2013 Mar;123(3):958-65. doi: 10.1172/JCI64096. Epub 2013 Mar 1. Review.</citation>
+    <PMID>23454758</PMID>
+  </reference>
+  <reference>
+    <citation>Pawelec G, Larbi A. Immunity and ageing in man: Annual Review 2006/2007. Exp Gerontol. 2008 Jan;43(1):34-8. Epub 2007 Oct 1. Review.</citation>
+    <PMID>17977683</PMID>
+  </reference>
+  <reference>
+    <citation>Franceschi C, Campisi J. Chronic inflammation (inflammaging) and its potential contribution to age-associated diseases. J Gerontol A Biol Sci Med Sci. 2014 Jun;69 Suppl 1:S4-9. doi: 10.1093/gerona/glu057. Review.</citation>
+    <PMID>24833586</PMID>
+  </reference>
+  <reference>
+    <citation>Tchkonia T, Zhu Y, van Deursen J, Campisi J, Kirkland JL. Cellular senescence and the senescent secretory phenotype: therapeutic opportunities. J Clin Invest. 2013 Mar;123(3):966-72. doi: 10.1172/JCI64098. Epub 2013 Mar 1. Review.</citation>
+    <PMID>23454759</PMID>
+  </reference>
+  <reference>
+    <citation>Childs BG, Baker DJ, Kirkland JL, Campisi J, van Deursen JM. Senescence and apoptosis: dueling or complementary cell fates? EMBO Rep. 2014 Nov;15(11):1139-53. doi: 10.15252/embr.201439245. Epub 2014 Oct 13. Review.</citation>
+    <PMID>25312810</PMID>
+  </reference>
+  <reference>
+    <citation>Rando TA, Chang HY. Aging, rejuvenation, and epigenetic reprogramming: resetting the aging clock. Cell. 2012 Jan 20;148(1-2):46-57. doi: 10.1016/j.cell.2012.01.003. Review.</citation>
+    <PMID>22265401</PMID>
+  </reference>
+  <reference>
+    <citation>Scott DA, Komjathy SF, Hu BT, Baker S, Supan LA, Monahan CA, Gruber W, Siber GR, Lockhart SP. Phase 1 trial of a 13-valent pneumococcal conjugate vaccine in healthy adults. Vaccine. 2007 Aug 14;25(33):6164-6. Epub 2007 Jun 26.</citation>
+    <PMID>17629361</PMID>
+  </reference>
+  <reference>
+    <citation>Lee H, Nahm MH, Kim KH. The effect of age on the response to the pneumococcal polysaccharide vaccine. BMC Infect Dis. 2010 Mar 10;10:60. doi: 10.1186/1471-2334-10-60.</citation>
+    <PMID>20219110</PMID>
+  </reference>
+  <reference>
+    <citation>Drijkoningen JJ, Rohde GG. Pneumococcal infection in adults: burden of disease. Clin Microbiol Infect. 2014 May;20 Suppl 5:45-51. doi: 10.1111/1469-0691.12461. Epub 2014 Jan 24. Review.</citation>
+    <PMID>24313448</PMID>
+  </reference>
+  <reference>
+    <citation>Jackson LA, Neuzil KM, Yu O, Benson P, Barlow WE, Adams AL, Hanson CA, Mahoney LD, Shay DK, Thompson WW; Vaccine Safety Datalink.. Effectiveness of pneumococcal polysaccharide vaccine in older adults. N Engl J Med. 2003 May 1;348(18):1747-55.</citation>
+    <PMID>12724480</PMID>
+  </reference>
+  <reference>
+    <citation>Shapiro ED, Berg AT, Austrian R, Schroeder D, Parcells V, Margolis A, Adair RK, Clemens JD. The protective efficacy of polyvalent pneumococcal polysaccharide vaccine. N Engl J Med. 1991 Nov 21;325(21):1453-60.</citation>
+    <PMID>1944423</PMID>
+  </reference>
+  <reference>
+    <citation>Weinberger DM, Shapiro ED. Pneumococcal conjugate vaccines for adults: reasons for optimism and for caution. Hum Vaccin Immunother. 2014;10(5):1334-6. doi: 10.4161/hv.28962. Epub 2014 Apr 24. Review.</citation>
+    <PMID>24763136</PMID>
+  </reference>
+  <reference>
+    <citation>Furman D, Jojic V, Sharma S, Shen-Orr SS, Angel CJ, Onengut-Gumuscu S, Kidd BA, Maecker HT, Concannon P, Dekker CL, Thomas PG, Davis MM. Cytomegalovirus infection enhances the immune response to influenza. Sci Transl Med. 2015 Apr 1;7(281):281ra43. doi: 10.1126/scitranslmed.aaa2293.</citation>
+    <PMID>25834109</PMID>
+  </reference>
+  <reference>
+    <citation>Bonten MJ, Huijts SM, Bolkenbaas M, Webber C, Patterson S, Gault S, van Werkhoven CH, van Deursen AM, Sanders EA, Verheij TJ, Patton M, McDonough A, Moradoghli-Haftvani A, Smith H, Mellelieu T, Pride MW, Crowther G, Schmoele-Thoma B, Scott DA, Jansen KU, Lobatto R, Oosterman B, Visser N, Caspers E, Smorenburg A, Emini EA, Gruber WC, Grobbee DE. Polysaccharide conjugate vaccine against pneumococcal pneumonia in adults. N Engl J Med. 2015 Mar 19;372(12):1114-25. doi: 10.1056/NEJMoa1408544.</citation>
+    <PMID>25785969</PMID>
+  </reference>
+  <reference>
+    <citation>Tsai YH, Hsieh MJ, Chang CJ, Wen YW, Hu HC, Chao YN, Huang YC, Yang CT, Huang CC. The 23-valent pneumococcal polysaccharide vaccine is effective in elderly adults over 75 years old--Taiwan's PPV vaccination program. Vaccine. 2015 Jun 9;33(25):2897-902. doi: 10.1016/j.vaccine.2015.04.068. Epub 2015 Apr 30.</citation>
+    <PMID>25936662</PMID>
+  </reference>
+  <reference>
+    <citation>Kobayashi M, Bennett NM, Gierke R, Almendares O, Moore MR, Whitney CG, Pilishvili T. Intervals Between PCV13 and PPSV23 Vaccines: Recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR Morb Mortal Wkly Rep. 2015 Sep 4;64(34):944-7. doi: 10.15585/mmwr.mm6434a4. Erratum in: MMWR Morb Mortal Wkly Rep. 2015 Oct 30;64(42):1204.</citation>
+    <PMID>26334788</PMID>
+  </reference>
+  <reference>
+    <citation>Weinberger B, Herndler-Brandstetter D, Schwanninger A, Weiskopf D, Grubeck-Loebenstein B. Biology of immune responses to vaccines in elderly persons. Clin Infect Dis. 2008 Apr 1;46(7):1078-84. doi: 10.1086/529197. Review.</citation>
+    <PMID>18444828</PMID>
+  </reference>
+  <reference>
+    <citation>Defrance T, Taillardet M, Genestier L. T cell-independent B cell memory. Curr Opin Immunol. 2011 Jun;23(3):330-6. doi: 10.1016/j.coi.2011.03.004. Epub 2011 Apr 7. Review.</citation>
+    <PMID>21482090</PMID>
+  </reference>
+  <reference>
+    <citation>Good-Jacobson KL, Tarlinton DM. Multiple routes to B-cell memory. Int Immunol. 2012 Jul;24(7):403-8. doi: 10.1093/intimm/dxs050. Epub 2012 Mar 26. Review.</citation>
+    <PMID>22451529</PMID>
+  </reference>
+  <reference>
+    <citation>Reynaud CA, Descatoire M, Dogan I, Huetz F, Weller S, Weill JC. IgM memory B cells: a mouse/human paradox. Cell Mol Life Sci. 2012 May;69(10):1625-34. doi: 10.1007/s00018-012-0971-z. Epub 2012 Apr 6. Review.</citation>
+    <PMID>22481437</PMID>
+  </reference>
+  <reference>
+    <citation>Weller S, Reynaud CA, Weill JC. Vaccination against encapsulated bacteria in humans: paradoxes. Trends Immunol. 2005 Feb;26(2):85-9.</citation>
+    <PMID>15668123</PMID>
+  </reference>
+  <reference>
+    <citation>Weill JC, Weller S, Reynaud CA. Human marginal zone B cells. Annu Rev Immunol. 2009;27:267-85. doi: 10.1146/annurev.immunol.021908.132607. Review.</citation>
+    <PMID>19302041</PMID>
+  </reference>
+  <reference>
+    <citation>Griffin DO, Holodick NE, Rothstein TL. Human B1 cells in umbilical cord and adult peripheral blood express the novel phenotype CD20+ CD27+ CD43+ CD70-. J Exp Med. 2011 Jan 17;208(1):67-80. doi: 10.1084/jem.20101499. Epub 2011 Jan 10. Erratum in: J Exp Med. 2011 Feb 14;208(2):409. J Exp Med. 2011 Apr 11;208(4):871. J Exp Med. 2011 Jan 17;208(1):67.</citation>
+    <PMID>21220451</PMID>
+  </reference>
+  <reference>
+    <citation>Griffin DO, Rothstein TL. Human b1 cell frequency: isolation and analysis of human b1 cells. Front Immunol. 2012 May 25;3:122. doi: 10.3389/fimmu.2012.00122. eCollection 2012.</citation>
+    <PMID>22654880</PMID>
+  </reference>
+  <reference>
+    <citation>Westerink MA, Schroeder HW Jr, Nahm MH. Immune Responses to pneumococcal vaccines in children and adults: Rationale for age-specific vaccination. Aging Dis. 2012 Feb;3(1):51-67. Epub 2011 Jul 20.</citation>
+    <PMID>22500271</PMID>
+  </reference>
+  <reference>
+    <citation>Kruetzmann S, Rosado MM, Weber H, Germing U, Tournilhac O, Peter HH, Berner R, Peters A, Boehm T, Plebani A, Quinti I, Carsetti R. Human immunoglobulin M memory B cells controlling Streptococcus pneumoniae infections are generated in the spleen. J Exp Med. 2003 Apr 7;197(7):939-45.</citation>
+    <PMID>12682112</PMID>
+  </reference>
+  <reference>
+    <citation>Crotty S. Follicular helper CD4 T cells (TFH). Annu Rev Immunol. 2011;29:621-63. doi: 10.1146/annurev-immunol-031210-101400. Review.</citation>
+    <PMID>21314428</PMID>
+  </reference>
+  <reference>
+    <citation>King C, Tangye SG, Mackay CR. T follicular helper (TFH) cells in normal and dysregulated immune responses. Annu Rev Immunol. 2008;26:741-66. doi: 10.1146/annurev.immunol.26.021607.090344. Review.</citation>
+    <PMID>18173374</PMID>
+  </reference>
+  <reference>
+    <citation>Locci M, Havenar-Daughton C, Landais E, Wu J, Kroenke MA, Arlehamn CL, Su LF, Cubas R, Davis MM, Sette A, Haddad EK; International AIDS Vaccine Initiative Protocol C Principal Investigators., Poignard P, Crotty S. Human circulating PD-1+CXCR3-CXCR5+ memory Tfh cells are highly functional and correlate with broadly neutralizing HIV antibody responses. Immunity. 2013 Oct 17;39(4):758-69. doi: 10.1016/j.immuni.2013.08.031. Epub 2013 Sep 12.</citation>
+    <PMID>24035365</PMID>
+  </reference>
+  <reference>
+    <citation>Morita R, Schmitt N, Bentebibel SE, Ranganathan R, Bourdery L, Zurawski G, Foucat E, Dullaers M, Oh S, Sabzghabaei N, Lavecchio EM, Punaro M, Pascual V, Banchereau J, Ueno H. Human blood CXCR5(+)CD4(+) T cells are counterparts of T follicular cells and contain specific subsets that differentially support antibody secretion. Immunity. 2011 Jan 28;34(1):108-21. doi: 10.1016/j.immuni.2010.12.012. Epub 2011 Jan 6. Erratum in: Immunity. 2011 Jan 28;34(1):135.</citation>
+    <PMID>21215658</PMID>
+  </reference>
+  <reference>
+    <citation>Schmitt N, Liu Y, Bentebibel SE, Munagala I, Bourdery L, Venuprasad K, Banchereau J, Ueno H. The cytokine TGF-β co-opts signaling via STAT3-STAT4 to promote the differentiation of human TFH cells. Nat Immunol. 2014 Sep;15(9):856-65. doi: 10.1038/ni.2947. Epub 2014 Jul 27.</citation>
+    <PMID>25064073</PMID>
+  </reference>
+  <reference>
+    <citation>Ueno H, Banchereau J, Vinuesa CG. Pathophysiology of T follicular helper cells in humans and mice. Nat Immunol. 2015 Feb;16(2):142-52. doi: 10.1038/ni.3054. Review.</citation>
+    <PMID>25594465</PMID>
+  </reference>
+  <reference>
+    <citation>Obermoser G, Presnell S, Domico K, Xu H, Wang Y, Anguiano E, Thompson-Snipes L, Ranganathan R, Zeitner B, Bjork A, Anderson D, Speake C, Ruchaud E, Skinner J, Alsina L, Sharma M, Dutartre H, Cepika A, Israelsson E, Nguyen P, Nguyen QA, Harrod AC, Zurawski SM, Pascual V, Ueno H, Nepom GT, Quinn C, Blankenship D, Palucka K, Banchereau J, Chaussabel D. Systems scale interactive exploration reveals quantitative and qualitative differences in response to influenza and pneumococcal vaccines. Immunity. 2013 Apr 18;38(4):831-44. doi: 10.1016/j.immuni.2012.12.008.</citation>
+    <PMID>23601689</PMID>
+  </reference>
+  <reference>
+    <citation>Tsang JS, Schwartzberg PL, Kotliarov Y, Biancotto A, Xie Z, Germain RN, Wang E, Olnes MJ, Narayanan M, Golding H, Moir S, Dickler HB, Perl S, Cheung F; Baylor HIPC Center.; CHI Consortium.. Global analyses of human immune variation reveal baseline predictors of postvaccination responses. Cell. 2014 Apr 10;157(2):499-513. doi: 10.1016/j.cell.2014.03.031. Erratum in: Cell. 2014 Jul 3;158(1):226.</citation>
+    <PMID>24725414</PMID>
+  </reference>
+  <reference>
+    <citation>Li S, Rouphael N, Duraisingham S, Romero-Steiner S, Presnell S, Davis C, Schmidt DS, Johnson SE, Milton A, Rajam G, Kasturi S, Carlone GM, Quinn C, Chaussabel D, Palucka AK, Mulligan MJ, Ahmed R, Stephens DS, Nakaya HI, Pulendran B. Molecular signatures of antibody responses derived from a systems biology study of five human vaccines. Nat Immunol. 2014 Feb;15(2):195-204. doi: 10.1038/ni.2789. Epub 2013 Dec 15.</citation>
+    <PMID>24336226</PMID>
+  </reference>
+  <reference>
+    <citation>Nakaya HI, Pulendran B. Vaccinology in the era of high-throughput biology. Philos Trans R Soc Lond B Biol Sci. 2015 Jun 19;370(1671). pii: 20140146. doi: 10.1098/rstb.2014.0146. Review.</citation>
+    <PMID>25964458</PMID>
+  </reference>
+  <reference>
+    <citation>Nakaya HI, Wrammert J, Lee EK, Racioppi L, Marie-Kunze S, Haining WN, Means AR, Kasturi SP, Khan N, Li GM, McCausland M, Kanchan V, Kokko KE, Li S, Elbein R, Mehta AK, Aderem A, Subbarao K, Ahmed R, Pulendran B. Systems biology of vaccination for seasonal influenza in humans. Nat Immunol. 2011 Jul 10;12(8):786-95. doi: 10.1038/ni.2067.</citation>
+    <PMID>21743478</PMID>
+  </reference>
+  <reference>
+    <citation>Querec TD, Akondy RS, Lee EK, Cao W, Nakaya HI, Teuwen D, Pirani A, Gernert K, Deng J, Marzolf B, Kennedy K, Wu H, Bennouna S, Oluoch H, Miller J, Vencio RZ, Mulligan M, Aderem A, Ahmed R, Pulendran B. Systems biology approach predicts immunogenicity of the yellow fever vaccine in humans. Nat Immunol. 2009 Jan;10(1):116-25. doi: 10.1038/ni.1688. Epub 2008 Nov 23.</citation>
+    <PMID>19029902</PMID>
+  </reference>
+  <reference>
+    <citation>Tan Y, Tamayo P, Nakaya H, Pulendran B, Mesirov JP, Haining WN. Gene signatures related to B-cell proliferation predict influenza vaccine-induced antibody response. Eur J Immunol. 2014 Jan;44(1):285-95. doi: 10.1002/eji.201343657. Epub 2013 Nov 29.</citation>
+    <PMID>24136404</PMID>
+  </reference>
+  <reference>
+    <citation>Banchereau R, Baldwin N, Cepika AM, Athale S, Xue Y, Yu CI, Metang P, Cheruku A, Berthier I, Gayet I, Wang Y, Ohouo M, Snipes L, Xu H, Obermoser G, Blankenship D, Oh S, Ramilo O, Chaussabel D, Banchereau J, Palucka K, Pascual V. Transcriptional specialization of human dendritic cell subsets in response to microbial vaccines. Nat Commun. 2014 Oct 22;5:5283. doi: 10.1038/ncomms6283.</citation>
+    <PMID>25335753</PMID>
+  </reference>
+  <reference>
+    <citation>Berry MP, Graham CM, McNab FW, Xu Z, Bloch SA, Oni T, Wilkinson KA, Banchereau R, Skinner J, Wilkinson RJ, Quinn C, Blankenship D, Dhawan R, Cush JJ, Mejias A, Ramilo O, Kon OM, Pascual V, Banchereau J, Chaussabel D, O'Garra A. An interferon-inducible neutrophil-driven blood transcriptional signature in human tuberculosis. Nature. 2010 Aug 19;466(7309):973-7. doi: 10.1038/nature09247.</citation>
+    <PMID>20725040</PMID>
+  </reference>
+  <reference>
+    <citation>Chaussabel D. Assessment of immune status using blood transcriptomics and potential implications for global health. Semin Immunol. 2015 Feb;27(1):58-66. doi: 10.1016/j.smim.2015.03.002. Epub 2015 Mar 29. Review.</citation>
+    <PMID>25823891</PMID>
+  </reference>
+  <reference>
+    <citation>Pascual V, Chaussabel D, Banchereau J. A genomic approach to human autoimmune diseases. Annu Rev Immunol. 2010;28:535-71. doi: 10.1146/annurev-immunol-030409-101221. Review.</citation>
+    <PMID>20192809</PMID>
+  </reference>
+  <reference>
+    <citation>Chaussabel D, Quinn C, Shen J, Patel P, Glaser C, Baldwin N, Stichweh D, Blankenship D, Li L, Munagala I, Bennett L, Allantaz F, Mejias A, Ardura M, Kaizer E, Monnet L, Allman W, Randall H, Johnson D, Lanier A, Punaro M, Wittkowski KM, White P, Fay J, Klintmalm G, Ramilo O, Palucka AK, Banchereau J, Pascual V. A modular analysis framework for blood genomics studies: application to systemic lupus erythematosus. Immunity. 2008 Jul 18;29(1):150-64. doi: 10.1016/j.immuni.2008.05.012.</citation>
+    <PMID>18631455</PMID>
+  </reference>
+  <reference>
+    <citation>Buenrostro JD, Giresi PG, Zaba LC, Chang HY, Greenleaf WJ. Transposition of native chromatin for fast and sensitive epigenomic profiling of open chromatin, DNA-binding proteins and nucleosome position. Nat Methods. 2013 Dec;10(12):1213-8. doi: 10.1038/nmeth.2688. Epub 2013 Oct 6.</citation>
+    <PMID>24097267</PMID>
+  </reference>
+  <reference>
+    <citation>Andrew D, Aspinall R. Age-associated thymic atrophy is linked to a decline in IL-7 production. Exp Gerontol. 2002 Jan-Mar;37(2-3):455-63.</citation>
+    <PMID>11772533</PMID>
+  </reference>
+  <reference>
+    <citation>Bazdar DA, Kalinowska M, Sieg SF. Interleukin-7 receptor signaling is deficient in CD4+ T cells from HIV-infected persons and is inversely associated with aging. J Infect Dis. 2009 Apr 1;199(7):1019-28. doi: 10.1086/597210.</citation>
+    <PMID>19239367</PMID>
+  </reference>
+  <reference>
+    <citation>Kared H, Camous X, Larbi A. T cells and their cytokines in persistent stimulation of the immune system. Curr Opin Immunol. 2014 Aug;29:79-85. doi: 10.1016/j.coi.2014.05.003. Epub 2014 May 29. Review.</citation>
+    <PMID>24880502</PMID>
+  </reference>
+  <reference>
+    <citation>Passtoors WM, Boer JM, Goeman JJ, Akker EB, Deelen J, Zwaan BJ, Scarborough A, Breggen Rv, Vossen RH, Houwing-Duistermaat JJ, Ommen GJ, Westendorp RG, van Heemst D, de Craen AJ, White AJ, Gunn DA, Beekman M, Slagboom PE. Transcriptional profiling of human familial longevity indicates a role for ASF1A and IL7R. PLoS One. 2012;7(1):e27759. doi: 10.1371/journal.pone.0027759. Epub 2012 Jan 11. Erratum in: PLoS One. 2012;7(5): doi/10.1371/annotation/d4d3b1fb-35e0-4c4d-89bc-e6a839504e54.</citation>
+    <PMID>22247756</PMID>
+  </reference>
+  <reference>
+    <citation>Sauce D, Larsen M, Fastenackels S, Roux A, Gorochov G, Katlama C, Sidi D, Sibony-Prat J, Appay V. Lymphopenia-driven homeostatic regulation of naive T cells in elderly and thymectomized young adults. J Immunol. 2012 Dec 15;189(12):5541-8. doi: 10.4049/jimmunol.1201235. Epub 2012 Nov 7.</citation>
+    <PMID>23136199</PMID>
+  </reference>
+  <reference>
+    <citation>Chaussabel D, Baldwin N. Democratizing systems immunology with modular transcriptional repertoire analyses. Nat Rev Immunol. 2014 Apr;14(4):271-80. doi: 10.1038/nri3642. Review.</citation>
+    <PMID>24662387</PMID>
+  </reference>
+  <reference>
+    <citation>Harries LW, Fellows AD, Pilling LC, Hernandez D, Singleton A, Bandinelli S, Guralnik J, Powell J, Ferrucci L, Melzer D. Advancing age is associated with gene expression changes resembling mTOR inhibition: evidence from two human populations. Mech Ageing Dev. 2012 Aug;133(8):556-62. doi: 10.1016/j.mad.2012.07.003. Epub 2012 Jul 16.</citation>
+    <PMID>22813852</PMID>
+  </reference>
+  <reference>
+    <citation>Harries LW, Hernandez D, Henley W, Wood AR, Holly AC, Bradley-Smith RM, Yaghootkar H, Dutta A, Murray A, Frayling TM, Guralnik JM, Bandinelli S, Singleton A, Ferrucci L, Melzer D. Human aging is characterized by focused changes in gene expression and deregulation of alternative splicing. Aging Cell. 2011 Oct;10(5):868-78. doi: 10.1111/j.1474-9726.2011.00726.x. Epub 2011 Jul 19.</citation>
+    <PMID>21668623</PMID>
+  </reference>
+  <reference>
+    <citation>Holly AC, Melzer D, Pilling LC, Fellows AC, Tanaka T, Ferrucci L, Harries LW. Changes in splicing factor expression are associated with advancing age in man. Mech Ageing Dev. 2013 Sep;134(9):356-66. doi: 10.1016/j.mad.2013.05.006. Epub 2013 Jun 6.</citation>
+    <PMID>23747814</PMID>
+  </reference>
+  <reference>
+    <citation>Holly AC, Melzer D, Pilling LC, Henley W, Hernandez DG, Singleton AB, Bandinelli S, Guralnik JM, Ferrucci L, Harries LW. Towards a gene expression biomarker set for human biological age. Aging Cell. 2013 Apr;12(2):324-6. doi: 10.1111/acel.12044. Epub 2013 Jan 30.</citation>
+    <PMID>23311345</PMID>
+  </reference>
+  <reference>
+    <citation>Pilling LC, Harries LW, Powell J, Llewellyn DJ, Ferrucci L, Melzer D. Genomics and successful aging: grounds for renewed optimism? J Gerontol A Biol Sci Med Sci. 2012 May;67(5):511-9. doi: 10.1093/gerona/gls091. Epub 2012 Mar 27. Review.</citation>
+    <PMID>22454374</PMID>
+  </reference>
+  <reference>
+    <citation>Remondini D, Salvioli S, Francesconi M, Pierini M, Mazzatti DJ, Powell JR, Zironi I, Bersani F, Castellani G, Franceschi C. Complex patterns of gene expression in human T cells during in vivo aging. Mol Biosyst. 2010 Oct;6(10):1983-92. doi: 10.1039/c004635c. Epub 2010 Aug 5.</citation>
+    <PMID>20686723</PMID>
+  </reference>
+  <reference>
+    <citation>Valdes AM, Glass D, Spector TD. Omics technologies and the study of human ageing. Nat Rev Genet. 2013 Sep;14(9):601-7. doi: 10.1038/nrg3553. Epub 2013 Aug 13. Review.</citation>
+    <PMID>23938363</PMID>
+  </reference>
+  <reference>
+    <citation>van den Akker EB, Passtoors WM, Jansen R, van Zwet EW, Goeman JJ, Hulsman M, Emilsson V, Perola M, Willemsen G, Penninx BW, Heijmans BT, Maier AB, Boomsma DI, Kok JN, Slagboom PE, Reinders MJ, Beekman M. Meta-analysis on blood transcriptomic studies identifies consistently coexpressed protein-protein interaction modules as robust markers of human aging. Aging Cell. 2014 Apr;13(2):216-25. doi: 10.1111/acel.12160. Epub 2013 Nov 19.</citation>
+    <PMID>24119000</PMID>
+  </reference>
+  <reference>
+    <citation>Paczesny S, Banchereau J, Wittkowski KM, Saracino G, Fay J, Palucka AK. Expansion of melanoma-specific cytolytic CD8+ T cell precursors in patients with metastatic melanoma vaccinated with CD34+ progenitor-derived dendritic cells. J Exp Med. 2004 Jun 7;199(11):1503-11. Epub 2004 Jun 1.</citation>
+    <PMID>15173207</PMID>
+  </reference>
+  <reference>
+    <citation>Hochberg Y, Benjamini Y. More powerful procedures for multiple significance testing. Stat Med. 1990 Jul;9(7):811-8.</citation>
+    <PMID>2218183</PMID>
+  </reference>
+  <reference>
+    <citation>Hardy SE, Allore H, Studenski SA. Missing data: a special challenge in aging research. J Am Geriatr Soc. 2009 Apr;57(4):722-9. doi: 10.1111/j.1532-5415.2008.02168.x. Epub 2009 Feb 10.</citation>
+    <PMID>19220562</PMID>
+  </reference>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 31, 2017</lastchanged_date>
+  <firstreceived_date>March 21, 2017</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The Jackson Laboratory</investigator_affiliation>
+    <investigator_full_name>Jacques Banchereau</investigator_full_name>
+    <investigator_title>Director Immunological Sciences</investigator_title>
+  </responsible_party>
+  <keyword>Genomics</keyword>
+  <keyword>Epigenomics</keyword>
+  <keyword>Pneumococcal vaccine</keyword>
+  <keyword>Elderly</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Vaccines</mesh_term>
+    <mesh_term>Heptavalent Pneumococcal Conjugate Vaccine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Participants will provide or decline consent within the ICF for sharing of their randomly recoded (new code that is different than the study code) genomic data in public and/or controlled access scientific databases. The study database will include a field for whether consent for genomic data sharing was provided or declined by the participant and if consent provided was for public and/or limited access databases. This information will be included in the dataset so that it can be provided to dbGAP (NIH database of Genotypes and Phenotypes) at the conclusion of the study to ensure that the wishes of the participant regarding use of their data and samples are respected.
+Participants will provide or decline consent for sharing of coded samples that remain after study analysis is completed with other researchers and to be used in other studies. This information will be included as a variable in the coded dataset provided for analysis.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="46305">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02503423</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ASTX660-01</org_study_id>
+    <nct_id>NCT02503423</nct_id>
+  </id_info>
+  <brief_title>Phase 1-2 Study of ASTX660 in Subjects With Advanced Solid Tumors and Lymphomas</brief_title>
+  <official_title>Phase 1-2 Study of the Safety, Pharmacokinetics, and Preliminary Activity of ASTX660 in Subjects With Advanced Solid Tumors and Lymphomas</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Astex Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Astex Pharmaceuticals</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open-label, dose-escalation Phase 1/2 study to assess the safety of ASTX660,
+      determine the maximum tolerated dose (MTD), recommended Phase 2 dose (RP2D), and recommended
+      dosing regimen, and to obtain preliminary efficacy, pharmacokinetic (PK), and target
+      engagement data, in subjects with advanced solid tumors or lymphoma for whom standard
+      life-prolonging measures are not available.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      ASTX660 is a synthetic small molecule dual antagonist of cellular inhibitor of apoptosis
+      protein (cIAP) 1 and X-linked inhibitor of apoptosis protein (XIAP) that has been shown to
+      have potent proapoptotic and tumor growth inhibitory activity in nonclinical models. ASTX660
+      has not been previously evaluated in human subjects. The Phase 1 portion of the study will
+      determine the MTD, RP2D, and recommended dosing regimen. The Phase 2 portion will evaluate
+      activity in selected tumor types.
+
+      Subjects will continue to receive their assigned treatment throughout the study until the
+      occurrence of disease progression, death, or unacceptable treatment-related toxicity, or
+      until the study is closed by the sponsor.
+
+      Tolerability and safety of study treatment will be evaluated throughout the study by
+      collection of clinical and laboratory data. In Phase 2, antitumor response will be assessed
+      according to standard Response Evaluation Criteria in Solid Tumors (RECIST v1.1) using
+      computed tomography (CT) or magnetic resonance imaging (MRI) scans or assessed using another
+      reliable method of disease evaluation appropriate for the tumor type.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>July 2015</start_date>
+  <completion_date type="Anticipated">December 2018</completion_date>
+  <primary_completion_date type="Anticipated">July 2018</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety (Phase 1) - number of subjects with AEs, DLTs, abnormal clinical laboratory values or physical exam results</measure>
+    <time_frame>DLTs will be assessed during cycle 1 (28 days). AEs and other safety indicators will be assessed until 30 days after the last dose of study treatment. It is anticipated that subject may be on study for 2-3 cycles with outliers</time_frame>
+    <description>Incidence of dose-limiting toxicities (DLTs) and other adverse events (AEs)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Efficacy (Phase 2) - radiographic evaluation of tumor size using RECIST 1.1 criteria or another appropriate method if disease is not measureable using RECIST criteria</measure>
+    <time_frame>It is anticipated that subject may be on study for 2-3 cycles with outliers</time_frame>
+    <description>Antitumor activity by objective response rate and disease control rate</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>PK profile - derived from measurement of study drug concentration in serial plasma samples over time</measure>
+    <time_frame>First 9 weeks of study treatment</time_frame>
+    <description>Assessment of standard PK parameters: including area under the concentration-time curve (AUC), maximum concentration (Cmax), minimum concentration (Cmin), time to maximum concentration (Tmax), elimination half life (t½), and other secondary PK parameters of ASTX660 if data permit; analysis of ASTX660 metabolites if applicable.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy - radiographic evaluation of tumor size using RECIST 1.1 criteria or another appropriate method if disease is not measureable using RECIST criteria</measure>
+    <time_frame>It is anticipated that subject may be on study for 2-3 cycles with outliers</time_frame>
+    <description>Duration of antitumor response and progression-free survival (PFS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of target (cIAP1) engagement</measure>
+    <time_frame>It is anticipated that subject may be on study for 2-3 cycles with outliers</time_frame>
+    <description>Percentage degradation of cIAP1 protein in PBMCs from baseline, in response to ASTX660 treatment.</description>
+  </secondary_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Solid Tumors</condition>
+  <condition>Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Phase 1 - Part 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dose-escalation stage to identify the MTD and the RP2D, defined as either the MTD or a dose below the MTD that the Data and Safety Review Committee (DSRC) agree shows adequate pharmacological evidence of target engagement and/or clinical activity. Subjects will receive ASTX660 once a day for 7 consecutive days every other week of each 28-day cycle (ie, [7 days on/ 7 days off] ×2; daily dosing on Days 1-7 and 15-21). The starting dose will be escalated stepwise in successive cohorts of 3 to 6 evaluable subjects each (standard 3+3 study design), until the RP2D is determined.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 1 - Part 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dose-expansion stage to confirm tolerability of ASTX660 at the RP2D using the every-other-week daily dosing regimen. Up to a total of 12 subjects (including the 3 or 6 subjects treated at the RP2D in Part 1) will be treated at the RP2D.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 1 - Part 3 (optional)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The purpose of the optional Part 3 is to allow for exploration of an alternative dosing regimen of ASTX660 based on emerging safety, PK, and PD data from Parts 1 and 2 (using the original every-other-week dosing regimen), with agreement of the DSRC. If Part 3 is conducted, the plan is to enroll up to 18 evaluable subjects in 1 or more cohorts using a standard 3+3 study design.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2 - Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment with ASTX660 for recurrent/metastatic head and neck squamous cell carcinoma (HNSCC) not responsive or relapsed after standard therapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2 - Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment with ASTX660 for relapsed or refractory diffuse large B-cell lymphoma (DLBCL).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2 - Cohort 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment with ASTX660 for progressive or relapsed peripheral T-cell lymphoma (PTCL).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2 - Cohort 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment with ASTX660 for relapsed or refractory cutaneous T-cell lymphoma (CTCL).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2 - Cohort 5</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment with ASTX660 for other tumor types that are characterized by a molecular feature that may confer sensitivity to ASTX660 (eg, oncogenic activation of the NF-κB pathway or documented amplification of the gene loci encoding c-IAP1 or c-IAP2), pending confirmation in writing by the Astex medical monitor.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ASTX660</intervention_name>
+    <description>described above</description>
+    <arm_group_label>Phase 1 - Part 1</arm_group_label>
+    <arm_group_label>Phase 1 - Part 2</arm_group_label>
+    <arm_group_label>Phase 1 - Part 3 (optional)</arm_group_label>
+    <arm_group_label>Phase 2 - Cohort 1</arm_group_label>
+    <arm_group_label>Phase 2 - Cohort 2</arm_group_label>
+    <arm_group_label>Phase 2 - Cohort 3</arm_group_label>
+    <arm_group_label>Phase 2 - Cohort 4</arm_group_label>
+    <arm_group_label>Phase 2 - Cohort 5</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subjects with histologically or cytologically confirmed advanced solid tumors or
+             lymphoma and for whom standard life-prolonging measures are not available.
+
+          -  In the Phase 2 portion of the protocol only, subjects must have measurable disease
+             according to RECIST v1.1, or evaluable disease that can be reliably and consistently
+             followed.
+
+          -  Eastern Cooperative Oncology Group (performance status): 0 to 2
+
+          -  Acceptable organ function
+
+        Exclusion Criteria:
+
+          -  Hypersensitivity to ASTX660, excipients of the drug product, or other components of
+             the study treatment regimen
+
+          -  Uncontrolled medical disease(s) or active, uncontrolled infections
+
+          -  Life-threatening illness or significant organ system dysfunction
+
+          -  A history of, or at risk for, cardiac disease
+
+          -  Known history of HIV, or hepatitis B (HBV) or C (HCV)
+
+          -  Grade 2 or greater neuropathy
+
+          -  Known brain metastases unless stable or previously treated
+
+          -  Known significant mental illness
+
+          -  Prior anticancer treatments or therapies within specified time windows prior to first
+             dose of study treatment (ASTX660)
+
+          -  Pregnant or nursing an infant
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Edwin Rock, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Astex Pharmaceuticals</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Purvee Kumar</last_name>
+    <phone>+1-925-560-2863</phone>
+    <email>Purvee.kumar@astx.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jessica Nario</last_name>
+    <phone>+1-925-560-2931</phone>
+    <email>Jessica.Nario@astx.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Pinnacle Oncology</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>852558</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cedars-Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Simlow Cancer Hospital at Yale</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Start - Ids</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 13, 2017</lastchanged_date>
+  <firstreceived_date>July 2, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lymphoma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

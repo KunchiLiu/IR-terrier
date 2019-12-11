@@ -1,0 +1,2409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="91883">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01908829</url>
+  </required_header>
+  <id_info>
+    <org_study_id>905-EC-012</org_study_id>
+    <secondary_id>2012-005401-41</secondary_id>
+    <nct_id>NCT01908829</nct_id>
+  </id_info>
+  <brief_title>A Trial Comparing Combination Treatment (Solifenacin Plus Mirabegron) With One Treatment Alone (Solifenacin)</brief_title>
+  <acronym>BESIDE</acronym>
+  <official_title>A Randomized, Double-Blind, Multi-Centre Study to Evaluate the Efficacy and Safety of Adding Mirabegron to Solifenacin in Incontinent OAB Subjects Who Have Received Solifenacin for 4 Weeks and Warrant Additional Relief for Their OAB Symptoms</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Astellas Pharma Europe Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Astellas Pharma Inc</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to see if adding a new type of medication recently approved to
+      treat overactive bladder (mirabegron) to an antimuscarinic treatment (solifenacin) will be
+      more effective in controlling incontinence than when using the antimuscarinic treatment
+      alone.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>July 2013</start_date>
+  <completion_date type="Actual">November 2014</completion_date>
+  <primary_completion_date type="Actual">November 2014</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from Baseline in mean number of incontinence episodes per 24 hours</measure>
+    <time_frame>Baseline to end of treatment (12 weeks)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in mean number of micturitions per 24 hours</measure>
+    <time_frame>Baseline to end of treatment (12 weeks)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of incontinence episodes reported over 3-day diary</measure>
+    <time_frame>End of treatment (12 weeks)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in mean volume voided per micturition</measure>
+    <time_frame>Baseline to end of treatment (12 weeks)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in mean number of urgency incontinence episodes per 24 hours</measure>
+    <time_frame>Baseline to end of treatment (12 weeks)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of urgency incontinence episodes reported over 3-day diary</measure>
+    <time_frame>End of treatment (12 weeks)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in mean number of urgency episodes (grade 3 or 4) per 24 hours</measure>
+    <time_frame>Baseline to end of treatment (12 weeks)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in mean number of pads per 24 hours</measure>
+    <time_frame>Baseline to end of treatment (12 weeks)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of pads reported over 3-day diary</measure>
+    <time_frame>End of treatment (12 weeks)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in mean number of nocturia Episodes reported in 3-day diary</measure>
+    <time_frame>Baseline to end of treatment (12 weeks)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of nocturia episodes reported over 3-day diary</measure>
+    <time_frame>End of treatment (12 weeks)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with at least a 50% decrease from Baseline in mean number of incontinence episodes per 24 hours</measure>
+    <time_frame>Baseline to end of treatment (12 weeks)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with zero incontinence episodes per 24 hrs at End of Treatment</measure>
+    <time_frame>End of treatment (12 weeks)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with a mean of less than 8 micturitions per 24 hours at End of Treatment</measure>
+    <time_frame>End of treatment (12 weeks)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in total Euroqol European Quality of Life-5 Dimensions (EQ-5D) score (and subscale scores)</measure>
+    <time_frame>Baseline to end of treatment (12 weeks)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in total OAB-q score (and subscale scores)</measure>
+    <time_frame>Baseline to end of treatment (12 weeks)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of responders with at least a 10-point improvement from Baseline in OAB-q subscales</measure>
+    <time_frame>Baseline to end of treatment (12 weeks)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in Treatment Satisfaction - Visual Analogue Scale (TS-VAS) score</measure>
+    <time_frame>Baseline to end of treatment (12 weeks)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in Patient Perception Bladder Control (PPBC) score</measure>
+    <time_frame>Baseline to end of treatment (12 weeks)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with at least a 1-point improvement from baseline in PPBC</measure>
+    <time_frame>End of treatment (12 weeks)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with major (at least 2-point) improvement from baseline in PPBC</measure>
+    <time_frame>End of treatment (12 weeks)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient and Clinician Global Impression of Change Scales (PGIC and CGIC)</measure>
+    <time_frame>End of treatment (12 weeks)</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">3815</enrollment>
+  <condition>Urinary Bladder Overactive</condition>
+  <condition>Urinary Bladder Diseases</condition>
+  <condition>Urologic Diseases</condition>
+  <arm_group>
+    <arm_group_label>Combination therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Solifenacin succinate low dose plus Mirabegron low dose (first 4 weeks) rising to Mirabegron high dose (for subsequent 8 weeks)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Solifenacin succinate low dose</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Solifenacin succinate high dose</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Mirabegron</intervention_name>
+    <description>Oral tablet</description>
+    <arm_group_label>Combination therapy</arm_group_label>
+    <other_name>YM178,</other_name>
+    <other_name>Betanis,</other_name>
+    <other_name>Betmiga,</other_name>
+    <other_name>Myrbetriq</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Solifenacin succinate low dose</intervention_name>
+    <description>Oral tablet</description>
+    <arm_group_label>Combination therapy</arm_group_label>
+    <arm_group_label>Solifenacin succinate low dose</arm_group_label>
+    <other_name>Vesicare,</other_name>
+    <other_name>Vesitrim,</other_name>
+    <other_name>Vesikur,</other_name>
+    <other_name>YM905</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Solifenacin succinate high dose</intervention_name>
+    <description>Oral tablet</description>
+    <arm_group_label>Solifenacin succinate high dose</arm_group_label>
+    <other_name>Vesicare,</other_name>
+    <other_name>Vesitrim,</other_name>
+    <other_name>Vesikur,</other_name>
+    <other_name>YM905</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Main Inclusion at Screening:
+
+               1. Subject has symptoms of OAB (urinary frequency and urgency with urgency
+                  incontinence) for &gt;= 3 months prior to the screening visit
+
+               2. Subject is willing and able to complete the micturition diary and questionnaires
+                  correctly, including collection and measurement of urine output for 3 days prior
+                  to each visit;
+
+               3. Subject has symptoms of &quot;wet&quot; OAB (urinary frequency and urgency with
+                  incontinence or mixed incontinence with predominant urgency incontinence), and
+                  reports an average of at least 2 incontinence episodes per day.
+
+          -  Main Inclusion at Run-in (Visit 2):
+
+               1. Subject experiences on average at least 1 episode of urgency (grade 3 or 4) with
+                  or without incontinence per 24-hour period during the 3-day micturition diary
+                  period.
+
+               2. Subject experiences on average at least 2 incontinence episodes per 24-hour
+                  period during the 3-day micturition diary period.
+
+               3. Subject experiences on average at least 8 micturitions (excluding incontinence
+                  episodes) per 24-hour period during the 3-day micturition diary period.
+
+          -  Main Inclusion at Randomization (Visit 3):
+
+               1. Subject experiences at least 1 incontinence episode during the 3-day micturition
+                  diary period and wishes to increase their treatment for OAB symptoms.
+
+        Exclusion Criteria:
+
+          -  Main Exclusion at Screening:
+
+               1. Subject in the opinion of the investigator has clinically significant Bladder
+                  Outlet Obstruction (BOO).
+
+               2. Subject has significant Post-void residual (PVR) volume (PVR &gt; 150 ml).
+
+               3. Subject has significant stress incontinence or mixed stress/urgency incontinence
+                  where stress is the predominant factor as determined by the investigator
+
+               4. Subject has an indwelling catheter or practices intermittent self
+                  catheterization.
+
+               5. Subject has evidence of a UTI.
+
+               6. Subject has chronic inflammation such as interstitial cystitis, bladder stones,
+                  previous pelvic radiation therapy, or previous or current malignant disease of
+                  the pelvic organs
+
+               7. Subject has moderate to severe hepatic impairment
+
+               8. Subject has severe renal impairment or End Stage Renal disease
+
+               9. Subject has a clinically significant abnormal Electrocardiogram (ECG)
+
+              10. Subject has a concurrent malignancy or history of cancer (except noninvasive
+                  skin cancer) within the last 5 years prior to screening.
+
+              11. Subject has a QTcF interval &gt; 450 ms for males or &gt; 470 ms for females or is at
+                  risk of QT prolongation (e.g., family history of long QT syndrome,
+                  hypokalaemia).
+
+              12. Subject has received intravesical treatment in the past 12 months with e.g.,
+                  botulinum toxin, resiniferatoxin, capsaicin.
+
+              13. Subject has severe uncontrolled hypertension, which is defined as a sitting
+                  average systolic blood pressure ≥ 180 mmHg and/or average diastolic blood
+                  pressure ≥ 110 mmHg.
+
+          -  Main Exclusion at Randomization (visit 3):
+
+               1. Subject has achieved 100% continence from Visit 2 to Visit 3 (no incontinence
+                  episodes are recorded in the 3 day diary administered for 3 days prior to Visit
+                  3).
+
+               2. Subject does not desire an increase in study medication.
+
+               3. Subject has an average total daily urine volume &gt; 3000ml as recorded in the
+                  micturition diary.
+
+               4. Subject has severe uncontrolled hypertension, which is defined as a sitting
+                  average systolic blood pressure ≥ 180 mmHg and/or average diastolic blood
+                  pressure ≥ 110 mmHg.
+
+               5. Subject has a clinically significant abnormal ECG
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Study Manager</last_name>
+    <role>Study Director</role>
+    <affiliation>Astellas Pharma Europe Ltd.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Genova Clinical Research</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85704</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Associated Pharmaceutical Research Center, Inc.</name>
+      <address>
+        <city>Buena Park</city>
+        <state>California</state>
+        <zip>90620</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The American Institute of Research</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bayview Research Group</name>
+      <address>
+        <city>Valley Village</city>
+        <state>California</state>
+        <zip>91607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Meridien Research</name>
+      <address>
+        <city>Brooksville</city>
+        <state>Florida</state>
+        <zip>33016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Innovative Research of West FL</name>
+      <address>
+        <city>Clearwater</city>
+        <state>Florida</state>
+        <zip>33756</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Best Quality Research Inc.</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Palmetto Professional Research</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Urology Center of Central Florida</name>
+      <address>
+        <city>Kissimmee</city>
+        <state>Florida</state>
+        <zip>34741</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Meridien Research</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stedman Clinical Trials</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33613</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Private Practice</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research, LLC</name>
+      <address>
+        <city>Savannah</city>
+        <state>Georgia</state>
+        <zip>31406</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Herman Clinical Research</name>
+      <address>
+        <city>Suwanee</city>
+        <state>Georgia</state>
+        <zip>30024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Idaho Urology</name>
+      <address>
+        <city>Coeur D'Alene</city>
+        <state>Idaho</state>
+        <zip>83814</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>First Urology, PSC</name>
+      <address>
+        <city>Jeffersonville</city>
+        <state>Indiana</state>
+        <zip>47130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Deaconess Gateway Health Center</name>
+      <address>
+        <city>Newburgh</city>
+        <state>Indiana</state>
+        <zip>47630</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MedStar Health Research Institute</name>
+      <address>
+        <city>Hyattsville</city>
+        <state>Maryland</state>
+        <zip>20782</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bay State Clinical Trials, Inc.</name>
+      <address>
+        <city>Watertown</city>
+        <state>Massachusetts</state>
+        <zip>02472</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beyer Research</name>
+      <address>
+        <city>Kalamazoo</city>
+        <state>Michigan</state>
+        <zip>49009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Quality Clinical Research</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Albuquerque Clinical Trials, Inc.</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Brooklyn Urology Research Group</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Urology Centers of New York</name>
+      <address>
+        <city>Garden City</city>
+        <state>New York</state>
+        <zip>11530</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Premier Medical Group of the Hudson Valley PC</name>
+      <address>
+        <city>Kingston</city>
+        <state>New York</state>
+        <zip>12401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Premier Medical Group of the Hudson Valley PC</name>
+      <address>
+        <city>Poughkeepsie</city>
+        <state>New York</state>
+        <zip>12601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PMG Research of Raleigh, dba PMG Research of Cary</name>
+      <address>
+        <city>Cary</city>
+        <state>North Carolina</state>
+        <zip>27518</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alliance Urology Specialists</name>
+      <address>
+        <city>Greensboro</city>
+        <state>North Carolina</state>
+        <zip>27403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Research Associates LLC</name>
+      <address>
+        <city>Raleigh</city>
+        <state>North Carolina</state>
+        <zip>27612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PMG Research of Winston-Salem, LLC</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Urology Group</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Health Partners</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45439</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Clinical Trial Center</name>
+      <address>
+        <city>Jenkintown</city>
+        <state>Pennsylvania</state>
+        <zip>19046</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Health Concepts</name>
+      <address>
+        <city>Rapid City</city>
+        <state>South Dakota</state>
+        <zip>57702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jean Brown Research</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alexandria Clinical Research</name>
+      <address>
+        <city>Alexandria</city>
+        <state>Virginia</state>
+        <zip>22304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 37402</name>
+      <address>
+        <city>Yerevan</city>
+        <country>Armenia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 37403</name>
+      <address>
+        <city>Yerevan</city>
+        <country>Armenia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 37405</name>
+      <address>
+        <city>Yerevan</city>
+        <country>Armenia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 61006</name>
+      <address>
+        <city>Adelaide</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 61001</name>
+      <address>
+        <city>Kogarah, Sydney</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 61016</name>
+      <address>
+        <city>Victoria</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 43008</name>
+      <address>
+        <city>Graz</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 43001</name>
+      <address>
+        <city>Innsbruck</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 43006</name>
+      <address>
+        <city>Innsbruck</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 43007</name>
+      <address>
+        <city>Linz</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 43002</name>
+      <address>
+        <city>Vienna</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 43004</name>
+      <address>
+        <city>Vienna</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 43005</name>
+      <address>
+        <city>Vienna</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 43010</name>
+      <address>
+        <city>Vienna</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 43011</name>
+      <address>
+        <city>Vienna</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 43012</name>
+      <address>
+        <city>Vienna</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 43003</name>
+      <address>
+        <city>Wels</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 32007</name>
+      <address>
+        <city>Anderlecht</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 32013</name>
+      <address>
+        <city>Deurne</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 32009</name>
+      <address>
+        <city>Edegem</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 32003</name>
+      <address>
+        <city>Gent</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 32005</name>
+      <address>
+        <city>Gent</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 32015</name>
+      <address>
+        <city>Kortrijk</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 32008</name>
+      <address>
+        <city>Liege</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 32014</name>
+      <address>
+        <city>Roeselare</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 15001</name>
+      <address>
+        <city>Barrie</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 15009</name>
+      <address>
+        <city>Bathurst</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 15006</name>
+      <address>
+        <city>Brampton</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 15015</name>
+      <address>
+        <city>Granby</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 15014</name>
+      <address>
+        <city>Kelowna</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 15007</name>
+      <address>
+        <city>Kitchener</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 15019</name>
+      <address>
+        <city>Sherbrooke</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 15012</name>
+      <address>
+        <city>Toronto</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 15013</name>
+      <address>
+        <city>Toronto</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 15018</name>
+      <address>
+        <city>Victoriaville</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 15016</name>
+      <address>
+        <city>Victoria</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 15047</name>
+      <address>
+        <city>Victoria</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 42015</name>
+      <address>
+        <city>Brno</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 42020</name>
+      <address>
+        <city>Melnik</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 42018</name>
+      <address>
+        <city>Nachod</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 42004</name>
+      <address>
+        <city>Plzen</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 42021</name>
+      <address>
+        <city>Plzen</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 42016</name>
+      <address>
+        <city>Prague 1</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 42008</name>
+      <address>
+        <city>Prague</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 42017</name>
+      <address>
+        <city>Praha 2</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 42007</name>
+      <address>
+        <city>Praha 4</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 42022</name>
+      <address>
+        <city>Praha 4</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 45008</name>
+      <address>
+        <city>Aarhus N</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 45003</name>
+      <address>
+        <city>Frederiksberg</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 45009</name>
+      <address>
+        <city>Herlev</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 45011</name>
+      <address>
+        <city>Odense C</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 35804</name>
+      <address>
+        <city>Helsinki (HUS)</city>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 35805</name>
+      <address>
+        <city>Tampere</city>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 33018</name>
+      <address>
+        <city>Bordeaux Cedex</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 33017</name>
+      <address>
+        <city>Marseille</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 99502</name>
+      <address>
+        <city>T'bilisi</city>
+        <country>Georgia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 49008</name>
+      <address>
+        <city>Bad Ems</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 49022</name>
+      <address>
+        <city>Berlin</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 49021</name>
+      <address>
+        <city>Hagenow</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 49011</name>
+      <address>
+        <city>Halle (Saale)</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 49004</name>
+      <address>
+        <city>Hamburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 49018</name>
+      <address>
+        <city>Henningsdorf</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 49009</name>
+      <address>
+        <city>Hettstedt</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 49017</name>
+      <address>
+        <city>Koblenz</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 49003</name>
+      <address>
+        <city>Lutherstadt Eisleben</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 49020</name>
+      <address>
+        <city>Reutlingen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 49014</name>
+      <address>
+        <city>Sangerhausen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 30001</name>
+      <address>
+        <city>Athens</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 30005</name>
+      <address>
+        <city>Heraklion, Crete</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 30002</name>
+      <address>
+        <city>Patras</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 36003</name>
+      <address>
+        <city>Csongrad</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 36011</name>
+      <address>
+        <city>Hajduszoboszlo</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 36002</name>
+      <address>
+        <city>Nyiregyhaza</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 36008</name>
+      <address>
+        <city>Salgotarjan</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 36009</name>
+      <address>
+        <city>Szekszard</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 35303</name>
+      <address>
+        <city>Cork</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 35301</name>
+      <address>
+        <city>Dublin</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 35309</name>
+      <address>
+        <city>Dublin</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 35310</name>
+      <address>
+        <city>Dublin</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 35306</name>
+      <address>
+        <city>Limerick</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 35313</name>
+      <address>
+        <city>Mullingar</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 35304</name>
+      <address>
+        <city>Tralee</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 35305</name>
+      <address>
+        <city>Waterford</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 97201</name>
+      <address>
+        <city>Haifa</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 97202</name>
+      <address>
+        <city>Jerusalem</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 97207</name>
+      <address>
+        <city>Kfar Saba</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 97203</name>
+      <address>
+        <city>Petach Tikva</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 97205</name>
+      <address>
+        <city>Petach Tikva</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 97206</name>
+      <address>
+        <city>Tel Hashomer</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 39007</name>
+      <address>
+        <city>Avellino</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 39002</name>
+      <address>
+        <city>Cantanzaro</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 39010</name>
+      <address>
+        <city>Firenze</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 39006</name>
+      <address>
+        <city>Perugia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 39013</name>
+      <address>
+        <city>Treviglio (BG)</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 39009</name>
+      <address>
+        <city>Varese</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 96101</name>
+      <address>
+        <city>Beirut</city>
+        <country>Lebanon</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 31008</name>
+      <address>
+        <city>Amsterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 47005</name>
+      <address>
+        <city>Bekkestua</city>
+        <country>Norway</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 47002</name>
+      <address>
+        <city>Tonsberg</city>
+        <country>Norway</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 47003</name>
+      <address>
+        <city>Trondheim</city>
+        <country>Norway</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 48002</name>
+      <address>
+        <city>Kolbuszowa Dolna</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 48006</name>
+      <address>
+        <city>Krakow</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 48010</name>
+      <address>
+        <city>Lublin</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 48005</name>
+      <address>
+        <city>Piaseczno</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 48001</name>
+      <address>
+        <city>Warszawa</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 48008</name>
+      <address>
+        <city>Warszawa</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 35104</name>
+      <address>
+        <city>Lisbon</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 35105</name>
+      <address>
+        <city>Lisbon</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 35102</name>
+      <address>
+        <city>Matosinhos</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 35103</name>
+      <address>
+        <city>Porto</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 35101</name>
+      <address>
+        <city>Setubal</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 35106</name>
+      <address>
+        <city>Tomar</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 40016</name>
+      <address>
+        <city>Bucharest</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 40018</name>
+      <address>
+        <city>Bucharest</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 40012</name>
+      <address>
+        <city>Craiova</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 40019</name>
+      <address>
+        <city>Craiova</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 40003</name>
+      <address>
+        <city>Judetul Ilfov</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 40017</name>
+      <address>
+        <city>Oradea</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 40020</name>
+      <address>
+        <city>Timisoara</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 70003</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 70004</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 70005</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 70008</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 70010</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 70011</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 70012</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 70024</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 70013</name>
+      <address>
+        <city>Rostove-on-Don</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 70002</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 70006</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 70007</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 70009</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 70025</name>
+      <address>
+        <city>Saratov</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 42110</name>
+      <address>
+        <city>Bratislava</city>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 42114</name>
+      <address>
+        <city>Kosice</city>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 42113</name>
+      <address>
+        <city>Michalovce</city>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 42111</name>
+      <address>
+        <city>Nove Zamky</city>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 42112</name>
+      <address>
+        <city>Piestany</city>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 42108</name>
+      <address>
+        <city>Poprad</city>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 42109</name>
+      <address>
+        <city>Zilina</city>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 38601</name>
+      <address>
+        <city>Ljubljana</city>
+        <country>Slovenia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 38606</name>
+      <address>
+        <city>Maribor</city>
+        <country>Slovenia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 38607</name>
+      <address>
+        <city>Maribor</city>
+        <country>Slovenia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 38610</name>
+      <address>
+        <city>Ptuj</city>
+        <country>Slovenia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 34012</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 34016</name>
+      <address>
+        <city>Bilbao</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 34001</name>
+      <address>
+        <city>Getafe (Madrid)</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 34004</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 34015</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 34023</name>
+      <address>
+        <city>Mendaro</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 34021</name>
+      <address>
+        <city>Miranda de Ebro</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 34018</name>
+      <address>
+        <city>San Sebastian de los Reyes</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 34013</name>
+      <address>
+        <city>San Sebastian</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 34007</name>
+      <address>
+        <city>Sevilla</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 34020</name>
+      <address>
+        <city>Sevilla</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 34014</name>
+      <address>
+        <city>Vigo</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 46004</name>
+      <address>
+        <city>Halmstad</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 46013</name>
+      <address>
+        <city>Lund</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 46014</name>
+      <address>
+        <city>Norrtalje</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 46001</name>
+      <address>
+        <city>Stockholm</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 46012</name>
+      <address>
+        <city>Stockholm</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 46015</name>
+      <address>
+        <city>Umea</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 41008</name>
+      <address>
+        <city>Baden</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 41001</name>
+      <address>
+        <city>Frauenfeld</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 90005</name>
+      <address>
+        <city>Ankara</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 90008</name>
+      <address>
+        <city>Ankara</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 90002</name>
+      <address>
+        <city>Izmir</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 90003</name>
+      <address>
+        <city>Izmir</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 90007</name>
+      <address>
+        <city>Kocaeli</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 90004</name>
+      <address>
+        <city>Manisa</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 90006</name>
+      <address>
+        <city>Sivas</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 44007</name>
+      <address>
+        <city>Bristol</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 44012</name>
+      <address>
+        <city>Cambridge</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 44015</name>
+      <address>
+        <city>Cheltenham</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 44019</name>
+      <address>
+        <city>Coventry</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 44009</name>
+      <address>
+        <city>Garston</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 44016</name>
+      <address>
+        <city>Kings Lynn</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 44017</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 44018</name>
+      <address>
+        <city>Northampton</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 44010</name>
+      <address>
+        <city>Nottingham</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 44008</name>
+      <address>
+        <city>Plymouth</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 44013</name>
+      <address>
+        <city>Taunton</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Site: 44011</name>
+      <address>
+        <city>West Yorkshire</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Armenia</country>
+    <country>Australia</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>Czech Republic</country>
+    <country>Denmark</country>
+    <country>Finland</country>
+    <country>France</country>
+    <country>Georgia</country>
+    <country>Germany</country>
+    <country>Greece</country>
+    <country>Hungary</country>
+    <country>Ireland</country>
+    <country>Israel</country>
+    <country>Italy</country>
+    <country>Lebanon</country>
+    <country>Netherlands</country>
+    <country>Norway</country>
+    <country>Poland</country>
+    <country>Portugal</country>
+    <country>Romania</country>
+    <country>Russian Federation</country>
+    <country>Slovakia</country>
+    <country>Slovenia</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>Switzerland</country>
+    <country>Turkey</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Algeria</country>
+    <country>Egypt</country>
+    <country>Jordan</country>
+    <country>Kazakhstan</country>
+    <country>Taiwan</country>
+    <country>Ukraine</country>
+  </removed_countries>
+  <verification_date>October 2015</verification_date>
+  <lastchanged_date>October 20, 2015</lastchanged_date>
+  <firstreceived_date>July 24, 2013</firstreceived_date>
+  <firstreceived_results_disposition_date>August 12, 2015</firstreceived_results_disposition_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Overactive Bladder (OAB)</keyword>
+  <keyword>Urinary incontinence</keyword>
+  <keyword>Urgency incontinence</keyword>
+  <keyword>Frequency</keyword>
+  <keyword>Urgency</keyword>
+  <keyword>Micturition</keyword>
+  <keyword>YM178</keyword>
+  <keyword>Mirabegron</keyword>
+  <keyword>Solifenacin</keyword>
+  <keyword>Betmiga</keyword>
+  <keyword>Myrbetriq</keyword>
+  <keyword>Betanis</keyword>
+  <keyword>Vesicare</keyword>
+  <keyword>Vesitrim</keyword>
+  <keyword>Vesikur</keyword>
+  <keyword>YM905</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Urinary Bladder Diseases</mesh_term>
+    <mesh_term>Urologic Diseases</mesh_term>
+    <mesh_term>Urinary Bladder, Overactive</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Mirabegron</mesh_term>
+    <mesh_term>Solifenacin Succinate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted, but a results disposition has been submitted -->
+</clinical_study>

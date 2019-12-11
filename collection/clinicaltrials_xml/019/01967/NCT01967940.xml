@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="87354">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01967940</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GS-US-292-0117</org_study_id>
+    <secondary_id>2013-002830-19</secondary_id>
+    <nct_id>NCT01967940</nct_id>
+  </id_info>
+  <brief_title>Efficacy of Tenofovir Alafenamide Versus Placebo Added to a Failing Regimen Followed by Treatment With Elvitegravir/Cobicistat/Emtricitabine/Tenofovir Alafenamide Plus Atazanavir in HIV-1 Positive, Antiretroviral Treatment-Experienced Adults</brief_title>
+  <official_title>A Phase 3, Two Part Study to Evaluate the Efficacy of Tenofovir Alafenamide Versus Placebo Added to a Failing Regimen Followed by Treatment With Elvitegravir/Cobicistat/Emtricitabine/Tenofovir Alafenamide Plus Atazanavir in HIV-1 Positive, Antiretroviral Treatment-Experienced Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Gilead Sciences</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Gilead Sciences</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Part 1 consists of 2 cohorts, starting with a sentinel cohort, in which 10 participants will
+      be enrolled to receive open-label tenofovir alafenamide (TAF) in addition to their current
+      failing antiretroviral (ARV) regimen. This cohort will then be followed by a randomized,
+      double-blind, cohort to compare the addition of TAF or placebo-to-match TAF in HIV-1
+      positive adults who are failing their current ARV regimen. This randomized cohort will
+      consist of approximately 90 participants.
+
+      In Part 2, all participants who complete Part 1 of the study will discontinue their failing
+      ARV regimen and TAF or placebo-to-match TAF for a 14-day washout period. Following the
+      washout period, all participants who received TAF in Part 1 and have a &gt; 0.5 log10 decline
+      in HIV-1 RNA will receive elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide
+      single-tablet regimen (E/C/F/TAF STR) plus atazanavir (ATV) once daily for 48 weeks.
+      Participants who received TAF who have a ≤ 0.5 log10 decline in HIV-1 RNA will be
+      discontinued from the study and will not be eligible to continue into Part 2 of the study.
+      All participants who received placebo in Part 1 will be eligible to participate in Part 2
+      regardless of their viral load change.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>October 2013</start_date>
+  <completion_date type="Anticipated">March 2017</completion_date>
+  <primary_completion_date type="Actual">May 2016</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of participants with plasma HIV-1 RNA decreases from baseline exceeding 0.5 log10 copies/mL at Day 10 (Part 1)</measure>
+    <time_frame>Day 10</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in plasma HIV-1 RNA (log10 copies/mL) at Day 10 (Part 1)</measure>
+    <time_frame>Day 10</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants with plasma HIV-1 RNA &lt; 50 copies/mL</measure>
+    <time_frame>Weeks 24 and 48</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants with plasma HIV-1 RNA &lt; 400 copies/mL</measure>
+    <time_frame>Weeks 24 and 48</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in plasma HIV-1 RNA (log10 copies/mL)</measure>
+    <time_frame>Weeks 24 and 48</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in CD4+ cell count (cells/µL) and percentage</measure>
+    <time_frame>Weeks 24 and 48</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety of E/C/F/TAF STR plus ATV measured by incidence of adverse events and monitoring of laboratory parameters from baseline to Weeks 24 and 48</measure>
+    <time_frame>Baseline to Week 24 and 48</time_frame>
+    <description>Safety data will be summarized.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma pharmacokinetics (PK) parameter of TAF as measured by AUClast, Clast, and Cmax and PK parameter of tenofovir, ATV, and elvitegravir as measured by AUCtau, Ctau, and Cmax</measure>
+    <time_frame>Week 4 to Week 12</time_frame>
+    <description>AUClast is defined as the concentration of drug from time zero to the last quantifiable concentration
+Clast is defined as the last observable concentration of drug
+Cmax is defined as the maximum observed concentration of drug in plasma
+AUCtau is defined as the concentration of drug over time (area under the plasma concentration versus time curve over the dosing interval)
+Ctau is defined as the observed drug concentration at the end of the dosing interval</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">55</enrollment>
+  <condition>HIV</condition>
+  <condition>HIV Infections</condition>
+  <condition>Acquired Immunodeficiency Syndrome</condition>
+  <arm_group>
+    <arm_group_label>TAF followed by E/C/F/TAF plus ATV</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be randomized to receive TAF plus their pre-existing ARV regimen for 10 days in Part 1, followed by a 14-day washout period. After this period, participants with a &gt; 0.5 log10 decline in HIV-1 RNA will then receive E/C/F/TAF plus ATV for 48 weeks in Part 2.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo followed by E/C/F/TAF plus ATV</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive placebo to match TAF plus their pre-existing ARV regimen for 10 days in Part 1, followed by a 14-day washout period, and then receive E/C/F/TAF plus ATV for 48 weeks in Part 2 regardless of HIV-1 RNA value.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>TAF</intervention_name>
+    <description>Tenofovir alafenamide (TAF) 25 mg tablet administered orally once daily with food</description>
+    <arm_group_label>TAF followed by E/C/F/TAF plus ATV</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo to match TAF</intervention_name>
+    <description>Placebo tablets to match TAF administered orally once daily with food</description>
+    <arm_group_label>Placebo followed by E/C/F/TAF plus ATV</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>E/C/F/TAF</intervention_name>
+    <description>Elvitegravir 150 mg/cobicistat 150 mg/emtricitabine 200 mg/tenofovir alafenamide 10 mg (E/C/F/TAF) single-tablet regiment (STR) administered orally once daily with food</description>
+    <arm_group_label>TAF followed by E/C/F/TAF plus ATV</arm_group_label>
+    <arm_group_label>Placebo followed by E/C/F/TAF plus ATV</arm_group_label>
+    <other_name>Genvoya®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pre-existing ARV regimen</intervention_name>
+    <description>Participants will continue taking their pre-existing ARV regimen as prescribed in Part 1.</description>
+    <arm_group_label>TAF followed by E/C/F/TAF plus ATV</arm_group_label>
+    <arm_group_label>Placebo followed by E/C/F/TAF plus ATV</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ATV</intervention_name>
+    <description>ATV 300 mg tablet administered orally once daily.</description>
+    <arm_group_label>TAF followed by E/C/F/TAF plus ATV</arm_group_label>
+    <arm_group_label>Placebo followed by E/C/F/TAF plus ATV</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:
+
+          -  Ability to understand and sign a written informed consent form, which must be
+             obtained prior to initiation of study procedures
+
+          -  Currently taking a failing ARV regimen
+
+          -  Screening or historical genotype report showing either 1 to 3 thymidine-analogue
+             mutations (TAMs) and/or K65R, as well as M184V/I
+
+          -  Plasma HIV-1 RNA ≥ 500 copies/mL but ≤ 100,000 copies/mL at screening
+
+          -  Normal ECG
+
+          -  Estimated glomerular filtration rate (eGFR) ≥ 50 mL/min according to the
+             Cockcroft-Gault formula for creatinine clearance
+
+          -  Alanine aminotransferase (AST)/aspartate aminotransferase (AST) ≤ 5 × the upper limit
+             of the normal range (ULN)
+
+          -  Total bilirubin ≤ 1.5 mg/dL, or normal direct bilirubin
+
+          -  Adequate hematologic function
+
+          -  Serum amylase ≤ 5 × ULN
+
+          -  Females may enter the study if it is confirmed that she is:
+
+               -  Not pregnant or nursing
+
+               -  Of non-childbearing potential (ie, have had a hysterectomy, both ovaries
+                  removed, medically documented ovarian failure, or are postmenopausal women &gt; 54
+                  years of age with cessation [for ≥ 12 months] of previously occurring menses),
+                  or
+
+               -  Of childbearing potential and agrees to utilize highly effective contraception
+                  methods or be non-heterosexually active or practice sexual abstinence from
+                  screening throughout the duration of study treatment and for 30 days following
+                  study drug dosing
+
+                    -  Females who utilize hormonal contraceptive as one of their birth control
+                       methods must have used the same method for at least three months prior to
+                       study dosing.
+
+          -  Males must agree to utilize a highly effective method of contraception during
+             heterosexual intercourse or be non-heterosexually active, or practice sexual
+             abstinence from first dose throughout the study period and for 30 days following the
+             last study drug dose.
+
+          -  Males must agree to refrain from sperm donation from first dose until at least 30
+             days after the last study drug dose.
+
+        Key Exclusion Criteria:
+
+          -  A new AIDS-defining condition diagnosed within the 30 days prior to screening
+
+          -  Hepatitis B surface antigen (HBsAg) positive
+
+          -  Hepatitis C antibody positive (Subjects with positive HCV antibody and without
+             detectable HCV RNA are permitted to enroll)
+
+          -  History of integrase inhibitor use
+
+          -  Screening or historical genotype reports shows Q151M or T69ins or more than 3 TAMs.
+
+          -  Screening or historical genotype report shows resistance to integrase inhibitors
+
+          -  Individuals experiencing decompensated cirrhosis
+
+          -  Current alcohol or substance use
+
+          -  History of malignancy within the past 5 years (prior to screening) or ongoing
+             malignancy other than cutaneous Kaposi's sarcoma (KS), basal cell carcinoma, or
+             resected, non-invasive cutaneous squamous carcinoma. Individuals with cutaneous KS
+             are eligible, but must not have received any systemic therapy for KS within 30 days
+             of Part 1, Day 1 and must not be anticipated to require systemic therapy during the
+             study.
+
+          -  Active, serious infections (other than HIV-1 infection) requiring parenteral
+             antibiotic or antifungal therapy within 30 days prior to Part 1, Day 1
+
+          -  Any other clinical condition or prior therapy that would make the individual
+             unsuitable for the study or unable to comply with dosing requirements
+
+          -  Participation in any other clinical trial (including observational trials) without
+             prior approval from the sponsor is prohibited while participating in this trial
+
+          -  Receiving ongoing therapy with any disallowed medications, including any drugs not to
+             be used with elvitegravir, cobicistat, emtricitabine and tenofovir alafenamide or
+             known allergies to the excipients of E/C/F/TAF STR
+
+        Note: Other protocol defined Inclusion/Exclusion criteria may apply.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gilead Study Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Gilead Sciences</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Midway Immunology and Research center</name>
+      <address>
+        <city>Fort Pierce</city>
+        <state>Florida</state>
+        <zip>34982</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Triple O Research Institute, P.A.</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rowan Tree Medical, P.A.</name>
+      <address>
+        <city>Wilton Manors</city>
+        <state>Florida</state>
+        <zip>33305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest University Health Sciences</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Penn Presbyterian Medical Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Salvador B Gautier Hospital - Infectious Diseases Department</name>
+      <address>
+        <city>Santo Domingo</city>
+        <zip>10514</zip>
+        <country>Dominican Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Dominicano de Estudio Virologicos - IDEV</name>
+      <address>
+        <city>Santo Domingo</city>
+        <country>Dominican Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regional state budget health agency Krasnoyarsk Regional Center for Prevention and Control of AIDS</name>
+      <address>
+        <city>Krasnoyarsk</city>
+        <zip>660049</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Center For Prevention and Treatment of AIDS and Infectious Diseases, Saint Petersburg</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>190020</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The HIV Netherlands Australia Thailand Research Collaboration (HIV-NAT)</name>
+      <address>
+        <city>Bangkok</city>
+        <zip>10330</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ramathibodi Hospital, Mahidol University</name>
+      <address>
+        <city>Bangkok</city>
+        <zip>10400</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Siriraj Hospital Department of Preventive and Social Medicine, Faculty of Medicine</name>
+      <address>
+        <city>Bangkok</city>
+        <zip>10700</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chiang Mai University</name>
+      <address>
+        <city>Chiang Mai</city>
+        <zip>50200</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Khon Kaen University</name>
+      <address>
+        <city>Khon Kaen</city>
+        <zip>40002</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Joint Clinical Research Centre</name>
+      <address>
+        <city>Kampala</city>
+        <country>Uganda</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Dominican Republic</country>
+    <country>Russian Federation</country>
+    <country>Thailand</country>
+    <country>Uganda</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>Germany</country>
+    <country>Poland</country>
+    <country>United Kingdom</country>
+  </removed_countries>
+  <verification_date>January 2017</verification_date>
+  <lastchanged_date>January 12, 2017</lastchanged_date>
+  <firstreceived_date>October 18, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>HIV-1</keyword>
+  <keyword>HIV</keyword>
+  <keyword>Treatment-Experienced</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>HIV Infections</mesh_term>
+    <mesh_term>Immunologic Deficiency Syndromes</mesh_term>
+    <mesh_term>Acquired Immunodeficiency Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination</mesh_term>
+    <mesh_term>Emtricitabine</mesh_term>
+    <mesh_term>Tenofovir</mesh_term>
+    <mesh_term>Cobicistat</mesh_term>
+    <mesh_term>Atazanavir Sulfate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,17 @@
+<DOC>
+	<DOC>NCT02835417</DOC>
+	<brief_summary>Background The fetal heart rate (FHR) is commonly monitored during labor to detect early fetal acidosis. FHR variability is traditionally investigated using Fourier transform, however, fetal conditions differ from adults (higher frequency, widely instable signal) modifying spectrum repartition along frequencies, making this approach inappropriate. New mathematic approach, including Multifractal analysis, adaptative multiscale complexity analysis, nearest-neighbor based wavelet entropy rate measures, scattering transform, may identify parameters associated with fetal acidosis. Modern classification system, driven by the data, based on these relevant parameters should help to dsiccriminate the fetus at risk for acidosis and help the clinician in decision making for the management and termination of labor. Analysing 20 to 30 minutes sliding windows with these different methods in a limited number of cases (foetus born with acidosis) and controls (foetus without acidosis) should lead to identify relevant parameters, which will be submitted to these classification tools. For external validation, a large database, including more than 4500 FHR recording documented with foetal outcomes, will be used to evaluate the performance of the combination of parameters identify and classification system used to discriminate foetuses at risk for short term acidosis or not, in order to give a relevant information to the clinician before acidosis occurs, to make the appropriate decision.</brief_summary>
+	<brief_title>Fetal Evaluation at Term Using Statistical ECG Signal Processing (FETUSES)</brief_title>
+	<detailed_description />
+	<criteria>women with singleton pregnancy and fetal ECG recording using a scalp electrode, with recording lasting more than 60 minutes, with less than 20 % of missing data and less than 20 minutes between the end of recording and birth. Women with recirdin lasting less than 60 minutes, with more than 20 % of missing data, or more than 20 minutes between the end of recording and birth.</criteria>
+	<gender>Female</gender>
+	<minimum_age>18 Years</minimum_age>
+	<maximum_age>45 Years</maximum_age>
+	<verification_date>March 2017</verification_date>
+	<keyword>fetal heart rate variability</keyword>
+	<keyword>entropy</keyword>
+	<keyword>multifractal analysis</keyword>
+	<keyword>scattering transform</keyword>
+	<keyword>sparse vector machine</keyword>
+	<keyword>acidosis</keyword>
+</DOC>

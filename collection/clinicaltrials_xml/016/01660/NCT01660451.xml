@@ -1,0 +1,2277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="110890">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01660451</url>
+  </required_header>
+  <id_info>
+    <org_study_id>16349</org_study_id>
+    <secondary_id>2012-002602-52</secondary_id>
+    <nct_id>NCT01660451</nct_id>
+  </id_info>
+  <brief_title>Open-label, Uncontrolled Phase II Trial of Intravenous PI3K Inhibitor BAY80-6946 in Patients With Relapsed, Indolent or Aggressive Non-Hodgkin's Lymphomas (CHRONOS-1)</brief_title>
+  <acronym>CHRONOS-1</acronym>
+  <official_title>Open-label, Uncontrolled Phase II Trial of Intravenous PI3K Inhibitor BAY80-6946 in Patients With Relapsed, Indolent or Aggressive Non-Hodgkin's Lymphomas</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bayer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bayer</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of the study (part A) is to evaluate the efficacy and safety of BAY80-6946 in
+      patients with indolent or aggressive Non-Hodgkin's Lymphoma, who have progressed after
+      standard therapy. 30 patients will be enrolled to both indolent and aggressive disease
+      group. The objective of the study part B is to evaluate the efficacy and safety of
+      BAY80-6946 in patients with relapsed/refractory follicular lymphoma. 120 patients will be
+      enrolled in the part B of the study. Further objectives are to evaluate the pharmacokinetics
+      and biomarkers. Quality of life will be a further objective of part B of the study.
+
+      In a cohort of 20 patients (enrolled both in part A and B) an ECG substudy will be performed
+      to assess the potential for cardiac toxicity and QT/QTc interval prolongation of BAY80-6946.
+
+      After an up to 28-day screening period, eligible patients will start treatment with
+      BAY80-6946 at a dose of 0.8 mg/kg (Part A) and at a dose of 60 mg (Part B).
+
+      Treatment will be continued until disease has progressed or until another criterion is met
+      for withdrawal from study. An end-of-treatment visit will be performed within 7 days after
+      discontinuation of study treatment. Thirty to 35 days after last study drug administration,
+      a safety followup visit will be performed for the collection of adverse events (AEs) and
+      concomitant medication data. Patients will be contacted quarterly to determine overall
+      survival status up to 3 years after last patient first treatment. In Part B, patients will
+      enter the Active Assessment Followup Period. The end of study notification to Health
+      Authorities will be based on the completion of the collection of survival data.
+
+      The efficacy is measured by the decrease in tumor size. Tumor assessments will be done at
+      Screening, every 8 weeks during Year 1, every 12 weeks during Year 2, and every 6 months
+      during Year 3. Blood samples will be collected for pharmacokinetic analysis. Archival tumor
+      tissue and blood samples will be collected for biomarker analysis (mandatory) and for
+      central pathology review (part B), fresh biopsy tissue will also be collected if available.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>November 2012</start_date>
+  <completion_date type="Anticipated">March 2019</completion_date>
+  <primary_completion_date type="Actual">June 2016</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Tumor response</measure>
+    <time_frame>Up to 10 months</time_frame>
+    <description>Objective tumor response (OR) is defined as best response rating of complete response (CR or unconfirmed CR) or partial response (PR) according to the criteria defined in the Report of an International Workshop to Standardize Response Criteria for NHL. In patients with Chronic lymphocytic leukemia (CLL), OR is defined as best response rating of complete response (CR) or partial response (PR) according to the guidelines for the diagnosis and treatment of chronic lymphocytic leukemia of the International Workshop on Chronic Lymphocytic Leukemia.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response after 12 months</measure>
+    <time_frame>After 12 months</time_frame>
+    <description>Defined as the time (in days) from first observed tumor response (Complete response, Complete response unconfirmed or Partial Response) until progressive disease or until death caused by progressive disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response after 3 years</measure>
+    <time_frame>After 3 years</time_frame>
+    <description>Defined as the time (in days) from first observed tumor response (Complete response, Complete response unconfirmed or Partial Response) until progressive disease or until death caused by progressive disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression free survival after 12 months</measure>
+    <time_frame>After 12 months</time_frame>
+    <description>Defined as the time (in days) from treatment assignment to disease progression or death (if death occurs before a documented progression).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression free survival after 3 years</measure>
+    <time_frame>After 3 years</time_frame>
+    <description>Defined as the time (in days) from treatment assignment to disease progression or death (if death occurs before a documented progression).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival after 12 months</measure>
+    <time_frame>After 12 months</time_frame>
+    <description>Defined as the time (in days) from treatment assignment until death from any cause or until the last date the patient is known to be alive.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival after 3 years</measure>
+    <time_frame>After 3 years</time_frame>
+    <description>Defined as the time (in days) from treatment assignment until death from any cause or until the last date the patient is known to be alive.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with adverse events as a measure of safety and tolerability</measure>
+    <time_frame>Up to 4 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response after study withdrawal</measure>
+    <time_frame>After 12 months</time_frame>
+    <description>Defined as the time (in days) from first observed tumor response (Complete response, complete response unconfirmed or Partial response) until progressive disease or until death caused by progressive disease .</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">227</enrollment>
+  <condition>Lymphoma, Non-Hodgkin</condition>
+  <arm_group>
+    <arm_group_label>Copanlisib (indolent NHL)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part A: Participants in this arm will be patients with indolent NHL.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Copanlisib (aggressive NHL)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part A: Participants in this arm will be patients with aggressive NHL.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Copanlisib (indolent B-cell NHL)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part B: Participants in this arm will be patients with indolent B-cell NHL.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Copanlisib (BAY80-6946)</intervention_name>
+    <description>BAY 80-6946 is administered in a normal saline solution, 100 mL, intravenously over 1h. No intravenous glucose preparations should be administered on the days of infusion. Dosing is weekly for the first 3 weeks (on Days 1, 8, and 15) of a 28-day cycle, followed by a 1-week break (i.e., no infusion on Day 22).
+Part A: The individual dose will be 0.8 mg/kg (max. 65 mg) per infusion from Cycle 1 on. The maximum dose of 65 mg should never be exceeded.
+Part B: The individual dose will be 60 mg per infusion from Cycle 1 on.</description>
+    <arm_group_label>Copanlisib (indolent NHL)</arm_group_label>
+    <arm_group_label>Copanlisib (aggressive NHL)</arm_group_label>
+    <arm_group_label>Copanlisib (indolent B-cell NHL)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Indolent NHL:
+
+               -  Histologically confirmed diagnosis of follicular lymphoma (FL) grades 1, 2 or
+                  3a, marginal zone lymphoma (including nodal or splenic marginal zone B-cell
+                  lymphoma and mucosa-associated lymphoid tissue [MALT] lymphoma),
+                  lymphoplasmacytic lymphoma/Waldenström macroglobulinemia, chronic lymphocytic
+                  leukemia (CLL).
+
+               -  Relapsed after ≥ 2 prior chemotherapy- or immunotherapy-based regimens for
+                  indolent NHL, or refractory to 2 prior chemotherapy and/ or immunotherapy-based
+                  regimens.
+
+          -  Aggressive NHL:
+
+               -  Histologically confirmed diagnosis of grade 3b follicular lymphoma (FL),
+                  transformed indolent lymphoma, diffuse large B-cell lymphoma (DLBCL),
+                  mediastinal large B-cell lymphoma, mantle cell lymphoma (MCL), peripheral T-cell
+                  lymphoma unspecified, or anaplastic large cell lymphoma primary systemic type,
+                  or angioimmunoblastic T cell lymphoma.
+
+               -  Relapsed after ≥ 2 prior chemotherapy regimens, including the following:
+                  First-line treatment with standard anthracycline-containing regimen (e.g.,
+                  cyclophosphamide, doxorubicin, vincristine, and prednisone or equivalent). At
+                  least 1 additional combination chemotherapy regimen. Patients relapsed after or
+                  refractory to first prior chemotherapy- and/or immunotherapy-based regimen for
+                  aggressive NHL and not eligible for high-dose regimen followed by transplant.
+                  High-dose chemotherapy, or chemoradiotherapy with autologous stem cell
+                  transplantation is considered 1 regimen. Patients with CD20 expressing
+                  neoplastic cells must have received prior rituximab, if available.
+
+               -  Patients with transformed indolent lymphoma must have received at least 2 prior
+                  chemotherapy- and/or immunotherapy-based regimens
+
+               -  Consent to provide fresh tumor tissue during screening
+
+          -  Indolent B-cell NHL lymphoma (study part B):
+
+               -  Histologically confirmed diagnosis of indolent B-cell NHL, with histological
+                  subtype limited to the following:
+
+                    -  Follicular lymphoma (FL) grade 1-2-3a
+
+                    -  Small lymphocytic lymphoma (SLL) with absolute lymphocyte count &lt; 5 x 109/L
+                       at the time of diagnosis and at study entry
+
+                    -  Lymphoplasmacytoid lymphoma/Waldenström macroglobulinemia (LPL/WM)
+
+                    -  Marginal zone lymphoma (MZL) (splenic, nodal, or extranodal)
+
+               -  Relapsed or refractory after ≥ 2 prior lines of therapy (refractory defined as
+                  not responding to a standard regimen or progressing within 6 months of the last
+                  course of a standard regimen). Patients must have received Rituximab and
+                  alkylating agents.
+
+          -  For all patients:
+
+               -  Male or female patients &gt; 18 years of age
+
+               -  ECOG performance status ≤ 2 (ECOG: Eastern Cooperative Oncology Group)
+
+               -  Life expectancy of at least 3 months
+
+               -  Adequate bone marrow, liver and renal function as assessed within 7 days before
+                  starting study treatment
+
+               -  Left ventricular ejection fraction (LVEF) ≥ lower limit of normal (LLN) for the
+                  Institution
+
+               -  Availability of archival tumor tissue
+
+        Exclusion Criteria:
+
+          -  Uncontrolled hypertension (blood pressure ≥ 150/90 mmHg despite optimal medical
+             management)
+
+          -  Patients with evidence or history of bleeding diathesis. Any hemorrhage or bleeding
+             event ≥ CTCAE Grade 3 within 4 weeks of start of study medication (CTCAE: Common
+             Terminology Criteria for Adverse Events).
+
+          -  History or concurrent condition of interstitial lung disease
+
+          -  Unresolved toxicity higher than CTCAE grade 1 (NCI-CTC version 4.0) attributed to any
+             prior therapy/procedure excluding alopecia. (NCI: National Cancer Institute)
+
+          -  Prior treatment with PI3K inhibitors
+
+          -  Systemic corticosteroid therapy (ongoing)
+
+          -  Hepatitis B or C. All subjects must be screened for hepatitis B and C up to 28 days
+             prior to study drug start using the hepatitis virus panel laboratorial routine.
+             Subjects positive for HBsAg or HBcAb will be eligible if they are negative for
+             HBV-DNA; subjects positive for HCV IgG will be eligible if they are negative for HCV
+             RNA.
+
+          -  For Part B:
+
+               -  Histologically confirmed diagnosis of follicular lymphoma grade 3b or
+                  transformed disease and chronic lymphocytic leukemia (CLL)
+
+               -  History or concurrent condition of interstitial lung disease or severely
+                  impaired pulmonary function
+
+          -  Excluded medical conditions:
+
+               -  Previous or concurrent cancer that is distinct in primary site or histology from
+                  indolent B-cell NHL within 5 years prior to treatment start EXCEPT for
+                  curatively treated cervical cancer in situ, nonmelanoma skin cancer and
+                  superficial bladder tumors [Ta (non-invasive tumor), Tis (carcinoma in situ) and
+                  T1 (tumor invades lamina propria)].
+
+               -  Hepatitis B or C. All subjects must be screened for hepatitis B and C up to 28
+                  days prior to study drug start using the hepatitis virus panel laboratorial
+                  routine. Subjects positive for HBsAg or HBcAb will be eligible if they are
+                  negative for HBV-DNA; subjects positive for HCV IgG will be eligible if they are
+                  negative for HCV-RNA.
+
+               -  Type I or II diabetes mellitus with HbA1c &gt; 8.5% or fasting plasma glucose &gt; 160
+                  mg/dL at screening.
+
+               -  Previous or concurrent cancer that is distinct in primary site or histology from
+                  indolent B-cell NHL within 5 years prior to treatment start EXCEPT for
+                  curatively treated cervical cancer in situ, nonmelanoma skin cancer and
+                  superficial bladder tumors [Ta (non-invasive tumor), Tis (carcinoma in situ) and
+                  T1 (tumor invades lamina propria)].
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bayer Study Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Bayer</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Anchorage</city>
+        <state>Alaska</state>
+        <zip>99503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Gilbert</city>
+        <state>Arizona</state>
+        <zip>85234</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Anaheim</city>
+        <state>California</state>
+        <zip>90801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Encinitas</city>
+        <state>California</state>
+        <zip>92024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Fresno</city>
+        <state>California</state>
+        <zip>93720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Pleasant Hill</city>
+        <state>California</state>
+        <zip>94523</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Englewood</city>
+        <state>Colorado</state>
+        <zip>80113</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Fort Collins</city>
+        <state>Colorado</state>
+        <zip>80528</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Boca Raton</city>
+        <state>Florida</state>
+        <zip>33486</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Miami Gardens</city>
+        <state>Florida</state>
+        <zip>33169</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Port St. Lucie</city>
+        <state>Florida</state>
+        <zip>34952</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Athens</city>
+        <state>Georgia</state>
+        <zip>30607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Joliet</city>
+        <state>Illinois</state>
+        <zip>60435</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Evansville</city>
+        <state>Indiana</state>
+        <zip>47713</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Sioux City</city>
+        <state>Iowa</state>
+        <zip>51101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Westwood</city>
+        <state>Kansas</state>
+        <zip>66205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Alexandria</city>
+        <state>Louisiana</state>
+        <zip>71301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Metairie</city>
+        <state>Louisiana</state>
+        <zip>70006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Brewer</city>
+        <state>Maine</state>
+        <zip>04412</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lansing</city>
+        <state>Michigan</state>
+        <zip>48912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Southfield</city>
+        <state>Michigan</state>
+        <zip>48075</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>St. Louis Park</city>
+        <state>Minnesota</state>
+        <zip>55426</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Columbia</city>
+        <state>Missouri</state>
+        <zip>65212-0001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Springfield</city>
+        <state>Missouri</state>
+        <zip>65807</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Billings</city>
+        <state>Montana</state>
+        <zip>59107-7000</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Egg Harbor Township</city>
+        <state>New Jersey</state>
+        <zip>08234</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Morristown</city>
+        <state>New Jersey</state>
+        <zip>07962-1089</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08903-2681</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lake Success</city>
+        <state>New York</state>
+        <zip>11042</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Goldsboro</city>
+        <state>North Carolina</state>
+        <zip>27534</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Canton</city>
+        <state>Ohio</state>
+        <zip>44718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106-2602</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74133</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29414</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Green Bay</city>
+        <state>Wisconsin</state>
+        <zip>54311</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Garran</city>
+        <state>Australian Capital Territory</state>
+        <zip>2605</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kogarah</city>
+        <state>New South Wales</state>
+        <zip>2217</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Waratah</city>
+        <state>New South Wales</state>
+        <zip>2298</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kingswood</city>
+        <zip>2747</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Innsbruck</city>
+        <state>Tirol</state>
+        <zip>6020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Graz</city>
+        <zip>8036</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Linz</city>
+        <zip>4020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Antwerpen</city>
+        <zip>2020</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Brugge</city>
+        <zip>8000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bruxelles - Brussel</city>
+        <zip>1000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bruxelles - Brussel</city>
+        <zip>1200</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Charleroi</city>
+        <zip>6000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Edegem</city>
+        <zip>2650</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Ottignies</city>
+        <zip>1340</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Turnhout</city>
+        <zip>2300</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Wilrijk</city>
+        <zip>2610</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Sofia</city>
+        <zip>1233</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Sofia</city>
+        <zip>1431</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Vratsa</city>
+        <zip>3000</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Saint John</city>
+        <state>New Brunswick</state>
+        <zip>E2L 4L2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H1T 2M4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H3T 1E2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Temuco</city>
+        <state>Araucanía</state>
+        <zip>4810469</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510060</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Beijing</city>
+        <zip>100021</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Beijing</city>
+        <zip>100142</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Shanghai</city>
+        <zip>200032</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Montería</city>
+        <state>Córdoba</state>
+        <zip>0</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bucaramanga</city>
+        <state>Santander</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cali</city>
+        <state>Valle del Cauca</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Medellín</city>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Aalborg</city>
+        <zip>9100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Aarhus C</city>
+        <zip>8000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Copenhagen</city>
+        <zip>2100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Odense C</city>
+        <zip>5000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>HUS</city>
+        <zip>00029</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Jyväskylä</city>
+        <zip>40620</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Oulu</city>
+        <zip>90020</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tampere</city>
+        <zip>33521</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Turku</city>
+        <zip>FIN-20521</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Angers Cedex 01</city>
+        <zip>49033</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bayonne</city>
+        <zip>64100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Brest</city>
+        <zip>29285</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Clermont- Ferrand</city>
+        <zip>63000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Creteil</city>
+        <zip>94010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>La Roche Sur Yon</city>
+        <zip>85925</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lille</city>
+        <zip>59037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Limoges</city>
+        <zip>87042</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>NICE Cedex 2</city>
+        <zip>06189</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>PARIS cedex</city>
+        <zip>75475</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Pessac</city>
+        <zip>33604</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Pierre Benite</city>
+        <zip>69495</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Poitiers</city>
+        <zip>86021</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Rouen</city>
+        <zip>76038</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Saint-denis Cedex</city>
+        <zip>97405</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tours</city>
+        <zip>37044</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Vandoeuvre-les-nancy</city>
+        <zip>54500</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Augsburg</city>
+        <state>Bayern</state>
+        <zip>86150</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>München</city>
+        <state>Bayern</state>
+        <zip>81377</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Potsdam</city>
+        <state>Berlin</state>
+        <zip>14467</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Münster</city>
+        <state>Nordrhein-Westfalen</state>
+        <zip>48149</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Recklinghausen</city>
+        <state>Nordrhein-Westfalen</state>
+        <zip>45657</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Mainz</city>
+        <state>Rheinland-Pfalz</state>
+        <zip>55131</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Homburg</city>
+        <state>Saarland</state>
+        <zip>66424</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Dresden</city>
+        <state>Sachsen</state>
+        <zip>01307</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Berlin</city>
+        <zip>10967</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Berlin</city>
+        <zip>13353</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Athens</city>
+        <zip>106 76</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Athens</city>
+        <zip>11526</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Haidari</city>
+        <zip>12462</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Thessaloniki</city>
+        <zip>570 10</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hong Kong</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Shatin</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Budapest</city>
+        <zip>1083</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Budapest</city>
+        <zip>1097</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kaposvar</city>
+        <zip>7400</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Dublin</city>
+        <zip>7</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Dublin</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Galway</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Beer Sheva</city>
+        <zip>8410101</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kfar Saba</city>
+        <zip>4428164</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Petah Tikva</city>
+        <zip>4941492</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Ramat Gan</city>
+        <zip>5262000</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tel Aviv</city>
+        <zip>6423906</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Zerifin</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Napoli</city>
+        <state>Campania</state>
+        <zip>80131</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bologna</city>
+        <state>Emilia-Romagna</state>
+        <zip>40138</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Roma</city>
+        <state>Lazio</state>
+        <zip>00161</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Brescia</city>
+        <state>Lombardia</state>
+        <zip>25123</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Milano</city>
+        <state>Lombardia</state>
+        <zip>20089</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Torino</city>
+        <state>Piemonte</state>
+        <zip>10126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Nagoya</city>
+        <state>Aichi</state>
+        <zip>460-0001</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Nagoya</city>
+        <state>Aichi</state>
+        <zip>466-8560</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Nagoya</city>
+        <state>Aichi</state>
+        <zip>467-8602</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kashiwa</city>
+        <state>Chiba</state>
+        <zip>277-8577</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Isehara</city>
+        <state>Kanagawa</state>
+        <zip>259-1193</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Chuo-ku</city>
+        <state>Tokyo</state>
+        <zip>104-0045</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Koto-ku</city>
+        <state>Tokyo</state>
+        <zip>135-8550</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Fukuoka</city>
+        <zip>812-8582</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Busan</city>
+        <state>Busan Gwang''yeogsi</state>
+        <zip>602-715</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Seoul</city>
+        <zip>03080</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Seoul</city>
+        <zip>135-710</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Esch-sur-Alzette</city>
+        <zip>4220</zip>
+        <country>Luxembourg</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Luxembourg</city>
+        <zip>1210</zip>
+        <country>Luxembourg</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Monterrey</city>
+        <state>Nuevo Leon</state>
+        <zip>64460</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Oaxaca</city>
+        <zip>68000</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Christchurch</city>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lima</city>
+        <zip>LIMA 11</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lima</city>
+        <zip>LIMA 34</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Gdynia</city>
+        <zip>81-519</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Krakow</city>
+        <zip>30-510</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lublin</city>
+        <zip>20-081</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Warszawa</city>
+        <zip>02-781</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Wroclaw</city>
+        <zip>50-367</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lisboa</city>
+        <zip>1093-023</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kemerovo</city>
+        <zip>650066</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Moscow</city>
+        <zip>115478</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Moscow</city>
+        <zip>129128</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Nizhny Novgorod</city>
+        <zip>603126</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Omsk</city>
+        <zip>644013</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Samara</city>
+        <zip>443095</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Saratov</city>
+        <zip>410053</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>St. Petersburg</city>
+        <zip>197022</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>St. Petersburg</city>
+        <zip>197341</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>St. Petersburg</city>
+        <zip>197758</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Singapore</city>
+        <zip>169608</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Singapore</city>
+        <zip>169610</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Majadahonda</city>
+        <state>Madrid</state>
+        <zip>28222</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Marbella</city>
+        <state>Málaga</state>
+        <zip>29603</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Madrid</city>
+        <zip>28050</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Sevilla</city>
+        <zip>41071</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Valencia</city>
+        <zip>46026</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Falun</city>
+        <zip>791 82</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Uddevalla</city>
+        <zip>451 80</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Ankara</city>
+        <zip>06100</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Ankara</city>
+        <zip>06500</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Istanbul</city>
+        <zip>34390</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Izmir</city>
+        <zip>35100</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Izmir</city>
+        <zip>35340</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cambridge</city>
+        <state>Cambridgeshire</state>
+        <zip>CB2 0QQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Plymouth</city>
+        <state>Devon</state>
+        <zip>PL6 8DH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Southampton</city>
+        <state>Hampshire</state>
+        <zip>SO16 6YD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Harrow</city>
+        <state>London</state>
+        <zip>HA1 3UJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Liverpool</city>
+        <state>Merseyside</state>
+        <zip>L7 8XP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Sutton</city>
+        <state>Surrey</state>
+        <zip>SM2 5PT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Birmingham</city>
+        <state>West Midlands</state>
+        <zip>B9 5SS</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Leeds</city>
+        <zip>LS9 7TF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Manchester</city>
+        <zip>M20 4BX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Romford</city>
+        <zip>RM7 0AG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Bulgaria</country>
+    <country>Canada</country>
+    <country>Chile</country>
+    <country>China</country>
+    <country>Colombia</country>
+    <country>Denmark</country>
+    <country>Finland</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Greece</country>
+    <country>Hong Kong</country>
+    <country>Hungary</country>
+    <country>Ireland</country>
+    <country>Israel</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Luxembourg</country>
+    <country>Mexico</country>
+    <country>New Zealand</country>
+    <country>Peru</country>
+    <country>Poland</country>
+    <country>Portugal</country>
+    <country>Russian Federation</country>
+    <country>Singapore</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>Turkey</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.fda.gov/cder/drug/DrugSafety/DrugIndex.htm</url>
+    <description>Click here and search for drug information provided by the FDA.</description>
+  </link>
+  <link>
+    <url>http://www.fda.gov/medwatch/safety.htm</url>
+    <description>Click here and search for information on any recalls, market or product safety alerts by the FDA which might have occurred with this product.</description>
+  </link>
+  <verification_date>February 2017</verification_date>
+  <lastchanged_date>February 23, 2017</lastchanged_date>
+  <firstreceived_date>August 6, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Clinical trial, phase II</keyword>
+  <keyword>Phosphatidylinositol 3-Kinase</keyword>
+  <keyword>Class I, Non-Hodgkin's lymphoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

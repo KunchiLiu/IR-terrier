@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="25451">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02775435</url>
+  </required_header>
+  <id_info>
+    <org_study_id>3475-407</org_study_id>
+    <secondary_id>2016-000229-38</secondary_id>
+    <nct_id>NCT02775435</nct_id>
+  </id_info>
+  <brief_title>A Study of Carboplatin-Paclitaxel/Nab-Paclitaxel Chemotherapy With or Without Pembrolizumab (MK-3475) in Adults With First Line Metastatic Squamous Non-small Cell Lung Cancer (MK-3475-407/KEYNOTE-407)</brief_title>
+  <official_title>A Randomized, Double-Blind, Phase III Study of Carboplatin-Paclitaxel/Nab-Paclitaxel Chemotherapy With or Without Pembrolizumab (MK-3475) in First Line Metastatic Squamous Non-small Cell Lung Cancer Subjects (KEYNOTE-407)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Merck Sharp &amp; Dohme Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Merck Sharp &amp; Dohme Corp.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a study of carboplatin and paclitaxel or nano particle albumin-bound paclitaxel
+      (nab-paclitaxel) with or without pembrolizumab (MK-3475, KEYTRUDA®) in adults with first
+      line metastatic squamous non-small cell lung cancer (NSCLC).
+
+      The primary hypotheses are that treatment with pembrolizumab prolongs: 1) Progression-free
+      Survival (PFS) by Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST 1.1) as
+      assessed by a blinded central imaging vendor compared to placebo, and 2) Overall Survival
+      (OS).
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>June 2016</start_date>
+  <completion_date type="Anticipated">August 2019</completion_date>
+  <primary_completion_date type="Anticipated">March 2018</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Investigator, Outcomes Assessor</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free Survival (PFS) per Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST 1.1) as assessed by a blinded central imaging vendor</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate (ORR) per RECIST 1.1 as assessed by a blinded central imaging vendor</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">560</enrollment>
+  <condition>Non-small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Pembrolizumab + Chemotherapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive pembrolizumab 200 mg by intravenous (IV) infusion prior to chemotherapy on Day 1 of each 21-day cycle for up to 35 cycles PLUS Investigator's choice of paclitaxel (200 mg/m^2 by IV infusion on Day 1 of each 21-day cycle for 4 cycles) or nab-paclitaxel (100 mg/m^2 by IV infusion on Days 1, 8, 15 of each 21-day cycle for 4 cycles) PLUS carboplatin AUC 6 by IV infusion on Day 1 of each 21-day cycle for 4 cycles.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Chemotherapy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants receive normal saline by IV infusion prior to chemotherapy on Day 1 of each 21-day cycle for up to 35 cycles PLUS Investigator's choice of paclitaxel (200 mg/m^2 by IV infusion on Day 1 of each 21-day cycle for 4 cycles) or nab-paclitaxel (100 mg/m^2 by IV infusion on Days 1, 8, 15 of each 21-day cycle for 4 cycles) PLUS carboplatin AUC 6 by IV infusion on Day 1 of each 21-day cycle for 4 cycles.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Pembrolizumab</intervention_name>
+    <description>IV infusion</description>
+    <arm_group_label>Pembrolizumab + Chemotherapy</arm_group_label>
+    <other_name>MK-3475</other_name>
+    <other_name>KEYTRUDA®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Paclitaxel</intervention_name>
+    <description>IV infusion</description>
+    <arm_group_label>Pembrolizumab + Chemotherapy</arm_group_label>
+    <arm_group_label>Chemotherapy</arm_group_label>
+    <other_name>TAXOL®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nab-paclitaxel</intervention_name>
+    <description>IV infusion</description>
+    <arm_group_label>Pembrolizumab + Chemotherapy</arm_group_label>
+    <arm_group_label>Chemotherapy</arm_group_label>
+    <other_name>ABRAXANE®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carboplatin</intervention_name>
+    <description>IV infusion</description>
+    <arm_group_label>Pembrolizumab + Chemotherapy</arm_group_label>
+    <arm_group_label>Chemotherapy</arm_group_label>
+    <other_name>PARAPLATIN®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Saline placebo for pembrolizumab</intervention_name>
+    <description>IV infusion</description>
+    <arm_group_label>Chemotherapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Has a histologically or cytologically confirmed diagnosis of stage IV (M1a or
+             M1b-American Joint Committee on Cancer [AJCC] 7th edition) squamous NSCLC.
+
+          -  Has measurable disease based on RECIST 1.1 as determined by the local site
+             investigator/radiology assessment.
+
+          -  Has not received prior systemic treatment for metastatic NSCLC.
+
+          -  Has provided tumor tissue from locations not radiated prior to biopsy.
+
+          -  Has a life expectancy of at least 3 months.
+
+          -  Has a performance status of 0 or 1 on the Eastern Cooperative Oncology Group (ECOG)
+             Performance Status.
+
+          -  Has adequate organ function.
+
+          -  If female of childbearing potential, is willing to use an adequate method of
+             contraception for the course of the study through 120 days after the last dose of
+             study drug.
+
+          -  If male with a female partner(s) of child-bearing potential, must agree to use an
+             adequate method of contraception starting with the first dose of study drug through
+             120 days after the last dose of study drug. Males with pregnant partners must agree
+             to use a condom; no additional method of contraception is required for the pregnant
+             partner.
+
+        Exclusion Criteria:
+
+          -  Has non-squamous histology NSCLC.
+
+          -  Is currently participating and receiving study therapy or has participated in a study
+             of an investigational agent and received study therapy or used an investigational
+             device within 4 weeks prior to administration of pembrolizumab.
+
+          -  Before the first dose of study drug: a) Has received prior systemic cytotoxic
+             chemotherapy for metastatic disease; b) Has received other targeted or biological
+             antineoplastic therapy (e.g., erlotinib, crizotinib, cetuximab) for metastatic
+             disease; c) Has had major surgery (&lt;3 weeks prior to first dose).
+
+          -  Received radiation therapy to the lung that is &gt; 30 Gy within 6 months of the first
+             dose of study drug.
+
+          -  Completed palliative radiotherapy within 7 days of the first dose of study drug.
+
+          -  Is expected to require any other form of antineoplastic therapy while on study.
+
+          -  Has received a live-virus vaccination within 30 days of planned treatment start.
+
+          -  Has a known history of prior malignancy except if the participant has undergone
+             potentially curative therapy with no evidence of that disease recurrence for 5 years
+             since initiation of that therapy.
+
+          -  Has known active central nervous system (CNS) metastases and/or carcinomatous
+             meningitis.
+
+          -  Has pre-existing peripheral neuropathy that is ≥ Grade 2 by Common Terminology
+             Criteria for Adverse Events (CTCAE) version 4 criteria.
+
+          -  Previously had a severe hypersensitivity reaction to treatment with another
+             monoclonal antibody.
+
+          -  Has a known sensitivity to any component of carboplatin or paclitaxel or
+             nab-paclitaxel.
+
+          -  Has active autoimmune disease that has required systemic treatment in past 2 years.
+
+          -  Is on chronic systemic steroids.
+
+          -  Had prior treatment with any other anti-programmed cell death 1 (anti-PD-1), or
+             programmed cell death ligand 1 (PD-L1) or PD-L2 agent or an antibody or a small
+             molecule targeting other immuno-regulatory receptors or mechanisms.
+
+          -  Has participated in any other pembrolizumab trial and has been treated with
+             pembrolizumab.
+
+          -  Has an active infection requiring therapy.
+
+          -  Has known history of Human Immunodeficiency Virus (HIV).
+
+          -  Has known active Hepatitis B or C. Active Hepatitis B.
+
+          -  Is, at the time of signing informed consent, a regular user (including &quot;recreational
+             use&quot;) of any illicit drugs or has a recent history (within the last year) of
+             substance abuse (including alcohol).
+
+          -  Has interstitial lung disease or a history of pneumonitis that required oral or
+             intravenous glucocorticoids to assist with management.
+
+          -  Is pregnant or breastfeeding, or expecting to conceive or father children while on
+             study drug and for the required duration of contraception after the last dose of
+             study drug.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Merck Sharp &amp; Dohme Corp.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Toll Free Number</last_name>
+    <phone>1-888-577-8839</phone>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0051)</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0059)</name>
+      <address>
+        <city>Monterey</city>
+        <state>California</state>
+        <zip>93940</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0018)</name>
+      <address>
+        <city>Santa Monica</city>
+        <state>California</state>
+        <zip>90404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0023)</name>
+      <address>
+        <city>Newark</city>
+        <state>Delaware</state>
+        <zip>19718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0073)</name>
+      <address>
+        <city>Boca Raton</city>
+        <state>Florida</state>
+        <zip>33486</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0043)</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0008)</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30342</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0005)</name>
+      <address>
+        <city>Peoria</city>
+        <state>Illinois</state>
+        <zip>61615</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0031)</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0070)</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0050)</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21237</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0063)</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01655</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0052)</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0058)</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0002)</name>
+      <address>
+        <city>Kalispell</city>
+        <state>Montana</state>
+        <zip>59901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0013)</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <zip>03756</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0020)</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0025)</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0036)</name>
+      <address>
+        <city>Orchard Park</city>
+        <state>New York</state>
+        <zip>14127</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0071)</name>
+      <address>
+        <city>Cary</city>
+        <state>North Carolina</state>
+        <zip>27518</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0039)</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45247</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0060)</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0055)</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29414</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0066)</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0076)</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0072)</name>
+      <address>
+        <city>Green Bay</city>
+        <state>Wisconsin</state>
+        <zip>54301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0075)</name>
+      <address>
+        <city>Green Bay</city>
+        <state>Wisconsin</state>
+        <zip>54303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme</name>
+      <address>
+        <city>North Ryde</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Australian Medical Information Centre</last_name>
+      <phone>61 2 8988 8428</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Canada</name>
+      <address>
+        <city>Kirkland</city>
+        <state>Quebec</state>
+        <zip>H9H 4M7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Medical Information Centre Centre d'information medicale Merck Canada Inc.</last_name>
+      <phone>514-428-8600 / 1-800-567-2594</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MSD France</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dominique Blazy</last_name>
+      <phone>33 147548990</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MSD Sharp &amp; Dohme GmbH</name>
+      <address>
+        <city>Haar</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>German Medical Information Center</last_name>
+      <phone>49 800 673 673 673</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MSD Pharma Hungary Kft.</name>
+      <address>
+        <city>Budapest</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Szabolcs Barotfi</last_name>
+      <phone>36 1 888 5300</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MSD Italia S.r.l.</name>
+      <address>
+        <city>Rome</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patrizia Nardini</last_name>
+      <phone>39 06 361911</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MSD K.K.</name>
+      <address>
+        <city>Chiyoda-Ku, Tokyo</city>
+        <zip>102-8667</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Japan Call Center</last_name>
+      <phone>81-3-6272-1957</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MSD Korea LTD</name>
+      <address>
+        <city>Seoul</city>
+        <zip>4130</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jongho Ahn</last_name>
+      <phone>82-2-331-2000 2015</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MSD</name>
+      <address>
+        <city>Mexico City</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Juan Marques</last_name>
+      <phone>52 55254819608</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme BV</name>
+      <address>
+        <city>Haarlem</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Caroline Doornebos</last_name>
+      <phone>31 23 515 3362</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MSD Polska Sp. Z o.o.</name>
+      <address>
+        <city>Warsaw</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas Johansson</last_name>
+      <phone>48 22ý478 43 24</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme IDEA, Inc.</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tatiana Serebriakova</last_name>
+      <phone>74959167100, EXT.366</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp and Dohme de Espana S.A.</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joaquin Mateos Chacon</last_name>
+      <phone>(0034) 913210600</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme Ilaclari Ltd. Sti</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alev Eren</last_name>
+      <phone>90 212 336 12 63</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Hungary</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Mexico</country>
+    <country>Netherlands</country>
+    <country>Poland</country>
+    <country>Russian Federation</country>
+    <country>Spain</country>
+    <country>Turkey</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 15, 2017</lastchanged_date>
+  <firstreceived_date>May 15, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>PD1</keyword>
+  <keyword>PD-1</keyword>
+  <keyword>PDL1</keyword>
+  <keyword>PD-L1</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Paclitaxel</mesh_term>
+    <mesh_term>Pembrolizumab</mesh_term>
+    <mesh_term>Albumin-Bound Paclitaxel</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

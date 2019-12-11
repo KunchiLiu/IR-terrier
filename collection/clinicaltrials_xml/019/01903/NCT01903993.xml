@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="92252">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01903993</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GO28753</org_study_id>
+    <secondary_id>2013-001142-34</secondary_id>
+    <nct_id>NCT01903993</nct_id>
+  </id_info>
+  <brief_title>A Randomized Phase 2 Study of Atezolizumab (an Engineered Anti-PDL1 Antibody) Compared With Docetaxel in Participants With Locally Advanced or Metastatic Non-Small Cell Lung Cancer Who Have Failed Platinum Therapy - &quot;POPLAR&quot;</brief_title>
+  <official_title>A PHASE II, OPEN-LABEL, MULTICENTER, RANDOMIZED STUDY TO INVESTIGATE THE EFFICACY AND SAFETY OF ATEZOLIZUMAB COMPARED WITH DOCETAXEL IN PATIENTS WITH NON&amp;#8722;SMALL CELL LUNG CANCER AFTER PLATINUM FAILURE [POPLAR]</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hoffmann-La Roche</source>
+  <brief_summary>
+    <textblock>
+      This multicenter, open-label, randomized study will evaluate the efficacy and safety of
+      Atezolizumab compared with docetaxel in participants with advanced or metastatic non-small
+      cell lung cancer after platinum failure. Participants will be randomized to receive either
+      Atezolizumab 1200 milligram (mg) intravenously every 3 weeks or docetaxel 75 milligram per
+      meter square (mg/m^2) intravenously every 3 weeks. Treatment with Atezolizumab may be
+      continued as long as participants are experiencing clinical benefit as assessed by the
+      investigator, i.e., in the absence of unacceptable toxicity or symptomatic deterioration
+      attributed to disease progression.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>August 2013</start_date>
+  <completion_date type="Anticipated">February 2017</completion_date>
+  <primary_completion_date type="Actual">May 2015</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>approximately 3 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DOR) according to RECIST criteria</measure>
+    <time_frame>Upto approximately 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall response (partial response plus complete response) according to modified RECIST criteria</measure>
+    <time_frame>Upto approximately 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival according to modified RECIST criteria</measure>
+    <time_frame>Upto approximately 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DOR) according to modified RECIST criteria</measure>
+    <time_frame>Upto approximately 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient reported outcomes: EORTC QLQ-C30 and QLQ-LC12 questionnaires</measure>
+    <time_frame>approximately 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall response (partial response plus complete response) according to RECIST v1.1 criteria</measure>
+    <time_frame>approximately 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival, according to RECIST v1.1 criteria</measure>
+    <time_frame>approximately 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety: Incidence of adverse events</measure>
+    <time_frame>Until 90 days following the last dose of MPDL3280A or receipt of another anti-cancer therapy, approximately 1 year</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">287</enrollment>
+  <condition>Non-Small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Atezolizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive Atezolizumab 1200 mg IV infusion every 3 weeks until loss of clinical benefit, unacceptable toxicity, symptomatic deterioration attributed to disease progression, or death.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Docetaxel</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will receive Docetaxel 75 mg/m^2 intravenous infusion (IV) every 3 weeks until disease progression per standard RECIST criteria or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Atezolizumab</intervention_name>
+    <description>Participants will receive Atezolizumab 1200 mg IV infusion every 3 weeks until loss of clinical benefit, unacceptable toxicity, symptomatic deterioration attributed to disease progression, or death.</description>
+    <arm_group_label>Atezolizumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Docetaxel</intervention_name>
+    <description>Participants will receive Docetaxel 75 mg/m^2 intravenous infusion (IV) every 3 weeks until disease progression per standard RECIST v1.1 or unacceptable toxicity.</description>
+    <arm_group_label>Docetaxel</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Adult participants, &gt;/= 18 years of age
+
+          -  Locally advanced or metastatic (Stage IIIB, Stage IV, or recurrent) non-small cell
+             lung cancer (NSCLC)
+
+          -  Representative formalin-fixed paraffin-embedded (FFPE) tumor specimens
+
+          -  Disease progression during or following treatment with a prior platinum-containing
+             regimen for locally advanced, unresectable/inoperable or metastatic NSCLC or disease
+             recurrence within 6 months of treatment with a platinum-based adjuvant/neoadjuvant
+             regimen
+
+          -  Measurable disease, as defined by RECIST v1.1
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1
+
+        Exclusion Criteria:
+
+          -  Known active or untreated central nervous system (CNS) metastases as determined by CT
+             or MRI evaluation during screening and prior radiographic assessments
+
+          -  Malignancies other than NSCLC within 5 years prior to randomization, with the
+             exception of those with a negligible risk of metastasis or death and treated with
+             expected curative outcome
+
+          -  History of autoimmune disease
+
+          -  History of idiopathic pulmonary fibrosis (including pneumonitis), drug-induced
+             pneumonitis, organizing pneumonia, or evidence of active pneumonitis on screening
+             chest CT scan. History of radiation pneumonitis in the radiation field (fibrosis) is
+             permitted.
+
+          -  Active hepatitis B or hepatitis C
+
+          -  Prior treatment with docetaxel
+
+          -  Prior treatment with CD137 agonists, anti-CTLA4, anti-PD-1, or anti-PD-L1 therapeutic
+             antibody or pathway-targeting agents
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>Hoffmann-La Roche</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85704</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hot Springs</city>
+        <state>Arkansas</state>
+        <zip>71913</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Loma Linda</city>
+        <state>California</state>
+        <zip>92354</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>San Marcos</city>
+        <state>California</state>
+        <zip>92069</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Vallejo</city>
+        <state>California</state>
+        <zip>94589</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Whittier</city>
+        <state>California</state>
+        <zip>90603</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lone Tree</city>
+        <state>Colorado</state>
+        <zip>80124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Ocala</city>
+        <state>Florida</state>
+        <zip>34471</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30341</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Harvey</city>
+        <state>Illinois</state>
+        <zip>60426</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Peoria</city>
+        <state>Illinois</state>
+        <zip>61615</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Scarborough</city>
+        <state>Maine</state>
+        <zip>04074</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Billings</city>
+        <state>Montana</state>
+        <zip>59101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89169</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Paramus</city>
+        <state>New Jersey</state>
+        <zip>07652</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Binghamton</city>
+        <state>New York</state>
+        <zip>13905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Eugene</city>
+        <state>Oregon</state>
+        <zip>97401-8122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37909</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78745</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Blacksburg</city>
+        <state>Virginia</state>
+        <zip>24060</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Fairfax</city>
+        <state>Virginia</state>
+        <zip>22031</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Vancouver</city>
+        <state>Washington</state>
+        <zip>98684</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Walla Walla</city>
+        <state>Washington</state>
+        <zip>99362</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Wenatchee</city>
+        <state>Washington</state>
+        <zip>98801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Liège</city>
+        <zip>4000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Laval</city>
+        <state>Quebec</state>
+        <zip>H7M 3L9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H3T 1E2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Clermont-ferrand</city>
+        <zip>63003</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>La Tronche</city>
+        <zip>38700</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Nancy</city>
+        <zip>54100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>St Brieuc</city>
+        <zip>22027</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Toulouse</city>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Gauting</city>
+        <zip>82131</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Halle</city>
+        <zip>06120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Immenhausen</city>
+        <zip>34376</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Regensburg</city>
+        <zip>93053</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Avellino</city>
+        <state>Campania</state>
+        <zip>83100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Milano</city>
+        <state>Lombardia</state>
+        <zip>20132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Gyeonggi-do</city>
+        <zip>410-769</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Seoul</city>
+        <zip>03722</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Seoul</city>
+        <zip>135-710</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Gdansk</city>
+        <zip>80-952</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lodz</city>
+        <zip>93-513</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Otwock</city>
+        <zip>05-400</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Warszawa</city>
+        <zip>02-781</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Madrid</city>
+        <zip>28034</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Zaragoza</city>
+        <zip>50009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Linköping</city>
+        <zip>581 85</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bangkok</city>
+        <zip>10330</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bangkok</city>
+        <zip>10400</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bangkok</city>
+        <zip>10700</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Antalya</city>
+        <zip>07070</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Istanbul</city>
+        <zip>34300</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>London</city>
+        <zip>NW3 2QG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>London</city>
+        <zip>SE1 9RT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>London</city>
+        <zip>W6 8RF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Manchester</city>
+        <zip>M2O 4BX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Italy</country>
+    <country>Korea, Republic of</country>
+    <country>Poland</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>Thailand</country>
+    <country>Turkey</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Hungary</country>
+  </removed_countries>
+  <verification_date>June 2016</verification_date>
+  <lastchanged_date>June 16, 2016</lastchanged_date>
+  <firstreceived_date>July 17, 2013</firstreceived_date>
+  <firstreceived_results_disposition_date>June 15, 2016</firstreceived_results_disposition_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Docetaxel</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted, but a results disposition has been submitted -->
+</clinical_study>

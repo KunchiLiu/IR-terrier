@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="118070">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01565941</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB-P00002310</org_study_id>
+    <secondary_id>U01HL107681</secondary_id>
+    <nct_id>NCT01565941</nct_id>
+  </id_info>
+  <brief_title>Heart And Lung Failure - Pediatric INsulin Titration Trial</brief_title>
+  <acronym>HALF-PINT</acronym>
+  <official_title>Heart And Lung Failure - Pediatric INsulin Titration Trial (HALF-PINT)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boston Children’s Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Boston Children’s Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Stress hyperglycemia, a state of abnormal metabolism with supra-normal blood glucose levels,
+      is often seen in critically ill patients. Tight glycemic control (TGC) was originally shown
+      to reduce morbidity and mortality in a landmark randomized clinical trial (RCT) of adult
+      critically ill surgical patients but has since come under intense scrutiny due to
+      conflicting results in recent adult trials. One pediatric RCT has been published to date
+      that demonstrated survival benefit but was complicated by an unacceptably high rate of
+      severe hypoglycemia. The Heart And Lung Failure - Pediatric INsulin Titration (HALF-PINT)
+      trial is a multi-center, randomized clinical treatment trial comparing two ranges of glucose
+      control in hyperglycemic critically ill children with heart and/or lung failure. Both target
+      ranges of glucose control fall within the range of &quot;usual care&quot; for critically ill children
+      managed in pediatric intensive care units.
+
+      The purpose of the study is to determine the comparative effectiveness of tight glycemic
+      control to a target range of 80-110 mg/dL (TGC-1, 4.4-6.1 mmol/L) vs. a target range of
+      150-180 mg/dL (TGC-2, 8.3-10.0 mmol/L) on hospital mortality and intensive care unit (ICU)
+      length of stay (LOS) in hyperglycemic critically ill children with cardiovascular and/or
+      respiratory failure. This will be accomplished using an explicit insulin titration algorithm
+      and continuous glucose monitoring to safely achieve these glucose targets. Both groups will
+      receive identical standardized intravenous glucose at an age-appropriate rate in order to
+      provide basal calories and mitigate hypoglycemia. Insulin infusions will be titrated with an
+      explicit algorithm combined with continuous glucose monitoring using a protocol that has
+      been safely implemented in 490 critically ill infants and children.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>March 2012</start_date>
+  <completion_date type="Anticipated">November 2017</completion_date>
+  <primary_completion_date type="Actual">September 2016</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>ICU-Free Days</measure>
+    <time_frame>Study day 28</time_frame>
+    <description>28-day hospital mortality-adjusted ICU length of stay</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>90-day Hospital Mortality</measure>
+    <time_frame>90 days after randomization</time_frame>
+    <description>In order to enable direct comparisons between data gathered in HALF-PINT and the prior adult NICE-SUGAR trial, we will collect data on 90-day hospital mortality.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Accumulation of Multiple Organ Dysfunction Syndrome (MODS)</measure>
+    <time_frame>28 days after randomization</time_frame>
+    <description>Accumulation of MODS during the 28 days following randomization will be measured. MODS is defined as the concurrent dysfunction of two or more organ systems (e.g., acute lung injury and renal failure). The clinical relevance of MODS as a surrogate outcome measure is well recognized in the intensive care community, and there is a clear relationship between the number of dysfunctional organ systems and the risk of death in critically ill children.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator-Free Days</measure>
+    <time_frame>28 days following randomization</time_frame>
+    <description>Ventilator-free days during the 28 days following randomization encompasses both reduction in the duration of ventilation and improvement in mortality. The end of the subject's duration of ventilation is defined as the date/time of extubation for subjects who are intubated, or the date/time of the discontinuation of mechanical ventilation for subjects with tracheostomy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Nosocomial Infections</measure>
+    <time_frame>Up to 48 hours after ICU discharge</time_frame>
+    <description>We will use Centers for Disease Control's (CDC) most recently published definitions for the following nosocomial infections attributable to the ICU stay: total bloodstream infections including Central Venous Line (CVL)-associated bloodstream infections (BSI), respiratory tract infections including ventilator-associated pneumonias, urinary tract infections, and wound infections that occur in the ICU or within 48 hours of discharge to the non-ICU inpatient unit. Device-related infections will be counted per 1,000 device days, and non-device-related infections will be counted per 1,000 ICU days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Insulin Algorithm Safety</measure>
+    <time_frame>Participants will be followed for the duration of ICU stay, an expected average of 8 days</time_frame>
+    <description>Hypoglycemia will be tracked and reported according to three ranges: severe (SH; &lt;40 mg/dL), moderate (40-49 mg/dL), and mild (50-59 mg/dL) per subject and per subject per insulin day. Lipid activation and metabolic stress during SH will be measured by urgently drawing and sending blood to the local central laboratory for determination of serum glucose, serum triglycerides, free fatty acids, lipoprotein profile, and lactate. As insulin infusion can cause slight changes to serum potassium concentration, hypokalemia &lt;2.5 mmol/L will also be tracked.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Developmental Neurobehavioral Outcomes</measure>
+    <time_frame>Baseline and 1 year after ICU course</time_frame>
+    <description>Reliable, reproducible measures of adaptive functioning, behavior, and quality of life will be used to determine outcomes at baseline (CBCL, PedsQL) and at one year after ICU discharge (Vineland-II, CBCL, PedsQL). The goal of baseline data collection is to assess pre-ICU health and quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Nursing Workload</measure>
+    <time_frame>Multiple intervals during the study period</time_frame>
+    <description>The cognitive burden placed upon bedside nurses when managing a patient on TGC will be described. Bedside nurses will be randomly selected to complete an anonymous survey describing their perceptions of workload burden associated with managing a patient on TGC. Nurses' perceptions of their capacity to complete both TGC‐related and non TGC-related nursing activities over several intervals of the study period will be described via qualitative and summary statistics.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Insulin Algorithm Performance</measure>
+    <time_frame>Until study discharge, up to 28 days following randomization</time_frame>
+    <description>Performance of the algorithm across diverse ages, weights, and disease processes will be critical to measure and compare to other published algorithm performance. Ideally, the algorithm will minimize time to glucose target range and maximize time spent in the glucose target range. We will track the overall glycemic profile using time-weighted glucose average because it is uniquely unaffected by the increased frequency of BG determinations that occur when glucose is abnormally low or high. Based upon insulin requirements, we will calculate insulin sensitivity index (ISI) in the first 24 hours of the protocol, as well as glucose variability index in the first 72 hours.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">713</enrollment>
+  <condition>Heart Failure</condition>
+  <condition>Respiratory Failure</condition>
+  <arm_group>
+    <arm_group_label>Tight Glycemic Control 1 (TGC-1)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Approximately half of the subjects randomized into HALF-PINT will be randomized into TGC-1 which will seek to maintain the subject's blood sugar between 80-110 mg/dL. Intravenous insulin may be administered per insulin algorithm.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Tight Glycemic Control 2 (TGC-2)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Approximately half of the subjects randomized into HALF-PINT will be randomized into TGC-2 which will seek to maintain the subject's blood sugar between 150-180 mg/dL. Intravenous insulin may be administered per insulin algorithm.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Insulin</intervention_name>
+    <description>IV insulin titration to target a blood glucose of 80-110 mg/dL</description>
+    <arm_group_label>Tight Glycemic Control 1 (TGC-1)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Insulin</intervention_name>
+    <description>IV insulin titration to target a blood glucose of 150-180 mg/dL</description>
+    <arm_group_label>Tight Glycemic Control 2 (TGC-2)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Cardiovascular failure and/or respiratory failure:
+
+               1. Cardiovascular Failure: Dopamine or dobutamine &gt; 5 mcg/kg/min, or any dose of
+                  epinephrine, norepinephrine, phenylephrine, milrinone or vasopressin if used to
+                  treat hypotension.
+
+               2. Respiratory Failure: Acute mechanical ventilation via endotracheal tube or
+                  tracheostomy.
+
+          -  Age &gt;= 2 weeks and corrected gestational age &gt;= 42 weeks
+
+          -  Age &lt; 18 years (has not yet had 18th birthday)
+
+        Exclusion Criteria:
+
+          -  No longer has cardiovascular or respiratory failure (as defined in inclusion
+             criterion 1), or is expected to be extubated in the next 24 hours
+
+          -  Expected to remain in ICU &lt; 24 hours
+
+          -  Previously randomized in HALF-PINT
+
+          -  Enrolled in a competing clinical trial
+
+          -  Family/team decision to limit/redirect from aggressive ICU technological support
+
+          -  Chronic ventilator dependence prior to ICU admission (non-invasive ventilation and
+             ventilation via tracheostomy overnight or during sleep are acceptable)
+
+          -  Type 1 or 2 diabetes
+
+          -  Cardiac surgery within prior 2 months or during/planned for this hospitalization
+             (extra-corporeal life support or non-cardiac surgery is acceptable)
+
+          -  Diffuse skin disease that does not allow securement of a subcutaneous sensor
+
+          -  Therapeutic plan to remain intubated for &gt;28 days
+
+          -  Receiving therapeutic cooling with targeted body temperatures &lt;34 degrees Celsius
+
+          -  Current or planned ketogenic diet
+
+          -  Ward of the state
+
+          -  Pregnancy
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael SD Agus, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Boston Children’s Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Vinay M Nadkarni, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Children's Hospital of Philadelphia</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Miller Children's Hospital Long Beach</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Los Angelos</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90027</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mattel Children's Hospital</name>
+      <address>
+        <city>Los Angelos</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital &amp; Research Center of Oakland</name>
+      <address>
+        <city>Oakland</city>
+        <state>California</state>
+        <zip>94609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Orange County</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF Benioff Children's Hospital</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital Colorado</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Yale-New Haven Children's Hospital</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nemours/A.I DuPont Hospital for Children</name>
+      <address>
+        <city>Wilmington</city>
+        <state>Delaware</state>
+        <zip>19803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Healthcare of Atlanta</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ann &amp; Robert H. Lurie Children's Hospital pf Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago Comer Children's Hospital</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Louisville</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Maryland Medical Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Hospital</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Children's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>C.S. Mott Children's Hospital</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Louis Children's Hospital</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dartmouth Hitchcock Medical Center</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <zip>03755</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Children's Hospital at Montefiore</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Women and Children's Hospital of Buffalo</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14222</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Shore LIJ Cohen Children's Medical Center</name>
+      <address>
+        <city>New Hyde Park</city>
+        <state>New York</state>
+        <zip>11040</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Morgan Stanley Children's Hospital of New York</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Westchester Medical Center</name>
+      <address>
+        <city>Valhalla</city>
+        <state>New York</state>
+        <zip>10595</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Duke Children's Hospital and Medical Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Children's Hospital at OU Medical Center</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Penn State Hershey Medical Center</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical City Children's Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Medical Center Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Primary Children's Hospital</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84113</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Seattle Children's Hospital</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Royal Children's Hospital</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3052</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Sainte-Justine</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H3T 1C4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>United Kingdom</country>
+  </removed_countries>
+  <link>
+    <url>https://www.halfpintstudy.org</url>
+    <description>study website</description>
+  </link>
+  <verification_date>December 2016</verification_date>
+  <lastchanged_date>December 15, 2016</lastchanged_date>
+  <firstreceived_date>March 21, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Boston Children's Hospital</investigator_affiliation>
+    <investigator_full_name>Michael Agus</investigator_full_name>
+    <investigator_title>Associate Professor of Pediatrics, Harvard Medical School</investigator_title>
+  </responsible_party>
+  <keyword>Cardiovascular</keyword>
+  <keyword>Respiratory</keyword>
+  <keyword>Failure</keyword>
+  <keyword>Heart</keyword>
+  <keyword>Lung</keyword>
+  <keyword>Continuous glucose monitoring</keyword>
+  <keyword>Tight glycemic control</keyword>
+  <keyword>Subcutaneous</keyword>
+  <keyword>Insulin</keyword>
+  <keyword>Algorithm</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Heart Failure</mesh_term>
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Insulin, Globin Zinc</mesh_term>
+    <mesh_term>Insulin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

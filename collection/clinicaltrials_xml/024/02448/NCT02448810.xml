@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="50498">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02448810</url>
+  </required_header>
+  <id_info>
+    <org_study_id>391401</org_study_id>
+    <secondary_id>2015-000896-28</secondary_id>
+    <nct_id>NCT02448810</nct_id>
+  </id_info>
+  <brief_title>Phase 2a Study of BAX69 and 5-FU/Leucovorin or Panitumumab Versus Standard of Care in Subjects With Metastatic Colorectal Cancer</brief_title>
+  <official_title>A Phase 2a Randomized, Open-label Study to Assess the Safety, Tolerability, and Efficacy of BAX69 in Combination With 5-FU/Leucovorin or Panitumumab Versus Standard of Care in Subjects With Metastatic Colorectal Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Baxalta US Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Baxalta US Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the safety and tolerability of BAX69 in combination
+      with 5-fluorouracil (5-FU)/leucovorin (LV) or panitumumab to determine the recommended phase
+      II dose (RP2D) of each combination; and to compare the efficacy between BAX69 in combination
+      with 5-FU/LV for subjects with KRAS or NRAS mutated tumor (mt) or panitumumab, for subjects
+      with KRAS and NRAS wild type tumor (wt) and standard of care (SoC) per investigator choice
+      as third or fourth treatment line in subjects with progressive measurable metastatic
+      colorectal cancer (mCRC).
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>May 2015</start_date>
+  <completion_date type="Anticipated">May 2017</completion_date>
+  <primary_completion_date type="Anticipated">May 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Occurrence of Dose Limiting Toxicity (DLT)</measure>
+    <time_frame>4 weeks</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Progression-Free Survival (PFS)</measure>
+    <time_frame>Approximately 6 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of binding and/or neutralizing BAX69 antibodies</measure>
+    <time_frame>Throughout the study period, approximately 21 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence and severity of infusion reactions after BAX69</measure>
+    <time_frame>Throughout the study period, approximately 21 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of serious adverse events (SAEs) and/or treatment-emergent adverse events (TEAEs)</measure>
+    <time_frame>Throughout the study period, approximately 21 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Response evaluation according to RECIST v1.1</measure>
+    <time_frame>Day 28 of Cycle 2 and then every other cycle (each cycle is 28 days), ie Day 56, Day 112, Day 168, Day 224, etc for duration of study participation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS) defined as time from randomization to death of any cause</measure>
+    <time_frame>Throughout the study period, approximately 21 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Life (QoL) measure - European Organization for Research and Treatment of Cancer Quality of life Questionnaire Core 30 (EORTC QLQ-C30) questionnaire</measure>
+    <time_frame>Day 1, and at study completion or early discontinuation, should occur 30 (±7) days after the last dose of study treatment.</time_frame>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Actual">112</enrollment>
+  <condition>Metastatic Colorectal Cancer</condition>
+  <arm_group>
+    <arm_group_label>Part 1: Subjects with mutated tumor (mt) (KRAS or NRAS)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects stratified according to their mutation status.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1: Subjects with wild-type (wt) tumor (KRAS and NRAS wt)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects stratified according to their mutation status.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2: Subjects with KRAS or NRAS mutated</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects stratified according to their mutation status.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2: Subjects with KRAS and NRAS wt tumor</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects stratified according to their mutation status.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2: Standard of Care- Subjects with KRAS or NRAS mutated</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects stratified according to their mutation status.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2: Standard of Care- Subjects with KRAS and NRAS wt tumor</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects stratified according to their mutation status.Subjects stratified according to their mutation status.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BAX69 + infusional 5-FU/LV</intervention_name>
+    <description>Study Part 1: Safety Run-in
+Administered weekly as part of a 4 week treatment cycle
+Intravenous injection</description>
+    <arm_group_label>Part 1: Subjects with mutated tumor (mt) (KRAS or NRAS)</arm_group_label>
+    <other_name>Macrophage Migration Inhibitory Factor Antibody (Anti-MIF)</other_name>
+    <other_name>Imalumab</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BAX69 + panitumumab</intervention_name>
+    <description>Study Part 1: Safety Run-in
+Administered weekly as part of a 4 week treatment cycle
+Intravenous injection</description>
+    <arm_group_label>Part 1: Subjects with wild-type (wt) tumor (KRAS and NRAS wt)</arm_group_label>
+    <other_name>Imalumab</other_name>
+    <other_name>Anti-MIF</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BAX69 + 5-FU/LV</intervention_name>
+    <arm_group_label>Part 2: Subjects with KRAS or NRAS mutated</arm_group_label>
+    <other_name>Imalumab</other_name>
+    <other_name>Anti-MIF</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BAX69 + panitumumab</intervention_name>
+    <arm_group_label>Part 2: Subjects with KRAS and NRAS wt tumor</arm_group_label>
+    <other_name>Imalumab</other_name>
+    <other_name>Anti-MIF</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standard of Care</intervention_name>
+    <description>Investigator's choice
+Dose according to drug label</description>
+    <arm_group_label>Part 2: Standard of Care- Subjects with KRAS or NRAS mutated</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Standard of Care</intervention_name>
+    <description>Investigator's choice
+Dose according to drug label
+Choice includes panitumumab in KRAS &amp;NRAS wt group only</description>
+    <arm_group_label>Part 2: Standard of Care- Subjects with KRAS and NRAS wt tumor</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Provision of a signed informed consent
+
+          2. Male and female subjects 18 years of age and older at the time of screening
+
+          3. Subjects who progressed after receiving at least 2, but no more than 3, prior SoC
+             treatment lines
+
+          4. Anticipated life expectancy &gt;3 months at the time of screening
+
+          5. Weight between 40 kg and 180 kg
+
+          6. Histologically or cytologically confirmed diagnosis of CRC
+
+          7. Metastatic CRC not amenable to surgical resection
+
+          8. Known KRAS and NRAS mutation status (if unknown status for either of these genes, and
+             no archival tissues is available, a fresh tumor biopsy will be made)
+
+          9. At least 1 measurable lesion as defined by RECIST v1.1
+
+         10. ECOG PS of 0-2
+
+         11. Adequate hematological function, defined as:
+
+               1. Platelet count ≥ 100,000/μL
+
+               2. Prothrombin time and activated partial thromboplastin time (aPTT) &lt; 1.5 times
+                  the upper limit of normal (ULN)
+
+               3. Absolute neutrophil count (ANC) ≥ 1,000/μL
+
+               4. Hemoglobin ≥ 9 g/dL, without the need for transfusion in the 2 weeks prior to
+                  screening
+
+         12. Adequate renal function, defined as serum creatinine ≤ 2.0 times ULN and creatinine
+             clearance &gt; 50 mL/min
+
+         13. Adequate liver function, defined as:
+
+               1. Aspartate aminotransferase (AST) and alanine aminotransferase (ALT)
+
+                  ≤ 2.5 times ULN for subjects without liver metastases, or ≤ 5 times ULN in the
+                  presence of liver metastases
+
+               2. Bilirubin ≤ 2.0 times ULN, unless subject has known Gilbert's syndrome
+
+         14. Adequate venous access
+
+         15. For female subjects of childbearing potential, the subject presents with a negative
+             serum pregnancy test at screening and agrees to employ 2 forms of adequate birth
+             control measures, including at least 1 barrier method (eg, diaphragm with spermicidal
+             jelly or foam, or [for male partner] condom) throughout the course of the study and
+             for at least 90 days after the last administration of BAX69. Other acceptable
+             contraceptive measures include birth control pills/patches or intrauterine devices
+
+         16. For male subjects, the subject must agree to use adequate contraceptive measures
+             including at least 1 barrier method (eg, condom with spermicidal jelly or foam and
+             [for the female partner] diaphragm with spermicidal jelly or foam, birth control
+             pills/patches, or intrauterine device) and abstain from sperm donation throughout the
+             course of the study and for at least 90 days after the last administration of BAX69
+
+         17. Subject is willing and able to comply with the requirements of the protocol.
+
+        Exclusion Criteria:
+
+          1. Known central nervous system metastases
+
+          2. Prior malignancy(s) within the past 3 years, with the exception of curatively treated
+             basal or squamous cell carcinoma of the skin, locally advanced prostate cancer,
+             ductal carcinoma in situ of breast, in situ cervical carcinoma and superficial
+             bladder cancer
+
+          3. Prior treatment with panitumumab for subjects with KRAS and NRAS wt tumor
+
+          4. Residual AE from previous treatment &gt; Grade 1
+
+          5. Prior intolerance to fluoropyrimidine for subjects with KRAS or NRAS mut tumor
+
+          6. Myocardial infarction within 6 months prior to C1D1, and/or prior diagnoses of
+             congestive heart failure (New York Heart Association Class III or IV), unstable
+             angina, unstable cardiac arrhythmia requiring medication; and/or the subject is at
+             risk for polymorphic ventricular tachycardia (eg, hypokalemia, family history or long
+             QT syndrome)
+
+          7. Uncontrolled hypertension defined as systolic blood pressure ≥ 160 mmHg and/or
+             diastolic blood pressure ≥ 100 mmHg confirmed upon repeated measures
+
+          8. LVEF &lt; 40% as determined by echocardiogram performed at screening or within 90 days
+             prior to C1D1
+
+          9. QT/QTc interval &gt; 450 msec, as determined by screening ECG performed no earlier than
+             1 week before C1D1
+
+         10. Prior anti-tumor therapy (chemotherapy, radiotherapy, antibody therapy, molecular
+             targeted therapy, retinoid therapy or hormonal therapy) within 4 weeks prior to C1D1.
+
+         11. Major surgery within 4 weeks prior to C1D1
+
+         12. Active joint inflammation or history of inflammatory arthritis or other immune
+             disorder involving joints
+
+         13. Active infection involving IV antibiotics within 2 weeks prior to C1D1
+
+         14. Known history of, or active hepatitis B virus (HBV), hepatitis C virus (HCV) or
+             active tuberculosis
+
+         15. Known history of human immunodeficiency virus (HIV) type 1/2 or other
+             immunodeficiency disease
+
+         16. Subject has received a live vaccine within 4 weeks prior to C1D1
+
+         17. Known hypersensitivity to any component of recombinant protein production by CHO
+             cells
+
+         18. Exposure to an investigational product or investigational device in another clinical
+             study within 4 weeks prior to C1D1, or is scheduled to participate in another
+             clinical study involving an investigational product or device during the course of
+             this study
+
+         19. Subject is nursing or intends to begin nursing during the course of the study
+
+         20. Any disorder or disease, or clinically significant abnormality on laboratory or other
+             clinical test(s) (eg, blood tests, ECG), that in medical judgment of the investigator
+             may impede the subject's participation in the study, pose increased risk to the
+             subject, and/or confound the results of the study
+
+         21. Subject is a family member or employee of the investigator
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Deyaa Adib, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Baxalta US Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hematology Oncology Associates of the Treasure Coast</name>
+      <address>
+        <city>Port St Lucie</city>
+        <state>Florida</state>
+        <zip>34952</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Joliet Oncology-Hematology Associates, Ltd.</name>
+      <address>
+        <city>Joliet</city>
+        <state>Illinois</state>
+        <zip>60435</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University Health</name>
+      <address>
+        <city>Goshen</city>
+        <state>Indiana</state>
+        <zip>46526</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Maryland Oncology Hematology, P.A.</name>
+      <address>
+        <city>Rockville</city>
+        <state>Maryland</state>
+        <zip>20850</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Einstein Center for Cancer Care</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Beth Israel</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Oklahoma Health Sciences Center</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina (MUSC)</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29412</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Jones Clinic, PC</name>
+      <address>
+        <city>Germantown</city>
+        <state>Tennessee</state>
+        <zip>38138</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mary Crowley Cancer Research Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CTRC at University of Texas Health Science Center</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2016</verification_date>
+  <lastchanged_date>August 15, 2016</lastchanged_date>
+  <firstreceived_date>May 15, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Colorectal Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Fluorouracil</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

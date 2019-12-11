@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="142832">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01241448</url>
+  </required_header>
+  <id_info>
+    <org_study_id>13031</org_study_id>
+    <secondary_id>I1R-MC-GLBG</secondary_id>
+    <nct_id>NCT01241448</nct_id>
+  </id_info>
+  <brief_title>A Study of LY2409021 in Patients With Type 2 Diabetes</brief_title>
+  <official_title>A Randomized, Double-Blind, Placebo-Controlled Phase 2b Study of LY2409021 in Patients With Type 2 Diabetes Mellitus</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Eli Lilly and Company</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      LY2409021 is being evaluated for possible treatment in type 2 diabetes. This study is
+      designed to compare LY2409021 given alone or given in combination with metformin against
+      placebo the change in hemoglobin A1c after a 24-week treatment period.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2011</start_date>
+  <completion_date type="Actual">March 2012</completion_date>
+  <primary_completion_date type="Actual">February 2012</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline to 24 week endpoint in Hemoglobin A1c (HbA1c)</measure>
+    <time_frame>Baseline, 24 weeks</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline to 24 week endpoint in fasting blood glucose (FBG)</measure>
+    <time_frame>Baseline, 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline to 24 week endpoint in 7-point self monitored glucose (SMBG) profile</measure>
+    <time_frame>Baseline, 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline to 24 week endpoint in plasma glucose</measure>
+    <time_frame>Baseline, 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline to 24 week endpoint in fasting insulin</measure>
+    <time_frame>Baseline, 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline to 24 week endpoint in fasting GLP-1 active and total</measure>
+    <time_frame>Baseline, 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline to 24 week endpoint in fasting lipid profile</measure>
+    <time_frame>Baseline, 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline to 24 week endpoint in lipoprotein subfractions</measure>
+    <time_frame>Baseline, 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline to 24 week endpoint in free fatty acids</measure>
+    <time_frame>Baseline, 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline to 24 week endpoint indices in insulin sensitivity using HOMA-IR</measure>
+    <time_frame>Baseline, 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline to 24 week endpoint indices in beta-cell function using HOMA-B</measure>
+    <time_frame>Baseline, 24 week</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline to 24 week endpoint in weight</measure>
+    <time_frame>Baseline, 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Population pharmacokinetics</measure>
+    <time_frame>Baseline up to 26 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The incidence of hypoglycemic episodes</measure>
+    <time_frame>Over 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The rate of hypoglycemic episodes</measure>
+    <time_frame>Over 24 weeks</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">260</enrollment>
+  <condition>Diabetes Mellitus, Type 2</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Once daily for 24 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2.5 mg LY2409021</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Once daily for 24 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>10 mg LY2409021</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Once daily for 24 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>20 mg LY2409021</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Once daily for 24 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>LY2409021</intervention_name>
+    <description>Administered Orally</description>
+    <arm_group_label>2.5 mg LY2409021</arm_group_label>
+    <arm_group_label>10 mg LY2409021</arm_group_label>
+    <arm_group_label>20 mg LY2409021</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Administered Orally</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Have a diagnosis of Type 2 diabetes mellitus according to the World Health
+             Organization (WHO) diagnostic criteria
+
+          -  Are women not of child-bearing potential due to surgical sterilization (hysterectomy
+             or bilateral oophorectomy or tubal ligation) or menopause.
+
+          -  Are male patients using a reliable method of birth control during the study and until
+             3 months after the last dose of study medication.
+
+          -  Are being treated with either diet and exercise alone, or with diet and exercise in
+             combination with metformin. Metformin therapy must have been stable and unchanged for
+             at least 3 months prior to screening and at a dose of at least 1000 mg/day.
+
+          -  Have an HbA1c value of 7.0% to 10.5% , inclusive.
+
+          -  Have a body mass index (BMI) between 25 to 45 kg/m2, inclusive.
+
+        In the opinion of the investigator, are capable and willing to:
+
+          -  Perform self-monitoring of blood glucose
+
+          -  Complete a study diary as required for this protocol
+
+          -  Maintain consistent dietary, physical activity, and sleeping patterns throughout the
+             duration of the study
+
+          -  Comply with treatment regimens
+
+          -  Have given written informed consent to participate in this study in accordance with
+             local regulations and the Ethical Review Board (ERB) governing the study site.
+
+        Exclusion Criteria:
+
+          -  Have more than 1 episode of severe hypoglycemia (defined as an event during which the
+             patient requires the assistance of another person to actively administer
+             carbohydrate, glucagon, or other resuscitative actions) within 6 months prior to
+             screening, or have a current diagnosis of hypoglycemia unawareness.
+
+          -  Have had two or more emergency room visits or hospitalizations due to poor glucose
+             control in the 6 months prior to screening.
+
+          -  Have gastrointestinal disease that may significantly impact gastric emptying or
+             motility or have undergone gastric bypass or gastric banding surgery.
+
+          -  Have had a previous diagnosis of pancreatitis.
+
+          -  Have New York Heart Association (NYHA) class II, III, or IV symptoms of heart failure
+
+          -  Have a history of myocardial infarction, unstable angina, or a coronary
+             revascularization procedure within 6 months of screening.
+
+          -  Have a history of supraventricular tachycardia, ventricular tachycardia, or other
+             cardiac arrhythmia.
+
+          -  Have a history of transient ischemic attack (TIA) or stroke within 6 months of
+             screening.
+
+          -  Have poorly controlled hypertension (systolic blood pressure greater than or equal to
+             150 mm Hg or diastolic blood pressure greater than or equal to 90 mm Hg) as
+             determined by the mean of three separate measurements.
+
+          -  Show evidence of labile blood pressure, including symptomatic postural hypotension.
+
+          -  Have any abnormality of the ECG that would impact patient safety or data
+             interpretation.
+
+          -  Show clinical signs or symptoms of liver disease, or liver function tests (LFTs;
+             aspartate aminotransferase [AST] or alanine aminotransferase [ALT])greater than 2.5
+             times upper limit of normal (ULN) as determined by the central laboratory at
+             screening.
+
+          -  Have a current or previous diagnosis of Gilbert's disease.
+
+          -  Have previous or current diagnosis of Hepatitis B or C
+
+          -  Have a serum creatinine &gt;2 mg/dL or, in patients being treated with metformin, a
+             serum creatinine above (or creatinine clearance below) what is approved in the
+             metformin product labeling in the respective country.
+
+          -  Show evidence of uncorrected hypothyroidism or hyperthyroidism based on clinical
+             evaluation and/or an abnormal thyroid stimulating hormone result as determined by the
+             central laboratory at screening; patients receiving dose-stable thyroid replacement
+             therapy for at least 3 months prior to screening will be allowed to participate in
+             the study.
+
+          -  Have any other abnormal laboratory value that, in the opinion of the investigator,
+             precludes the patient from participation in the study. Laboratory abnormalities
+             consistent with type 2 diabetes mellitus and all other eligibility criteria are
+             acceptable: for example, abnormalities of blood glucose, hemoglobin A1C (HbA1c),
+             urinary glucose, and urinary protein (with a range of trace to 1+ on dipstick).
+
+          -  Have a currently suspected or treated malignancy, or are in remission from a
+             clinically significant malignancy (other than basal or squamous cell skin cancer, in
+             situ carcinomas of the cervix, or in situ prostate cancer) for less than 5 years.
+
+          -  Have a personal or family history of pancreatic neoplasia.
+
+          -  Have non-fasting triglycerides &gt;600 mg/dL.
+
+          -  Use or have used insulin or GLP-1 agonists (for more than 1 week within the 3-month
+             period prior to screening), or any oral antihyperglycemic medication (OAM) other than
+             metformin within the 3-month period prior to screening.
+
+          -  Currently use or intend to use prescription or over-the-counter medications,
+             including herbal supplements, to promote weight loss or to regulate blood glucose.
+
+          -  Have current chronic (&gt;2 weeks) systemic glucocorticoid therapy (excluding ocular
+             topical, other topical, inhaled preparations)or have received such therapy within 8
+             weeks prior to screening.
+
+          -  Currently use hyperglycemia-causing agents, hypoglycemia-causing agents (other than
+             metformin), class II and III antiarrythmic agents, agents that reduce
+             gastrointestinal motility,central nervous system stimulants (with the exception of
+             caffeinated beverages), fibrates, and niacin greater than or equal to 1 gm/day.
+
+          -  Have an average weekly alcohol intake that exceeds 2 units per day for males and 1
+             unit per day for females (1 unit = 12 oz or 360 mL of beer; 5 oz or 150 mL of wine;
+             1.5 oz or 45 mL of distilled spirits).
+
+          -  Currently use drugs with a narrow therapeutic index (for example, digoxin,lithium,
+             phenytoin, theophylline, and warfarin).
+
+          -  Currently use drugs that are known to prolong the QT interval.
+
+          -  Currently use or intend to use potent inhibitors of CYP3A, which include but are not
+             limited to atazanavir, indinavir, nelfinavir, ritonavir, clarithromycin,
+             itraconazole, ketoconazole, nefazodone, saquinavir, and telithromycin.
+
+          -  Have previously completed or withdrawn from this study or any other study
+             investigating LY2409021.
+
+          -  Have known allergies to LY2409021 or related compounds.
+
+          -  Are currently enrolled in, or discontinued within the last 30 days from, a clinical
+             trial involving an investigational product or unapproved use of a drug or device, or
+             concurrently enrolled in any other type of medical research judged not to be
+             scientifically or medically compatible with this study
+
+          -  Have any other condition such as alcohol abuse, drug abuse, or psychiatric disorder
+             that may affect the ability to participate in the trial.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Call 1-877-CTLILLY (1-877-4559) or 1-317-615-4559 Mon - Fri 9 Am - 5 PM Eastern time (UTC/GMT - 5 hours, EST)</last_name>
+    <role>Study Director</role>
+    <affiliation>Eli Lilly and Company</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Burbank</city>
+        <state>California</state>
+        <zip>91505</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Concord</city>
+        <state>California</state>
+        <zip>94520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Fresno</city>
+        <state>California</state>
+        <zip>93720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Lakewood</city>
+        <state>California</state>
+        <zip>990712</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Mission Hills</city>
+        <state>California</state>
+        <zip>91345</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Palm Springs</city>
+        <state>California</state>
+        <zip>92262</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Roseville</city>
+        <state>California</state>
+        <zip>95661</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>San Luis Obispo</city>
+        <state>California</state>
+        <zip>93401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Idaho Falls</city>
+        <state>Idaho</state>
+        <zip>83404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Meridian</city>
+        <state>Idaho</state>
+        <zip>83646</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Topeka</city>
+        <state>Kansas</state>
+        <zip>66606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>St Louis</city>
+        <state>Missouri</state>
+        <zip>63141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Henderson</city>
+        <state>Nevada</state>
+        <zip>89052</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Raleigh</city>
+        <state>North Carolina</state>
+        <zip>27609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Wilmington</city>
+        <state>North Carolina</state>
+        <zip>28401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Fargo</city>
+        <state>North Dakota</state>
+        <zip>58103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Damme</city>
+        <zip>49401</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Dresden</city>
+        <zip>01307</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Elsterwerda</city>
+        <zip>04910</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>HohenmÃ¶lsen</city>
+        <zip>06679</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Ludwigshafen</city>
+        <zip>67059</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>LÃ¼neburg</city>
+        <zip>21339</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Mainz</city>
+        <zip>55116</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Chieti Scalo</city>
+        <zip>66013</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Milano</city>
+        <zip>20162</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Hato Rey</city>
+        <zip>00917</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Manati</city>
+        <zip>00674</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00917-3104</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Baia Mare</city>
+        <zip>430123</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Brasov</city>
+        <zip>500365</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Bucharest</city>
+        <zip>050538</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Iasi</city>
+        <zip>700547</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Targu-Mures</city>
+        <zip>540098</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Kosice</city>
+        <zip>04012</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Malacky</city>
+        <zip>90101</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Alcira</city>
+        <zip>46600</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Alicante</city>
+        <zip>03114</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Seville</city>
+        <zip>41003</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+    <country>Italy</country>
+    <country>Puerto Rico</country>
+    <country>Romania</country>
+    <country>Slovakia</country>
+    <country>Spain</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Poland</country>
+  </removed_countries>
+  <verification_date>April 2012</verification_date>
+  <lastchanged_date>May 24, 2012</lastchanged_date>
+  <firstreceived_date>November 12, 2010</firstreceived_date>
+  <firstreceived_results_disposition_date>May 24, 2012</firstreceived_results_disposition_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Type 2 Diabetes Mellitus</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted, but a results disposition has been submitted -->
+</clinical_study>

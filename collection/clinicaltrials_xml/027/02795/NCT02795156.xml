@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="23936">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02795156</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SCRI PRO 10</org_study_id>
+    <nct_id>NCT02795156</nct_id>
+  </id_info>
+  <brief_title>Study to Assess the Activity of Molecularly Matched Targeted Therapies in Select Tumor Types Based on Genomic Alterations</brief_title>
+  <official_title>Phase II Study to Evaluate the Activity of Commercially Available Molecularly Matched Targeted Therapies in Selected Tumor Types Based on Genomic Alterations</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>SCRI Development Innovations, LLC</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Foundation Medicine</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Boehringer Ingelheim</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Bayer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>SCRI Development Innovations, LLC</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      With the increased availability of next-generation sequencing, oncologists are starting to
+      incorporate genomic profiling into routine care of cancer patients. If a genomic alteration
+      is identified during profiling, it could help guide the choice of therapy and improve
+      treatment outcomes. This study will examine the anti-tumor activity of two FDA-approved
+      therapies to treat patients who were previously profiled with next-generation sequencing
+      technology and who failed first-line treatment for one of the following tumor types:
+      non-small cell lung cancers; urothelial cancer; non-colon gastrointestinal cancers, and
+      upper aerodigestive tract cancer.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This pilot study will evaluate preliminary antitumor activity of two FDA-approved targeted
+      therapies, regorafenib (Stivarga, Bayer) and afatinib (Gilotrif, Boehringer Ingelheim) in
+      patients who have either failed first-line treatment, or for which no standard treatment is
+      available, for one of the following four tumor types:
+
+        1. non-small cell lung cancer,
+
+        2. urothelial carcinoma,
+
+        3. non-colon gastrointestinal cancers, and
+
+        4. upper aerodigestive tract cancers (lip, tongue, salivary glands, gum, mouth, oral
+           cavity, tonsils, oropharynx, nasopharynx, nasal cavity, sinus, and larynx tumors).
+
+      Approximately 160 patients (40 per tumour type) are planned for enrollment. Consideration
+      for enrollment will be based on results from profiling with next-generation sequencing
+      technology that was performed outside of the protocol. Eligible patients will receive one of
+      the FDA-approved targeted agents at the recommended dose. The treating physician will decide
+      which targeted agent to prescribe based on the genomic alterations per tumor type and the
+      targets listed in the package insert for each agent.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 28, 2016</start_date>
+  <completion_date type="Anticipated">December 30, 2018</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2018</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall response rate (ORR)</measure>
+    <time_frame>every 8 weeks until tumor progression or treatment discontinuation, an expected average of 1 year.</time_frame>
+    <description>Defined as the proportion of patients with confirmed complete response (CR) or partial response (PR), according to Response Evaluation Criteria in Solid Tumors (RECIST) v1.1.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical benefit rate</measure>
+    <time_frame>every 8 weeks until treatment discontinuation, an expected average of 1 year.</time_frame>
+    <description>Defined as the proportion of patients with CR + PR + stable disease (SD) ≥ 6 months.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to treatment failure</measure>
+    <time_frame>every 8 weeks until tumor progression or treatment discontinuation, an expected average of 1 year.</time_frame>
+    <description>Measured from first day of treatment until treatment discontinuation or death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival</measure>
+    <time_frame>every 8 weeks until treatment discontinuation, expected 1 year</time_frame>
+    <description>Measured from Day 1 of study drug administration to disease progression as defined by RECIST v1.1.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">160</enrollment>
+  <condition>Non-small Cell Lung Carcinoma</condition>
+  <condition>Urothelial Carcinoma</condition>
+  <condition>Gastrointestinal Carcinoma, Non-colon</condition>
+  <condition>Upper Aerodigestive Tract Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>regorafenib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with genomic alterations in the following genes, as determined by next-generation sequencing, will be assigned at the investigator's discretion to treatment with regorafenib: RET, VEGF1-3, KIT, PDGFR-α and -β, FGFR1-2, TIE2, DDR2, Trk2A, Eph2A, RAF-1, BRAF, SAPK2, PTK5, Ab1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>afatinib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with genomic alterations in the following genes, as determined by next-generation sequencing, will be assigned at the investigator's discretion to treatment with afatinib: EGFR, HER2, HER4.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>afatinib</intervention_name>
+    <description>40 mg orally (p.o.) once daily for each 28-day cycle</description>
+    <arm_group_label>afatinib</arm_group_label>
+    <other_name>Gilotrif</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>regorafenib</intervention_name>
+    <description>160 mg p.o. once daily for the first 21-days of each 28-day</description>
+    <arm_group_label>regorafenib</arm_group_label>
+    <other_name>Stivarga</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients with a histologically or cytologically confirmed diagnosis of one of the
+             following tumor types whose disease has progressed following one line of standard
+             therapy and/or for which no standard treatment is available that has been shown to
+             prolong survival:
+
+               1. Non-small cell lung cancer
+
+               2. Urothelial carcinoma
+
+               3. Non-colon gastrointestinal cancers (including hepatobiliary, pancreatic, and
+                  gastroesophageal tumors)
+
+               4. Upper aerodigestive tract cancers (including lip, tongue, salivary gland, gum,
+                  oral cavity, mouth, tonsils, oropharynx, nasopharynx, nasal cavity, sinus, and
+                  larynx tumors)
+
+          -  Patients must have a predefined genomic alteration that can be targeted with either
+             afatinib or regorafenib
+
+          -  Measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1
+
+          -  Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1.
+
+          -  Adequate hematologic, hepatic and liver function.
+
+          -  Patients who are therapeutically treated with an agent such as warfarin or heparin
+             are allowed provided their dose and INR/PTT are stable. Close monitoring is
+             mandatory.
+
+          -  Must comply with instructions to prevent contraception.
+
+          -  Must be willing and able to comply with study and follow-up procedures.
+
+          -  Must be able to understand the nature of the study and give written informed consent.
+
+        Exclusion Criteria:
+
+          -  Two or more prior chemotherapy regimens in the metastatic setting.
+
+          -  Most recent chemotherapy ≤ 3 weeks and &gt; Grade 1 chemotherapy-related side effects,
+             with the exception of neuropathy (&gt; grade 2 excluded) and alopecia.
+
+          -  Use of a study drug or targeted therapy ≤21 days or 5 half-lives (whichever is
+             shorter) prior to the first dose of study treatment. For study drugs for which 5
+             half-lives is ≤21 days, a minimum of 10 days between termination of the study drug
+             and administration of study treatment is required.
+
+          -  Wide field radiotherapy (including therapeutic radioisotopes such as strontium 89)
+             administered ≤28 days or limited field radiation for palliation ≤7 days prior to
+             starting study drug or has not recovered from side effects of such therapy.
+
+          -  Major surgical procedures ≤28 days of beginning study drug, or minor surgical
+             procedures ≤7 days. No waiting required following port-a-cath placement.
+
+          -  Previously untreated brain metastases. Patients who have received radiation or
+             surgery for brain metastases are eligible if therapy was completed at least 2 weeks
+             prior to study entry and there is no evidence of central nervous system disease
+             progression, mild neurologic symptoms, and no requirement for chronic corticosteroid
+             therapy. Enzyme-inducing anti-convulsants are contraindicated.
+
+          -  Pregnant or lactating
+
+          -  Acute or chronic liver, renal, or pancreas disease.
+
+          -  Presence of active gastrointestinal disease or other condition that will interfere
+             significantly with the absorption, distribution, metabolism, or excretion of oral
+             therapy (e.g. ulcerative disease, uncontrolled nausea, vomiting, diarrhea Grade ≥2,
+             and malabsorption syndrome).
+
+          -  Any of the following cardiac diseases currently or within the last 6 months:
+
+               -  Unstable angina pectoris
+
+               -  Congestive heart failure (New York Heart Association (NYHA) ≥ Grade 2)
+
+               -  Acute myocardial infarction
+
+               -  Conduction abnormality not controlled with pacemaker or medication
+
+               -  Significant ventricular or supraventricular arrhythmias (patients with chronic
+                  rate-controlled atrial fibrillation in the absence of other cardiac
+                  abnormalities are eligible)
+
+               -  Valvular disease with significant compromise in cardiac function
+
+          -  Inadequately controlled hypertension (i.e., systolic blood pressure [SBP] &gt;180 mmHg
+             or diastolic blood pressure (DBP) &gt;100 mmHg) (patients with values above these levels
+             must have their blood pressure (BP) controlled with medication prior to starting
+             treatment).
+
+          -  Thrombotic, embolic, venous, or arterial events, such as cerebrovascular accident
+             (including transient ischemic attacks) deep vein thrombosis or pulmonary embolism
+             within 6 months of start of treatment.
+
+          -  Evidence or history of bleeding diathesis or coagulopathy; any haemorrhage or
+             bleeding event ≥ NCI CTCAE Grade 3 within 4 weeks prior to start of treatment.
+
+          -  Presence of a non-healing wound, non-healing ulcer, or bone fracture.
+
+          -  Patients with phaeochromocytoma.
+
+          -  Serious active infection at the time of treatment, or another serious underlying
+             medical condition that would impair the ability of the patient to receive protocol
+             treatment.
+
+          -  Known diagnosis of human immunodeficiency virus, hepatitis B or C.
+
+          -  Presence of other active cancers unless indolent and not requiring therapy. Patients
+             with Stage I cancer who have received definitive local treatment and are considered
+             unlikely to recur are eligible. All patients with previously treated in situ
+             carcinoma (i.e., non-invasive) are eligible, as are patients with history of
+             non-melanoma skin cancer.
+
+          -  Psychological, familial, sociological, or geographical conditions that do not permit
+             compliance with the protocol.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Howard A. Burris, III, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>SCRI Development Innovations, LLC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>SCRI Development Innovations, LLC</last_name>
+    <phone>877-MY-1-SCRI</phone>
+    <email>askSarah@scresearch.net</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Sarah Cannon Research Institute at HealthOne</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Cancer Specialists - South</name>
+      <address>
+        <city>Fort Myers</city>
+        <state>Florida</state>
+        <zip>33916</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Cancer Specialists - North</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Florida</state>
+        <zip>33705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Cancer Specialists - East</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Medical Center - HCA Midwest</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tennesse Oncology</name>
+      <address>
+        <city>Chattanooga</city>
+        <state>Tennessee</state>
+        <zip>37404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tennessee Oncology</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 8, 2017</lastchanged_date>
+  <firstreceived_date>June 6, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>regorafenib</keyword>
+  <keyword>afatinib</keyword>
+  <keyword>targeted therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+    <mesh_term>Carcinoma, Transitional Cell</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

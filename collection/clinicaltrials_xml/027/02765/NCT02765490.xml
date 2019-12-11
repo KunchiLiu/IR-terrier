@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="26213">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02765490</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CR108070</org_study_id>
+    <secondary_id>64294178HPC2001</secondary_id>
+    <secondary_id>2015-004200-38</secondary_id>
+    <nct_id>NCT02765490</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of Combinations of AL-335, Odalasvir (ODV) and Simeprevir (SMV) in the Treatment of Chronic Hepatitis C Infection</brief_title>
+  <official_title>A Phase 2b, Multicenter, Randomized, Open-label Study to Investigate the Efficacy, Safety and Pharmacokinetics of Different Treatment Regimens of AL-335, Odalasvir, and Simeprevir in Treatment-naive and Treatment-experienced Subjects With Chronic Hepatitis C Virus Genotype 1, 2, 4, 5, and 6 Infection Without Cirrhosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Janssen Research &amp; Development, LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Janssen Research &amp; Development, LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the efficacy (proportion of subjects with SVR12),
+      safety, tolerability and pharmacokinetics of an 8- and 6-week treatment regimen of AL-335,
+      odalasvir (ODV) and simeprevir (SMV) in chronic HCV genotype 1, 2, 4, 5 or 6 infected
+      subjects without cirrhosis.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase 2b multicenter study. The study will include a screening period of maximum 6
+      weeks, a treatment period of 6 or 8 weeks and a 24-weeks post-treatment follow-up period.
+      The total study duration for each subject will be 36 to 38 weeks. This study investigates a
+      3 direct-acting antiviral agent (DAA) combination of AL-335 (HCV NS5B inhibitor), odalasvir
+      (ODV) (a second generation HCV NS5A inhibitor) and simeprevir (SMV) (HCV NS3A4 protease
+      inhibitor). The results of this study will enable the selection of treatment and duration to
+      be further developed.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 9, 2016</start_date>
+  <completion_date type="Anticipated">October 24, 2017</completion_date>
+  <primary_completion_date type="Anticipated">August 1, 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Chronic HCV Infected Subjects who Achieve Sustained Virologic Response 12 weeks After the end of Treatment (EOT) (SVR12)</measure>
+    <time_frame>12 weeks after the EOT (Week 6 or 8)</time_frame>
+    <description>Subjects with SVR12 defined as hepatitis C virus (HCV) ribonucleic acid (RNA) less than (&lt;) lower limit of quantification (LLOQ =15 IU/mL, detectable or undetectable) 12 weeks after EOT.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Subjects with Sustained Virologic Response at 4 (SVR4) and 24 (SVR24) Weeks After EOT</measure>
+    <time_frame>4 and 24 weeks after EOT</time_frame>
+    <description>Subjects with SVR4 and SVR24 is defined as if HCV RNA &lt;lower limit of quantification (LLOQ) (detectable or undetectable) 4 and 24 weeks after EOT.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Subjects With Viral Relapse During Follow-up up to 12 Weeks After EOT</measure>
+    <time_frame>Up to Week 12 of follow up</time_frame>
+    <description>Subjects with viral relapse are defined as Subjects who did not achieve SVR12, with HCV RNA &lt;LLOQ at the EOT and confirmed HCV RNA greater than or equal to (&gt;=) LLOQ during follow-up.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Subjects With Late Viral Relapse During Follow-up Beyond Week 12 of Follow-up Up to Week 24 of Follow-up</measure>
+    <time_frame>Beyond Week 12 of Follow-up Up to Week 24 of Follow-up</time_frame>
+    <description>Subjects with late viral relapse are defined as subjects who did achieve SVR12 but with confirmed HCV RNA &gt;=LLOQ beyond Week 12 of Follow-up up to Week 24 of Follow-up.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Subjects With On-treatment Failure</measure>
+    <time_frame>Up to 6 or 8 weeks depending upon the Treatment received</time_frame>
+    <description>On-treatment failure is defined as subjects who do not achieve SVR12 with confirmed HCV RNA &gt;/= LLOQ at the actual EOT. Includes subjects with a) viral breakthrough, defined as a confirmed increase of greater than (&gt;) 1 log10 in HCV RNA from nadir, or confirmed HCV RNA &gt;100 international unit (IU)/mL in subjects whose HCV RNA had previously been &lt; LLOQ while on treatment; b) other with confirmed HCV RNA &gt;/= LLOQ at the actual EOT (eg, completed study drug treatment, discontinued due to AEs, withdrawal of consent).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Subjects With On-treatment Virologic Response</measure>
+    <time_frame>Up to 6 or 8 weeks (on-treatment)</time_frame>
+    <description>On-treatment virologic response is defined as subjects with hepatitis C virus (HCV) RNA &lt;LLOQ undetectable or &lt;LLOQ (detectable or undetectable) at specified time points during treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Achieve Undetectable HCV RNA &lt;LLOQ HCV RNA</measure>
+    <time_frame>Up to 24 weeks of follow-up</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effect of Presence or Absence of Baseline NS5A, NS5B or NS3/4A Genes Polymorphisms on Treatment Outcome</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Effect of presence or absence of Baseline NS3/4A, NS5A and NS5B genes polymorphisms on following treatment outcome: SVR4, SVR12, SVR24, on-treatment failure, viral relapse, and emergence of resistance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from Baseline in Amino Acid Sequence in the HCV NS3/4A, NS5A and NS5B Genes in Subjects, who did not Achieve SVR</measure>
+    <time_frame>Baseline up to 24 weeks of follow-up</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Over Time in 5-level EuroQol 5 Dimension (EQ-5D-5L) Visual Analog Scale (VAS) Score</measure>
+    <time_frame>Baseline up to 24 weeks of follow-up</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Over Time in Fatigue Severity Scale (FSS) Total Score</measure>
+    <time_frame>Baseline up to 24 weeks of follow-up</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Subjects with Clinically Significant Positive or Negative Change from Baseline in FSS Total and EQ-5D-5L VAS at Week 4, EOT (Week 6 or 8), Follow up Week 4, 12 and 24</measure>
+    <time_frame>Week 4, EOT, follow-up Week 4, 12 and 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Clinically Significant Positive or Negative Response from Baseline in FSS Total and EQ-5D-5L VAS at Week 4, EOT (Week 6 or 8), Follow up Week 4, 12 and 24</measure>
+    <time_frame>Week 4, EOT, follow-up Week 4, 12 and 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Predose (trough) Plasma Concentration (C0h)</measure>
+    <time_frame>Baseline (Day 1) up to EOT</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Curve From Time Zero to 24 Hours Postdose (AUC 24)</measure>
+    <time_frame>Baseline (Day 1) up to EOT</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Subjects with Adverse Events (AEs)</measure>
+    <time_frame>Screening (Day 1) up to Week 38 (= Week 24 of Follow-up)</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Hepatitis C, Chronic</condition>
+  <arm_group>
+    <arm_group_label>Group A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>AL-335 (800 mg), odalasvir (25 mg) and simeprevir (75 mg) once daily during 6 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>AL-335 (800 mg), odalasvir (25 mg) and simeprevir (75 mg) once daily during 8 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>AL-335</intervention_name>
+    <description>AL-335 800 mg (2*400) tablet will be administered once daily.</description>
+    <arm_group_label>Group A</arm_group_label>
+    <arm_group_label>Group B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Odalasvir</intervention_name>
+    <description>Odalasvir 25 mg tablet will be administered once daily.</description>
+    <arm_group_label>Group A</arm_group_label>
+    <arm_group_label>Group B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Simeprevir</intervention_name>
+    <description>Simeprevir 75 mg capsule will be administered once daily.</description>
+    <arm_group_label>Group A</arm_group_label>
+    <arm_group_label>Group B</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Individuals with chronic hepatitis C virus (HCV) genotype 1, 2, 4, 5 or 6 infection
+
+          -  Documented as treatment naive or experienced with a prior regimen consisting of
+             Interferon (IFN) +/-Ribavirin (RBV) regimen without achieving sustained viral
+             response
+
+          -  Absence of cirrhosis
+
+          -  Screening laboratory values within defined thresholds
+
+          -  Must use specific contraceptive methods if female of childbearing potential or
+             sexually active male
+
+        Exclusion Criteria:
+
+          -  Co-infection with human immunodeficiency virus (HIV) or hepatitis B virus (HBV)
+
+          -  Prior exposure to an HCV direct-acting antiviral agent (DAA), either in combination
+             with pegylated interferon (PegIFN) or IFN-free
+
+          -  Current or prior history of clinical hepatic decompensation
+
+          -  History of clinically significant illness or any other medical disorder including
+             cardiovascular conditions that may interfere with individual's treatment, assessment
+             or compliance with the protocol
+
+          -  Pregnant or a nursing female
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Janssen Research &amp; Development, LLC Clinical Trial</last_name>
+    <role>Study Director</role>
+    <affiliation>Janssen Research &amp; Development, LLC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Use link at the bottom of the page to see if you qualify for an enrolling site (see list). If you still have questions:</last_name>
+    <email>JNJ.CT@sylogent.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>SGS Clinical Pharmacology Unit (located in ZNA Stuivenberg)</name>
+      <address>
+        <city>Antwerpen</city>
+        <zip>2060</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>C.H.U. Brugmann</name>
+      <address>
+        <city>Bruxelles</city>
+        <zip>1020</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CUB Hôpital Erasme</name>
+      <address>
+        <city>Bruxelles</city>
+        <zip>1070</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cliniques Universitaires Saint-Luc</name>
+      <address>
+        <city>Bruxelles</city>
+        <zip>1200</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Antwerpen</name>
+      <address>
+        <city>Edegem</city>
+        <zip>2650</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitair Ziekenhuis Gent</name>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Az Groeninge</name>
+      <address>
+        <city>Kortrijik</city>
+        <zip>8500</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Leuven</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>LAIR Centre</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V5Z 1H2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vancouver Prostate Centre, Gordon and Leslie Diamond Health Care Centre</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V5Z 1M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GI Research Institute (G.I.R.I.)</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V6Z 2K5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vancouver ID Research and Care Centre Society</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V6Z2C7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>PerCuro Clinical Research Ltd.</name>
+      <address>
+        <city>Victoria</city>
+        <state>British Columbia</state>
+        <zip>V3V 3M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Toronto Liver Centre</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M6H 3M1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Toronto Digestive Disease Associates Inc</name>
+      <address>
+        <city>Vaughan</city>
+        <state>Ontario</state>
+        <zip>L4L 4Y7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique OPUS Inc</name>
+      <address>
+        <city>Monteral</city>
+        <state>Quebec</state>
+        <zip>H3A 1T1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chronic Viral Illness Service - McGill University Health Centre</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H4A 3J1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Leber-und Studienzentrum Checkpoint</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10439</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Zentrum für Infektiologie Berlin Prenzlauer Berg GmbH</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10439</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Essen</name>
+      <address>
+        <city>Essen</city>
+        <zip>45147</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medizinische Klinik 1</name>
+      <address>
+        <city>Frankfurt</city>
+        <zip>60590</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medizinische Universitätsklinik</name>
+      <address>
+        <city>Freiburg</city>
+        <zip>79102</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Asklepiosklinik St.Georg</name>
+      <address>
+        <city>Hamburg</city>
+        <zip>20099</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Medical Center</name>
+      <address>
+        <city>Hamburg</city>
+        <zip>D-20246</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsklinikum Leipzig</name>
+      <address>
+        <city>Leipzig</city>
+        <zip>4103</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wojewodzki Szpital Specjalistyczny im. dr Wl. Bieganskiego</name>
+      <address>
+        <city>Lodz</city>
+        <zip>91-347</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hepid Diagnostyka I Terapia Tomasiewicz, Kiciak - Lekarze Spółka Partnerska</name>
+      <address>
+        <city>Lublin</city>
+        <zip>20-884</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ID Clinic</name>
+      <address>
+        <city>Mysłowice</city>
+        <zip>41-400</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SP ZOZ Wojewodzki Szpital Zakazny</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>01-201</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>EMC Instytut Medyczny SA,Przychodnia przy Lowieckiej</name>
+      <address>
+        <city>Wroclaw</city>
+        <zip>50-220</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National University Hospital</name>
+      <address>
+        <city>Singapore</city>
+        <zip>119074</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Singapore General Hospital</name>
+      <address>
+        <city>Singapore</city>
+        <zip>169856</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Khootech Puat Hospital</name>
+      <address>
+        <city>Singapore</city>
+        <zip>768828</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Vall D'Hebron</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>8035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Clinic I Provincial de Barcelona</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>8036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Univ. La Paz</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Univ. Ramon Y Cajal</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28223</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Regional Univ. de Malaga</name>
+      <address>
+        <city>Málaga</city>
+        <zip>29010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Virgen Del Rocio</name>
+      <address>
+        <city>Seville</city>
+        <zip>41013</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Consorcio Hospitalario General Universitario de Valencia</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>Germany</country>
+    <country>Poland</country>
+    <country>Singapore</country>
+    <country>Spain</country>
+  </location_countries>
+  <removed_countries>
+    <country>France</country>
+    <country>Malaysia</country>
+    <country>Netherlands</country>
+    <country>New Zealand</country>
+    <country>Sweden</country>
+    <country>United Kingdom</country>
+    <country>Vietnam</country>
+  </removed_countries>
+  <link>
+    <url>http://pam.sylogent.com/cr/CR108070</url>
+    <description>To learn how to participate in this trial please click here.</description>
+  </link>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 28, 2017</lastchanged_date>
+  <firstreceived_date>May 5, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Hepatitis C, Chronic</keyword>
+  <keyword>AL-335</keyword>
+  <keyword>Odalasvir</keyword>
+  <keyword>Simeprevir</keyword>
+  <keyword>ODV</keyword>
+  <keyword>SMV</keyword>
+  <keyword>ACH-3102</keyword>
+  <keyword>ACH-0143102</keyword>
+  <keyword>TMC435</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Hepatitis</mesh_term>
+    <mesh_term>Hepatitis A</mesh_term>
+    <mesh_term>Hepatitis C</mesh_term>
+    <mesh_term>Hepatitis, Chronic</mesh_term>
+    <mesh_term>Hepatitis C, Chronic</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Simeprevir</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="29553">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02721979</url>
+  </required_header>
+  <id_info>
+    <org_study_id>9582</org_study_id>
+    <secondary_id>NCI-2016-00221</secondary_id>
+    <secondary_id>9582</secondary_id>
+    <secondary_id>P30CA015704</secondary_id>
+    <nct_id>NCT02721979</nct_id>
+  </id_info>
+  <brief_title>ARN-509 in Treating Patients With Prostate Cancer Who Are in Active Surveillance</brief_title>
+  <official_title>A Phase 2 Study of ARN-509 in Active Surveillance Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Washington</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Janssen Scientific Affairs, LLC</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Washington</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial studies how well ARN-509 (androgen receptor antagonist ARN-509) works in
+      treating patients with prostate cancer who are in active surveillance. Testosterone can
+      cause the growth of prostate cancer cells. Hormone therapy using androgen receptor
+      antagonist ARN-509 may fight prostate cancer by blocking the use of testosterone by the
+      tumor cells.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. Determine the negative repeat biopsy rate by site directed and systematic prostate biopsy
+      after 90-days of ARN-509.
+
+      SECONDARY OBJECTIVES:
+
+      I. Determine the rate of exit at 2 years from active surveillance due to pathologic
+      reclassification.
+
+      II. Determine the overall rate of exit at 2 years from active surveillance.
+
+      III. Determine the rate of local treatment (e.g. radical prostatectomy, radiation therapy,
+      brachytherapy) at 2 years and the local treatment free survival.
+
+      IV. Determine prostate-specific antigen (PSA) progression rates and PSA progression free
+      survival (PFS), as defined by the Prostate Cancer Working Group 2 (PCWG2) criteria.
+
+      V. Determine the rate of radiographic disappearance of magnetic resonance imaging (MRI)
+      detectable prostate cancer following treatment (only in patients with a baseline nodule that
+      is Prostate Imaging Reporting and Data System [PIRADS] 3 or more and &gt; 5mm).
+
+      VI. Investigate the safety of ARN-509 in men undergoing active surveillance; safety will be
+      evaluated by the incidence, severity, duration, causality, seriousness, and type(s) of
+      adverse events as assessed by the revised National Cancer Institute Common Toxicity Criteria
+      (NCI CTC), version 4.03 published 14 June 2010.
+
+      VII. Track quality of life utilizing the Functional Assessment of Cancer Therapy-Prostate
+      (FACT-P) and Short Form (SF)36 surveys for each cohort.
+
+      VIII. Exploratory biomarker assessment.
+
+      OUTLINE:
+
+      Patients receive ARN-509 orally (PO) once daily (QD) for 90 days.
+
+      After completion of the study treatment, patients are followed up at 180, 365, 545, and 730
+      days.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 2017</start_date>
+  <primary_completion_date type="Anticipated">April 2018</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Negative (i.e. no residual carcinoma) site directed and systematic prostate biopsy rate</measure>
+    <time_frame>At 90 days</time_frame>
+    <description>Negative rate will be presented as the percent of subjects with a negative repeat biopsy, and will be calculated as: (number of patients with a negative biopsy following 90-days of ARN-509) / (total number of patients enrolled on the study) x 100. A 1-sample chi-square test will be used to compare the proportion with a negative repeat biopsy to the null hypothesis value of 20% (above). The 95% confidence interval (CI) will be computed.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in radiographic disappearance of MRI detectable prostate cancer (in patients with a baseline nodule that is PIRADS 3 or more and &gt; 5 mm)</measure>
+    <time_frame>Baseline to up to 90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients exiting active surveillance due to pathologic reclassification.</measure>
+    <time_frame>At 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients exiting active surveillance for any reason.</measure>
+    <time_frame>At 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>Up to 730 days</time_frame>
+    <description>As assessed by National Cancer Institute Common Toxicity Criteria (NCI CTC), version 4.03</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Severity of adverse events</measure>
+    <time_frame>Up to 730 days</time_frame>
+    <description>As assessed by National Cancer Institute Common Toxicity Criteria (NCI CTC), version 4.03</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Local treatment free survival</measure>
+    <time_frame>Up to 730 days</time_frame>
+    <description>Kaplan-Meier methods and 95% CI will be estimated using Greenwood's formula.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of men undergoing of local treatment</measure>
+    <time_frame>At 2 years</time_frame>
+    <description>Computed along with its 95% CI.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PSA PFS as defined by the PCWG2 criteria</measure>
+    <time_frame>At 2 years</time_frame>
+    <description>PSA PFS will be estimated using Kaplan-Meier methods and 95% CI will be estimated using Greenwood's formula.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PSA progression rate as defined by the PCWG2 criteria (i.e. confirmed rising PSA &gt;= 2 ng/mL at least one week apart)</measure>
+    <time_frame>At 2 years</time_frame>
+    <description>PSA progression rate will be computed along with 95% CI.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phosphatase and tensin homolog (PTEN) fluorescence in situ hybridization (FISH)</measure>
+    <time_frame>Baseline to up to 91 days</time_frame>
+    <description>Fluorescence in situ hybridization will be conducted to assess for genomic loss of the PTEN gene.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PTEN immunohistochemistry (IHC)</measure>
+    <time_frame>Baseline to up to 91 days</time_frame>
+    <description>Immunohistochemistry will be conducted to assess for loss of PTEN protein expression.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Alteration in MYC/chromosome 8q24 via FISH</measure>
+    <time_frame>Baseline to up to 91 days</time_frame>
+    <description>Fluorescence in situ hybridization will be conducted to assess for genomic alterations (loss or amplification) of the MYC gene, which is located on chromosome 8q24.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tumor mRNA expression profiling/risk classification (e.g. Decipher, or RNA-seq)</measure>
+    <time_frame>Baseline to up to 91 days</time_frame>
+    <description>mRNA expression profiling will be conducted using the Decipher assay and/or RNA-seq.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in quality of life as assessed using the FACT-P survey</measure>
+    <time_frame>Baseline to up to 730 days</time_frame>
+    <description>FACT-P is a validated quality of life survey specific for patients with prostate cancer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in quality of life as assessed using the SF36 survey</measure>
+    <time_frame>Baseline to up to 730 days</time_frame>
+    <description>SF-36 is a validated quality of life survey. This is a generic survey to assess an individual's overall well-being, and is not specific to one disease</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">33</enrollment>
+  <condition>Stage II Prostate Adenocarcinoma</condition>
+  <arm_group>
+    <arm_group_label>Treatment (androgen receptor antagonist ARN-509)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive ARN-509 PO QD for 90 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Androgen Receptor Antagonist ARN-509</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Treatment (androgen receptor antagonist ARN-509)</arm_group_label>
+    <other_name>ARN-509</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Laboratory Biomarker Analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Treatment (androgen receptor antagonist ARN-509)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Quality-of-Life Assessment</intervention_name>
+    <description>Ancillary studies</description>
+    <arm_group_label>Treatment (androgen receptor antagonist ARN-509)</arm_group_label>
+    <other_name>Quality of Life Assessment</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Have signed an informed consent document indicating that the subjects understands the
+             purpose of and procedures required for the study and are willing to participate in
+             the study
+
+          -  Be willing/able to adhere to the prohibitions and restrictions specified in this
+             protocol
+
+          -  Written Authorization for Use and Release of Health and Research Study Information
+             has been obtained
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status =&lt; 1
+
+          -  Histologically confirmed adenocarcinoma of the prostate as documented by a minimum 12
+             core prostate biopsy completed within 1-year of enrollment (note: most recent
+             prostate biopsy must have demonstrated prostatic adenocarcinoma)
+
+          -  Favorable risk prostate cancer as defined by:
+
+               -  Very low-risk:
+
+                    -  Clinical stage T1c disease
+
+                    -  PSA density (PSAD) &lt; 0.15 ng/mL
+
+                    -  Gleason score 6
+
+                    -  =&lt; core biopsies with =&lt; 50% involvement of any biopsy core with cancer, or
+                       unilateral disease =&lt; 2 core biopsies with any percentage involvement OR
+
+               -  Low risk:
+
+                    -  Clinical stage =&lt; T2a
+
+                    -  PSA &lt; 10 ng/mL
+
+                    -  Gleason score 6 OR
+
+               -  Low-intermediate risk:
+
+                    -  Clinical stage T1c
+
+                    -  PSA &lt; 10 ng/ml
+
+                    -  Gleason 3+4 present in =&lt; 50% of one core/site as detected by systematic
+                       biopsy or MRI/transrectal ultrasound (TRUS) fusion biopsy of a targeted
+
+                    -  Gleason 6 disease in all other cores/sites (maximum of 2 cores with =&lt; 50%
+                       involvement of any core, or if unilateral disease, any percentage
+                       involvement)
+
+          -  Willing and qualified for active surveillance at Johns Hopkins or the University of
+             Washington
+
+          -  Serum testosterone &gt;= 150 ng/dL
+
+          -  Able to swallow the study drugs whole as a tablet
+
+          -  Hemoglobin &gt;= 9.0 g/dL, independent of transfusion and/or growth factors within 3
+             months prior to randomization
+
+          -  Platelet count &gt;= 100,000 x 10^9/uL independent of transfusion and/or growth factors
+             within 3 months prior to randomization
+
+          -  Serum albumin &gt;= 3.0 g/dL
+
+          -  Glomerular filtration rate (GFR) &gt;= 45 mL/min
+
+          -  Serum potassium &gt;= 3.5 mmol/L
+
+          -  Serum total bilirubin =&lt; 1.5 × upper limit of normal (ULN) (note: in subjects with
+             Gilbert's syndrome, if total bilirubin is &gt; 1.5 × ULN, measure direct and indirect
+             bilirubin and if direct bilirubin is =&lt; 1.5 × ULN, subject may be eligible)
+
+          -  Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) &lt; 2.5 × ULN
+
+          -  Medications known to lower the seizure threshold must be discontinued or substituted
+             at least 4 weeks prior to study entry
+
+          -  Agrees to use a condom (even men with vasectomies) and another effective method of
+             birth control if he is having sex with a woman of childbearing potential or agrees to
+             use a condom if he is having sex with a woman who is pregnant while on study drug and
+             for 3 months following the last dose of study drug; must also agree not to donate
+             sperm during the study and for 3 months after receiving the last dose of study drug
+
+        Exclusion Criteria:
+
+          -  Prior local therapy to treat prostate cancer (e.g. radical prostatectomy, radiation
+             therapy, brachytherapy)
+
+          -  Prior use of ARN-509
+
+          -  Have known allergies, hypersensitivity, or intolerance to ARN-509 or its excipients
+
+          -  Prior or ongoing systemic therapy for prostate cancer including, but not limited to:
+
+               -  Hormonal therapy (e.g. leuprolide, goserelin, triptorelin)
+
+               -  Cytochrome P450 (CYP)-17 inhibitors (e.g. abiraterone, ketoconazole)
+
+               -  Antiandrogens (e.g. bicalutamide, nilutamide)
+
+               -  Second generation antiandrogens (e.g. enzalutamide)
+
+               -  Immunotherapy (e.g. sipuleucel-T, ipilimumab)
+
+               -  Chemotherapy (e.g. docetaxel, cabazitaxel)
+
+          -  Have any condition that, in the opinion of the investigator, would compromise the
+             well-being of the subject or the study or prevent the subject from meeting or
+             performing study requirements
+
+          -  History of any of the following:
+
+               -  Seizure or known condition that may pre-dispose to seizure (including but not
+                  limited to prior stroke, transient ischemic attack, loss of consciousness within
+                  1 year prior to randomization, brain arteriovenous malformation; or intracranial
+                  masses such as schwannomas and meningiomas that are causing edema or mass
+                  effect)
+
+               -  Severe or unstable angina, myocardial infarction, symptomatic congestive heart
+                  failure, arterial or venous thromboembolic events (e.g., pulmonary embolism,
+                  cerebrovascular accident including transient ischemic attacks), or clinically
+                  significant ventricular arrhythmias within 6 months prior to randomization
+
+               -  Any condition that in the opinion of the investigator, would preclude
+                  participation in this study
+
+          -  Current evidence of any of the following:
+
+               -  Uncontrolled hypertension
+
+               -  Gastrointestinal disorder affecting absorption
+
+               -  Active infection (e.g. human immunodeficiency virus [HIV] or viral hepatitis) or
+                  other medical condition that would make prednisone/prednisolone (corticosteroid)
+                  use contraindicated
+
+               -  Any condition that in the opinion of the investigator, would preclude
+                  participation in this study
+
+          -  The use of drugs known to lower the seizure threshold, including: atypical
+             antipsychotics (e.g. clozapine, olanzapine, risperidone, ziprasidone), bupropion,
+             lithium, meperedine, pethidine, phenothiazine antipsychotics (e.g. chlorpromazine,
+             mesoridazine, thioridazine), and tricyclic antidepressants (e.g. amitriptyline,
+             desipramine, doxepin, imipramine, maprotiline, mirtazapine)
+
+          -  The use of strong cytochrome P450, family 3, subfamily A, polypeptide 4 (CYP3A4)
+             inhibitors, including: itraconazole, clarithromycin, erythromycin, diltiazem,
+             verapamil, delavirdine, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir,
+             saquinavir, telithromycin, voriconazole, grapefruit juice (or grapefruits)
+
+          -  Strong CYP3A4 inducers, including: phenytoin, carbamazepine, rifampin, rifabutin,
+             rifapentin, phenobarbital, efavirenz, tipranivir, St. John's wort
+
+          -  Any psychological, familial, sociological, or geographical condition that could
+             potentially interfere with compliance with the study protocol and follow-up schedule
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael Schweizer</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fred Hutch/University of Washington Cancer Consortium</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Johns Hopkins University/Sidney Kimmel Cancer Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Kenneth J. Pienta</last_name>
+    </contact>
+    <investigator>
+      <last_name>Kenneth J. Pienta</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fred Hutch/University of Washington Cancer Consortium</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Michael Schweizer</last_name>
+    </contact>
+    <investigator>
+      <last_name>Michael Schweizer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Singapore</country>
+  </removed_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 23, 2017</lastchanged_date>
+  <firstreceived_date>March 11, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Adenocarcinoma</mesh_term>
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Androgens</mesh_term>
+    <mesh_term>Androgen Receptor Antagonists</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

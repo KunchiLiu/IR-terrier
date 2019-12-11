@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="42465">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02553512</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PB-HELIUS</org_study_id>
+    <nct_id>NCT02553512</nct_id>
+  </id_info>
+  <brief_title>Helius in Hypertension-I: The UK Hypertension Registry</brief_title>
+  <official_title>Helius in Hypertension-I: The UK Hypertension Registry</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Proteus Digital Health, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Proteus Digital Health, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to demonstrate the use of a digital health offering in the
+      management of persistent hypertension during chronic anti-hypertensive treatment.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In patients with persistent essential systolic hypertension,who are undergoing assessment of
+      their current pharmaceutical burden for blood pressure control, a digital health offering is
+      used (1) to provide automatic and passive electronic documentation of medication adherence
+      and patterns of medication taking, (2) to assist providers in distinguishing inadequate
+      medication adherence or pharmacologic unresponsiveness as the root cause for persistent
+      hypertension, and (3) to inform management decisions (dose adjustment, medication addition
+      or substitution, adherence counseling, referral to a hypertension specialist).
+
+      Participating patients wear an adhesive Wearable Sensor (&quot;Patch&quot;) continuously with
+      replacement after one week, and ingest an inert tablet (&quot;Pill&quot;) containing an Ingestible
+      Sensor daily whenever they take their prescribed anti-hypertensive drugs.
+
+      The Patch automatically detects and records the dates and times of each &quot;Pill&quot; ingestion,
+      daily step count, sleep duration and sleep interruptions, and the circadian pattern of rest
+      and activity. After completion of each Patch's use, the recorded data are downloaded and
+      incorporated into a report that includes blood pressures that are obtained at the time of
+      clinic visits at the beginning and after 2 weeks of service use.
+
+      The final report is generated automatically and provided electronically to practitioners for
+      review with their patient. The information that is obtained is incorporated by practitioners
+      in advising next steps for blood pressure management.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 2013</start_date>
+  <completion_date type="Actual">May 2015</completion_date>
+  <primary_completion_date type="Actual">December 2014</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>2 Weeks</target_duration>
+  <primary_outcome>
+    <measure>Frequency of medication-taking (% timing adherence)</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Percent timing adherence is determined by the number of ingestion sensors detected by the wearable monitor, divided by the total number of ingestion sensors prescribed, for the 2 week-time frame.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pattern of medication-taking (% scheduling adherence)</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Percent scheduling adherence is determined by the number of ingestion sensors detected within a ± 2-hour time window around the prescribed dosing period, divided by the number of ingestion sensors detected by the wearable sensor during that dosing period, over the 2-week time frame.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients capable of achieving blood pressure control on existing treatment</measure>
+    <time_frame>2 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in systolic and diastolic blood pressure after use of digital health offering</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Change in systolic and diastolic blood pressure (measured in mm Hg) after 2 weeks when compared to baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood pressure management after use of digital health offering</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Summary of provider actions following review of final report with patient (dose or medication change, adherence counseling, referral to a hypertension specialist)</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">151</enrollment>
+  <condition>Essential Hypertension</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Ingestible Sensor and Wearable Sensor</intervention_name>
+    <description>This digital health offering passively acquires and records medication-taking and habits of daily living.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients having blood pressure (measured in mm Hg) ≥150 systolic or ≥90 diastolic during
+        chronic treatment with 2 or more anti-hypertensive drugs, and age ≥80 years; or blood
+        pressure ≥140 systolic or ≥90 diastolic during chronic treatment with 2 or more
+        anti-hypertensive, and &lt;80 years
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Male or female of age ≥ 18 years
+
+          -  Essential hypertension, consisting of:
+
+               1. Blood pressure ≥150 or ≥90 during chronic treatment with 2 or more drugs for
+                  patients ≥80 years of age; or,
+
+               2. Blood pressure ≥140 or≥90) during chronic treatment with 2 or more drugs for
+                  patients &lt;80 years of age
+
+          -  Ability to read and understand the instructions for participating
+
+          -  Capacity to read and to speak English proficiently
+
+          -  Capacity to provide informed consent
+
+        Exclusion Criteria:
+
+          -  History of skin sensitivity to adhesive medical tape or metals
+
+          -  History of acute or chronic dermatitis
+
+          -  Any other condition that in the investigators opinion would compromise patient safety
+             while participating
+
+          -  Alcohol or other substance abuse
+
+          -  Terminal illness
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Peter Godbehere, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>North Brink Practice, Cambridgeshire UK</affiliation>
+  </overall_official>
+  <results_reference>
+    <citation>Godbehere P, Wareing P. Hypertension assessment and management: role for digital medicine. J Clin Hypertens (Greenwich). 2014 Mar;16(3):235. doi: 10.1111/jch.12246. Epub 2014 Feb 5.</citation>
+    <PMID>24498940</PMID>
+  </results_reference>
+  <verification_date>September 2015</verification_date>
+  <lastchanged_date>September 16, 2015</lastchanged_date>
+  <firstreceived_date>September 15, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Hypertension</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

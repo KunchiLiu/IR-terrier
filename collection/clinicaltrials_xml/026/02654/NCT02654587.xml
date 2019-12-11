@@ -1,0 +1,2074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="34720">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02654587</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OSE2101C301</org_study_id>
+    <secondary_id>2015-003183-36</secondary_id>
+    <nct_id>NCT02654587</nct_id>
+  </id_info>
+  <brief_title>Study of OSE2101 Versus Standard Treatment as 2nd or 3rd Line in HLA-A2 Positive Patients With Advanced NSCLC</brief_title>
+  <acronym>ATALANTE 1</acronym>
+  <official_title>A Randomized Parallel Group Phase III Trial of OSE 2101 as 2nd Line After Prior Platinum-based Chemotherapy Failure or as 3rd Line After Platinum-failure and Checkpoint Inhibitor-failure, Compared With Standard Treatment (Docetaxel or Pemetrexed) in HLA-A2 Positive Patients With Locally Advanced (IIIB) Unsuitable for Radiotherapy or Metastatic Non-Small-Cell Lung Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>OSE Immunotherapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Orion Corporation, Orion Pharma</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>OSE Immunotherapeutics</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to determine if the Investigational Medicinal Product Tedopi
+      (OSE2101) is more effective than standard treatment in treating patients with stage IIIB
+      NSCLC unsuitable for radiotherapy or metastatic NSCLC in second- or third-line treatment.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The aim of this study is to demonstrate that OSE2101 (Arm A) is superior to standard
+      chemotherapy, pemetrexed or docetaxel (Arm B), in prolonging overall survival (OS) in HLA-A2
+      positive patients with locally advanced (IIIB) or metastatic NSCLC as 2nd line therapy after
+      failure of prior platinum-based chemotherapy or 3rd line after failure of platinum- and
+      checkpoint-inhibitor regimens. In Arm B, patients with squamous NSCLC are allocated to
+      docetaxel and patients with non-squamous NSCLC are allocated to pemetrexed if they are
+      pemetrexed-naive or to docetaxel should they have already received pemetrexed.
+
+      Treatment cycles will be repeated until unequivocal Recist 1.1-defined disease progression
+      as determined by the investigator, unacceptable toxicity, or consent withdrawal.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>February 2016</start_date>
+  <completion_date type="Anticipated">March 2020</completion_date>
+  <primary_completion_date type="Anticipated">March 2018</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall Survival time (OS)</measure>
+    <time_frame>Approximatively 24 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival (PFS)</measure>
+    <time_frame>Approximatively 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>QLQ-C30 global score</measure>
+    <time_frame>Approximatively 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>QLQ-LC13 global score</measure>
+    <time_frame>Approximatively 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate (ORR)</measure>
+    <time_frame>Approximatively 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Reported Outcomes (PRO)</measure>
+    <time_frame>Approximatively 24 months</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Disease Control Rate (DCR)</measure>
+    <time_frame>Approximatively 24 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Duration of Response (DR)</measure>
+    <time_frame>Approximatively 24 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Time to deterioration (TTD)</measure>
+    <time_frame>Approximatively 24 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Time to next lung cancer therapy</measure>
+    <time_frame>Approximatively 24 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Type, incidence, severity, seriousness and relationship to study medications of adverse events (AE) and any laboratory abnormalities</measure>
+    <time_frame>Approximatively 48 months</time_frame>
+    <description>Safety and tolerability of OSE2101 compared to pemetrexed or docetaxel</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Non Small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>OSE2101</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>OSE2101 will be administered as a 1 mL-subcutaneous injection on Day 1 every three weeks for six cycles, then every two months for the remainder of year one and finally every three months until unequivocal Recist 1.1-defined disease progression as determined by the investigator, unacceptable toxicity, or consent withdrawal. OSE2101 dose will be 5 mg of peptide (0.5 mg for each peptide).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Docetaxel or Pemetrexed</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients receiving docetaxel: Docetaxel 75 mg/m2 will be administered by intravenous infusion over 1 hour on Day 1 of a 21-day cycle.
+Patients receiving pemetrexed: Pemetrexed, 500 mg/m2, will be administered by intravenous infusion over 10 minutes on Day 1 of a 21-day cycle.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>OSE2101</intervention_name>
+    <arm_group_label>OSE2101</arm_group_label>
+    <other_name>Tedopi</other_name>
+    <other_name>EP-2101</other_name>
+    <other_name>EP2101</other_name>
+    <other_name>IDM-2101</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Docetaxel</intervention_name>
+    <arm_group_label>Docetaxel or Pemetrexed</arm_group_label>
+    <other_name>Taxotere</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pemetrexed</intervention_name>
+    <arm_group_label>Docetaxel or Pemetrexed</arm_group_label>
+    <other_name>Alimta</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Signed and dated informed consent document indicating that the patient (or legally
+             acceptable representative) has been informed of all the pertinent aspects of the
+             trial prior to enrollment.
+
+          2. Willingness and ability to comply with scheduled visits, treatment plans, laboratory
+             tests, and other study procedures.
+
+          3. Female or male, 18 years of age or older.
+
+          4. Histologically or cytologically proven diagnosis of NSCLC that is locally advanced
+             (stage IIIB) unsuitable for radiotherapy or metastatic (stage IV) according to the
+             7th edition of tumor, node, metastasis (TNM) in Lung Cancer published by the
+             International Union Against Cancer and the American Joint Committee on Cancer.
+
+          5. Subjects with disease recurrence or progression
+
+               1. Patients must have had progressive disease after only one prior chemotherapy
+                  regimen: i) It includes patients who have received one prior platinum-based
+                  chemotherapy in the adjuvant setting following surgical resection for early
+                  disease and whose disease has recurred within 12 months of completion of prior
+                  chemotherapy, ii) It includes patients who received one prior platinum-based
+                  chemotherapy in combination with radiation therapy for Stage III locoregional
+                  disease and whose disease has recurred within 12 months of completion of prior
+                  chemotherapy, iii) It includes patients who received 2 prior platinum-based
+                  chemotherapy regimens, if the first regimen was given as adjuvant therapy or was
+                  given in combination with radiation therapy for locally advanced disease
+
+               2. or Patients must have had progressive disease after 2nd line therapy with an
+                  immune checkpoint inhibitor
+
+          6. Subjects with measurable or non-measurable lesions.
+
+          7. Subjects must express HLA-A2 phenotype as assessed serologically.
+
+          8. Subjects must be considered suitable for chemotherapy with either single-agent
+             pemetrexed or docetaxel.
+
+          9. Subjects with brain metastases are eligible if treated and symptoms have returned to
+             baseline (except for signs and symptoms related to central nervous system therapy)
+             for at least 2 weeks before initiation of allocated treatment and are not taking any
+             forbidden medications.
+
+         10. Any prior chemotherapy, immunotherapy, radiation therapy or surgeries must have been
+             completed at least 3 weeks prior to initiation of study medication.
+
+         11. Any toxicity from prior therapy must have recovered to ≤ Grade 1 (except alopecia).
+
+         12. Eastern Cooperative Oncology Group (ECOG) performance status 0-1.
+
+         13. Adequate organ function as defined by all the following criteria:
+
+               1. Albuminemia &gt; 25g/L
+
+               2. Serum aspartate transaminase (AST) and serum alanine transaminase (ALT) ≤ 1.5 x
+                  upper limit of normal (ULN) with alkaline phosphatase ≤ 2.5 x ULN, or AST and
+                  ALT ≤ 5 x ULN if liver function abnormalities are due to liver metastases
+
+               3. Total serum bilirubin ≤ 1.5 x ULN
+
+               4. Absolute neutrophil count (ANC) ≥ 1500/L
+
+               5. Platelets ≥ 100000/L
+
+               6. Hemoglobin ≥ 9.0 g/dL (in the absence of transfusion within 2 weeks before
+                  randomization)
+
+               7. Creatinine clearance (based on modified Cockcroft-Gault formula) ≥ 45 ml/min.
+
+        Exclusion Criteria:
+
+          1. Small-cell lung cancer/mixed NSCLC with small cell component or other neuroendocrine
+             lung cancers (typical and atypical carcinoids, large-cell neuroendocrine carcinomas).
+             Large-cell carcinoma.
+
+          2. NSCLC that is predominantly squamous cell carcinoma, and patient had docetaxel as
+             part of his prior chemotherapy.
+
+          3. Current or previous treatment with investigational therapy in another therapeutic
+             clinical trial interrupted less than 4 weeks before study treatment initiation.
+
+          4. Patients whose tumor harbors EGFR gene mutation that sensitizes tumors to
+             Tyrosine-Kinase Inhibitor (TKI) (EGFR exon 18-21) or Anaplastic Lymphoma Kinase (ALK)
+             rearrangement.
+
+          5. Ongoing immunotherapy (checkpoint inhibition, antigen immunotherapy).
+
+          6. Spinal cord compression (unless treated with the patient attaining good pain control
+             and stable or recovered neurologic function), carcinomatous meningitis, or
+             leptomeningeal disease
+
+          7. Patients with squamous cell histology or non-squamous cell histology previously
+             treated by pemetrexed and with a contraindication for docetaxel with grade ≥ 2
+             neuropathy or hypersensitivity reaction to medications formulated with polysorbate
+             80) as they could be randomly assigned to Arm B.
+
+          8. Patients with a condition requiring systemic treatment with either corticosteroids or
+             other immunosuppressive medications.
+
+          9. Treatment with corticosteroids in the last 3-week period before inclusion, except for
+             topical, ocular, intra-articular, intranasal, and inhaled corticosteroids with
+             minimal systemic absorption (e.g. with a dose ≤ 500 microgram beclomethasone
+             equivalent for inhaled steroids), or adrenal replacement steroid doses ≤ 10 mg daily
+             prednisone equivalent which are permitted.
+
+         10. A recognized immunodeficiency disease including human immunodeficiency virus (HIV)
+             infection (and other cellular immunodeficiencies, hypogammaglobulinemia or
+             dysgammaglobulinemia; subjects who have hereditary, congenital or acquired
+             immunodeficiencies).
+
+         11. Patients with auto-immune disease, with the exception of type I diabetes or treated
+             hypothyroidism.
+
+         12. Patients with interstitial lung disease.
+
+         13. Patients with active B or C hepatitis.
+
+         14. Other malignancy: patients will not be eligible if they have evidence of active
+             malignancy (other than non-melanoma skin cancer or localized cervical cancer, or
+             localized and presumed cured prostate cancer).
+
+         15. Other severe acute or chronic medical or psychiatric conditions, or laboratory
+             abnormalities that would impart, in the judgment of the investigator and/or sponsor,
+             excess risk associated with study participation or study drug administration, and
+             which would, therefore, make the patient inappropriate for entry into this study.
+
+         16. Female patients must be surgically sterile or be postmenopausal, or must agree to use
+             effective contraception during the period of the trial and for at least 90 days after
+             completion of treatment.
+
+         17. Male patients sexually active with a woman of childbearing potential must be
+             surgically sterile or must agree to use effective contraception during the period of
+             the trial and for at least 90 days after completion of treatment. The decision of
+             effective contraception will be based on the judgment of the principal investigator.
+
+         18. Breastfeeding women.
+
+         19. Women with a positive pregnancy test.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Alain Chatelin, MD</last_name>
+    <email>alain.chatelin@ose-immuno.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Genesis Cancer Center</name>
+      <address>
+        <city>Hot Springs</city>
+        <state>Arkansas</state>
+        <zip>71913</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laura Sellers</last_name>
+      <phone>501-624-7700</phone>
+      <email>lsellers@genesiscancercenter.com</email>
+    </contact>
+    <investigator>
+      <last_name>Timothy R Webb, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Georgetown University Hospital</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeannette Crawford</last_name>
+      <phone>202-687-0893</phone>
+      <email>crawfojg@georgetown.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Giuseppe Giaconne, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hematology Oncology Clinic LLP</name>
+      <address>
+        <city>Baton Rouge</city>
+        <state>Louisiana</state>
+        <zip>70809</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center at West Jefferson</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maria Chester</last_name>
+      <phone>504-349-6019</phone>
+      <email>maria.chester@wjmc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Scott Sonnier, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>North Mississippi Medical Center Hematology and Oncology</name>
+      <address>
+        <city>Tupelo</city>
+        <state>Mississippi</state>
+        <zip>38801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marthe Thomas</last_name>
+      <phone>662-377-4550</phone>
+      <email>mmthomas@nmhs.net</email>
+    </contact>
+    <contact_backup>
+      <last_name>Andrea Dodd</last_name>
+      <phone>+1 662-377-4624</phone>
+      <email>alallen@nmhs.net</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Andrew H Kellum, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Health</name>
+      <address>
+        <city>Neptune</city>
+        <state>New Jersey</state>
+        <zip>07753</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roxanne Valassa</last_name>
+      <phone>732-450-2721</phone>
+      <email>rvalasa@meridianhealth.com</email>
+    </contact>
+    <investigator>
+      <last_name>Jatin K Desani, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gabrail Cancer Center Research</name>
+      <address>
+        <city>Canton</city>
+        <state>Ohio</state>
+        <zip>44718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carrie Smith</last_name>
+      <phone>330-492-3345</phone>
+      <phone_ext>208</phone_ext>
+    </contact>
+    <investigator>
+      <last_name>Nashat Gabrail, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Stephenson Cancer Center</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ingrid Block</last_name>
+      <phone>405-271-8777</phone>
+      <email>Ingrid-Block@ouhsc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Felicia Kiplinger</last_name>
+      <phone>+1 405 271-2468</phone>
+      <email>felicia-kiplinger@ouhsc.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Mohammad Razaq, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gesinger Medical Center</name>
+      <address>
+        <city>Danville</city>
+        <state>Pennsylvania</state>
+        <zip>17822</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Penny Gingrich</last_name>
+      <phone>877-204-6081</phone>
+      <email>hemoncctrials@geisinger.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Rajiv Panikker, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gettysburg Cancer Center</name>
+      <address>
+        <city>Gettysburg</city>
+        <state>Pennsylvania</state>
+        <zip>17325</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vanessa Hardmann</last_name>
+      <phone>717-334-4033</phone>
+      <email>vhardman@gettysburgoncology.com</email>
+    </contact>
+    <investigator>
+      <last_name>Khair Tina, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mary Crowley Cancer Research Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amy Jordan</last_name>
+      <phone>972-566-3000</phone>
+      <email>referral@marycrowley.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sheila Withrow</last_name>
+      <phone>+1 214-658-1942</phone>
+      <email>swithrow@marycrowley.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>John Nemunaitis, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Millenium Oncology</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77090</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Waldron</last_name>
+      <phone>877-870-2640</phone>
+      <email>JWaldron@wmrad.com</email>
+    </contact>
+    <investigator>
+      <last_name>Anirudha Dasgupta, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nemocnice Jihlava, Onkologické oddelení</name>
+      <address>
+        <city>Jihlava</city>
+        <zip>58633</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lubomír Slavícek, MD</last_name>
+      <phone>+420731628882</phone>
+      <email>slavicekl@nemji.cz</email>
+    </contact>
+    <investigator>
+      <last_name>Lubomír Slavícek, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Krajská nemocnice Liberec</name>
+      <address>
+        <city>Liberec</city>
+        <zip>46063</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marek Sochor, MD</last_name>
+      <phone>+420485312226</phone>
+      <email>sochor.marek73@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Marek Sochor, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Klinika tuberkulózy a respiracních nemocí, FNO</name>
+      <address>
+        <city>Ostrava</city>
+        <zip>70852</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Pardubická krajská nemocnice</name>
+      <address>
+        <city>Pardubice</city>
+        <zip>53203</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Všeobecná Fakultní nemocnice</name>
+      <address>
+        <city>Praha</city>
+        <zip>12808</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Milada Zemanova, Doc,MUDr,PhD</last_name>
+      <phone>+420224966763</phone>
+      <email>Milada.Zemanova@vfn.cz</email>
+    </contact>
+    <investigator>
+      <last_name>Milada Zemanova, Doc,MUDr,PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Masarykova nemocnice v Usti nad Labem</name>
+      <address>
+        <city>Usti nad Labem</city>
+        <zip>40113</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pavel Reiterer, MD</last_name>
+      <phone>+420737181371</phone>
+      <email>pavel.reiterer@kzcr.eu</email>
+    </contact>
+    <investigator>
+      <last_name>Pavel Reiterer, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Saint Catherine</name>
+      <address>
+        <city>Avignon</city>
+        <zip>84918</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Armelle Rollet</last_name>
+      <phone>+33 4 90 27 62 74</phone>
+      <email>a.rollet@isc84.org</email>
+    </contact>
+    <investigator>
+      <last_name>Werner Hilgers, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Avicenne</name>
+      <address>
+        <city>Bobigny</city>
+        <zip>93000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fadhila Messani</last_name>
+      <email>fadhila.messani@aphp.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Boris Duchemann, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Bergonié</name>
+      <address>
+        <city>Bordeaux</city>
+        <zip>33076</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sylvestre LeMoulec, MD</last_name>
+      <phone>+33 5 56 33 32 22</phone>
+      <email>s.le-moulec@bordeaux.unicancer.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Sylvestre LeMoulec, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Louis Pradel</name>
+      <address>
+        <city>Bron</city>
+        <zip>69500</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nicolas Girard, MD</last_name>
+      <phone>+33 4 72 35 76 52</phone>
+    </contact>
+    <contact_backup>
+      <last_name>Raphaële Guelminger</last_name>
+      <phone>+33 4 72 35 70 74</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Nicolas Girard, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital intercommunal de Créteil</name>
+      <address>
+        <city>Créteil</city>
+        <zip>94010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christos Chouaid, MD</last_name>
+      <phone>+33 1 57 02 20 70</phone>
+      <email>christos.chouaid@chicreteil.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Christos Chouaid, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Grenoble</name>
+      <address>
+        <city>Grenoble</city>
+        <zip>38043</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Denis Moro-Sibilot, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique Victor Hugo</name>
+      <address>
+        <city>Le Mans</city>
+        <zip>72000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vincent Sacier</last_name>
+      <phone>+33 2 43 29 79 08</phone>
+      <email>vsacier_sorecoh@yahoo.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Fabrice Denis, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier du Mans</name>
+      <address>
+        <city>Le Mans</city>
+        <zip>72037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Réda Chebel</last_name>
+      <phone>+33 2 43 43 27 64</phone>
+      <email>rchebel@ch-lemans.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Olivier Molinier, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Paoli-Calmettes Institute</name>
+      <address>
+        <city>Marseille</city>
+        <zip>13273</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Anne Madroszyk, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Emile Muller</name>
+      <address>
+        <city>Mulhouse</city>
+        <zip>68100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Didier Debieuvre, MD</last_name>
+      <phone>+33 3 89 64 73 96</phone>
+      <email>debieuvred@ghrmsa.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Didier Debieuvre, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Catherine de Sienne</name>
+      <address>
+        <city>Nantes</city>
+        <zip>44277</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laura Vallée</last_name>
+      <phone>+33 2 28 27 21 69</phone>
+      <email>laura.vallee@groupeconfluent.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Delphine Egret</last_name>
+      <phone>+33 2 28 27 21 74</phone>
+      <email>delphine.egret@groupeconfluent.fr</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Claude El Kouri, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Saint-Louis</name>
+      <address>
+        <city>Paris</city>
+        <zip>75010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ludovic Doucet, MD</last_name>
+      <phone>+33 1 42 49 42 47</phone>
+      <email>ludovic.doucet@sls.aphp.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Ludovic Doucet, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Européens Georges Pompidou (HEGP)</name>
+      <address>
+        <city>Paris</city>
+        <zip>75015</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Bichat - Claude-Bernard</name>
+      <address>
+        <city>Paris</city>
+        <zip>75018</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Céline Namour</last_name>
+      <email>celine.namour@aphp.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Gérard Zalcman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Rennes - Hôpital Pontchaillou</name>
+      <address>
+        <city>Rennes</city>
+        <zip>35033</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mélanie Prigent</last_name>
+      <phone>+33 2 99 28 97 95</phone>
+      <email>melanie.prigent@chu-rennes.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Romain Corre, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital d'Instruction des Armées Bégin</name>
+      <address>
+        <city>Saint Mandé</city>
+        <zip>94160</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>François-Régis Ferrand, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Strasbourg - Hôpital Civil</name>
+      <address>
+        <city>Strasbourg</city>
+        <zip>67091</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Koukeb Malki-Rouguieg</last_name>
+      <phone>+33 3 69 55 16 75</phone>
+      <email>koukeb.malki-rouguieg@chru-strasbourg.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Elisabeth Quoix, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Larrey - CHU de Toulouse</name>
+      <address>
+        <city>Toulouse</city>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sophie Amigues</last_name>
+      <phone>+33 5 67 77 17 58</phone>
+      <email>amigues.s@chu-toulouse.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Julien Mazières, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Régional Universitaire de Tours</name>
+      <address>
+        <city>Tours</city>
+        <zip>37044</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Melanie Rayez</last_name>
+      <phone>+33 2 47 47 47 47</phone>
+      <email>m.rayez@chu-tours.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Eric Pichon, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Troyes</name>
+      <address>
+        <city>Troyes</city>
+        <zip>10003</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yana Chaban</last_name>
+      <email>nana.chaban@ch-troyes.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Bertrand Delcaux, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Gustave Roussy (IGR)</name>
+      <address>
+        <city>Villejuif</city>
+        <zip>94805</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Virginie Kahn Charpy</last_name>
+      <phone>+33 142 114 211</phone>
+      <email>virginie.kahn-charpy@gustaveroussy.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Benjamin Besse, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Krankenhaus Mehrheit - Kliniken der Stadt Köln - Lungenklinik</name>
+      <address>
+        <city>Cologne</city>
+        <zip>51109</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gudrun Klauke</last_name>
+      <phone>+49 221 8907 13962</phone>
+      <email>klaukeg@kliniken-koeln.de</email>
+    </contact>
+    <investigator>
+      <last_name>Walburga Engel-Riedel, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>SRH Wald-Klinikum Gera Thorax und Gefäßchirurgie Angiologie</name>
+      <address>
+        <city>Gera</city>
+        <zip>07548</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nancy Schmidt</last_name>
+      <phone>+49 365 82 87751</phone>
+      <email>Nancy.Schmidt@wkg.srh.de</email>
+    </contact>
+    <investigator>
+      <last_name>Susanne Lang, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Klinik für Innere Medizin II Hospital Martha-Maria Halle-Dölau gGmbH</name>
+      <address>
+        <city>Halle</city>
+        <zip>06120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Franziska Gebauer</last_name>
+      <phone>+49 345 559 1434</phone>
+      <email>Studiensekretariat.Schuette@nicsys.de</email>
+    </contact>
+    <investigator>
+      <last_name>Wolfang Schutte, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Lungenkrebszentrum an der Lungenklinik Hemer Deutscher Gemeinschafts-Diakonieverband GmbH</name>
+      <address>
+        <city>Hemer</city>
+        <zip>58675</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Melanie Holstein</last_name>
+      <phone>+49 2372 908 2167</phone>
+      <email>melanie.holstein@lkhemer.de</email>
+    </contact>
+    <investigator>
+      <last_name>Monika Serke, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum Bogenhausen Städtisches Klinikum München GmbH</name>
+      <address>
+        <city>Munich</city>
+        <zip>81925</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Pius-Hospital Oldenburg Klinik für Hämatologie und Onkologie</name>
+      <address>
+        <city>Oldenburg</city>
+        <zip>26121</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Frank Griesinger, MD</last_name>
+      <phone>+49 441 229 1126</phone>
+      <email>studiensekretariat@pius-hospital.de</email>
+    </contact>
+    <investigator>
+      <last_name>Frank Griesinger, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Tübingen Medizinische Klinik II</name>
+      <address>
+        <city>Tubingen</city>
+        <zip>72076</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gabi Jany</last_name>
+      <phone>+49 7071 29 82127</phone>
+      <email>gabi.jany@med.uni-tuebingen.de</email>
+    </contact>
+    <investigator>
+      <last_name>Hans-Georg Kopp, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Klinik für Innere Medizin II Universitätsklinikum Ulm</name>
+      <address>
+        <city>Ulm</city>
+        <zip>89081</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Beate Polte</last_name>
+      <phone>+49 731 500 45230</phone>
+      <email>Beate.Polte@uniklinik-ulm.de</email>
+    </contact>
+    <investigator>
+      <last_name>Stefan Rüdiger, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>HELIOS Klinikum Wuppertal Medizinische Klinik 1 für Hämatologie Onkologie Nephrologie</name>
+      <address>
+        <city>Wuppertal</city>
+        <zip>42283</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Artur Wiatrak</last_name>
+      <phone>+49 202 896 2396</phone>
+      <email>artur.wiatrak@helios-kliniken.de</email>
+    </contact>
+    <investigator>
+      <last_name>Oliver Schmalz, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Magyar Honvedseg Egeszsegugyi Kozpont II szamu telephely</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1062</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Júlia Lászlóné Petőcz</last_name>
+      <phone>+36 22 535 722</phone>
+      <email>jplaszlone@mail.fmkorhaz.hu</email>
+    </contact>
+    <investigator>
+      <last_name>Zsuzsanna Papai, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Országos Korányi TBC és Pulmonológiai Intézet IV Tüdőbelosztály</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1121</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Krisztina Bogos, MD</last_name>
+      <phone>+36 1 391 3364</phone>
+      <email>drbogos.krisztina@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Krisztina Bogos, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Országos Korányi TBC és Pulmonológiai Intézet XI Tüdőbelosztály</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1121</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tamás Kormos, MD</last_name>
+      <phone>+36 20 466 0906</phone>
+      <email>kormos@koranyi.hu</email>
+    </contact>
+    <investigator>
+      <last_name>Tamás Kormos, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Országos Korányi TBC és Pulmonológiai Intézet XIV Tüdőbelosztály</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1121</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ildikó Horváth, MD</last_name>
+      <phone>+36 30 422 6341</phone>
+      <email>ildiko.horvath@koranyi.hu</email>
+    </contact>
+    <investigator>
+      <last_name>Ildikó Horváth, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Orszagos Onkologiai Intezet</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1122</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Adrienn Heisz</last_name>
+      <phone>+36 20 966 2944</phone>
+      <email>Adrienn.Heisz@coordination.hu</email>
+    </contact>
+    <investigator>
+      <last_name>Lajos Geczi, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Semmelweis Egyetem Altalanos Orvostudományi Kar Pulmonologiai Klinika</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1125</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zoltán Hajzer</last_name>
+      <phone>+36 20 430 1176</phone>
+      <email>zoltan.hajzer@coordination.hu</email>
+    </contact>
+    <investigator>
+      <last_name>György Losonczy, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Csongrad Megyei Mellkasi Betegsegek Szakkorháza I Tüdőosztály</name>
+      <address>
+        <city>Deszk</city>
+        <zip>6772</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rózsa Lászlóné Kovács</last_name>
+      <phone>+36 62 571 552</phone>
+      <email>office.tudtsz@med.u-szeged.hu</email>
+    </contact>
+    <investigator>
+      <last_name>Attila Somfay, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Matrai Gyogyintézet</name>
+      <address>
+        <city>Mátraháza</city>
+        <zip>3233</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>István Albert, MD</last_name>
+      <phone>+36 20 270 8215</phone>
+      <email>dr.albert@freemail.hu</email>
+    </contact>
+    <investigator>
+      <last_name>István Albert, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>IRCCS Oncologico Giovanni Paolo II</name>
+      <address>
+        <city>Bari</city>
+        <zip>70124</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Domenico Galetta</last_name>
+      <phone>+39 080-5555442</phone>
+      <email>galetta@oncologico.bari.it</email>
+    </contact>
+    <investigator>
+      <last_name>Domenico Galetta, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Unità Operativa di Oncologia dell'Ospedale Vito Fazzi di Lecce, Piazza Muratore</name>
+      <address>
+        <city>Lecce</city>
+        <zip>73100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Giampero Romano, MD</last_name>
+      <phone>+39 8 32 66 19 62</phone>
+      <email>giampieroromano@me.com</email>
+    </contact>
+    <investigator>
+      <last_name>Giampero Romano, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>U.O.C. Pneumologia a indirizzo oncologico, Presidio Ospedaliero Monaldi - Azienda Ospedaliera dei Colli - Via Leonardo Bianchi</name>
+      <address>
+        <city>Napoli</city>
+        <zip>80131</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Antonio Rea, MD</last_name>
+      <phone>+39 080-5555442</phone>
+      <email>antonio.rea@ospedalideicolli.it</email>
+    </contact>
+    <investigator>
+      <last_name>Antonio Rea, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero Universitaria pisana Pneumologia 2</name>
+      <address>
+        <city>Pisa</city>
+        <zip>56124</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Antonio Chella, MD</last_name>
+      <phone>+39 050996778</phone>
+      <email>anto.kell@tiscali.it</email>
+    </contact>
+    <contact_backup>
+      <last_name>Simona Valleggi</last_name>
+      <phone>+39 050996653</phone>
+      <email>simona10.74@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Antonio Chella, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Nuovo Regina Margherita</name>
+      <address>
+        <city>Roma</city>
+        <zip>00153</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Riccardo Samaritani, MD</last_name>
+      <phone>+39 3478022450</phone>
+      <email>risata960@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Daniela Franco</last_name>
+      <phone>+39 0658446826</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Riccardo Samaritani, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico Santa Maria alle Scotte</name>
+      <address>
+        <city>Siena</city>
+        <zip>53100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anna Maria Giacomo</last_name>
+      <phone>+39 5 77 58 63 05</phone>
+      <email>a.m.digiacomo@ao-siena.toscana.it</email>
+    </contact>
+    <contact_backup>
+      <last_name>Elisa Ibba</last_name>
+      <phone>+39 5 77 58 63 26</phone>
+      <email>ibbaelisa24@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Michele Maio, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Civile Maggiore</name>
+      <address>
+        <city>Verona</city>
+        <zip>37126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Antonio Santo, MD</last_name>
+      <phone>+39 0458122342</phone>
+      <email>antonio.santo@ospedaleuniverona.it</email>
+    </contact>
+    <contact_backup>
+      <last_name>Luciana Giannone</last_name>
+      <phone>+390450458123876</phone>
+      <email>luciana.giannone@ospedaleuniverona.it</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Antonio Santo, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospicjum im. Ks. Eugeniusza Dutkiewicza SAC</name>
+      <address>
+        <city>Gdansk</city>
+        <zip>80-208</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Magdalena Korozan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Klinika Onkologii i Radioterapii , Uniwersyteckie Centrum Kliniczne</name>
+      <address>
+        <city>Gdańsk</city>
+        <zip>80-952</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rafal Dziadziuszko, MD</last_name>
+      <phone>+48 58 349 29 79</phone>
+      <email>rafald@gumed.edu.pl</email>
+    </contact>
+    <investigator>
+      <last_name>Rafal Dziadziuszko, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Przychodnia Lekarska &quot;KOMED&quot;</name>
+      <address>
+        <city>Konin</city>
+        <zip>62-500</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Boguslawa Karaszewska, MD</last_name>
+      <phone>+48 664 134 814</phone>
+      <email>karasiowa@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Boguslawa Karaszewska, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mazowieckie Centrum Leczenia chorób Płuc i Gruźlicy</name>
+      <address>
+        <city>Otwock</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anita Kowalska</last_name>
+      <phone>+48 22 344 63 01</phone>
+      <email>koordynator.otwock1@outlook.com</email>
+    </contact>
+    <investigator>
+      <last_name>Aleksandra Szczęsna, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Szpital Kliniczny Przemienienia Pańskiego Uniwersytetu Medycznego Im. Karola Marcinkowskiego Oddział Chemioterapii</name>
+      <address>
+        <city>Poznań</city>
+        <zip>60-569</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Rodryg Ramlau, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wojewódzki Szpital Zespolony , Oddział Chemioterapii Nowotworów</name>
+      <address>
+        <city>Toruń</city>
+        <zip>87-100</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Piotr Sawrycki, MD</last_name>
+      <phone>48 56 61 01 390</phone>
+      <email>piotrsaw@am.torun.pl</email>
+    </contact>
+    <investigator>
+      <last_name>Piotr Sawrycki, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centrum Onkologii - Instytutem im. Marii Skłodowskiej - Curie</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>02-781</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Dariusz Kowalski</last_name>
+      <phone>+48 22 546 28 39</phone>
+    </contact>
+    <investigator>
+      <last_name>Maciej Krzakowski, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wojskowy Instytut Medyczny</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>04-141</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Specjalistyczny Szpital Im. Prof. Alfreda Sokołowskiego</name>
+      <address>
+        <city>Zdunowo</city>
+        <zip>70-891</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Piotr Serwatowski, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de la Santa Creu i Sant Pau</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08026</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laia Laverna</last_name>
+      <email>LLavernia@santpau.cat</email>
+    </contact>
+    <investigator>
+      <last_name>Margarita Magem, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Quirón Dexeus</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08028</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elena Ovalle</last_name>
+      <phone>0034935460143</phone>
+      <email>eovalle@oncorosell.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Teresa Alonso</last_name>
+      <phone>0034935460143</phone>
+      <email>talonso@oncorosell.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Santiago Viteri, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Vall D'Hebron</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sergi Recasens</last_name>
+      <phone>+34 934894375</phone>
+      <email>srecasens@vhio.net</email>
+    </contact>
+    <contact_backup>
+      <last_name>Marta Beltrán</last_name>
+      <phone>+34 93 489 4374</phone>
+      <email>mbeltran@vhebron.net</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Enriqueta Felip, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Germans Trias i Pujol</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08916</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paula Riera</last_name>
+      <phone>+34 934978729</phone>
+      <email>priera@igtp.cat</email>
+    </contact>
+    <contact_backup>
+      <last_name>Olga Bernaus</last_name>
+      <email>obernaus@igtp.cat</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Teresa Moran, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario 12 de Octubre</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Santiago Ponce, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario La Paz Servicio de Oncología Médica</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Javier de Castro, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Puerta de Hierro Majadahonda Servicio de Oncología Médica Consultas externas, 2ª planta</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28220</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Mariano Provencio, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Carlos Haya</name>
+      <address>
+        <city>Málaga</city>
+        <zip>29010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Manuel Cobo, MD</last_name>
+      <phone>+34951291543</phone>
+      <email>manuelcobodols@yahoo.es</email>
+    </contact>
+    <contact_backup>
+      <last_name>Marta Beltrán</last_name>
+      <phone>+34 93 489 4374</phone>
+      <email>mbeltran@vhebron.net</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Manuel Cobo, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cheltenham General Hospital</name>
+      <address>
+        <city>Cheltenham</city>
+        <zip>GL53 7AN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gemma Race</last_name>
+      <phone>+44 300 422 3445</phone>
+      <email>gemma.race@glos.nhs.uk</email>
+    </contact>
+    <investigator>
+      <last_name>David Farrugia, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Medway Maritime Hospital</name>
+      <address>
+        <city>Gillingham</city>
+        <zip>ME7 5NY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>R&amp;D Office</last_name>
+      <email>R&amp;DOffice@medway.nhs.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Maher Spicer, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Guys' Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>SE1 9RT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sheela Medahunsi</last_name>
+      <email>Sheela.Medahunsi@gstt.nhs.uk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Nicholas Gomm</last_name>
+      <phone>+44 2 071 881 430</phone>
+      <email>Nicholas.Gomm@gstt.nhs.uk</email>
+    </contact_backup>
+    <investigator>
+      <last_name>James Hadaki, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sarah Cannon Research Institue London</name>
+      <address>
+        <city>London</city>
+        <zip>W1G 6AD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Joanna Davis</last_name>
+      <phone>+44 203 219 5200</phone>
+      <email>Joanna.Davis@hcahealthcare.co.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Tobias Arkenau, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Charring Cross Hospital, Imperial College NHS Foundation Trust</name>
+      <address>
+        <city>London</city>
+        <zip>W6 8RF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Margarita Durkina</last_name>
+      <phone>+44 2 033 117 627</phone>
+      <email>Margarita.Durkina@imperial.nhs.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Conrad Lewanski, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Chrisitie</name>
+      <address>
+        <city>Manchester</city>
+        <zip>M20 4BX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Charlotte Burke</last_name>
+      <phone>+44 161 918 2483</phone>
+      <email>charlotte.burke@christie.nhs.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Yvonne Summers, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Milton Keynes Hospital</name>
+      <address>
+        <city>Milton Keynes</city>
+        <zip>MK6 5LD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joanne Turner</last_name>
+      <phone>+44 1908 995113</phone>
+      <email>joanne.turner@mkuh.nhs.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Maria Karina, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>New Cross Hospital</name>
+      <address>
+        <city>Wolverhampton</city>
+        <zip>WV10 0QP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Debbie Spruce</last_name>
+      <phone>+44 190 269 5065</phone>
+      <email>debbie.spruce@nhs.net</email>
+    </contact>
+    <investigator>
+      <last_name>Pek Koh, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Czech Republic</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Hungary</country>
+    <country>Italy</country>
+    <country>Poland</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Barve M, Bender J, Senzer N, Cunningham C, Greco FA, McCune D, Steis R, Khong H, Richards D, Stephenson J, Ganesa P, Nemunaitis J, Ishioka G, Pappen B, Nemunaitis M, Morse M, Mills B, Maples PB, Sherman J, Nemunaitis JJ. Induction of immune responses and clinical efficacy in a phase II trial of IDM-2101, a 10-epitope cytotoxic T-lymphocyte vaccine, in metastatic non-small-cell lung cancer. J Clin Oncol. 2008 Sep 20;26(27):4418-25. doi: 10.1200/JCO.2008.16.6462.</citation>
+    <PMID>18802154</PMID>
+  </reference>
+  <reference>
+    <citation>Beebe M, Qin M, Moi M, Wu S, Heiati H, Walker L, Newman M, Fikes J, Ishioka GY. Formulation and characterization of a ten-peptide single-vial vaccine, EP-2101, designed to induce cytotoxic T-lymphocyte responses for cancer immunotherapy. Hum Vaccin. 2008 May-Jun;4(3):210-8. Epub 2010 May 11.</citation>
+    <PMID>18382135</PMID>
+  </reference>
+  <reference>
+    <citation>Nemunaitis J, Cunningham, C ,Bender, J, Ishioka, G, Maples, P, Pappen, B, Stephenson, J, Morse, M, Mills, B, Greco, A, McCune, D, Steis, R, Nugent, F, Khong, HT, Richards, D. Phase II trial of a 10-epitope CTL vaccine, IDM-2101, in metastatic NSCLC patients: Induction of immune responses and clinical efficacy. International Society for Biological Therapy of Cancer 2007, p 891-2.</citation>
+  </reference>
+  <verification_date>April 2017</verification_date>
+  <lastchanged_date>April 4, 2017</lastchanged_date>
+  <firstreceived_date>January 8, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Non-Small-Cell Lung Cancer</keyword>
+  <keyword>NSCLC</keyword>
+  <keyword>Immunotherapy</keyword>
+  <keyword>Cancer vaccine</keyword>
+  <keyword>Metastasis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Docetaxel</mesh_term>
+    <mesh_term>Pemetrexed</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

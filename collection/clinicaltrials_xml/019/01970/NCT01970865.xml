@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="87130">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01970865</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B7461001</org_study_id>
+    <secondary_id>2013-002620-17</secondary_id>
+    <nct_id>NCT01970865</nct_id>
+  </id_info>
+  <brief_title>A Study Of PF-06463922 An ALK/ROS1 Inhibitor In Patients With Advanced Non Small Cell Lung Cancer With Specific Molecular Alterations</brief_title>
+  <official_title>Phase 1/2 Study Of Pf-06463922 (an Alk/ros1 Tyrosine Kinase Inhibitor) In Patients With Advanced Non-small Cell Lung Cancer Harboring Specific Molecular Alterations</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pfizer</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Phase 1 and 2 trial to study the safety, pharmacokinetics, pharmacodynamics, patient
+      reported outcomes and efficacy of PF-06463922 in ALK + advanced non-small cell lung cancer
+      patients and ROS1+ advanced non small cell lung cancer patients .
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 8, 2014</start_date>
+  <completion_date type="Anticipated">April 10, 2018</completion_date>
+  <primary_completion_date type="Actual">March 15, 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Patients with Overall and Intracranial Objective Response (Phase 2)</measure>
+    <time_frame>Every 6 weeks from the time of patient enrollment up to 4 years</time_frame>
+    <description>Percentage of patients with OR based assessment of intracranial and overall confirmed complete remission (CR) or confirmed partial remission (PR) according to a modified Response Evaluation Criteria in Solid Tumors (RECIST)v 1.1.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cycle 1 Dose Limiting Toxicities (DLTs). (Phase 1)</measure>
+    <time_frame>One (1) cycle (21 days)</time_frame>
+    <description>Number of patients reporting DLTs during Cycle 1 of treatment.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adverse Events</measure>
+    <time_frame>First dose of study drug through 28 days after the last dose of study drug</time_frame>
+    <description>Adverse Events as characterized by type, frequency, severity (as graded by NCI CTCAE v.4.03), seriousness and relationship to study therapy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Mini Mental State Examination (MMSE) across treatment cycles (Phase 1)</measure>
+    <time_frame>Prior to dosing (Day -7 or Cycle 1 Day 1), Every 3 weeks from the time of enrollment up to 4 years</time_frame>
+    <description>MMSE measured general cognitive functioning: orientation, memory, attention, calculation, language, visuospatial functions. Total score derived from sub-scores; total ranges from 0 to 30, higher score indicates better cognitive state. Change: across treatment cycles</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Curve From Time Zero to Last Quantifiable Concentration (AUClast)(Phase 1 and first 10 patients in Phase 2)</measure>
+    <time_frame>7 days prior to first dose of treatment</time_frame>
+    <description>Area under the plasma concentration time-curve from zero to the last measured concentration (AUClast)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Volume of Distribution at Steady State (Vz/F) (Phase 1 and first 10 patients in Phase 2)</measure>
+    <time_frame>Pre-dose, 0.5, 1, 2, 3, 4, 6, 8, 9 and 24 hours post Cycle 1 Day 15 dose of treatment</time_frame>
+    <description>Volume of distribution is defined as the theoretical volume in which the total amount of drug would need to be uniformly distributed to produce the desired blood concentration of a drug. Steady state volume of distribution (Vss) is the apparent volume of distribution at steady-state.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Reach Maximum Observed Plasma Concentration (Tmax)(Phase 1 and first 10 patients in Phase 2)</measure>
+    <time_frame>7 days prior to the first dose of treatment and pre-dose, 0.5, 1, 2, 3, 4, 6, 8, 9 and 24 hours post Cycle 1 Day 15 dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Observed Plasma Concentration (Cmax)(Phase 1 and first 10 patients in Phase 2)</measure>
+    <time_frame>7 days prior to the first dose of treatment and pre-dose, 0.5, 1, 2, 3, 4, 6, 8, 9 and 24 hours post Cycle 1 Day 15 dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Curve from Time Zero to end of dosing interval (AUCtau)(Phase 1 and first 10 patients in Phase 2)</measure>
+    <time_frame>Pre-dose, 0.5, 1, 2, 3, 4, 6, 8, 9 and 24 hours post Cycle 1 Day 15 dose of treatment</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Apparent Volume of Distribution (Vz/F)(Phase 1 and first 10 patients in Phase 2)</measure>
+    <time_frame>7 days prior to the first dose of treatment</time_frame>
+    <description>Volume of distribution is defined as the theoretical volume in which the total amount of drug would need to be uniformly distributed to produce the desired plasma concentration of a drug. Apparent volume of distribution after oral dose (Vz/F) is influenced by the fraction absorbed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Decay Half-Life (t1/2) (Phase 1 and first 10 patients in Phase 2)</measure>
+    <time_frame>7 days prior to the first dose of treatment</time_frame>
+    <description>Plasma decay half-life is the time measured for the plasma concentration to decrease by one half.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Urine clearance of drug (Clr) for subjects in food effect and Midazolam substudy (Phase 1)</measure>
+    <time_frame>Pre-dose, 0.5, 1, 2,3, 4, 6, 8, 9 and 24 hours post Cycle 1 Day 15 dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Urine Ae% for subjects in food effect and Midazolam substudy (Phase 1)</measure>
+    <time_frame>Pre Cycle 1 Day 15 dose of treatment</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Observed Plasma Concentration (Cmax) for subjects in Midazolam substudy (Phase 1)</measure>
+    <time_frame>7 days prior to the first dose of treatment and pre-dose, 0.5, 1, 2,3, 4, 6, 8, 9 and 24 hours post Cycle 1 Day 15 dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Reach Maximum Observed Plasma Concentration (Tmax) for subjects in Midazolam substudy (Phase 1)</measure>
+    <time_frame>7 days prior to the first dose of treatment and pre-dose, 0.5, 1, 2,3, 4, 6, 8, 9 and 24 hours post Cycle 1 Day 15 dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Curve From Time Zero to Last Quantifiable Concentration (AUClast) for subjects in Midazolam substudy (Phase 1)</measure>
+    <time_frame>7 days prior to first dose and pre-dose, 0.5, 1, 2,3, 4, 6, 8, 9 and 24 hours post Cycle 1 Day 15 dose</time_frame>
+    <description>Area under the plasma concentration time-curve from zero to the last measured concentration (AUClast) after administration of MDZ</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Curve From Time Zero to Extrapolated Infinite Time [AUC (0 - 8)](Phase 1 and first 10 patients in Phase 2)</measure>
+    <time_frame>7 days prior to the first dose of treatment and pre-dose, 0.5, 1, 2,3, 4, 6, 8, 9 and 24 hours post Cycle 1 Day 15 dose</time_frame>
+    <description>AUC (0 - 8)= Area under the plasma concentration versus time curve (AUC) from time zero (pre-dose) to extrapolated infinite time (0 - 8). It is obtained from AUC (0 - t) plus AUC (t - 8).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Decay Half-Life (t1/2) for subjects in Midazolam substudy (Phase 1)</measure>
+    <time_frame>7 days prior to the first dose of treatment and pre-dose, 0.5, 1, 2,3, 4, 6, 8, 9 and 24 hours post Cycle 1 Day 15 dose</time_frame>
+    <description>Plasma decay half-life is the time measured for the plasma concentration to decrease by one half after administration of MDZ</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Apparent Oral Clearance (CL/F) for subjects in Midazolam substudy (Phase 1)</measure>
+    <time_frame>7 days prior to the first dose of treatment and pre-dose, 0.5, 1, 2,3, 4, 6, 8, 9 and 24 hours post Cycle 1 Day 15 dose</time_frame>
+    <description>Clearance of a drug is a measure of the rate at which a drug is metabolized or eliminated by normal biological processes. Clearance obtained after oral dose (apparent oral clearance) is influenced by the fraction of the dose absorbed. Clearance was estimated from population pharmacokinetic (PK) modeling. Drug clearance is a quantitative measure of the rate at which a drug substance is removed from the blood after administration of MDZ</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Apparent Oral Clearance (CL/F) (Phase 1)</measure>
+    <time_frame>7 days prior to the first dose of treatment and pre-dose, 0.5, 1, 2,3, 4, 6, 8, 9 and 24 hours post Cycle 1 Day 15 dose</time_frame>
+    <description>Clearance of a drug is a measure of the rate at which a drug is metabolized or eliminated by normal biological processes. Clearance obtained after oral dose (apparent oral clearance) is influenced by the fraction of the dose absorbed. Clearance was estimated from population pharmacokinetic (PK) modeling. Drug clearance is a quantitative measure of the rate at which a drug substance is removed from the blood.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Curve From Time Zero to Last Quantifiable Concentration (AUClast)(Phase 1 and first 10 patients in Phase 2)</measure>
+    <time_frame>7 days prior to the first dose of treatment</time_frame>
+    <description>Area under the plasma concentration time-curve from zero to the last measured concentration (AUClast)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Curve From Time Zero to Extrapolated Infinite Time [AUC (0 - 8)](Phase 1 and first 10 patients in Phase 2)</measure>
+    <time_frame>7 days prior to the first dose of treatment</time_frame>
+    <description>AUC (0 - 8)= Area under the plasma concentration versus time curve (AUC) from time zero (pre-dose) to extrapolated infinite time (0 - 8). It is obtained from AUC (0 - t) plus AUC (t - 8).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Selective molecular profiling of circulating nucleic acids (CNA)</measure>
+    <time_frame>Within 28 days of first dose of treatment, at the end of Cycle 2 (Phase 2 only) and at 28 days after the last dose of treatment</time_frame>
+    <description>Selective molecular profiling of circulating nucleic acids (CNA) at the end of treatment visit defined as 28 days after the last treatment administration.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Selective molecular profiling of tumor tissue</measure>
+    <time_frame>Within 28 days prior to first dose of treatment</time_frame>
+    <description>Blood specimen optimized for plasma preparation for nucleic acid analysis will be collected at screening and at end of treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>QTc interval</measure>
+    <time_frame>Within 28 days prior to first dose of treatment, 7 days prior to the first dose of treatment and Day 1, 8 and 15 of Cycle 1 and Day 1 of Cycles 2-5 and 28 days after the last dose of treatment</time_frame>
+    <description>ECGs performed to assess QTc (msec) at baseline and on study treatment and at the end of treatment visit defined as 28 days after the last treatment administration.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient reported Outcomes</measure>
+    <time_frame>Prior to first dosing (Day -7 or Cycle 1 Day 1), Day 1 of every cycle, pre dose, up to 4 years and at 28 days after the last dose of treatment</time_frame>
+    <description>To assess impact of disease /treatment related symptoms of lung cancer and quality of life at D1 of every cycle and at the end of treatment visit defined as 28 days after the last treatment administration.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response</measure>
+    <time_frame>Every 6 weeks from the time of enrollment up to 4 years</time_frame>
+    <description>DR is defined as the time from the first documentation of objective tumor response (CR or PR) to the first documentation of disease progression or to death due to any cause, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival (PFS)</measure>
+    <time_frame>Every 6 weeks from the time of enrollment to the first documented progression or date of death from any cause, assessed up to 4 years</time_frame>
+    <description>The period from study entry until disease progression, death or date of last contact.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>From the time of enrollment until the date of death from any causes at 18 months and 1 year.</time_frame>
+    <description>Overall survival was the duration from enrollment to death. For participants who are alive, overall survival was censored at the last contact.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate (DCR)</measure>
+    <time_frame>Every 12 weeks from the time of enrollment up to 4 years</time_frame>
+    <description>DCR is defined as the percent of patients with a confirmed complete response (CR), partial response (PR) or stable disease (SD) according to RECIST 1.1, at 6 weeks.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective tumor response</measure>
+    <time_frame>Every 6 weeks from the time of enrollment up to 4 years</time_frame>
+    <description>Percentage of patients with OR based assessment of intracranial and overall confirmed complete remission (CR) or confirmed partial remission (PR) according to a modified Response Evaluation Criteria in Solid Tumors (RECIST)v 1.1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Left Ventricular Ejection Fraction (LVEF)</measure>
+    <time_frame>Within 28 days prior to the first dose of treatment, pre dose on Day 1 of Cycle 2, pre dose on Day 1 of Cycle 3, pre dose on Day 1 of Cycle 5 and pre dose on Day 1 of every 2 Cycles thereafter; and at 28 days after the last dose of treatment</time_frame>
+    <description>Left Ventricular Ejection Fraction percentage change by echocardiogram or by multigated acquisition gated scan (MUGA)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Apparent Volume of Distribution (Vz/F) for subjects in Midazolam substudy (Phase 1)</measure>
+    <time_frame>7 days prior to the first dose of treatment and pre-dose, 0.5, 1, 2,3, 4, 6, 8, 9 and 24 hours post Cycle 1 Day 15 dose</time_frame>
+    <description>Volume of distribution is defined as the theoretical volume in which the total amount of drug would need to be uniformly distributed to produce the desired plasma concentration of a drug. Apparent volume of distribution after oral dose (Vz/F) is influenced by the fraction absorbed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Tumor Response</measure>
+    <time_frame>Every 6 weeks from the time of enrollment up to 4 years</time_frame>
+    <description>TTR is defined as the time from first dose to first documentation of objective tumor response (CR or PR). For patients whose OR proceeds from PR to CR, the onset of PR is taken as the onset of response. TTR will only be calculated for the subgroup of patients with a confirmed objective tumor response.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Tumor Progression (Phase 2)</measure>
+    <time_frame>From the time of enrollment up to 4 years</time_frame>
+    <description>TTP is defined as the time from first dose to first documentation of objective disease progression.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Intracranial progression (Phase 2)</measure>
+    <time_frame>From the time of enrollment up to 4 years.</time_frame>
+    <description>Time to Intracranial Progression is defined as the time from first dose to first documentation of objective intracranial disease progression.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Extracranial Progression (Phase 2)</measure>
+    <time_frame>From the time of enrollment up to 4 years.</time_frame>
+    <description>Time to Extracranial defined as the time from first dose to first documentation of objective extracranial disease progression.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vital signs</measure>
+    <time_frame>First dose of study medication through 28 days after the last dose of study medication.</time_frame>
+    <description>heart rate and blood pressure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive Function Assessment (Phase 2)</measure>
+    <time_frame>Within 28 days of first dose of study drug, Baseline (either Day -7 or Cycle 1 Day 1), Day 1 of Cycles 2-6 and then Day 1 of every other Cycle and at the end of treatment visit as defined by 28 days after the last dose of study drug.</time_frame>
+    <description>An assessment of cognitive function via a computerized cognitive test compromised of verbal learning, psychomotor function, attention and memory.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events for patients receiving crizotinib following PF-06463922 (Phase 2)</measure>
+    <time_frame>Within 2 Weeks prior to first dose of crizotinib through 28 days of the last dose of crizotinib</time_frame>
+    <description>Adverse Events as characterized by type, frequency, severity (as graded by NCI CTCAE v.4.03), seriousness and relationship to study therapy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Laboratory abnormalities for patients receiving crizotinib following PF-06463922 (Phase 2)</measure>
+    <time_frame>Within 2 Weeks of first dose of crizotinib through 28 days after the last dose of crizotinib</time_frame>
+    <description>Laboratory abnormalities as characterized by type, frequency, and severity (as graded by NCI CTCAE v.4.03).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective tumor response, as assessed by Response Evaluation Criteria in Solid Tumor (RECIST) version 1.1 for patients receiving crizotinib following PF-06463922 (Phase 2)</measure>
+    <time_frame>Every 6 weeks from the time of enrollment up to 4 years</time_frame>
+    <description>Percentage of patients with OR based assessment of intracranial and overall confirmed complete remission (CR) or confirmed partial remission (PR) according to a modified Response Evaluation Criteria in Solid Tumors (RECIST)v 1.1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS) for patients receiving crizotinib following PF-06463922 (Phase 2)</measure>
+    <time_frame>Every 6 weeks from the time of enrollment to the first documented progression or date of death from any cause, assessed up to 4 years</time_frame>
+    <description>The period from study entry to disease progression of death due to any cause or until last contact</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response for patients receiving crizotinib following PF-06463922 (Phase 2)</measure>
+    <time_frame>Every 6 weeks from time of enrollment up to 4 years</time_frame>
+    <description>DR is defined as the time from the first documentation of objective tumor response (CR or PR) to the first documentation of disease progression or to death due to any cause, whichever occurs first</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Tumor Response in patients receiving crizotinib following PF-06463922 (Phase 2)</measure>
+    <time_frame>Every 6 weeks from time of enrollment up to 4 years</time_frame>
+    <description>TTR is defined as the time from first dose to first documentation of objective tumor response (CR or PR). For patients whose OR proceeds from PR to CR, the onset of PR is taken as the onset of response. TTR will only be calculated for the subgroup of patients with a confirmed objective tumor response.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival for patients receiving crizotinib following PF-06463922 (Phase 2)</measure>
+    <time_frame>From the time of enrollment until the date of death from any causes</time_frame>
+    <description>Overall survival was the duration from enrollment to death. For participants who are alive, overall survival was censored at the last contact</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mood Assessment (Phase 2)</measure>
+    <time_frame>Baseline (either Day -7 or Cycle 1 Day 1), Day 1 of Cycles 2-6 and then Day 1 of every other Cycle and at the end of treatment visit as defined by 28 days after the last dose of study drug.</time_frame>
+    <description>An assessment of mood via the Beck Depression Inventory-II (BDI-II) scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Suicidal Ideation and Behavior Assessment (Phase 2)</measure>
+    <time_frame>Baseline (either Day -7 or Cycle 1 Day 1), Day 1 of Cycles 2-6 and then Day 1 of every other Cycle and at the end of treatment visit as defined by 28 days after the last dose of study drug</time_frame>
+    <description>An assessment of suicidal ideation and behavior via the Columbia Suicide Severity Rating Scale (C-SSRS).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Laboratory abnormalities</measure>
+    <time_frame>First dose of study drug through 28 days after the last dose of study drug.</time_frame>
+    <description>Laboratory abnormalities as characterized by type, frequency, and severity (as graded by NCI CTCAE v.4.03).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">340</enrollment>
+  <condition>ALK-positive Non Small Cell Lung Cancer (NSCLC) and ROS1-positive NSCLC</condition>
+  <arm_group>
+    <arm_group_label>PF-06463922</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Crizotinib</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>ALK+ NSCLC patients who are treatment naïve may be eligible to receive crizotinib following PF-06463922 as a substudy to the main study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PF-06463922</intervention_name>
+    <description>Oral, starting dose 10mg once a day, dose escalation in Phase 1 until recommended Phase 2 dose determined, continuous daily dosing, cycles lasting 21 days</description>
+    <arm_group_label>PF-06463922</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Crizotinib</intervention_name>
+    <description>Oral, starting dose of 250 mg BID continuous daily dosing every 21 days</description>
+    <arm_group_label>Crizotinib</arm_group_label>
+    <other_name>Xalkori</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+          -  Evidence of histologically or cytologically confirmed diagnosis of metastatic NSCLC
+             (Stage IV, AJCC v7.0) that carries an ALK rearrangement, as determined by the Food
+             and Drug Administration (FDA) approved FISH assay (Abbott Molecular Inc) or by
+             Immunohistochemistry (IHC) (Ventana Inc), or a ROS1 rearrangement as determined by
+             FISH or RT PCR or Next Generation Sequencing (NGS) via a local diagnostic test (LDT).
+             All patients (ALK positive and ROS1 positive) must have archival tissue sample
+             available and collected prior to enrollment.
+
+          -  Disease Status Requirements:
+
+        Phase 1: ALK-positive NSCLC and ROS1-positive patients must either be treatment naïve in
+        the advanced setting or have had disease progression after at least 1 previous ALK/ROS1
+        inhibitor therapy(ies).
+
+        Phase 2:
+
+        ALK-positive NSCLC patients must either be or have had:
+
+          -  Treatment naïve (ie, no prior chemotherapy in the metastatic disease setting and no
+             prior ALK inhibitor therapy allowed).
+
+          -  Disease progression after crizotinib only. No prior chemotherapy is allowed in the
+             metastatic disease setting.
+
+          -  Disease progression after crizotinib and 1 or 2 prior regimens of chemotherapy in the
+             metastatic disease setting.
+
+          -  Disease progression after 1 prior ALK inhibitor therapy other than crizotinib.
+             Patients may have had any number of prior chemotherapy regimens in any disease
+             setting.
+
+          -  Disease progression after 2 prior ALK inhibitor therapies. Patients may have had any
+             number of prior chemotherapy regimens in any disease setting.
+
+          -  Disease progression after 3 prior ALK inhibitor therapies. Patients may have had any
+             number of prior chemotherapy regimens in any disease setting.
+
+        ROS1-positive NSCLC patients may be:
+
+          -  Treatment naïve (ie, no prior chemotherapy in the metastatic disease setting and no
+             prior ROS inhibitor therapy).
+
+          -  Any number of prior therapies (ie, chemotherapy and/or ROS inhibitor therapies).
+
+               -  Tumor Requirements:
+
+        All Patients must have at least one measurable target extracranial lesion according to
+        RECIST v1.1. In addition patients with asymptomatic CNS metastases (including patients
+        asymptomatic by means of stable or decreasing doses of steroids within the last 2 weeks
+        prior to study entry) will be eligible. Patients who have leptomeningeal disease (LM) or
+        carcinomatous meningitis (CM) are eligible.
+
+          -  Adequate Bone Marrow, Pancreatic Function, Renal Function and Liver Function.
+
+          -  Negative Serum pregnancy test for females of childbearing potential Exclusion
+             Criteria
+
+          -  Radiation therapy (except palliative to relieve bone pain) within 2 weeks of study
+             entry. Whole brain radiation must have completed at least 4 weeks prior to study
+             entry.
+
+          -  Systemic anti cancer therapy completed within a minimum of 5 half lives of study
+             entry.
+
+          -  Prior therapy with an antibody or drug specifically targeting T-cell co-stimulation
+             or immune checkpoint pathways, including, but not limited to, anti-PD-1, anti-PD-L1,
+             anti-PD-L2, anti-CD137, or anti-cytotoxic T lymphocyte associated antigen 4
+             (anti-CTLA-4) antibody.
+
+          -  Active and clinically significant bacterial, fungal, or viral infection including
+             hepatitis B (HBV), hepatitis C (HCV), known human immunodeficiency virus (HIV), or
+             acquired immunodeficiency syndrome (AIDS) related illness.
+
+          -  Clinically significant cardiovascular disease (that is, active or &lt;3 months prior to
+             enrollment): cerebral vascular accident/stroke, myocardial infarction, unstable
+             angina, congestive heart failure (New York Heart Association Classification Class ≥
+             II), second-degree or third-degree AV block (unless paced) or any AV block with PR
+             &gt;220 msec. Ongoing cardiac dysrhythmias of NCI CTCAE Grade ≥2, uncontrolled atrial
+             fibrillation of any grade, bradycardia defined as &lt;50 bpm (unless patient is
+             otherwise healthy such as long-distance runners, etc.), machine-read ECG with QTc
+             &gt;470 msec, or congenital long QT syndrome.
+
+          -  History of extensive, disseminated, bilateral or presence of Grade 3 or 4
+             interstitial fibrosis or interstitial lung disease including a history of
+             pneumonitis, hypersensitivity pneumonitis, interstitial pneumonia, interstitial lung
+             disease, obliterative bronchiolitis and pulmonary fibrosis.
+
+          -  Current use or anticipated need for food or drugs that are known strong or moderate
+             CYP3A4 inhibitors, inducers and substrates; drugs that are CYP2C9 substrates; drugs
+             that are sensitive CYP2B6 substrates; drugs that are strong CYP2C19 inhibitors; drugs
+             that are strong CYP2C8 inhibitors; and drugs that are P-gp substrates.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <phone>1-800-718-1021</phone>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Highlands Oncology Group/Research</name>
+      <address>
+        <city>Fayetteville</city>
+        <state>Arkansas</state>
+        <zip>72703</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Highlands Oncology Group</name>
+      <address>
+        <city>Rogers</city>
+        <state>Arkansas</state>
+        <zip>72758</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chao Family Comprehensive Cancer Center</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868-3201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ship Drugs to: UC Irvine Medical Center</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868-3201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DRUG SHIPMENT: University of Colorado Cancer Center</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Cancer Center</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Hospital</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MDZ: Yale-New Haven Hospital</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06504</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Smilow cancer Hospital at Yale-New Haven</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Drug Shipment Address &amp; Pharmacist Designees, GUMC</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Georgetown University Medical Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital Cancer Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114-2696</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dana Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Karmanos Cancer Institute</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ship Drug to: Karmanos Center Institute</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Karmanos Cancer Institute at Farmington Hills</name>
+      <address>
+        <city>Farmington Hills</city>
+        <state>Michigan</state>
+        <zip>48334</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Siteman Cancer Center-West County</name>
+      <address>
+        <city>Creve Coeur</city>
+        <state>Missouri</state>
+        <zip>63141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Barnes-Jewish Hospital</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University Infusion Center Pharmacy</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Siteman Cancer Center-South County</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63129</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rockefeller Patient Pavilion - Memorial Sloan Kettering</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10022</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rochester Regional Health System</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14621</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Upstate Medical University</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Ohio State University</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Ohio State University</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Ohio State University</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43221</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fox Chase Cancer Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sarah Cannon Research Institute (Pharmacy)</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chris O'Brien Lifehouse</name>
+      <address>
+        <city>Sydney Local Health District [RPA]</city>
+        <state>New South Wales</state>
+        <zip>2050</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chris O'Brien Lifehouse</name>
+      <address>
+        <city>Sydney</city>
+        <state>New South Wales</state>
+        <zip>2050</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Prince Alfred Hospital</name>
+      <address>
+        <city>Sydney</city>
+        <state>New South Wales</state>
+        <zip>2050</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Peter MacCallum Cancer Centre</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Melbourne Hospital</name>
+      <address>
+        <city>Parkville</city>
+        <state>Victoria</state>
+        <zip>3050</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Antwerp</name>
+      <address>
+        <city>Edegem</city>
+        <zip>2650</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>British Columbia Cancer Agency-Vancouver Centre</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V5Z 4E6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Ottawa Hospital Cancer Centre</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1H 8L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Princess Margaret Cancer Centre</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 2M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Grenoble/ Hôpital Albert Michallon</name>
+      <address>
+        <city>Grenoble Cedex 9</city>
+        <zip>38043</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Grenoble/Hopital Albert Michallon</name>
+      <address>
+        <city>Grenoble Cedex 9</city>
+        <zip>38043</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Rennes - Hôpital Pontchaillou - CIC Inserm</name>
+      <address>
+        <city>Rennes Cedex 9</city>
+        <zip>35033</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Rennes - Hôpital Pontchaillou</name>
+      <address>
+        <city>Rennes Cedex 9</city>
+        <zip>35033</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Universitaire du Cancer de Toulouse (IUCT-O)</name>
+      <address>
+        <city>Toulouse Cedex 9</city>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Universitaire du Cancer de Toulouse (IUCT-O)</name>
+      <address>
+        <city>Toulouse</city>
+        <zip>31100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Gustave Roussy (comite poumon-pneumologie)</name>
+      <address>
+        <city>Villejuif Cedex</city>
+        <zip>94805</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsklinik Koln</name>
+      <address>
+        <city>Cologne</city>
+        <state>NRW</state>
+        <zip>50937</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Clinical Oncology, Prince of Wales Hospital</name>
+      <address>
+        <city>Shatin</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Struttura Operativa Complessa Oncologia</name>
+      <address>
+        <city>Aviano (PN)</city>
+        <zip>33081</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dipartimento di Oncologia Medica, UO Medicina 1Q A, Unita' Nuovi Farmaci e Terapie Innovative</name>
+      <address>
+        <city>Milano</city>
+        <zip>20132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Divisione di Sviluppo di Nuovi Farmaci per Terapie Innovative</name>
+      <address>
+        <city>Milano</city>
+        <zip>20141</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SC Oncologia Medica, Ospedaele Santa Maria della Misericordia, Azienda Ospedaliera di Perugia</name>
+      <address>
+        <city>Perugia</city>
+        <zip>06132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Aichi cancer center central hospital</name>
+      <address>
+        <city>Nagoya</city>
+        <state>Aichi</state>
+        <zip>464-8681</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nagoya University Hospital</name>
+      <address>
+        <city>Nagoya</city>
+        <state>Aichi</state>
+        <zip>466-8560</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Center Hospital East</name>
+      <address>
+        <city>Kashiwa</city>
+        <state>Chiba</state>
+        <zip>277-8577</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Shikoku Cancer Center</name>
+      <address>
+        <city>Matsuyama</city>
+        <state>Ehime</state>
+        <zip>791-0280</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hokkaido University Hospital</name>
+      <address>
+        <city>Sapporo</city>
+        <state>Hokkaido</state>
+        <zip>060-8648</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hyogo Cancer Center</name>
+      <address>
+        <city>Akashi</city>
+        <state>Hyogo</state>
+        <zip>673-8558</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kinki University Hospital</name>
+      <address>
+        <city>Osakasayama</city>
+        <state>Osaka</state>
+        <zip>589-8511</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Shizuoka Cancer Center</name>
+      <address>
+        <city>Sunto-gun</city>
+        <state>Shizuoka</state>
+        <zip>411-8777</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Center Hospital</name>
+      <address>
+        <city>Chuo-ku</city>
+        <state>Tokyo</state>
+        <zip>104-0045</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Kyushu Cancer Center</name>
+      <address>
+        <city>Fukuoka</city>
+        <zip>811-1395</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Cancer Institute Hospital of JFCR</name>
+      <address>
+        <city>Koto-ku, Tokyo</city>
+        <zip>135-8550</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital / Department of Internal Medicine</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03080</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03080</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National University Hospital</name>
+      <address>
+        <city>Singapore</city>
+        <zip>119074</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National University Hospital Medical Centre</name>
+      <address>
+        <city>Singapore</city>
+        <zip>119082</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Center</name>
+      <address>
+        <city>Singapore</city>
+        <zip>169610</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Quiron Madrid</name>
+      <address>
+        <city>Pozuelo de Alarcón</city>
+        <state>Madrid</state>
+        <zip>28223</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Universitaria de Navarra</name>
+      <address>
+        <city>Pamplona</city>
+        <state>Navarra</state>
+        <zip>31008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Quiron Dexeus</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08028</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari de la Vall D'Hebron Edificio General. Planta Baja. UITM. Servicio de Oncologia</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital of Lausanne (CHUV)</name>
+      <address>
+        <city>Lausanne</city>
+        <zip>1011</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kantonsspital Winterthur</name>
+      <address>
+        <city>Winterthur</city>
+        <zip>8401</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Taiwan University Hospital</name>
+      <address>
+        <city>Taipei</city>
+        <zip>100</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Hong Kong</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Singapore</country>
+    <country>Spain</country>
+    <country>Switzerland</country>
+    <country>Taiwan</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://trialinfoemail.pfizer.com/pages/landing.aspx?StudyID=B7461001&amp;StudyName=A%20Study%20Of%20PF-06463922%20An%20ALK/ROS1%20Inhibitor%20In%20Patients%20With%20Advanced%20Non%20Small%20Cell%20Lung%20Cancer%20With%20Specific%20Molecular%20Alterations</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>April 2017</verification_date>
+  <lastchanged_date>April 4, 2017</lastchanged_date>
+  <firstreceived_date>October 16, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Phase 1</keyword>
+  <keyword>Phase 2</keyword>
+  <keyword>safety</keyword>
+  <keyword>pharmacokinetic</keyword>
+  <keyword>pharmacodynamic</keyword>
+  <keyword>efficacy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Crizotinib</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

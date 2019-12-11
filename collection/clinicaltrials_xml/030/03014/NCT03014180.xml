@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7124">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03014180</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IPTL01</org_study_id>
+    <nct_id>NCT03014180</nct_id>
+  </id_info>
+  <brief_title>Clinical Evaluation of LEft VEntricular Auto Threshold Alogrithm (LEVEA)</brief_title>
+  <acronym>LEVEA</acronym>
+  <official_title>Clinical Evaluation of LEft VEntricular Auto Threshold Algorithm</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>LivaNova</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>LivaNova</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the LEVEA study is to assess the performances of a new automatic left
+      ventricular auto threshold (LVAT) algorithm (In-Clinic LVAT algorithm) when used by
+      physicians during in-hospital follow-up.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      &quot;In-Clinic LVAT&quot; feature is a non CE-marked feature designed to be activated by the
+      physician during 2 hospital follow-ups:
+
+        -  first visit: planned to be conducted 15 days maximum after inclusion
+
+        -  second visit: planned to be conducted between 1 and 3 months after the first visit The
+           evaluation consists in the comparison between the threshold value provided by the
+           algorithm and the threshold value obtained manually by the physician.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date>January 2017</start_date>
+  <completion_date type="Anticipated">July 2017</completion_date>
+  <primary_completion_date type="Anticipated">July 2017</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Success rate of &quot;In-Clinic LVAT&quot; test</measure>
+    <time_frame>3 months post inclusion</time_frame>
+    <description>The success rate is defined as the equivalence between the value measured by the algorithm and the measure obtained manually</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Diagnostic accuracy of &quot;In-Clinic LVAT&quot; test</measure>
+    <time_frame>15 days post inclusion</time_frame>
+    <description>This endpoint is the number of accurate determination of the pacing threshold value provided by the algorithm feature and an independent reviewer, on all LV pacing vectors and all pacing configurations available.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Success rate of &quot;In-Clinic LVAT&quot; test</measure>
+    <time_frame>15 days post inclusion</time_frame>
+    <description>The success rate of &quot;In-Clinic LVAT&quot; feature on pacing vectors and pacing configurations available at first and second follow-ups. The method of analysis is similar to the primary endpoint</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Success rate of &quot;In-Clinic LVAT&quot; test</measure>
+    <time_frame>3 months post inclusion</time_frame>
+    <description>The success rate of &quot;In-Clinic LVAT&quot; feature on pacing vectors and pacing configurations available at first and second follow-ups. The method of analysis is similar to the primary endpoint</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Applicability of the algorithm</measure>
+    <time_frame>3 months post inclusion</time_frame>
+    <description>Identification of the percentage of subject in whom the algorithm is not functionning</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety of the algorithm</measure>
+    <time_frame>3 months post inclusion</time_frame>
+    <description>Reporting of SAEs and any suspect behaviour of the algorithm</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">59</enrollment>
+  <condition>Heart Failure</condition>
+  <arm_group>
+    <arm_group_label>&quot;In-Clinic LVAT&quot;</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All subject prior to study enrollment has been implanted with a CRT-D device. During follow-ups, under the supervision of the physician, the algorithm embeded in the device is activated with a password. The feature is deactivated at the end of each follow-up.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>&quot;In-Clinic LVAT&quot;</intervention_name>
+    <description>Algorithm offers automatic threshold measurement of differents vectors of left ventricular stimulation.</description>
+    <arm_group_label>&quot;In-Clinic LVAT&quot;</arm_group_label>
+    <other_name>Activation of an algorithm in CRT-D device</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subject already implanted (de-novo, upgrade or replacement) according to the relevant
+             ESC Guidelines [1]:
+
+               -  With IS1 Platinium SonR CRT-D (models 1811, 1841, CE-marked) for maximum of 5
+                  days or;
+
+               -  With IS4 Platinium SonR CRT-D (model 1844, CE-marked).
+
+          -  Right atrial, right and left ventricular leads must be implanted. Only bipolar and
+             quadripolar for Left Ventricular lead.
+
+          -  Reviewed, signed and dated informed consent.
+
+        Exclusion Criteria:
+
+          -  Subject included in another clinical study that could confound the results of this
+             study;
+
+          -  Malfunction or dislodgment of right atrial, right and left ventricular implanted
+             leads;
+
+          -  Subject diagnosed with permanent atrial fibrillation;
+
+          -  Known pregnancy;
+
+          -  Minor age;
+
+          -  Under protection or guardianship;
+
+          -  Unavailability for scheduled follow-up or refusal to cooperate
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jacques Mansourati, Pr</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CHRU de Brest, FRANCE.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Hanan Fawaz, MSc</last_name>
+    <phone>00 33 6 16 53 19 60</phone>
+    <email>hanan.fawaz@livanova.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Anne Rousseau-Plasse</last_name>
+    <phone>00 33 1 46 01 30 82</phone>
+    <email>anne.rousseauplasse@livanova.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>CHRU Brest</name>
+      <address>
+        <city>Brest</city>
+        <zip>29609</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>January 2017</verification_date>
+  <lastchanged_date>January 5, 2017</lastchanged_date>
+  <firstreceived_date>October 11, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Heart failure, CRT</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Heart Failure</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,3871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="171510">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00863655</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CRAD001Y2301</org_study_id>
+    <secondary_id>2008-008698-69</secondary_id>
+    <nct_id>NCT00863655</nct_id>
+  </id_info>
+  <brief_title>Everolimus in Combination With Exemestane in the Treatment of Postmenopausal Women With Estrogen Receptor Positive Locally Advanced or Metastatic Breast Cancer Who Are Refractory to Letrozole or Anastrozole</brief_title>
+  <acronym>BOLERO-2</acronym>
+  <official_title>A Randomized Double-Blind, Placebo-Controlled Study of Everolimus in Combination With Exemestane in the Treatment of Postmenopausal Women With Estrogen Receptor Positive Locally Advanced or Metastatic Breast Cancer Who Are Refractory to Letrozole or Anastrozole</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novartis</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      There are no treatments specifically approved after recurrence or progression on a non
+      steroidal aromatase inhibitors (NSAI). In light of the need for new treatment options for
+      postmenopausal women after failure of prior NSAI therapy, the purpose of this Phase III
+      study is to compare efficacy and safety of a treatment with exemestane + everolimus to
+      exemestane + placebo in postmenopausal women with estrogen receptor positive locally
+      advanced or metastatic breast cancer refractory to NSAI.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>June 2009</start_date>
+  <completion_date type="Actual">December 2014</completion_date>
+  <primary_completion_date type="Actual">December 2014</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free Survival (PFS) Based on Local Radiology Review of Tumor Assessments.</measure>
+    <time_frame>date of randomization to the date of first documented tumor progression or death from any cause, whichever occurs first ,reported between day of first patient randomized, 27 July 2009, until cut-off date 11 February 2011.</time_frame>
+    <description>Tumor response was assessed using Response Evaluation Criteria in Solid Tumors (RECIST 1.0). For patients with no target lesion, in the absence of new lesions, the overall lesion response at each assessment was one of following: Complete Response CR), Stable Disease SD), Unknown, or Progressive Disease (PD) based on non-target lesion responses. The following is considered progression among patients with lytic or mixed (lytic+sclerotic) bone lesions: appearance of ≥1 new lytic lesions in bone; the appearance of ≥ new lesions outside of bone and unequivocal progression of existing bone lesions.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Every 3 months after End of Treatment + 28 days (every 6 weeks before)</time_frame>
+    <description>Overall survival, the key secondary endpoint in this study, is defined as the time from date of randomization to the date of death due to any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response Rate (ORR)</measure>
+    <time_frame>Every 6 weeks</time_frame>
+    <description>ORR is defined as the proportion of patients whose best overall response is either complete response (CR) or partial response (PR) according to RECIST.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Adverse Events (AEs)/Serious Adverse Events (SAEs)</measure>
+    <time_frame>Continuous and every 6 weeks</time_frame>
+    <description>In addition to AEs/SAEs, shift from baseline in vital signs and laboratory results (hematology, blood chemistry) will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Qol Scores ECOG Performance Status</measure>
+    <time_frame>Every 6 weeks</time_frame>
+    <description>Change in QoL scores over time and time to deterioration of ECOG performance status.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Benefit Rate (CBR)</measure>
+    <time_frame>Every 6 weeks</time_frame>
+    <description>CBR is defined as the proportion of patients whose best overall response is either complete response (CR), a partial response (PR) or stable disease (SD) lasting for at least 24 weeks, according to RECIST.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">724</enrollment>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Everolimus + Exemestane</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Everolimus 10 mg daily in combination with exemestane 25 mg daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo + Exemestane</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Placebo of everolimus in combination with exemestane 25 mg daily</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Everolimus</intervention_name>
+    <description>Everolimus was formulated as tablets of 5-mg strength and was packaged into blister packs . Everolimus (two 5 mg tablets daily) were administered in a blinded manner on their respective treatment arms by continuous oral daily dosing.</description>
+    <arm_group_label>Everolimus + Exemestane</arm_group_label>
+    <other_name>RAD001</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Exemestane</intervention_name>
+    <description>Exemestane 25 mg orally daily.</description>
+    <arm_group_label>Placebo + Exemestane</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Everolimus Placebo</intervention_name>
+    <description>Placebo was formulated to be indistinguishable from the everolimus tablets. Matching placebo (two tablets daily) were administered in a blinded manner on their respective treatment arms by continuous oral daily dosing.</description>
+    <arm_group_label>Placebo + Exemestane</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Adult women (≥ 18 years of age) with metastatic or locally advanced breast cancer not
+             amenable to curative treatment by surgery or radiotherapy.
+
+          -  Histological or cytological confirmation of estrogen-receptor positive (ER+) breast
+             cancer
+
+          -  Postmenopausal women.
+
+          -  Disease refractory to non steroidal aromatase inhibitors (NSAI),
+
+          -  Radiological or clinical evidence of recurrence or progression on or after the last
+             systemic therapy prior to randomization.
+
+          -  Patients must have at least one lesion that can be accurately measured or bone
+             lesions in the absence of measurable disease as defined above.
+
+        Exclusion Criteria:
+
+          -  HER2-overexpressing patients
+
+          -  Patients with only non-measurable lesions other than bone metastasis (e.g. pleural
+             effusion, ascites etc.).
+
+          -  Patients who received more than one chemotherapy line for Advanced Breast Cancer.
+
+          -  Previous treatment with exemestane or mTOR inhibitors.
+
+          -  Known hypersensitivity to mTOR inhibitors, e.g. sirolimus (rapamycin).
+
+          -  Radiotherapy within four weeks prior to randomization
+
+          -  Currently receiving hormone replacement therapy,
+
+        Other protocol-defined inclusion/exclusion criteria may apply
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <role>Study Director</role>
+    <affiliation>Novartis Pharmaceuticals</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Ironwood Cancer and Research Centers</name>
+      <address>
+        <city>Chandler</city>
+        <state>Arizona</state>
+        <zip>85224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Highlands Oncology Group DeptofHighlandsOncologyGrp(2)</name>
+      <address>
+        <city>Fayetteville</city>
+        <state>Arkansas</state>
+        <zip>72703</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Medical Group Kaiser Permanente-Moanalua M.C</name>
+      <address>
+        <city>Anaheim</city>
+        <state>California</state>
+        <zip>92807</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Comprehensive Blood and Cancer Center Dept. of CBCC (3)</name>
+      <address>
+        <city>Bakersfield</city>
+        <state>California</state>
+        <zip>93309</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Care Associates Dept.ofCancerCareAssoc. (2)</name>
+      <address>
+        <city>Fresno</city>
+        <state>California</state>
+        <zip>93720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Grass Valley Hematology Oncology Medical Group Dept. of Grass Valley Hem/Onc</name>
+      <address>
+        <city>Grass Valley</city>
+        <state>California</state>
+        <zip>95945</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Scripps Clinic SC</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Angeles Clinic and Research Institute</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>USC/Kenneth Norris Comprehensive Cancer Center Regulatory Contact 3</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90053</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sharp Memorial Hospital SharpClinicalOncologyResearch</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California San Francisco UCSF Medical Center</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Premiere Oncology/Pinnacle Oncology Hematology Dept.ofPremiereOncologyAZ</name>
+      <address>
+        <city>Santa Monica</city>
+        <state>California</state>
+        <zip>90404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St Joseph Heritage Healthcare Dept. of RRMG (4)</name>
+      <address>
+        <city>Santa Rosa</city>
+        <state>California</state>
+        <zip>94503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Comprehensive Cancer Center - Boca Raton Deerfield Beach</name>
+      <address>
+        <city>Boca Raton</city>
+        <state>Florida</state>
+        <zip>33248</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Cancer Research Institute</name>
+      <address>
+        <city>Davie</city>
+        <state>Florida</state>
+        <zip>33328</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Cancer Specialists DeptofFloridaCancerSpecialists</name>
+      <address>
+        <city>Fort Myers</city>
+        <state>Florida</state>
+        <zip>33901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Hospital Memorial Cancer Institute</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MD Anderson Cancer Center - Orlando Dept.ofMDACC-Orlando(2)</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Palm Beach Cancer Institute</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Medical Clinic PA Dept.ofFloridaMedicalClinic</name>
+      <address>
+        <city>Zephyrhills</city>
+        <state>Florida</state>
+        <zip>33542</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Georgia Cancer Specialists. Drug Ship</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University Medical Center Study Coordinator</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oncology Specialists, SC Dept.of Oncology Specialists</name>
+      <address>
+        <city>Park Ridge</city>
+        <state>Illinois</state>
+        <zip>60068-0736</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hematology Oncology of Indiana</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46260</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Horizon Oncology Center</name>
+      <address>
+        <city>Lafayette</city>
+        <state>Indiana</state>
+        <zip>47905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center of Kansas Dept.ofCancerCtr.ofKansas</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67214-3728</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Louisville / James Graham Brown Cancer Center SC</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hematology Oncology Clinic Hematology Oncology Clinic (2)</name>
+      <address>
+        <city>Baton Rouge</city>
+        <state>Louisiana</state>
+        <zip>70808</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Crescent City Research Consortium, LLC Dept of Hem&amp;Onc Specialist - 2</name>
+      <address>
+        <city>Metairie</city>
+        <state>Louisiana</state>
+        <zip>70006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Anne Arundel Health System Research Institute Wayson Pavilion</name>
+      <address>
+        <city>Annapolis</city>
+        <state>Maryland</state>
+        <zip>21401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Medical Center Medical Oncology &amp; Hematology</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Weinberg Cancer Institute at Franklin Square Hospital</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21237-3998</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Maryland Hematology/Oncology Associates, P.A.</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21237</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Frederick Memorial Hospital Dept. of FMH-IRB</name>
+      <address>
+        <city>Frederick</city>
+        <state>Maryland</state>
+        <zip>21701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Holy Cross Hospital Holy Cross</name>
+      <address>
+        <city>Silver Spring</city>
+        <state>Maryland</state>
+        <zip>20910</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lahey Clinic Dept of Lahey Clinic (2)</name>
+      <address>
+        <city>Burlington</city>
+        <state>Massachusetts</state>
+        <zip>01805</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fairview Southdale Medical Oncology Clinic</name>
+      <address>
+        <city>Edina</city>
+        <state>Minnesota</state>
+        <zip>55435</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Louis Cancer &amp; Breast Institute Dept.ofSt.LouisCancer&amp;Breast</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Southeast Nebraska Oncology Cancer Center</name>
+      <address>
+        <city>Lincoln</city>
+        <state>Nebraska</state>
+        <zip>68510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regional Cancer Care Associates Dept. of the CCHD</name>
+      <address>
+        <city>Cherry Hill</city>
+        <state>New Jersey</state>
+        <zip>08003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Trinitas Comprehensive Cancer Center Dept. of Trinitas</name>
+      <address>
+        <city>Elizabeth</city>
+        <state>New Jersey</state>
+        <zip>07207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of New Mexico Cancer Research Center Dept of UNM Cancer &amp; Research</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87131</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Alliance Dept.ofArenaOncologyAssoc(2)</name>
+      <address>
+        <city>Lake Success</city>
+        <state>New York</state>
+        <zip>11042</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ProHealth Care</name>
+      <address>
+        <city>Lake Success</city>
+        <state>New York</state>
+        <zip>11042</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Medical Center Dept.ofBeth Israel Med. Ctr(2)</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Weill Cornell Medical College Weill Cornell Med. Ctr.</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hematology Oncology Association of Rockland</name>
+      <address>
+        <city>Nyack</city>
+        <state>New York</state>
+        <zip>10960</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Marion L. Shepard Cancer Center</name>
+      <address>
+        <city>Washington</city>
+        <state>North Carolina</state>
+        <zip>27889</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Centers of Southwest Oklahoma Cancer Research Dept.of Southwest Oklahoma</name>
+      <address>
+        <city>Lawton</city>
+        <state>Oklahoma</state>
+        <zip>73505</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Care Associates SC</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Penn State University / Milton S. Hershey Medical Center Division of Oncology (2)</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033-0850</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina -Hollings Cancer Center Dept. MUSC/HollingsCancerCtr</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sarah Cannon Research Institute Dept.ofSarahCannonCancerCtr(5)</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Southwestern Medical Center SimmonsComprehensiveCancerCtr.</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390-8852</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Center for Cancer and Blood Disorders Dept. of The Ctr for C &amp; BD(2)</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas/MD Anderson Cancer Center Dept.ofMDAndersonCancerCtr(2)</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030-4009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hope Oncology HOPE Richardson</name>
+      <address>
+        <city>Richardson</city>
+        <state>Texas</state>
+        <zip>75080</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northern Utah Cancer Associates SC</name>
+      <address>
+        <city>Ogden</city>
+        <state>Utah</state>
+        <zip>84403-3105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Central Utah Clinic CRAD001Y2301</name>
+      <address>
+        <city>Provo</city>
+        <state>Utah</state>
+        <zip>84604</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Utah Cancer Specialists Dept.of Utah Cancer Spec. (2)</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah / Huntsman Cancer Institute Dept.ofHuntsmanCancerInst.(2)</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Oncology &amp; Hematology Associates of Northern VA Med. Onc&amp;Hem Assoc. of No.VA</name>
+      <address>
+        <city>Reston</city>
+        <state>Virginia</state>
+        <zip>20190</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Wisconsin Hospital &amp; Clinics UW ComprehensiveCancerCtr(2)</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Nambour</city>
+        <state>Queensland</state>
+        <zip>4560</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Redcliffe</city>
+        <state>Queensland</state>
+        <zip>4020</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bedford Park</city>
+        <state>South Australia</state>
+        <zip>5042</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Parkville</city>
+        <state>Victoria</state>
+        <zip>3050</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Subiaco</city>
+        <state>Western Australia</state>
+        <zip>6008</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Innsbruck</city>
+        <zip>A-6020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Linz</city>
+        <zip>A-4010</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Salzburg</city>
+        <zip>5020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Wels</city>
+        <zip>A-4600</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Wien</city>
+        <zip>A-1090</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Brussel</city>
+        <zip>1090</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bruxelles</city>
+        <zip>1000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Liege</city>
+        <zip>4000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Sint-Niklaas</city>
+        <zip>9100</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Wilrijk</city>
+        <zip>2610</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Salvador</city>
+        <state>BA</state>
+        <zip>41825-010</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Uberlândia</city>
+        <state>MG</state>
+        <zip>38408-150</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <state>RJ</state>
+        <zip>20230-130</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>RS</state>
+        <zip>90560-030</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>São Paulo</city>
+        <state>SP</state>
+        <zip>01246-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N 4N2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Moncton</city>
+        <state>New Brunswick</state>
+        <zip>E1C 6Z8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <zip>B3H 2Y9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Cambridge</city>
+        <state>Ontario</state>
+        <zip>N1R 3G2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>N6A 4L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Newmarket</city>
+        <state>Ontario</state>
+        <zip>J7Y 2P9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>St. Catharines</city>
+        <state>Ontario</state>
+        <zip>L2S 0A9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M4C 3E7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M4N 3M5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Weston</city>
+        <state>Ontario</state>
+        <zip>M9N 1N8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Greenfield Park</city>
+        <state>Quebec</state>
+        <zip>J4V 2H1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H2W 1S6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H2W 1T8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H4J 1C5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Sherbrooke</city>
+        <state>Quebec</state>
+        <zip>J1H 5N4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Quebec</city>
+        <zip>G1S 4L8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Olomouc</city>
+        <state>CZE</state>
+        <zip>775 20</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Brno</city>
+        <zip>656 53</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Praha</city>
+        <zip>14044</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Alexandria</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Cairo</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Menoufiya</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>La Roche sur Yon Cedex</city>
+        <zip>85925</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Le Mans</city>
+        <zip>72000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Lyon Cedex</city>
+        <zip>69373</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Marseille</city>
+        <zip>13008</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Paris</city>
+        <zip>75010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Rouen Cedex 1</city>
+        <zip>76038</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Rouen</city>
+        <zip>76000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Saint-Herblain Cédex</city>
+        <zip>44805</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Saint-Nazaire</city>
+        <zip>44600</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10098</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Duesseldorf</city>
+        <zip>40225</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Frankfurt</city>
+        <zip>60389</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Mannheim</city>
+        <zip>68165</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Muenchen</city>
+        <zip>80637</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Muenchen</city>
+        <zip>81377</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Muenster</city>
+        <zip>48149</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Trier</city>
+        <zip>54290</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Hong Kong SAR</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Budapest</city>
+        <zip>H-1122</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Szeged</city>
+        <zip>H-6720</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Szolnok</city>
+        <zip>H-5000</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Brindisi</city>
+        <state>BR</state>
+        <zip>72100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Catania</city>
+        <state>CT</state>
+        <zip>95100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Antella - Bagno a Ripoli</city>
+        <state>FI</state>
+        <zip>50011</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Genova</city>
+        <state>GE</state>
+        <zip>16132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Macerata</city>
+        <state>MC</state>
+        <zip>62100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Perugia</city>
+        <state>PG</state>
+        <zip>06129</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Torino</city>
+        <state>TO</state>
+        <zip>10126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Terni</city>
+        <state>TR</state>
+        <zip>05100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Saronno</city>
+        <state>Va</state>
+        <zip>21047</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Varese</city>
+        <state>VA</state>
+        <zip>21100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Nagoya</city>
+        <state>Aichi</state>
+        <zip>464-8681</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Kashiwa</city>
+        <state>Chiba</state>
+        <zip>277-8577</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Matsuyama</city>
+        <state>Ehime</state>
+        <zip>791-0280</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Kitakyushu</city>
+        <state>Fukuoka</state>
+        <zip>802-0077</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Maebashi-city</city>
+        <state>Gunma</state>
+        <zip>371-8511</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Sapporo-city</city>
+        <state>Hokkaido</state>
+        <zip>060-8648</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Isehara-city</city>
+        <state>Kanagawa</state>
+        <zip>259-1193</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Kumamoto City</city>
+        <state>Kumamoto</state>
+        <zip>860-8556</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Kyoto-city</city>
+        <state>Kyoto</state>
+        <zip>606-8507</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Suita-city</city>
+        <state>Osaka</state>
+        <zip>565-0871</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Hidaka</city>
+        <state>Saitama</state>
+        <zip>350-1298</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Kitaadachi-gun</city>
+        <state>Saitama</state>
+        <zip>362-0806</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bunkyo-ku</city>
+        <state>Tokyo</state>
+        <zip>113-8677</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Chuo-ku</city>
+        <state>Tokyo</state>
+        <zip>104-0045</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Chuo-ku</city>
+        <state>Tokyo</state>
+        <zip>104-8560</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Koto</city>
+        <state>Tokyo</state>
+        <zip>135-8550</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Fukuoka</city>
+        <zip>811-1395</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Kagoshima</city>
+        <zip>892-0833</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Osaka</city>
+        <zip>537-8511</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Osaka</city>
+        <zip>540-0006</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Hwasun-gun</city>
+        <state>Jeollanam-do</state>
+        <zip>519-809</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Seoul</city>
+        <state>Korea</state>
+        <zip>03722</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>01812</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Alkmaar</city>
+        <zip>1815 JD</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Amsterdam</city>
+        <zip>1090 HM</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Den Haag</city>
+        <zip>2545 CH</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Dordrecht</city>
+        <zip>3318AT</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Eindhoven</city>
+        <zip>5631 BM</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Sittard-Geleen</city>
+        <zip>6162 BG</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Christchurch</city>
+        <zip>8001</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Lørenskog</city>
+        <zip>NO-1478</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Krakow</city>
+        <zip>31-108</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Rzeszow</city>
+        <zip>35-021</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>04-125</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Malaga</city>
+        <state>Andalucia</state>
+        <zip>29010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Sevilla</city>
+        <state>Andalucia</state>
+        <zip>41017</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Lleida</city>
+        <state>Cataluna</state>
+        <zip>25198</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Barcelona</city>
+        <state>Catalunya</state>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Terrassa</city>
+        <state>Cataluña</state>
+        <zip>08221</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>La Coruna</city>
+        <state>Galicia</state>
+        <zip>15006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Santiago de Compostela</city>
+        <state>Galicia</state>
+        <zip>15706</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Mallorca</city>
+        <state>Islas Baleares</state>
+        <zip>07198</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Palma De Mallorca</city>
+        <state>Islas Baleares</state>
+        <zip>07120</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28033</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Stockholm</city>
+        <zip>SE-118 83</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Stockholm</city>
+        <zip>SE-171 76</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Uppsala</city>
+        <zip>SE-751 85</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bangkok</city>
+        <zip>10400</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bangkok</city>
+        <zip>10700</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Chiang Mai</city>
+        <zip>50200</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Songkla</city>
+        <zip>90110</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Altunizade</city>
+        <zip>34662</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Ankara</city>
+        <zip>06100</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Izmir</city>
+        <zip>35040</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Broomfield</city>
+        <state>Chelmsford</state>
+        <zip>CM1 7ET</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Truro</city>
+        <state>Cornwall</state>
+        <zip>TR1 3LJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Cardiff</city>
+        <zip>CF14 2TL</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Nottingham</city>
+        <zip>NG5 1PB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Sheffield</city>
+        <zip>S10 2SJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Southampton</city>
+        <zip>SO16 6YD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Brazil</country>
+    <country>Canada</country>
+    <country>Czech Republic</country>
+    <country>Egypt</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Hong Kong</country>
+    <country>Hungary</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Netherlands</country>
+    <country>New Zealand</country>
+    <country>Norway</country>
+    <country>Poland</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>Thailand</country>
+    <country>Turkey</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.bolerobreastcancertrials.com</url>
+    <description>Visit NovartisClinicalTrials.com: Pre-qualify for a trial, and view a list of trials and participating study centers.</description>
+  </link>
+  <verification_date>November 2015</verification_date>
+  <lastchanged_date>November 25, 2015</lastchanged_date>
+  <firstreceived_date>March 16, 2009</firstreceived_date>
+  <firstreceived_results_date>July 31, 2012</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Breast Cancer</keyword>
+  <keyword>Estrogen Receptor positive</keyword>
+  <keyword>ER+</keyword>
+  <keyword>exemestane</keyword>
+  <keyword>mTOR</keyword>
+  <keyword>everolimus</keyword>
+  <keyword>refractory</keyword>
+  <keyword>NSAI</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Exemestane</mesh_term>
+    <mesh_term>Anastrozole</mesh_term>
+    <mesh_term>Letrozole</mesh_term>
+    <mesh_term>Everolimus</mesh_term>
+    <mesh_term>Sirolimus</mesh_term>
+    <mesh_term>Estrogens</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Everolimus + Exemestane</title>
+          <description>Everolimus 10 mg daily in combination with exemestane 25 mg daily</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo + Exemestane</title>
+          <description>Placebo of everolimus in combination with exemestane 25 mg daily</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="485"/>
+                <participants group_id="P2" count="239"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="258">Completed means discontinued the treatment period.</participants>
+                <participants group_id="P2" count="170">Completed means discontinued the treatment period.</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="227"/>
+                <participants group_id="P2" count="69"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Ongoing</title>
+              <participants_list>
+                <participants group_id="P1" count="227"/>
+                <participants group_id="P2" count="69"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Everolimus + Exemestane</title>
+          <description>Everolimus 10 mg daily in combination with exemestane 25 mg daily</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo + Exemestane</title>
+          <description>Placebo of everolimus in combination with exemestane 25 mg daily</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="485"/>
+            <count group_id="B2" value="239"/>
+            <count group_id="B3" value="724"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="62.5" spread="10.31"/>
+                    <measurement group_id="B2" value="61.2" spread="9.75"/>
+                    <measurement group_id="B3" value="62.1" spread="10.14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Gender</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Female</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="485"/>
+                    <measurement group_id="B2" value="239"/>
+                    <measurement group_id="B3" value="724"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Male</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Progression-free Survival (PFS) Based on Local Radiology Review of Tumor Assessments.</title>
+        <description>Tumor response was assessed using Response Evaluation Criteria in Solid Tumors (RECIST 1.0). For patients with no target lesion, in the absence of new lesions, the overall lesion response at each assessment was one of following: Complete Response CR), Stable Disease SD), Unknown, or Progressive Disease (PD) based on non-target lesion responses. The following is considered progression among patients with lytic or mixed (lytic+sclerotic) bone lesions: appearance of ≥1 new lytic lesions in bone; the appearance of ≥ new lesions outside of bone and unequivocal progression of existing bone lesions.</description>
+        <time_frame>date of randomization to the date of first documented tumor progression or death from any cause, whichever occurs first ,reported between day of first patient randomized, 27 July 2009, until cut-off date 11 February 2011.</time_frame>
+        <population>All randomized patients were included in the Full Analysis Set.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Everolimus + Exemestane</title>
+            <description>Everolimus 10 mg daily in combination with exemestane 25 mg daily</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + Exemestane</title>
+            <description>Placebo of everolimus in combination with exemestane 25 mg daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Progression-free Survival (PFS) Based on Local Radiology Review of Tumor Assessments.</title>
+          <description>Tumor response was assessed using Response Evaluation Criteria in Solid Tumors (RECIST 1.0). For patients with no target lesion, in the absence of new lesions, the overall lesion response at each assessment was one of following: Complete Response CR), Stable Disease SD), Unknown, or Progressive Disease (PD) based on non-target lesion responses. The following is considered progression among patients with lytic or mixed (lytic+sclerotic) bone lesions: appearance of ≥1 new lytic lesions in bone; the appearance of ≥ new lesions outside of bone and unequivocal progression of existing bone lesions.</description>
+          <population>All randomized patients were included in the Full Analysis Set.</population>
+          <units>months</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="485"/>
+                <count group_id="O2" value="239"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.93" lower_limit="6.44" upper_limit="8.05"/>
+                    <measurement group_id="O2" value="2.83" lower_limit="2.76" upper_limit="4.14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Overall Survival (OS)</title>
+        <description>Overall survival, the key secondary endpoint in this study, is defined as the time from date of randomization to the date of death due to any cause.</description>
+        <time_frame>Every 3 months after End of Treatment + 28 days (every 6 weeks before)</time_frame>
+        <posting_date>12/2015</posting_date>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Overall Response Rate (ORR)</title>
+        <description>ORR is defined as the proportion of patients whose best overall response is either complete response (CR) or partial response (PR) according to RECIST.</description>
+        <time_frame>Every 6 weeks</time_frame>
+        <posting_date>12/2015</posting_date>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Incidence of Adverse Events (AEs)/Serious Adverse Events (SAEs)</title>
+        <description>In addition to AEs/SAEs, shift from baseline in vital signs and laboratory results (hematology, blood chemistry) will be reported.</description>
+        <time_frame>Continuous and every 6 weeks</time_frame>
+        <posting_date>12/2015</posting_date>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Qol Scores ECOG Performance Status</title>
+        <description>Change in QoL scores over time and time to deterioration of ECOG performance status.</description>
+        <time_frame>Every 6 weeks</time_frame>
+        <posting_date>12/2015</posting_date>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Clinical Benefit Rate (CBR)</title>
+        <description>CBR is defined as the proportion of patients whose best overall response is either complete response (CR), a partial response (PR) or stable disease (SD) lasting for at least 24 weeks, according to RECIST.</description>
+        <time_frame>Every 6 weeks</time_frame>
+        <posting_date>12/2015</posting_date>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <group_list>
+        <group group_id="E1">
+          <title>Everolimus 10mg@+Exemestane</title>
+          <description>Everolimus 10mg@+exemestane</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo@+Exemestane</title>
+          <description>Placebo@+exemestane</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="129" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="33" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Disseminated intravascular coagulation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Lymphadenopathy</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Neutropenia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Thrombocytopenia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arrhythmia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Atrial fibrillation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Cardiac arrest</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Cardiac disorder</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Cardiac failure</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Cardiomyopathy</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Cardiopulmonary failure</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Sinus tachycardia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Tachyarrhythmia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Tachycardia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal distension</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Abdominal pain upper</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Ascites</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Colitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Duodenal obstruction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Dysphagia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Enterocolitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Gastric haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Gastritis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Gastritis erosive</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Gastrointestinal disorder</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Gastrointestinal haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Haemorrhoidal haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Intestinal perforation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Intestinal ulcer</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Large intestinal haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Periodontitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Rectal haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Small intestinal obstruction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Stomatitis</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Asthenia</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Chest discomfort</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Chest pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Drug withdrawal syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>General physical health deterioration</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Hyperpyrexia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Malaise</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Non-cardiac chest pain</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Pain</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute hepatic failure</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Bile duct stone</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Cholecystitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Cholelithiasis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Hepatic failure</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal abscess</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Bronchitis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Bronchopneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Cellulitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Enterocolitis infectious</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Erysipelas</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Gastroenteritis</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Hepatitis C</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Herpes zoster</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Klebsiella sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Lung infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Neutropenic sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia primary atypical</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Pyelonephritis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Staphylococcal sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Upper respiratory tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection bacterial</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Femur fracture</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Fracture</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Overdose</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary radiation injury</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Spinal compression fracture</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Spinal fracture</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Wound dehiscence</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Alanine aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Aspartate aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Blood creatinine increased</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Blood potassium decreased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Computerised tomogram abnormal</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>General physical condition abnormal</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Hepatic enzyme increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>International normalised ratio increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Decreased appetite</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Dehydration</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Hypercholesterolaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Hyperglycaemia</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Hyperkalaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Hypertriglyceridaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Hypokalaemia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Hypophagia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Bone pain</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Muscle haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Muscular weakness</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Musculoskeletal chest pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Osteonecrosis of jaw</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Pain in extremity</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Pathological fracture</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Breast cancer</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Cancer pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Malignant pleural effusion</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Metastases to central nervous system</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Oesophageal carcinoma</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Pituitary tumour benign</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Thyroid cancer</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Tumour haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Tumour pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cerebral infarction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Convulsion</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Epilepsy</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Hypersomnia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Hypoaesthesia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Intracranial pressure increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Lethargy</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Paraparesis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Peripheral motor neuropathy</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Sciatica</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Spinal cord compression</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Syncope</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Transient ischaemic attack</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Tremor</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Completed suicide</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Confusional state</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Delirium</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Mental status changes</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Azotaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Hydronephrosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Renal disorder</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Renal failure</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Renal failure acute</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Renal impairment</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute respiratory distress syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Dyspnoea exertional</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Haemoptysis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Hypoxia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Interstitial lung disease</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Lung disorder</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Pharyngeal inflammation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Pleural effusion</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Pneumonitis</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Productive cough</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary embolism</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Respiratory distress</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Angioedema</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Blister</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Dermatitis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Erythema</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Pruritus</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Surgical and medical procedures</title>
+            <event_list>
+              <event>
+                <sub_title>Preventive surgery</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Deep vein thrombosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Embolism arterial</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Intra-abdominal haematoma</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Ischaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Lymphoedema</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Thrombophlebitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Venous thrombosis limb</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="478" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="202" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" subjects_affected="93" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Leukopenia</sub_title>
+                <counts group_id="E1" subjects_affected="27" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Neutropenia</sub_title>
+                <counts group_id="E1" subjects_affected="39" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Thrombocytopenia</sub_title>
+                <counts group_id="E1" subjects_affected="61" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal pain upper</sub_title>
+                <counts group_id="E1" subjects_affected="34" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" subjects_affected="67" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="31" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="157" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="44" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Dry mouth</sub_title>
+                <counts group_id="E1" subjects_affected="51" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="16" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="138" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="65" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Stomatitis</sub_title>
+                <counts group_id="E1" subjects_affected="281" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="26" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="75" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="27" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Asthenia</sub_title>
+                <counts group_id="E1" subjects_affected="63" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="170" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="65" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Oedema peripheral</sub_title>
+                <counts group_id="E1" subjects_affected="92" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="15" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" subjects_affected="70" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Nasopharyngitis</sub_title>
+                <counts group_id="E1" subjects_affected="46" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="21" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="45" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Alanine aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="57" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Aspartate aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="64" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="13" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Blood alkaline phosphatase increased</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Blood creatinine increased</sub_title>
+                <counts group_id="E1" subjects_affected="36" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Blood lactate dehydrogenase increased</sub_title>
+                <counts group_id="E1" subjects_affected="27" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Gamma-glutamyltransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="43" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="20" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Weight decreased</sub_title>
+                <counts group_id="E1" subjects_affected="119" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="15" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Decreased appetite</sub_title>
+                <counts group_id="E1" subjects_affected="142" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="28" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Hypercholesterolaemia</sub_title>
+                <counts group_id="E1" subjects_affected="44" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Hyperglycaemia</sub_title>
+                <counts group_id="E1" subjects_affected="63" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Hypertriglyceridaemia</sub_title>
+                <counts group_id="E1" subjects_affected="26" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Hypokalaemia</sub_title>
+                <counts group_id="E1" subjects_affected="34" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" subjects_affected="93" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="40" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" subjects_affected="64" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="23" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Bone pain</sub_title>
+                <counts group_id="E1" subjects_affected="31" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="20" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Musculoskeletal chest pain</sub_title>
+                <counts group_id="E1" subjects_affected="29" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Musculoskeletal pain</sub_title>
+                <counts group_id="E1" subjects_affected="24" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="16" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <counts group_id="E1" subjects_affected="30" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="15" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Pain in extremity</sub_title>
+                <counts group_id="E1" subjects_affected="41" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="25" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="32" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="15" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Dysgeusia</sub_title>
+                <counts group_id="E1" subjects_affected="104" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="14" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="103" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="34" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" subjects_affected="65" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="19" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" subjects_affected="116" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="27" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" subjects_affected="93" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="24" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Epistaxis</sub_title>
+                <counts group_id="E1" subjects_affected="83" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Oropharyngeal pain</sub_title>
+                <counts group_id="E1" subjects_affected="26" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Pneumonitis</sub_title>
+                <counts group_id="E1" subjects_affected="66" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Alopecia</sub_title>
+                <counts group_id="E1" subjects_affected="49" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Dry skin</sub_title>
+                <counts group_id="E1" subjects_affected="35" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Nail disorder</sub_title>
+                <counts group_id="E1" subjects_affected="38" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Pruritus</sub_title>
+                <counts group_id="E1" subjects_affected="63" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Rash</sub_title>
+                <counts group_id="E1" subjects_affected="186" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="15" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hot flush</sub_title>
+                <counts group_id="E1" subjects_affected="27" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="34" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Hypertension</sub_title>
+                <counts group_id="E1" subjects_affected="39" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="238"/>
+              </event>
+              <event>
+                <sub_title>Lymphoedema</sub_title>
+                <counts group_id="E1" subjects_affected="25" subjects_at_risk="482"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="238"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>Principal Investigators are NOT employed by the organization sponsoring the study. Other disclosure agreement that restricts the right of the PI to discuss or publish trial results after the trial completes.
+The terms and conditions of Novartis' agreements with its investigators may vary. However, Novartis does not prohibit any investigator from publishing. Any publications from a single-site are postponed until the publication of the pooled data in the clinical trial.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Study Director</name_or_title>
+      <organization>Novartis Pharmaceutical</organization>
+      <phone>862-778-8300</phone>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>

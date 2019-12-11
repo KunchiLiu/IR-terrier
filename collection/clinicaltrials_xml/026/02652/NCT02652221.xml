@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="34900">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02652221</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2014-0478</org_study_id>
+    <nct_id>NCT02652221</nct_id>
+  </id_info>
+  <brief_title>Determination of Liver Stiffness in Chronic Liver Disease Patients by Acoustic Radiation Force Imaging (ARFI) Ultrasound</brief_title>
+  <official_title>Determination of Liver Stiffness in Chronic Liver Disease Patients by Acoustic Radiation Force Imaging (ARFI) Ultrasound</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Children's Hospital Medical Center, Cincinnati</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Siemens Medical Solutions</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Children's Hospital Medical Center, Cincinnati</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A prospective, pilot study using acoustic radiation force imaging (ARFI) ultrasound (US) to
+      quantify liver stiffness in children and young adults with chronic liver disease. ARFI
+      results will be compared to the current clinical standard of Magnetic Resonance Elastography
+      (MRE) and to liver biopsy when available.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      ARFI US is a novel technique, recently FDA approved for use in children and adults, which
+      provides an alternative method for quantifying liver stiffness. ARFI US has been shown in a
+      small pilot investigation in Europe in children to be reliable and rapid in estimating
+      moderate to severe liver stiffness using histology as a reference gold standard. ARFI
+      measures the speed of a shear wave in the examined tissue, expressed in m/s. This shear wave
+      velocity can be mathematically converted into a liver stiffness value, which can then be
+      used to estimate degree of liver fibrosis. The technique is non-invasive, uses no ionizing
+      radiation, and is fast (several minutes to complete). It is possible that ARFI US will be
+      more accurate than MRE in quantifying liver stiffness. In addition, ARFI US will ultimately
+      be a less expensive clinical test, shorter in duration, and will not require
+      sedation/anesthesia in younger children as MRE requires.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 2014</start_date>
+  <completion_date type="Actual">May 2016</completion_date>
+  <primary_completion_date type="Actual">December 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Agreement in measured shearwave speed between ARFI and MRE</measure>
+    <time_frame>Within 24 hours</time_frame>
+    <description>The investigators are seeking to define agreement between ARFI and MRE liver stiffness measurements obtained in the same patients on the same day to determine if the modalities can be used interchangeably for measurement of liver stiffness and prediction of significant liver fibrosis</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">55</enrollment>
+  <condition>Chronic Liver Disease</condition>
+  <arm_group>
+    <arm_group_label>Study cohort</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Acoustic Radiation Force Imaging</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Acoustic Radiation Force Imaging</intervention_name>
+    <description>ARFI US is a novel technique, recently FDA approved for use in children and adults, which provides an alternative method for quantifying liver stiffness.</description>
+    <arm_group_label>Study cohort</arm_group_label>
+    <other_name>ARFI</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Less than 25 years old with chronic liver disease
+
+        Exclusion Criteria:
+
+          -  Subjects without clinically ordered MRE
+
+          -  Subjects who cannot cooperate with performance of the short ARFI exam
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>25 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andrew Trout, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Children's Hospital Medical Center, Cincinnati</affiliation>
+  </overall_official>
+  <verification_date>July 2016</verification_date>
+  <lastchanged_date>July 28, 2016</lastchanged_date>
+  <firstreceived_date>January 4, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Liver Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

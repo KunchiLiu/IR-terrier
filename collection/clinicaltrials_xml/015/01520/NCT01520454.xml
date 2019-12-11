@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="121543">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01520454</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2009P-000370</org_study_id>
+    <nct_id>NCT01520454</nct_id>
+  </id_info>
+  <brief_title>Effect of Increased Free Fatty Acids on Leptin Function</brief_title>
+  <official_title>Lipotoxicity and Leptin Signaling</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Beth Israel Deaconess Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Beth Israel Deaconess Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Obese people have elevated levels of the hormone leptin. Despite this, they seem to be
+      resistant to the effects of this hormone, which usually regulates appetite and energy
+      expenditure. This is similar to what happens with insulin levels in the obese.
+
+      It has been shown that obese people also have higher levels of free fatty acids in the blood
+      when compared with lean people, and that this may cause impaired effect of insulin. The
+      investigators believe that elevated free fatty acids may also affect leptin function. In
+      this study, the investigators are increasing the levels of free fatty acids in healthy
+      volunteers and looking for effects on leptin function before and after.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>November 2011</start_date>
+  <completion_date type="Anticipated">December 2015</completion_date>
+  <primary_completion_date type="Actual">December 2013</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in intracellular messengers of leptin signaling</measure>
+    <time_frame>Baseline to 6 hours</time_frame>
+    <description>We will look at the change from baseline to +6 hours of a range of intracellular messengers associated with leptin signaling, most prominently STAT3/pSTAT3 ratio.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in circulating levels of gut hormones (GLP-1, GIP, ghrelin, PYY)</measure>
+    <time_frame>Baseline to 6 hours</time_frame>
+    <description>We will assess the change from baseline to six hours in these gut-secreted hormones and compare between different intervention groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in circulating hormone levels</measure>
+    <time_frame>Baseline to 6 hours</time_frame>
+    <description>We will assess the change from baseline to 6 hours in a range of standard hormones including insulin, glucose, thyroid hormones, growth hormones, etc. as well as leptin and other adipokines. We will compare the different interventional groups.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">44</enrollment>
+  <condition>Obesity</condition>
+  <condition>Leptin Resistance</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>IV saline with heparin, oral water</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High dose fat solution</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intralipid at high dose, with heparin and PO water</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low dose fat solution</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Low dose IV Intralipid with heparin and PO water</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Oral fat</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Oral fat load with IV saline</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Saline</intervention_name>
+    <description>IV saline at 0.83 mL/kg/hr for six hours</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_label>Oral fat</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Intralipid</intervention_name>
+    <description>Intralipid in either low-dose or high dose (10% vs. 20%) at 0.83 mL/kr/hr for six hours</description>
+    <arm_group_label>High dose fat solution</arm_group_label>
+    <arm_group_label>Low dose fat solution</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Water</intervention_name>
+    <description>Water by mouth</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_label>High dose fat solution</arm_group_label>
+    <arm_group_label>Low dose fat solution</arm_group_label>
+    <arm_group_label>Oral fat</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Soybean oil</intervention_name>
+    <description>Soybean oil by mouth at 1.25 g/kg x 2 doses</description>
+    <arm_group_label>Oral fat</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Heparin</intervention_name>
+    <description>Heparin bolus of 1000 units followed by 800 u/hr, adjust per PTT, for 5.5 hours</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_label>High dose fat solution</arm_group_label>
+    <arm_group_label>Low dose fat solution</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age 18-65
+
+        Exclusion Criteria:
+
+          1. Subjects with a history of any illness, other than obesity, that may affect insulin
+             sensitivity (anemia, infectious diseases, renal or hepatic failure, uncontrolled
+             hypertension, cancer, lymphoma, chronic inflammatory conditions such as inflammatory
+             bowel disease and rheumatoid arthritis, states of cortisol or growth hormone excess,
+             alcoholism or drug abuse, and eating disorders).
+
+          2. History of diabetes mellitus.
+
+          3. Subjects taking any medications that are known to influence glucose metabolism such
+             as glucocorticoids will also be excluded. We will screen for these conditions by
+             means of a detailed history and review of systems and physical examination (see
+             below).
+
+          4. Subjects taking any medications known to affect lipids such as statins will also be
+             excluded. We will screen for these similar to above.
+
+          5. Cholesterol greater or equal to 250 mg/dL and/or triglyceride levels greater than 500
+             mg/dL at the time of screening, as determined by laboratory testing.
+
+          6. Subjects who have a known history of anaphylaxis or anaphylactoid-like reactions or
+             who have a known hypersensitivity to anesthetic agents such as Lidocaine or Marcaine
+             will be excluded from the study.
+
+          7. Hypersensitivity to fat emulsion or any component of the formulation; severe egg or
+             legume (soybean) allergies; pathologic hyperlipidemia, lipoid nephrosis, acute
+             pancreatitis associated with hyperlipemia.
+
+          8. Hypersensitivity to heparin or any component of the formulation
+
+          9. Severe thrombocytopenia, uncontrolled active bleeding, disseminated intravascular
+             coagulation (DIC); suspected intracranial hemorrhage.
+
+         10. Subjects with a history of bleeding dyscrasia, poor wound healing or any medical
+             condition precluding supine position will be excluded from the study.
+
+         11. Unable to follow study protocol or any condition that in the opinion of the
+             investigator makes the subject unsuitable for the study.
+
+         12. Pregnancy
+
+         13. Prior history of gastrectomy, gastric bypass surgery, or other weight loss surgery.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Christos S Mantzoros, MD, DSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Beth Israel Deaconess Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.bidmc.org/Research/Departments/Medicine/Divisions/Endocrinology/Laboratories/MantzorosLab.aspx</url>
+    <description>Mantzoros Lab Home Page</description>
+  </link>
+  <verification_date>December 2015</verification_date>
+  <lastchanged_date>December 17, 2015</lastchanged_date>
+  <firstreceived_date>January 4, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Leptin resistance</keyword>
+  <keyword>Free fatty acids</keyword>
+  <keyword>Lipotoxicity</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Soybean oil, phospholipid emulsion</mesh_term>
+    <mesh_term>Calcium heparin</mesh_term>
+    <mesh_term>Heparin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

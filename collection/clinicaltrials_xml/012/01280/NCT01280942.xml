@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="139805">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01280942</url>
+  </required_header>
+  <id_info>
+    <org_study_id>10-0514</org_study_id>
+    <secondary_id>7322-01</secondary_id>
+    <nct_id>NCT01280942</nct_id>
+  </id_info>
+  <brief_title>Early Warning System for Clinical Deterioration on General Hospital Wards</brief_title>
+  <official_title>Early Warning System for Clinical Deterioration on General Hospital Wards.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tom Bailey, MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal is to develop a two-tiered monitoring system to improve the care of patients at
+      risk for clinical deterioration on general hospital wards (GHWs) at Barnes-Jewish Hospital
+      (BJH). The investigators hypothesize that the use of an automated early warning system (EWS)
+      that identifies patients at risk of clinical deterioration, with notification of nurses on
+      the GHWs when patients are identified, will reduce the risk of ICU transfer or death within
+      24 hrs of an alert. As a substudy, the investigators will pilot the use of a wireless pulse
+      oximeter to establish feasibility and to develop algorithms for a real-time event detection
+      system (RDS) in these high-risk patients.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2011</start_date>
+  <completion_date type="Actual">May 2012</completion_date>
+  <primary_completion_date type="Actual">May 2012</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Transfer to ICU or unexpected death within 24 hrs of identification by the EWS algorithm</measure>
+    <time_frame>Within 24 hrs of an EWS alert</time_frame>
+    <description>The proportion of patients transferred to ICU, and the time from EWS detection to ICU transfer in patients, for intervention and control wards.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical outcomes and process measures</measure>
+    <time_frame>Hospital discharge (avg = 3 days)</time_frame>
+    <description>Processes of care (fluid rescuscitation, escalation of antibiotics), length of stay, acquired organ dysfunction, and causes of CPR or ICU transfer</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">20031</enrollment>
+  <condition>Escalation of Care</condition>
+  <condition>Cardiopulmonary Arrest</condition>
+  <condition>Respiratory Arrest</condition>
+  <condition>Severe Sepsis</condition>
+  <condition>Septic Shock</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients admitted to 4 GHWs designated as controls. Nurses will not be notified when patients on these GHWs satisfy the EWS algorithm. They will also not wear the wireless sensor devices.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Nurse notification of EWS alert</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients admitted to 4 GHWs designated as intervention wards at BJH. Nurses will be notified when patients on these wards satisfy the EWS algorithm. Some patients will be asked to wear the wireless remote sensors.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>EWS Nursing Alerts</intervention_name>
+    <description>An automated algorithm (EWS) will identify patients at potential risk of clinical deterioration. When a patient satisfies the algorithm, a nurse on the patient's ward will be notified. S/he will assess the patient and institute any interventions that are clinically required.</description>
+    <arm_group_label>Nurse notification of EWS alert</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Wireless Remote Sensor</intervention_name>
+    <description>A subset of patients will be consented to wear a wireless sensor device which will monitor heart rate and level of oxygen in the blood.</description>
+    <arm_group_label>Nurse notification of EWS alert</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All patients age 18 and above, hospitalized in GHWs at Barnes Jewish Hospital.
+
+        Exclusion Criteria:
+
+          -  Minors, patients younger than 18 years old.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Thomas C Bailey, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Barnes Jewish Hospital</name>
+      <address>
+        <city>St Louis</city>
+        <state>Missouri</state>
+        <zip>63108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2012</verification_date>
+  <lastchanged_date>July 25, 2012</lastchanged_date>
+  <firstreceived_date>January 19, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Washington University</investigator_affiliation>
+    <investigator_full_name>Tom Bailey, MD</investigator_full_name>
+    <investigator_title>Professor of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>clinical deterioration</keyword>
+  <keyword>detection algorithms</keyword>
+  <keyword>automated warning systems</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Heart Arrest</mesh_term>
+    <mesh_term>Shock, Septic</mesh_term>
+    <mesh_term>Sepsis</mesh_term>
+    <mesh_term>Apnea</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

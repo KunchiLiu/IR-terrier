@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="28479">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02735980</url>
+  </required_header>
+  <id_info>
+    <org_study_id>16015</org_study_id>
+    <secondary_id>I4D-MC-JTJH</secondary_id>
+    <secondary_id>2015-005069-21</secondary_id>
+    <nct_id>NCT02735980</nct_id>
+  </id_info>
+  <brief_title>A Study of Prexasertib (LY2606368) in Participants With Extensive Stage Disease Small Cell Lung Cancer</brief_title>
+  <official_title>A Phase 2 Study of LY2606368 in Patients With Extensive Stage Disease Small Cell Lung Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Eli Lilly and Company</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the safety and efficacy of prexasertib when given
+      to participants with extensive stage disease small cell lung cancer (ED-SCLC). The study
+      will evaluate how the body processes the drug and how the drug affects the body. The study
+      will also evaluate the association between tumor response and the participant's perceived
+      quality of life.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>May 2016</start_date>
+  <completion_date type="Anticipated">December 2017</completion_date>
+  <primary_completion_date type="Anticipated">December 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Participants Who Achieve Complete Response (CR) or Partial Response (PR): Overall Response Rate (ORR)</measure>
+    <time_frame>Baseline through Disease Progression or Death (estimated at up to 28 months)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics: Maximum Concentration of Prexasertib</measure>
+    <time_frame>Cycle 1 Predose through Cycle 7 End of Infusion Day 1 (14 day cycles)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics: Area Under the Concentration Curve of Prexasertib</measure>
+    <time_frame>Cycle 1 Predose through Cycle 7 End of Infusion Day 1 (14 day cycles)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate: Percentage of Participants with a Best Overall Response of CR, PR, or Stable Disease (SD)</measure>
+    <time_frame>Baseline through Disease Progression or Death from Any Cause (estimated at up to 28 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival</measure>
+    <time_frame>Baseline to Disease Progression or Death (estimated at up to 28 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response</measure>
+    <time_frame>Date of CR or PR to Date of Disease Progression or Death Due to Any Cause (estimated at up to 28 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>Baseline to Date of Death from Any Cause (estimated at up to 28 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Lung Cancer Symptom Scale Score</measure>
+    <time_frame>Baseline, Short Term Follow-Up (estimated at up to 28 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline on the Average Symptom Burden Index (ASBI)</measure>
+    <time_frame>Baseline, Short Term Follow-Up (estimated at up to 28 months)</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">116</enrollment>
+  <condition>Small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Prexasertib (Platinum Sensitive Disease)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intravenous (IV) prexasertib administered on day 1 of every 14 day cycle</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Prexasertib (Platinum Resistant Disease)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>IV prexasertib administered on day 1 of every 14 day cycle</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Prexasertib</intervention_name>
+    <description>Administered IV</description>
+    <arm_group_label>Prexasertib (Platinum Sensitive Disease)</arm_group_label>
+    <arm_group_label>Prexasertib (Platinum Resistant Disease)</arm_group_label>
+    <other_name>LY2606368</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Have ED-SCLC and have received a prior platinum-based regimen
+
+          -  Participants in Cohort 1 must have had an objective response to prior platinum-based
+             therapy with subsequent progression ≥90 days after the last dose of platinum
+
+          -  Participants in Cohort 2 must have either not had an objective response to prior
+             platinum based therapy or had progression &lt;90 days after the last dose of platinum
+
+          -  Have a performance status of 0 to 1 on the Eastern Cooperative Oncology Group scale
+
+        Exclusion Criteria:
+
+          -  Have received more than 2 prior therapies for ED-SCLC (including immunotherapy,
+             targeted therapies, or chemotherapy)
+
+          -  Have symptomatic central nervous system (CNS) malignancy or metastasis. Asymptomatic
+             participants with treated CNS metastases are eligible for this study if they are not
+             currently receiving corticosteroids to treat CNS metastases
+
+          -  Have previously completed or withdrawn from this study or any other study
+             investigating prexasertib or a checkpoint kinase I (CHK1) inhibitor or have shown
+             hypersensitivity to any of the components of the prexasertib formulation
+
+          -  Have a serious cardiac condition
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)</last_name>
+    <role>Study Director</role>
+    <affiliation>Eli Lilly and Company</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Highlands Oncology Group</name>
+      <address>
+        <city>Fayetteville</city>
+        <state>Arkansas</state>
+        <zip>72703</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Yale University School of Medicine</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Georgetown University Medical Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Cancer Specialists</name>
+      <address>
+        <city>Fort Myers</city>
+        <state>Florida</state>
+        <zip>33908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Cancer Specialists and Research Institute</name>
+      <address>
+        <city>St Petersburg</city>
+        <state>Florida</state>
+        <zip>33705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Maryland School of Medicine</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201-1544</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University Medical Center</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dartmouth Hitchcock Medical Center</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <zip>03756-0001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chattanooga Oncology Hematology Associates</name>
+      <address>
+        <city>Chattanooga</city>
+        <state>Tennessee</state>
+        <zip>37404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sarah Cannon Cancer Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tennessee Oncology PLLC</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University Medical Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232-6307</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ Of Texas Southwestern at Dallas Childrens Med Ctr</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Center for Cancer and Blood Disorders</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas MD Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Besancon Cedex</city>
+        <zip>25030</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Lille</city>
+        <zip>59037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Montpellier</city>
+        <zip>47710</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Vantoux</city>
+        <zip>57070</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Halle</city>
+        <zip>06120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Athens</city>
+        <zip>11527</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Heraklion</city>
+        <zip>71110</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Patras</city>
+        <zip>26504</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Ilsandong-gu</city>
+        <zip>10408</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Seoul</city>
+        <zip>05505</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06351</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06591</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Amsterdam</city>
+        <zip>1066 CX</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Breda</city>
+        <zip>4818 CK</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Zwolle</city>
+        <zip>8025 AB</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacion Jimenez Diaz</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Pozuelo de Alarcon</city>
+        <zip>28223</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Zaragoza</city>
+        <zip>50009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Antalya</city>
+        <zip>07059</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Edirne</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34098</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Izmir</city>
+        <zip>35100</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Kayseri</city>
+        <zip>38039</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Dnipropetrovsk</city>
+        <zip>49102</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Kharkiv</city>
+        <zip>61070</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Sumy</city>
+        <zip>40005</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Headington</city>
+        <zip>OX3 7LJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Leicester</city>
+        <zip>LE1 5WN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Sheffield</city>
+        <zip>S10 2SJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Greece</country>
+    <country>Korea, Republic of</country>
+    <country>Netherlands</country>
+    <country>Spain</country>
+    <country>Turkey</country>
+    <country>Ukraine</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.lillytrialguide.com/en-US/studies/small-cell%20lung%20cancer/JTJH#?postal=</url>
+    <description>Click here for more information about this study: A Study of Prexasertib (LY2606368) in Participants With Extensive Stage Disease Small Cell Lung Cancer</description>
+  </link>
+  <verification_date>April 2017</verification_date>
+  <lastchanged_date>April 5, 2017</lastchanged_date>
+  <firstreceived_date>March 31, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SCLC</keyword>
+  <keyword>LY2606368</keyword>
+  <keyword>CHK1</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Small Cell Lung Carcinoma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="133541">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01363297</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B1931010</org_study_id>
+    <secondary_id>3129K6-1106</secondary_id>
+    <nct_id>NCT01363297</nct_id>
+  </id_info>
+  <brief_title>Study Evaluating Inotuzumab Ozogamicin In Acute Lymphocytic Leukemia</brief_title>
+  <official_title>An Open-label, Phase 1/2 Study Of Inotuzumab Ozogamicin In Subjects With Relapsed Or Refractory Cd22-positive Acute Lymphocytic Leukemia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>UCB Pharma</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Pfizer</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Phase 1 portion of this study will assess the safety, tolerability and efficacy at
+      increasing dose levels of inotuzumab ozogamicin in subjects with CD22-positive relapsed or
+      refractory adult acute lymphocytic leukemia (ALL) in order to select the recommended phase 2
+      dose (RP2D) and schedule. The Phase 2 portion of the study will evaluate the efficacy of
+      inotuzumab ozogamicin as measured by hematologic remission rate (CR + CRi) in patients in
+      second or later salvage status.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>August 2011</start_date>
+  <completion_date type="Anticipated">February 2016</completion_date>
+  <primary_completion_date type="Actual">August 2014</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Part 1: Dose-Finding First cycle dose limiting toxicities (DLTs).</measure>
+    <time_frame>duration of first cycle, approximately 1-56 days from first dose</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 1: Dose-Finding Preliminary efficacy, including non-progressive disease (PD) after the first cycle.</measure>
+    <time_frame>duration of first cycle, approximately 28-56 days from first dose</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 2: Expansion Cohort Hematologic remission [complete response (CR) and complete response with incomplete count recovery (CRi)]</measure>
+    <time_frame>duration of treatment period, approximately 2-6 months from first dose</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 3: Phase 2 Hematologic remission [complete response (CR) and complete response with incomplete count recovery (CRi)]</measure>
+    <time_frame>duration of treatment period, approximately 2-6 months from first dose</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Hematologic response, including complete response (CR), complete response with incomplete count recovery (CRi) and partial response (PR)</measure>
+    <time_frame>duration of treatment period, approximately 2-6 months from first dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Minimal residual disease levels and cytogenetics in subjects achieving hematologic remission (CR + CRi)</measure>
+    <time_frame>duration of treatment period, approximately 2-6 months from first dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of subjects who undergo stem-cell transplant following treatment with inotuzumab ozogamicin</measure>
+    <time_frame>duration of long-term follow-up period, up to 2 years from first dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DoR)</measure>
+    <time_frame>duration of treatment and long-term follow-up periods, up to 2 years from first dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>duration of treatment and long-term follow-up periods, up to 2 years from first dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>duration of treatment and long-term follow-up periods, up to 2 years from first dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Population pharmacokinetic parameters of inotuzumab ozogamicin, including clearance and volume of distribution for the typical subject as well as the individual</measure>
+    <time_frame>up to 4 cycles, approximately 4 months from the first dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacodynamic parameters of inotuzumab ozogamicin, including rate of clearance of CD22-positive B-cells from peripheral blood, and PK/PD relationship</measure>
+    <time_frame>up to 4 cycles, approximately 4 months from the first dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacogenomic parameters including expression of genes related to DNA repair and susceptibility to apoptosis triggered by double-stranded DNA breaks</measure>
+    <time_frame>duration of first half of cycle 1, approximately 2 weeks from first dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of remission (DoR1)</measure>
+    <time_frame>duration of treatment and long-term follow-up periods, up to 2 years from first dose</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">72</enrollment>
+  <condition>Acute Lymphocytic Leukemia</condition>
+  <arm_group>
+    <arm_group_label>Inotuzumab Ozogamicin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Inotuzumab Ozogamicin</intervention_name>
+    <description>Part 1: Administered intravenously as 2 - 3 weekly doses over a 28-day cycle for a maximum of 6 cycles. Total dose per cycle 0.8 mg/m^2 to 2.0 mg/m^2.
+Part 2 Expansion and Part 3 Phase 2: Administered intravenously as 3 weekly doses over a 28-day cycle for a maximum of 6 cycles. Total initial dose per cycle 1.8 mg/m^2.</description>
+    <arm_group_label>Inotuzumab Ozogamicin</arm_group_label>
+    <other_name>CMC-544</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subjects with CD22-positive ALL with either refractory disease (i.e. disease
+             progression or no response while receiving their most recent prior anti-cancer
+             therapy), or relapsed disease (i.e. response to their most recent prior anti-cancer
+             therapy with subsequent relapse). Subjects enrolled in the Phase 2 portion of the
+             study must be due to receive salvage 2 or later therapy.
+
+          -  Subjects with Philadelphia chromosome-positive (Ph+) ALL must have failed standard
+             treatment with at least one tyrosine kinase inhibitor.
+
+          -  Adequate renal and hepatic function, and negative pregnancy test for women of
+             childbearing potential.
+
+        Exclusion Criteria:
+
+          -  Subjects with isolated extramedullary relapse or active central nervous system (CNS)
+             leukemia.
+
+          -  Prior allogeneic hematopoietic stem cell transplant (HSCT) or other anti-CD22
+             immunotherapy within 4 months, or active graft versus host disease (GvHD) at study
+             entry.
+
+          -  Evidence or history of veno-occlusive disease (VOD) or sinusoidal obstruction
+             syndrome (SOS).
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>City of Hope</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010-3000</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford Unversity Cancer Clinical Trials Office</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford Unversity Hospital and Clinics, CTRU</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford Cancer Institute</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University Hospital and Clinics</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Chicago Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital (BWH)</name>
+      <address>
+        <city>BostonMA</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital (MGH)</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Karmanos Cancer Institute</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Karmanos Cancer Institute at Farmington Hills</name>
+      <address>
+        <city>Farmington Hills</city>
+        <state>Michigan</state>
+        <zip>48334</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Texas MD Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Seattle Cancer Care Alliance</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>United Kingdom</country>
+  </removed_countries>
+  <link>
+    <url>https://trialinfoemail.pfizer.com/pages/landing.aspx?StudyID=B1931010&amp;StudyName=Study%20Evaluating%20Inotuzumab%20Ozogamicin%20In%20Acute%20Lymphocytic%20Leukemia</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>August 2015</verification_date>
+  <lastchanged_date>August 20, 2015</lastchanged_date>
+  <firstreceived_date>May 11, 2011</firstreceived_date>
+  <firstreceived_results_disposition_date>July 31, 2015</firstreceived_results_disposition_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Relapsed/Refractory Acute Lymphocytic Leukemia (ALL)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Leukemia, Lymphoid</mesh_term>
+    <mesh_term>Precursor Cell Lymphoblastic Leukemia-Lymphoma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted, but a results disposition has been submitted -->
+</clinical_study>

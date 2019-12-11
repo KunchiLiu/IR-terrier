@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="115754">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01596283</url>
+  </required_header>
+  <id_info>
+    <org_study_id>12-056</org_study_id>
+    <nct_id>NCT01596283</nct_id>
+  </id_info>
+  <brief_title>Clinical Trial of Standard Versus Goal-Directed Perioperative Fluid Management (GDT) for Patients Undergoing Liver Resection</brief_title>
+  <official_title>A Prospective Randomized Controlled Clinical Trial of Standard Compared to Goal-directed Perioperative Fluid Management (GDT) for Patients Undergoing Liver Resection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Memorial Sloan Kettering Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Memorial Sloan Kettering Cancer Center</source>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to help us learn what is the best amount of fluid to administer
+      to patients during liver surgery. Patients will receive either an amount for this surgery
+      based on weight, blood pressure, heart rate and urine output or an amount guided by a
+      computerized system (FloTrac) that helps doctors know how much fluid each patient needs. The
+      FloTrac calculates the amount of fluid patients needs on a minute-to-minute basis, based on
+      real time information like blood pressure, pulse and the ability of the heart and blood
+      vessels to maintain normal vital signs.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>April 2012</start_date>
+  <completion_date type="Actual">May 2016</completion_date>
+  <primary_completion_date type="Actual">May 2016</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single Blind (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>postoperative complications</measure>
+    <time_frame>2 year</time_frame>
+    <description>The incidence of overall 30-day postoperative complications will be recorded. These are defined in the MSKCC Adverse Events Program and organized by categories reflecting organ systems and further subdivided into specific complications within those and graded.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>compare the two arms</measure>
+    <time_frame>2 year</time_frame>
+    <description>low cardiac output time, total volume of fluid used perioperatively, the requirement for blood transfusion, the total dose of vasoactive drugs, end-organ perfusion markers and the net fluid balance 48 hrs postoperatively.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">135</enrollment>
+  <condition>Liver Cancer</condition>
+  <arm_group>
+    <arm_group_label>Standard fluid management</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Prospective single-blinded randomized trial. Eligible patients will be consented for the trial prior to surgery. However randomization will not occur until the operating room. After the liver has been resected, intraoperative randomization will be done by envelopes.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Goal directed fluid therapy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Prospective single-blinded randomized trial. Eligible patients will be consented for the trial prior to surgery. However randomization will not occur until the operating room. After the liver has been resected, intraoperative randomization will be done by envelopes.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Standard fluid management</intervention_name>
+    <description>The patient will receive standard fluid management</description>
+    <arm_group_label>Standard fluid management</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Goal directed fluid therapy with the Edwards EV1000 system</intervention_name>
+    <description>This arm will have fluid therapy guided by the Edwards EV1000 system.</description>
+    <arm_group_label>Goal directed fluid therapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Adults (18 years old or greater) who are able to provide informed consent.
+
+          -  Patients who undergo an open, elective liver resection. Including those initially
+             approached laparoscopically but converted to an open resection and those undergoing
+             additional procedures.
+
+        Exclusion Criteria:
+
+          -  Active coronary disease.
+
+          -  Patients with a history of coronary disease will be eligible if they have had a
+             cardiac stress study showing no reversible ischemia and normal LV function within 3
+             months of operation.
+
+          -  Active symptomatic cerebrovascular disease.
+
+          -  Active congestive heart failure and ejection fraction &lt;35%.
+
+          -  Active severe restrictive or obstructive pulmonary disease and resting SpO2 &lt;90%.
+
+          -  Active renal dysfunction (Cr &gt;1.8)
+
+          -  Abnormal coagulation parameters (INR &gt; 1.8 not on Coumadin, or platelet count &lt;
+             100,000 per mcL)
+
+          -  Presence of active infection including HIV
+
+          -  Patients with active atrial fibrillation or flutter.
+
+          -  Preoperative hypoalbuminemia (Albumin &lt; 2g/dl).
+
+          -  Female patients who are pregnant (female patients of child-bearing potential must
+             have a negative serum pregnancy test ≤ 14 days prior to surgery or 15 to 30 days
+             prior to surgery with a negative urine pregnancy test the morning of surgery).
+
+          -  Presence of ascites.
+
+          -  BMI &gt; 45 or &lt;17
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mary Fischer, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Memorial Sloan Kettering Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mskcc.org/</url>
+    <description>Memorial Sloan Kettering Cancer Center</description>
+  </link>
+  <verification_date>May 2016</verification_date>
+  <lastchanged_date>May 6, 2016</lastchanged_date>
+  <firstreceived_date>April 30, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Perioperative Fluid Management</keyword>
+  <keyword>liver resection</keyword>
+  <keyword>12-056</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Liver Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

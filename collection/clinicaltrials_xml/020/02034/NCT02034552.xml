@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="82252">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02034552</url>
+  </required_header>
+  <id_info>
+    <org_study_id>16544</org_study_id>
+    <nct_id>NCT02034552</nct_id>
+  </id_info>
+  <brief_title>A Randomized Phase IIa Efficacy and Safety Study of Radium-223 Dichloride With Abiraterone Acetate or Enzalutamide in Metastatic Castration-resistant Prostate Cancer (CRPC)</brief_title>
+  <official_title>A Randomized Open-label Phase IIa Study Evaluating Quantified Bone Scan Response Following Treatment With Radium-223 Dichloride Alone or in Combination With Abiraterone Acetate or Enzalutamide in Subjects With Castration-resistant Prostate Cancer Who Have Bone Metastases</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bayer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bayer</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective in this study is to evaluate bone scan response at Week 24 based on
+      the quantified technetium-99 bone scan lesion area (BSLA). The safety of radium-223
+      dichloride in combination with abiraterone acetate or enzalutamide will be investigated. The
+      study will evaluate radiological progression free survival, overall survival, and skeletal
+      events. This study will also explore the clinical utility of different imaging modalities
+      (whole body quantified technetium-99 bone scan, DW-MRI and NaF PET-CT scan) and will have a
+      separate central radiological review for applicable secondary and exploratory imaging
+      endpoints. All subjects will be randomized as assigned randomly by the IXRS system in a
+      1:1:1 ratio into one of the treatment arms: radium-223 dichloride alone, 50 kBq/kg (55
+      kBq/kg after implementation of NIST update) every 4 weeks for up to 6 doses; radium-223
+      dichloride, 50 kBq/kg (55 kBq/kg after implementation of NIST update) every 4 weeks up to 6
+      doses together with abiraterone acetate 1,000 mg daily and prednisone 5 mg bid; radium-223
+      dichloride 50 kBq/kg (55 kBq/kg after implementation of NIST update) every 4 weeks up to 6
+      doses together with enzalutamide 160 mg daily.The study will consist of screening, treatment
+      and follow-up periods. Study will continue until disease progression as determined by
+      investigator, or when patient meets criteria for withdrawal from study. Subjects in
+      treatment arms with abiraterone/prednisone or enzalutamide will have the option to continue
+      taking oral study therapy until the end of the study (2 years from the last dose of
+      radium-223 dichloride) if the investigator deems the subject may benefit and there is no
+      clinical or radiological progression. Subjects who discontinue all study treatment prior to
+      2 years from last radium-223 dichloride treatment will enter active follow-up. During the
+      active follow-up period, the subject will have a safety visit at the clinic every 12 weeks
+      from the EOT for up to 2 years from the last dose of radium-223 dichloride. Beyond 2 years
+      from last radium-223 dichloride treatment,subjects will enter long-term follow-up and will
+      be followed via phone contact at intervals to assess for safety (hematological toxicity and
+      new primary malignancies) and overall survival. A separate long-term safety follow-up study
+      protocol is planned. Once implemented, the study subjects surviving after the end of the
+      active follow-up will be transitioned to this separate long-term safety follow-up protocol.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>December 2013</start_date>
+  <completion_date type="Anticipated">June 2018</completion_date>
+  <primary_completion_date type="Actual">July 2016</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patient Bone Scan Response</measure>
+    <time_frame>At 24 weeks</time_frame>
+    <description>Radiological bone scan response based on change from baseline of digitized technetium-99 bone scans using computer-aided detection software</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>radiological progression-free survival (rPFS)</measure>
+    <time_frame>from randomization to radiological disease progression or death from any cause, up to 30 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>symptomatic skeletal event-free survival (SSE-FS)</measure>
+    <time_frame>From randomization to the earlier SSE or death, up to 30 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to first symptomatic skeletal event(SSE)</measure>
+    <time_frame>From randomization to first SSE or death, up to 30 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>From randomization to the date of radiological disease progression, up to 7.5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>time to radiological bone progression by treatment group</measure>
+    <time_frame>time to radiological bone progression up to 30 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with treatment-emergent adverse events as a measure of safety and tolerability</measure>
+    <time_frame>Up to 30 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with serious adverse events as a measure of safety and tolerability</measure>
+    <time_frame>Up to 7.5 years</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">64</enrollment>
+  <condition>Prostatic Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>Radium-223 dichloride(Xofigo, BAY88-8223)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Radium-223 with abiraterone&amp;prednision</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Radium-223 with enzalutamide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Radium-223 dichloride (Xofigo,BAY88-8223)</intervention_name>
+    <description>Radium-223 dichloride (Xofigo, BAY88-8223) 50 kBq/kg (55 kBq/kg after implementation of NIST update) every 4 weeks x 6 doses intravenous slow bolus</description>
+    <arm_group_label>Radium-223 dichloride(Xofigo, BAY88-8223)</arm_group_label>
+    <arm_group_label>Radium-223 with abiraterone&amp;prednision</arm_group_label>
+    <arm_group_label>Radium-223 with enzalutamide</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Abiraterone acetate</intervention_name>
+    <description>Abiraterone acetate 1000 mg (4 x 250 mg tablets) taken orally once daily for up to two years following last dose of radium-223 dichloride</description>
+    <arm_group_label>Radium-223 with abiraterone&amp;prednision</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Prednisone</intervention_name>
+    <description>Prednisone 5 mg capsule taken orally twice daily for up to two years following last dose of radium-223 dichloride</description>
+    <arm_group_label>Radium-223 with abiraterone&amp;prednision</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Enzalutamide</intervention_name>
+    <description>Enzalutamide 160 mg (four 40 mg capsules) taken orally once daily for up to two years following last dose of radium-223 dichloride</description>
+    <arm_group_label>Radium-223 with enzalutamide</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histologically or cytologically confirmed adenocarcinoma of the prostate
+
+          -  Known castration-resistant disease
+
+          -  Serum PSA ≥2 ng/mL (μg/L)
+
+          -  Multiple skeletal metastases (≥2 hot spots) on bone scan
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 to 2.
+
+          -  Life expectancy ≥6 months
+
+          -  Adequate hematologic, hepatic, and renal function
+
+        Exclusion Criteria:
+
+          -  History of visceral metastasis, or visceral metastases
+
+          -  Malignant lymphadenopathy with lymph nodes exceeding 3 cm in short axis diameter
+
+          -  Medical condition that would make prednisone (corticosteroid) use contraindicated
+
+          -  Any chronic medical condition requiring a higher dose of corticosteroid than 5 mg
+             prednisone bid
+
+          -  Treatment with more than one chemotherapy agent for prostate cancer
+
+          -  Prior systemic radiotherapy and hemibody external radiotherapy
+
+          -  History of pituitary or adrenal dysfunction
+
+          -  Chronic conditions associated with non-malignant abnormal bone growth (e.g.,
+             confirmed Paget's disease of bone)
+
+          -  Atrial fibrillation, or other cardiac arrhythmia requiring medical therapy
+
+          -  History of seizures (taking/not taking anticonvulsants), arteriovenous malformation
+             in the brain, head trauma with loss of consciousness
+
+          -  Central nervous system (CNS) metastases
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bayer Study Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Bayer</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35249</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85251</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85260</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85704</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>LaJolla</city>
+        <state>California</state>
+        <zip>92037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Newark</city>
+        <state>Delaware</state>
+        <zip>19713</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Plantation</city>
+        <state>Florida</state>
+        <zip>33324</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Shreveport</city>
+        <state>Louisiana</state>
+        <zip>71103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20889</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Rockville</city>
+        <state>Maryland</state>
+        <zip>20850</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10467-2490</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Springfield</city>
+        <state>Oregon</state>
+        <zip>97477</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77027</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.fda.gov/cder/drug/DrugSafety/DrugIndex.htm</url>
+    <description>Click here and search for drug information provided by the FDA.</description>
+  </link>
+  <link>
+    <url>http://www.fda.gov/medwatch/safety.htm</url>
+    <description>Click here and search for information on any recalls, market or product safety alerts by the FDA which might have occurred with this product.</description>
+  </link>
+  <verification_date>January 2017</verification_date>
+  <lastchanged_date>January 18, 2017</lastchanged_date>
+  <firstreceived_date>December 16, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Prednisone</mesh_term>
+    <mesh_term>Radium Ra 223 dichloride</mesh_term>
+    <mesh_term>Abiraterone Acetate</mesh_term>
+    <mesh_term>Succinylcholine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="55482">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02383862</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1410447721</org_study_id>
+    <nct_id>NCT02383862</nct_id>
+  </id_info>
+  <brief_title>PROMIS Measures in Primary Care Practice</brief_title>
+  <official_title>Incorporating PROMIS Symptom Measures Into Primary Care Practice</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Indiana University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Patient-Centered Outcomes Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Indiana University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine the effectiveness of providing PROMIS Profile
+      Scale scores (e.g., sleep, pain, anxiety, depression, energy/fatigue) to physicians on
+      patients' symptoms.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The SPADE symptoms (sleep, pain, anxiety, depression, and energy/fatigue) are the most
+      common yet undertreated symptoms in clinical practice. Using the PROMIS Profile Scales as a
+      measure of SPADE symptoms, this study will determine the effectiveness of providing patient
+      symptom scores to clinicians, identify barriers and facilitators to the clinical use of such
+      scores, and evaluate the psychometric properties of the PROMIS Profile Scales in a primary
+      care population.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2015</start_date>
+  <completion_date type="Actual">October 2016</completion_date>
+  <primary_completion_date type="Actual">August 2016</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>Single Blind (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from Baseline in PROMIS Composite Score at 3-Month Follow-up</measure>
+    <time_frame>PROMIS Composite Scores of the 5 SPADE symptoms (sleep, pain, anxiety, depression, and energy/fatigue) will be computed at baseline and at 3 month follow up.</time_frame>
+    <description>PROMIS symptom measures will be administered at baseline and at 3 month follow-up. To assess the effects of feedback on sleep, pain, anxiety, depression and energy/fatigue, group differences in the change in PROMIS composite scores from baseline to 3 month follow up will be calculated.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Treatment Satisfaction at 3-Month Follow-up</measure>
+    <time_frame>Patients' satisfaction with treatment will be assessed at 3 month follow-up.</time_frame>
+    <description>At 3-month follow-up, treatment satisfaction will be assessed for any symptom that was at a moderate level (PROMIS T-score greater than or equal to 55) at baseline using a 3-item symptom specific treatment satisfaction scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Health Questionnaire 4-item composite depression and anxiety measure (PHQ-4)</measure>
+    <time_frame>3-month follow-up</time_frame>
+    <description>Secondary composite measure of depression and anxiety</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PEG 3-item pain scale</measure>
+    <time_frame>3-month follow-up</time_frame>
+    <description>Secondary measure of pain</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SF-36 vitality scale</measure>
+    <time_frame>3-month follow-up</time_frame>
+    <description>Secondary measure of fatigue</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pittsburgh Insomnia Rating Scale</measure>
+    <time_frame>3-month follow-up</time_frame>
+    <description>Secondary measure of insomnia</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of symptom-specific tests ordered at the baseline visit</measure>
+    <time_frame>Baseline visit</time_frame>
+    <description>Number of symptom specific tests documented in electronic medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of symptom-specific medications ordered at baseline visit</measure>
+    <time_frame>Baseline visit</time_frame>
+    <description>Number of symptom-specific medications prescribed in electronic medical records</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">300</enrollment>
+  <condition>Sleep</condition>
+  <condition>Pain</condition>
+  <condition>Anxiety</condition>
+  <condition>Depression</condition>
+  <condition>Fatigue</condition>
+  <arm_group>
+    <arm_group_label>Feedback Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The feedback group will consist of primary care physicians who receive their patients baseline PROMIS scores, reflecting SPADE symptoms, at the time of their patients' visit.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The control group will consist of physicians who do not receive their patients PROMIS scores at the time of their patients' visit.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Feedback Group</intervention_name>
+    <description>The intervention will consist of physicians receiving PROMIS scores, reflecting patients SPADE symptoms, at the time of their patients' visits.</description>
+    <arm_group_label>Feedback Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Patients
+
+          -  Adults ≥ 18 years of age,
+
+          -  Receiving care from a participating primary care physician
+
+          -  Report a moderate level of severity ( ≥ 4 on a 0 to 10 scale) on at least one of 5
+             symptoms (sleep, pain, anxiety, depression, energy/fatigue) based on a 5-item
+             screener.
+
+        Physicians
+
+          -  Primary care physicians within the Indiana University Health and Eskenazi Health
+             systems
+
+        Exclusion Criteria:
+
+        Patients
+
+          -  Patients less than 18 years of age
+
+          -  Patients who do not receive care from a participating primary care physician
+
+          -  Patients who have less than a moderate level of severity (less than 4 on a 0 to 10
+             item scale) on each of the 5 symptoms (sleep, pain, anxiety, depression,
+             energy/fatigue) based on a 5-item screener.
+
+        Physicians:
+
+          -  Primary care physicians who do not practice within the Indiana University Health or
+             Eskenazi Health systems
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kurt Kroenke, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Indiana University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Indiana University</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2016</verification_date>
+  <lastchanged_date>November 2, 2016</lastchanged_date>
+  <firstreceived_date>February 27, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Indiana University</investigator_affiliation>
+    <investigator_full_name>Kurt Kroenke</investigator_full_name>
+    <investigator_title>Professor of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Sleep</keyword>
+  <keyword>Pain</keyword>
+  <keyword>Anxiety</keyword>
+  <keyword>Depression</keyword>
+  <keyword>Fatigue</keyword>
+  <keyword>PROMIS</keyword>
+  <keyword>primary care</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Fatigue</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

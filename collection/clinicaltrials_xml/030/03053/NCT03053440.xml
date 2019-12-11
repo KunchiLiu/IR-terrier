@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4108">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03053440</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BGB-3111-302</org_study_id>
+    <nct_id>NCT03053440</nct_id>
+  </id_info>
+  <brief_title>A Study Comparing BGB-3111 and Ibrutinib in Subjects With Waldenström's Macroglobulinemia (WM)</brief_title>
+  <official_title>A Phase 3, Randomized, Open-Label, Multicenter Study Comparing the Efficacy and Safety of the Bruton's Tyrosine Kinase (BTK) Inhibitors BGB-3111 and Ibrutinib in Subjects With Waldenström's Macroglobulinemia (WM)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BeiGene</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>BeiGene</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is to evaluate the safety, efficacy and clinical benefit of BGB-3111 vs ibrutinib
+      in subjects with MYD88 Mutation Waldenström's Macroglobulinemia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This open-label, randomized study will compare the efficacy and safety of the Bruton's
+      Tyrosine Kinase (BTK) inhibitors BGB-3111 and ibrutinib in subjects with Waldenström's
+      Macroglobulinemia who require therapy. Subjects will have baseline bone marrow samples
+      assayed for sequencing of the MYD88 gene. Approximately 150 subjects with the MYD88 mutation
+      will be enrolled onto Cohort 1 and randomized to receive 160 mg BGB-3111 PO BID (treatment
+      Arm A) or to receive 420mg ibrutinib QD (treatment Arm B) until disease progression or
+      unacceptable toxicity. Subjects with MYD88 wild type will be enrolled to Cohort 2 and will
+      receive 160 mg BGB-3111 PO BID (treatment Arm C) until disease progression or unacceptable
+      toxicity.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 25, 2017</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of subjects achieving either a complete response (CR) or very good partial response (VGPR) in Cohort 1 using an adaptation of the response criteria updated at the Sixth IWWM as assessed by an independent review committee.</measure>
+    <time_frame>Up to 3 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy measured by major response rate (MRR) in Cohort 1</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>MRR defined as the proportion of subjects achieving a best response of response of CR, VGPR, or partial response (PR)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy measured by duration of response (DOR) in Cohort 1</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>DOR defined as the time from first determination of response (CR, VGPR or PR) until first documentation of progression or death, whichever comes first</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy measured by progression-free survival (PFS) in Cohort 1</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>PFS defined as time from randomization to the first documentation of progression or death, whichever occurs first</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Resolution of treatment-precipitating symptoms in Cohort 1, measured by the absence of the symptoms that triggered initiation of study treatment (per the IWWM treatment guidelines) at any point during study treatment</measure>
+    <time_frame>Up to 5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-lymphoma effect in Cohort 1, as measured by any reduction in bone marrow involvement by lymphoplasmacytoid lymphocytes and/or size of lymphadenopathy and/or hepatosplenomegaly</measure>
+    <time_frame>Up to 5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety measured by the incidence, timing, and severity of treatment-emergent AEs in Cohort 1</measure>
+    <time_frame>Up to 5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The incidence of AEs of Special Interest in Cohort 1</measure>
+    <time_frame>Up to 5 years</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">167</enrollment>
+  <condition>Waldenström's Macroglobulinemia</condition>
+  <arm_group>
+    <arm_group_label>Arm A (Experimental Arm-BGB-3111)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Approximately 75 subjects with the MYD88 mutation will be enrolled in Cohort 1 and receive BGB-3111 in treatment [Arm A]</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B (Active Comparator-Ibrutinib)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Approximately 75 subjects with the MYD88 mutation will be enrolled in Cohort 1 and receive Ibrutinib in treatment [Arm B]</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm C (Experimental Arm-BGB-3111)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Approximately 15-20 subjects found to have MYD88 wild type will be enrolled in Cohort 2 and receive BGB-3111 in treatment [Arm C]</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BGB-3111</intervention_name>
+    <description>160mg PO BID until progressive disease, unacceptable toxicity, death, withdrawal of consent, or study termination by sponsor</description>
+    <arm_group_label>Arm A (Experimental Arm-BGB-3111)</arm_group_label>
+    <arm_group_label>Arm C (Experimental Arm-BGB-3111)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ibrutinib</intervention_name>
+    <description>420mg PO QD until progressive disease, unacceptable toxicity, death, withdrawal of consent, or study termination by sponsor</description>
+    <arm_group_label>Arm B (Active Comparator-Ibrutinib)</arm_group_label>
+    <other_name>IMBRUVICA</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Clinical and definitive histologic diagnosis of WM
+
+          -  Measurable disease, requiring treatment
+
+          -  Patients with no prior therapy for WM, must be considered inappropriate candidates
+             for treatment with a standard chemoimmunotherapy regimen
+
+          -  Age ≥ 18 years old
+
+          -  (ECOG) performance status of 0-2
+
+          -  Adequate bone marrow function
+
+          -  Adequate renal and hepatic function
+
+          -  ECHO/MUGA demonstrating left ventricular ejection fraction (LVEF)≥ the lower limit of
+             institutional normal
+
+          -  Subjects may be enrolled who relapse after autologous stem cell transplant if they
+             are at least 3 months after transplant, and after allogeneic transplant if they are
+             at least 6 months post transplant.
+
+          -  Females of childbearing potential must agree to use highly effective forms of birth
+             control throughout the course of the study and at least up to 90 days after last dose
+             of study drug. Males must have undergone sterilization- vasectomy, or utilize a
+             barrier method
+
+          -  Life expectancy of &gt; 4 months
+
+        Exclusion Criteria:
+
+          -  Prior exposure to a BTK inhibitor
+
+          -  Evidence of disease transformation at the time of study entry
+
+          -  Corticosteroids given with antineoplastic intent within 7 days, or chemotherapy given
+             with antineoplastic intent, targeted therapy, or radiation therapy within 3 weeks, or
+             antibody-based therapy within 4 weeks of the start of study drug
+
+          -  Major surgery within 4 weeks of study treatment
+
+          -  Toxicity of ≥ Grade 2 from prior anticancer therapy
+
+          -  History of other active malignancies within 2 years of study entry, with exception of
+             (1) adequately treated in-situ carcinoma of cervix; (2) localized basal cell or
+             squamous cell carcinoma of skin; (3) previous malignancy confined and treated locally
+             with curative intent
+
+          -  Currently active, clinically significant cardiovascular disease such as uncontrolled
+             arrhythmia, congestive heart failure, any Class 3 or 4 cardiac disease within 6
+             months of screening
+
+          -  QTcF prolongation (defined as a QTcF &gt; 450 msec)
+
+          -  Active, clinically significant Electrocardiogram (ECG) abnormalities
+
+          -  Unable to swallow capsules or disease significantly affecting gastrointestinal
+             function such as malabsorption syndrome, resection of the stomach or small bowel,
+             symptomatic inflammatory bowel disease, or partial or complete bowel obstruction
+
+          -  Uncontrolled active systemic infection or recent infection requiring parenteral
+             anti-microbial therapy
+
+          -  Known human immunodeficiency virus (HIV), or active hepatitis B or hepatitis C
+
+          -  Pregnant or lactating women
+
+          -  Any life-threatening illness, medical condition, organ system dysfunction, need for
+             profound anticoagulation, or bleeding disorder, which, in the investigator's opinion,
+             could compromise the subject's safety
+
+          -  Any medications which are strong or moderate cytochrome P450, family 3, subfamily A
+             (CYP3A) inhibitors or strong CYP3A inducers
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jane Huang, MD</last_name>
+    <email>clinicaltrials@beigene.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Weill Cornell Medial College</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Richard Furman, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Richard Furman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Vincent's Hospital</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3065</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Constantine Tam, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Constantine Tam, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>AZ Sint-Jan Brugge - Oostende - Campus Sint-Jan</name>
+      <address>
+        <city>Brugge</city>
+        <zip>8000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jan Van Droogenbroeck</last_name>
+    </contact>
+    <investigator>
+      <last_name>Jan Van Droogenbroeck</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Münster Hämatologie und Onkologie</name>
+      <address>
+        <city>Munster</city>
+        <zip>48149</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Georg Lenz, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Georg Lenz, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>General Hospital of Athens &quot;Alexandra&quot;</name>
+      <address>
+        <city>Athens</city>
+        <state>Attiki</state>
+        <zip>11528</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Meletios Dimopoulus, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Meletios Dimopoulus, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>PU A. Gemelli, Universität Cattolica del Sacro Cuore</name>
+      <address>
+        <city>Rome</city>
+        <zip>00168</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Luca Laurenti, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Luca Laurenti, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Academisch Medisch Centrum Universiteit van Amsterdam</name>
+      <address>
+        <city>Amsterdam</city>
+        <zip>1105 AZ</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Marie Jose Kersten, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Marie Jose Kersten, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Małopolskie Centrum Medyczne</name>
+      <address>
+        <city>Krakow</city>
+        <zip>30-510</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Wojciech Jurczak, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Wojciech Jurczak, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>H.U. Vall d´Herbon</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Mercedes Gironella Mesa, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Mercedes Gironella Mesa, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hematology Center Karolinska</name>
+      <address>
+        <city>Stockholm</city>
+        <zip>14186</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Wahlin Björn, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Wahlin Björn, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University College Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>NW1 2PG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Shirley P D'sa, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Shirley P D'sa, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Belgium</country>
+    <country>Germany</country>
+    <country>Greece</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>Poland</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2017</verification_date>
+  <lastchanged_date>February 12, 2017</lastchanged_date>
+  <firstreceived_date>February 7, 2017</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Waldenstrom Macroglobulinemia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

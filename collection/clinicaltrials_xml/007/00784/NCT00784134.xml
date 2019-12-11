@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="177531">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00784134</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IVH06</org_study_id>
+    <nct_id>NCT00784134</nct_id>
+  </id_info>
+  <brief_title>Clot Lysis: Evaluating Accelerated Resolution of Intraventricular Hemorrhage Phase III</brief_title>
+  <acronym>CLEAR III</acronym>
+  <official_title>Clot Lysis: Evaluating Accelerated Resolution of Intraventricular Hemorrhage Phase III</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Daniel Hanley</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Neurological Disorders and Stroke (NINDS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Genentech, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Emissary International LLC</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overall objective of this Phase III clinical trial is to obtain information from a
+      population of 500 ICH subjects with intraventricular hemorrhage (IVH), representative of
+      current clinical practice and national demographics of ICH regarding the benefit (or lack
+      thereof) of IVH clot removal on subject function as measured by modified Rankin Scale (mRS).
+      This application requests funding for five years to initiate a Phase III randomized clinical
+      trial (RCT) testing the benefit of clot removal for intraventricular hemorrhage. The
+      investigators propose to compare extraventricular drainage (EVD) use plus recombinant tissue
+      plasminogen activator (rt-PA; Alteplase; Genentech, Inc., San Francisco, CA) with EVD+
+      placebo in the management and treatment of subjects with small intracerebral hemorrhage
+      (ICH) and large intraventricular hemorrhage (IVH defined as ICH &lt; 30 cc and obstruction of
+      the 3rd or 4th ventricles by intraventricular blood clot).
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>July 2009</start_date>
+  <completion_date type="Actual">January 2016</completion_date>
+  <primary_completion_date type="Actual">July 2015</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Modified Rankin Scale (Dichotomized 0-3)</measure>
+    <time_frame>180 days</time_frame>
+    <description>Analysis modified on September 29, 2015 to account for adaptive randomization.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Modified Rankin Scale (Ordinal Scale)</measure>
+    <time_frame>180 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Modified Rankin Scale (Dichotomized 0-4)</measure>
+    <time_frame>180 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Random effects assessment of site effect (modified Rankin Scale 0-3)</measure>
+    <time_frame>180 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Modified Rankin Scale (Longitudinal 0-3)</measure>
+    <time_frame>180 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All cause mortality</measure>
+    <time_frame>180 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clot removal (Amount of residual blood)</measure>
+    <time_frame>72 h</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intensity of critical care management</measure>
+    <time_frame>30 days</time_frame>
+    <description>As measured by hospital and ICU length of stay, frequency of ICP &gt;20 mmHg events, use of mechanical ventilation, pressors, and ventriculoperitioneal shunts, frequency of systemic infections.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety/Mortality</measure>
+    <time_frame>30 days</time_frame>
+    <description>Frequency of bacterial brain infections, symptomatic brain bleeds, and mortality within 30 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse and Serious Adverse Events</measure>
+    <time_frame>180 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Predictors of Mortality using Cox Proportional Hazards Model</measure>
+    <time_frame>180 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sub-Group Analyses</measure>
+    <time_frame>180 days</time_frame>
+    <description>Assessment of mRS score 0-3 compared by race, gender, age, IVH size, and ICH location.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functional Status</measure>
+    <time_frame>180 days</time_frame>
+    <description>Assessment of NIHSS, Barthel Index, eGOS (dichotomy and ordinal) by group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Life</measure>
+    <time_frame>180 days</time_frame>
+    <description>Assessment of SIS and EuroQol Visual Analog Scale by group.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">500</enrollment>
+  <condition>Intraventricular Hemorrhage</condition>
+  <arm_group>
+    <arm_group_label>rt-PA</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>administration of rt-PA via the intraventricular catheter</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Saline Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>1 ml of normal saline administered via the intraventricular catheter</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cathflo Activase</intervention_name>
+    <description>1.0 mg of Cathflo Activase will be administered via the intraventricular catheter every 8 hours for up to 12 doses</description>
+    <arm_group_label>rt-PA</arm_group_label>
+    <other_name>rt-PA</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Normal saline</intervention_name>
+    <description>1 ml of normal saline will be administered via the intraventricular catheter every 8 hours for up to 12 doses</description>
+    <arm_group_label>Saline Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age 18-80
+
+          -  Symptom onset less than 24 hrs prior to diagnostic CT scan
+
+          -  Spontaneous ICH less than or equal to 30 cc or primary IVH
+
+          -  IVH obstructing 3rd and/or 4th ventricles
+
+          -  ICH clot stability at 6 hours or more post IVC placement
+
+          -  IVH clot stability at 6 hours or more post IVC placement
+
+          -  Catheter tract bleeding stability 6 hours or more post IVC placement
+
+          -  EVD placed per standard medical care
+
+          -  SBP less than 200 mmHg sustained for 6 hours prior to drug administration
+
+          -  Able to randomize within 72 hours of diagnostic CT scan
+
+          -  Historical Rankin of 0 or 1
+
+        Exclusion Criteria:
+
+          -  Suspected or untreated ruptured cerebral aneurysm, AVM, or tumor
+
+          -  Presence of a choroid plexus vascular malformation or Moyamoya
+
+          -  Clotting disorders
+
+          -  Platelet count less than 100,000, INR greater than 1.4
+
+          -  Pregnancy
+
+          -  Infratentorial hemorrhage
+
+          -  SAH at clinical presentation
+
+          -  ICH/IVH enlargement that cannot be stabilized in the treatment time window
+
+          -  Ongoing internal bleeding
+
+          -  Superficial or surface bleeding
+
+          -  Prior enrollment in the study
+
+          -  Any other condition that the investigator believes would pose a significant hazard to
+             the subject if the investigational therapy were initiated
+
+          -  Planned or simultaneous participation (between screening and Day-30) in another
+             interventional medical investigation or clinical trial.
+
+          -  No subject or legal representative to give written informed consent
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Daniel F. Hanley, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic, Arizona</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85054</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cedars-Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Southern California - Keck School of Medicine</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90089</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94034</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hartford Hospital</name>
+      <address>
+        <city>Hartford</city>
+        <state>Connecticut</state>
+        <zip>06106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Yale University</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06520-8018</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Georgetown University</name>
+      <address>
+        <city>Washington DC</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic, Jacksonville</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Intercoastal Medical Center</name>
+      <address>
+        <city>Sarasota</city>
+        <state>Florida</state>
+        <zip>34232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of South Florida</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Illinois at Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ruan Neurology Clinical and Research Center</name>
+      <address>
+        <city>Des Moines</city>
+        <state>Iowa</state>
+        <zip>50314</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Iowa</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kansas University Medical Center</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Kansas</state>
+        <zip>66160</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Maryland</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins University</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Health System</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Luke's Brain and Stroke Institute</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Springfield Neurological and Spine Institute</name>
+      <address>
+        <city>Springfield</city>
+        <state>Missouri</state>
+        <zip>65804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Louis University</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cooper University Hospital</name>
+      <address>
+        <city>Camden</city>
+        <state>New Jersey</state>
+        <zip>08103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New Jersey Neuroscience Institute at JFK</name>
+      <address>
+        <city>Edison</city>
+        <state>New Jersey</state>
+        <zip>08818</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Buffalo</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northshore University Hospital Long Island</name>
+      <address>
+        <city>Manhasset</city>
+        <state>New York</state>
+        <zip>11030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Hospital</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Upstate Medical Center</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest University</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Cincinnati</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Case-Western Reserve University Hospital</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ohio State University Medical Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Maine Medical Center</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>04102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Stroke Center</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97225</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Abington Memorial Hospital</name>
+      <address>
+        <city>Abington</city>
+        <state>Pennsylvania</state>
+        <zip>19001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Penn State Hershey Medical Center</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Thomas Jefferson University Hospital</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Temple University Hospital</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Albert Einstein Medical Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Allegheny General Hospital</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh Medical Center</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas, Southwestern, Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas, Houston</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas, San Antonio</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Commonwealth University</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23298</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical College of Wisconsin</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Sao Jose, Joinville</name>
+      <address>
+        <city>Joinville</city>
+        <state>Santa Catarina</state>
+        <zip>89202165</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Clinicas de Porto Alegre</name>
+      <address>
+        <city>Porto Alegre</city>
+        <zip>90035-903</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Pronto Socorro de Porto Alegre</name>
+      <address>
+        <city>Porto Alegre</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Clinicas de Ribeirao Preto</name>
+      <address>
+        <city>Ribeirão Preto</city>
+        <zip>14015-130</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Sao Paulo Universidade Federal de Sao Paulo / UNIFESP</name>
+      <address>
+        <city>Sao Paulo</city>
+        <zip>04039032</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Alberta</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T6G 2B7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Montreal Neurological Institute at McGill University</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H3A 2B4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Erlangen</name>
+      <address>
+        <city>Erlangen</city>
+        <zip>91054</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Halle</name>
+      <address>
+        <city>Halle</city>
+        <zip>D-06120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Heidelberg</name>
+      <address>
+        <city>Heidelberg</city>
+        <zip>69120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Leipzig</name>
+      <address>
+        <city>Leipzig</city>
+        <zip>04103</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Mainz</name>
+      <address>
+        <city>Mainz</city>
+        <zip>D-55131</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Tubingen</name>
+      <address>
+        <city>Tübingen</city>
+        <zip>72076</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Szeged</name>
+      <address>
+        <city>Szeged</city>
+        <state>Csongrad</state>
+        <zip>6725</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Honved Korhaz</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1134</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Debrecen</name>
+      <address>
+        <city>Debrecen</city>
+        <zip>4032</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pecs</name>
+      <address>
+        <city>Pecs</city>
+        <zip>7623</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rambam Medical Center</name>
+      <address>
+        <city>Haifa</city>
+        <zip>31096</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hadassah Hebrew University Hospital</name>
+      <address>
+        <city>Jerusalem</city>
+        <zip>91120</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chaim Sheba Medical Center</name>
+      <address>
+        <city>Ramat-Gan</city>
+        <zip>52621</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sourasky Medical Center</name>
+      <address>
+        <city>Tel Aviv</city>
+        <zip>64239</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bellvitge Hospital</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08015</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de la Santa Creu i Sant Pau</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08025</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vall d'Hebron University Hospital</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Zurich</name>
+      <address>
+        <city>Zurich</city>
+        <state>ZH</state>
+        <zip>CH-8091</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital, Inselpital, Bern</name>
+      <address>
+        <city>Bern</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Salford Royal NHS Foundation Trust</name>
+      <address>
+        <city>Salford</city>
+        <state>Manchester</state>
+        <zip>M6 8HD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Newcastle General Hospital</name>
+      <address>
+        <city>Newcastle upon Tyne</city>
+        <zip>NE4 6BE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Southampton Hospital</name>
+      <address>
+        <city>Southampton</city>
+        <zip>SO16 6YD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+    <country>Canada</country>
+    <country>Germany</country>
+    <country>Hungary</country>
+    <country>Israel</country>
+    <country>Spain</country>
+    <country>Switzerland</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Puerto Rico</country>
+  </removed_countries>
+  <link>
+    <url>http://braininjuryoutcomes.com</url>
+  </link>
+  <verification_date>April 2016</verification_date>
+  <lastchanged_date>April 12, 2016</lastchanged_date>
+  <firstreceived_date>October 31, 2008</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Johns Hopkins University</investigator_affiliation>
+    <investigator_full_name>Daniel Hanley</investigator_full_name>
+    <investigator_title>MD</investigator_title>
+  </responsible_party>
+  <keyword>intraventricular hemorrhage thrombolysis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Hemorrhage</mesh_term>
+    <mesh_term>Cerebral Hemorrhage</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Tissue Plasminogen Activator</mesh_term>
+  </intervention_browse>
+  <study_docs>
+    <study_doc>
+      <doc_id>Data repository-VISTA</doc_id>
+      <doc_type>Data repository-VISTA</doc_type>
+      <doc_url>http://vista.gla.ac.uk</doc_url>
+      <doc_comment>when available</doc_comment>
+    </study_doc>
+    <study_doc>
+      <doc_type>Study Protocol</doc_type>
+      <doc_url>http://vista.gla.ac.uk</doc_url>
+      <doc_comment>when available</doc_comment>
+    </study_doc>
+    <study_doc>
+      <doc_type>Statistical Analysis Plan</doc_type>
+      <doc_url>http://vista.gla.ac.uk</doc_url>
+      <doc_comment>when available</doc_comment>
+    </study_doc>
+  </study_docs>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

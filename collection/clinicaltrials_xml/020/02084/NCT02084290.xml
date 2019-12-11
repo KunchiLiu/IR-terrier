@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="78442">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02084290</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AHRQR01 HS21747</org_study_id>
+    <secondary_id>R01HS021747</secondary_id>
+    <nct_id>NCT02084290</nct_id>
+  </id_info>
+  <brief_title>Evaluating a Shared Decision Making Program for Crohn's Disease</brief_title>
+  <official_title>Evaluating a Prediction Tool and Decision Aid for Patients With Crohn's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dartmouth-Hitchcock Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Agency for Healthcare Research and Quality (AHRQ)</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Pittsburgh</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Mount Sinai Hospital, New York</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Cedars-Sinai Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Maryland</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Brigham and Women's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Thomas Jefferson University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Chicago</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Atlanta Gastroenterology Associates</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Long Island Clinical Research Associates</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Center for Digestive and Liver Diseases</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Charlotte Gastroenterology and Hepatology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Minnesota Gastroenterology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ohio Gi and Liver Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Winthrop University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Dartmouth-Hitchcock Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Specific Aim: Study the impact of the Crohn's Disease Shared Decision Making Program on
+      patients' treatment choice, persistence with chosen therapy, decision quality, cost of care,
+      and outcomes
+
+      Hypothesis: The Crohn's Disease Shared Decision Making Program will help patients understand
+      which treatments are right for them and will lead to a higher acceptance of appropriate
+      therapy, improved persistence with chosen therapy, lower costs and improved clinical
+      outcomes. To accomplish this aim, Investigators will perform a randomized controlled trial
+      to:
+
+        1. Determine how the shared decision making program influences patients' choice of therapy
+
+        2. Evaluate how the shared decision making program affects persistence with chosen therapy
+
+        3. Determine how the shared decision making program affects decision quality
+
+        4. Determine how the shared decision making program influences cost of care and clinical
+           outcomes
+
+      Expected Outcome and Impact: Investigators expect that this program will influence patients'
+      choice of therapy, persistence with their preferred therapy, and lead to improved clinical
+      outcomes. Investigators believe that this product can be successfully operationalized in the
+      clinic to establish a new paradigm of how providers can communicate personalized treatment
+      options to patients across a broad range of diseases.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>March 2014</start_date>
+  <primary_completion_date type="Anticipated">July 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of patients choosing Combination therapy</measure>
+    <time_frame>Week 1</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to initiation of therapy</measure>
+    <time_frame>Week 1, Week 2, week 26, week 52, week 78, week 110</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Choice of therapy</measure>
+    <time_frame>Week 1, Week 2, week 26, week 52, week 78, week 110</time_frame>
+    <description>no therapy, immunomodulator monotherapy, anti-TNF monotherapy, Combination therapy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Persistence (adherence) with chosen therapy</measure>
+    <time_frame>Week 1, Week 2, week 26, week 52, week 78, week 110</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Decision</measure>
+    <time_frame>Week 1, Week 2, week 26, week 52, week 78, week 110</time_frame>
+    <description>i. Decisional conflict (validated scale) ii. Decision consistent with patient values (i.e., patient receiving the treatment that they want) iii. Trust in physician</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cost of Care</measure>
+    <time_frame>week 110</time_frame>
+    <description>Crohn's disease related costs at 2 years</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Remission</measure>
+    <time_frame>6 months, 1 year, 2 years</time_frame>
+    <description>Proportion of patients in clinical remission</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patients on Steroids</measure>
+    <time_frame>6 months, 1 year, 2 years</time_frame>
+    <description>Proportion of patients taking steroids</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Surgeries</measure>
+    <time_frame>6 months, 1 year, 2 years</time_frame>
+    <description>Proportion of patients requiring Crohn's disease related surgery</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Crohn's disease related hospitalizations</measure>
+    <time_frame>6 months, 1 year, 2 years</time_frame>
+    <description>Number of hospitalizations</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Crohn's Disease</condition>
+  <arm_group>
+    <arm_group_label>Shared Decision Making Program</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will have access to an educational decision making program and a risk prediction model, this web based program will be sent subjects in the intervention arm upon enrollment, they can access the program as many times as they wish.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Subjects enrolled at sites participating as control arms will access the same web-based surveys as the intervention group, and receive the same contacts from the study coordinator as the subjects enrolled at intervention sites.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Shared Decision Making Program</intervention_name>
+    <description>This study is cluster randomized by study-site, Subjects enrolled at intervention sites will access an educational program and risk prediction tool. Their decisions about treatments will be compared to subjects that did not view the educational program or risk prediction tool.</description>
+    <arm_group_label>Shared Decision Making Program</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Clinical diagnosis of Crohn's Disease based on standard clinical, radiographic,
+             endoscopic, and histologic criteria
+
+          -  Age 18 or older
+
+          -  Fluent, English Speaking
+
+          -  A candidate to receive immunomodulators or anti-TNF therapy based on their providers
+             recommendation
+
+          -  not currently taking immunomodulators (6-mercapropurine, azathioprine, methotrexate)
+             or anti-TNF agents (infliximab, adalimumab, certolizumab pegol)
+
+        Exclusion Criteria:
+
+          -  Participant in a pilot study/focus group for development of Crohn's Shared Decision
+             Making Program
+
+          -  Currently taking any medication that is contraindicated to take together with an
+             immunomodulator or anti-TNF agent
+
+          -  Known intolerance to either immunomodulators or anti-TNF agents
+
+          -  Lack of accessibility to e-mail for follow-up surveys
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Corey A Siegel, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Dartmouth-Hitchcock Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kimberly D Thompson</last_name>
+    <phone>(603)-650-4481</phone>
+    <email>Kimberly.D.Thompson@hitchcock.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Corey A Siegel, MD</last_name>
+    <email>corey.a.siegel@hitchcock.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Cedars-Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cynthia Walsh, RN, BSN</last_name>
+      <email>Cynthia.Walsh@cshs.org</email>
+    </contact>
+    <investigator>
+      <last_name>Gil Melmed, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Atlanta Gastroenterology Associates</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30342</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Douglas Wolf, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Athina Bouroukas</last_name>
+      <phone>773-702-5055</phone>
+      <email>abouroukas@medicine.bsd.uchicago.edu</email>
+    </contact>
+    <investigator>
+      <last_name>David Rubin, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Maryland Medical Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21043</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Guruprasad Jambaulikar, MBBS, MPH</last_name>
+      <phone>410-706-3397</phone>
+      <email>gjambaulikar@medicine.umaryland.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Katherine Osche, MS</last_name>
+      <phone>410-706-5943</phone>
+      <email>kosche@medicine.umaryland.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Raymond Cross, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital</name>
+      <address>
+        <city>Chestnut Hill</city>
+        <state>Massachusetts</state>
+        <zip>02467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Matthew Lucci, BA</last_name>
+      <phone>617-732-9173</phone>
+      <email>mlucci@partners.org</email>
+    </contact>
+    <investigator>
+      <last_name>Joshua Korzenik, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Minnesota Gastroenterology</name>
+      <address>
+        <city>Plymouth</city>
+        <state>Minnesota</state>
+        <zip>55446</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chip Heller</last_name>
+      <phone>612-870-5596</phone>
+      <email>Leon.Heller@mngastro.com</email>
+    </contact>
+    <investigator>
+      <last_name>Ronald Schwartz, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Digestive and Liver Diseases</name>
+      <address>
+        <city>Mexico</city>
+        <state>Missouri</state>
+        <zip>65265</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dartmouth-Hitchcock Medical Center</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <zip>03756</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Long Island Clinical Research Associates, LLP</name>
+      <address>
+        <city>Great Neck</city>
+        <state>New York</state>
+        <zip>11021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Winthrop University Hospital</name>
+      <address>
+        <city>Mineola</city>
+        <state>New York</state>
+        <zip>11501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Raluca Vrabie, MD</last_name>
+      <phone>516-663-6905</phone>
+      <email>rvrabie@winthrop.org</email>
+    </contact>
+    <investigator>
+      <last_name>Raluca Vrabie, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Annabella Castillo</last_name>
+      <phone>212-659-9380</phone>
+      <email>anabella.castillo@mountsinai.org</email>
+    </contact>
+    <investigator>
+      <last_name>Bruce Sands, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Charlotte Gastroenterology and Hepatology, PLLC</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lori Sell, BSN</last_name>
+      <phone>704-375-9485</phone>
+      <email>lori.sell@charlottegastro.com</email>
+    </contact>
+    <investigator>
+      <last_name>John Hanson, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ohio GI and Liver Institute</name>
+      <address>
+        <city>Cincinatti</city>
+        <state>Ohio</state>
+        <zip>45219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Connie McNanie</last_name>
+      <phone>513-872-4549</phone>
+      <email>cmcnanie@ccrstudy.com</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Krenies, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Thomas Jefferson University</name>
+      <address>
+        <city>Philladelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cynthia Miller</last_name>
+      <phone>251-995-8108</phone>
+      <email>clm101@jefferson.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Particia Kozuch, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh Medical Center</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15261</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kimberly Goldby-Reffner</last_name>
+      <phone>421-648-9173</phone>
+      <email>goldbyreffnerka@upmc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Miguel Regueiro, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2016</verification_date>
+  <lastchanged_date>October 27, 2016</lastchanged_date>
+  <firstreceived_date>January 29, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Crohn's disease</keyword>
+  <keyword>Shared Decision Making</keyword>
+  <keyword>Decision Aid</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Crohn Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

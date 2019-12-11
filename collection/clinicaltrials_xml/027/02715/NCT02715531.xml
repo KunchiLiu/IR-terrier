@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="30048">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02715531</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GO30140</org_study_id>
+    <nct_id>NCT02715531</nct_id>
+  </id_info>
+  <brief_title>A Study of the Safety and Tolerability of Atezolizumab Administered in Combination With Bevacizumab and/or Other Treatments in Participants With Solid Tumors</brief_title>
+  <official_title>An Open-Label, Multicenter Phase Ib Study of The Safety and Tolerability of Atezolizumab (Anti-PD-L1 Antibody) Administered in Combination With Bevacizumab and/or Other Treatments in Patients With Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hoffmann-La Roche</source>
+  <brief_summary>
+    <textblock>
+      This study will evaluate the safety, tolerability and pharmacokinetic variability of
+      atezolizumab in combination with bevacizumab, bevacizumab + oxaliplatin, leucovorin and
+      5-fluorouracil (5-FU) (FOLFOX), vanucizumab, nab-paclitaxel + gemcitabine, FOLFOX, or 5-FU +
+      cisplatin.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 30, 2016</start_date>
+  <completion_date type="Anticipated">May 31, 2019</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2019</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants With At Least One Adverse Event</measure>
+    <time_frame>From screening to up to 90 days after the last dose of study drug (up to approximately 27 months)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Serum Concentrations of Atezolizumab (All Arms)</measure>
+    <time_frame>Predose (0 hour[h]) and 30min postdose(infusion length=30-60min) on Day 1 of Cycles(Cy) 1 and 3; Predose(0h) on Day 1 of Cy2,4,8 and every 8 Cy until treatment discontinuation(up to 27months); 120days after last dose (Cy length=21-28days; up to 27months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Measure: Serum Concentration of Bevacizumab (Arm A, Arm B, and Group D2)</measure>
+    <time_frame>Predose (0 h) and 30 minutes (min) postdose (infusion length=30-90 min) on Day 1 of Cycle 1 and 3; at treatment discontinuation (up to 27 months); at 120 days after last dose (Cycle length=21-28 days; up to 27 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Concentration of Vanucizumab (Group D1)</measure>
+    <time_frame>Predose (0h) and 30min postdose (infusion length=30-90 min) on Day 1 of Cycle 1 and 3; Predose (0h) on Day 1 of Cycles 4,8 and every 8 Cycles until treatment discontinuation(up to 27months); 120 days after last dose (Cycle length=28 days; up to 27months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Concentration of Oxaliplatin (Arm B and Group E1)</measure>
+    <time_frame>Predose (0 h) and 5-10 min before the end of infusion (infusion length=120 min) on Day 1 of Cycles 1 and 3 (Cycle length=21-28 days; up to approximately 3 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Concentration of 5-FU (Arms B and E)</measure>
+    <time_frame>Predose (0 h), immediately following bolus administration and 2 hours post-bolus dose on Day 1 of Cycles 1 and 3 (Cycle length=21-28 days; up to approximately 3 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Concentration of Cisplatin (Group E2)</measure>
+    <time_frame>Predose (0 h) and 5-10 minutes before the end of infusion (infusion length=120 min) on Day 1 of Cycles 1 and 3 (Cycle length=21 days; up to approximately 3 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Concentration of nab-Paclitaxel (Arm C)</measure>
+    <time_frame>Predose (0 h), 5-10 minutes before the end of infusion and 1 hour after the end of the infusion (infusion length=35 min) on Day 1 of Cycles 1 and 3 (Cycle length=28 days; up to approximately 3 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Concentration of Gemcitabine (Arm C)</measure>
+    <time_frame>Predose (0 h), 5-10 minutes before the end of infusion and 1 hour after the end of the infusion (infusion length=35 min) on Day 1 of Cycles 1 and 3 (Cycle length=28 days) (up to approximately 3 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Best Overall Response as Determined by Response Evaluation Criteria in Solid Tumors (RECIST) Version (v) 1.1</measure>
+    <time_frame>Baseline, every 8 weeks (± 1 week) for the first 12 months following Cycle 1 Day 1, and every 12 weeks (± 1 week) thereafter up to study completion (Cycle length=21-28 days; up to approximately 27 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Best Overall Response as Determined by Immune-Modified RECIST</measure>
+    <time_frame>Baseline, every 8 weeks (± 1 week) for the first 12 months following Cycle 1 Day 1, and every 12 weeks (± 1 week) thereafter up to study completion (Cycle length=21-28 days; up to approximately 27 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Best Overall Response as Determined by HCC-Specific Modified RECIST (Arm D only)</measure>
+    <time_frame>Baseline, every 8 weeks (± 1 week) for the first 12 months following Cycle 1 Day 1, and every 12 weeks (± 1 week) thereafter up to study completion (Cycle length=21-28 days; up to approximately 27 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Objective Response as Determined by RECIST v1.1</measure>
+    <time_frame>Baseline, every 8 weeks (± 1 week) for the first 12 months following Cycle 1 Day 1, and every 12 weeks (± 1 week) thereafter up to study completion (Cycle length=21-28 days; up to approximately 27 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Objective Response as Determined by Immune-Modified RECIST</measure>
+    <time_frame>Baseline, every 8 weeks (± 1 week) for the first 12 months following Cycle 1 Day 1, and every 12 weeks (± 1 week) thereafter up to study completion (Cycle length=21-28 days; up to approximately 27 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Objective Response as Determined by HCC-Specific Modified RECIST (Arm D only)</measure>
+    <time_frame>Baseline, every 8 weeks (± 1 week) for the first 12 months following Cycle 1 Day 1, and every 12 weeks (± 1 week) thereafter up to study completion (Cycle length=21-28 days; up to approximately 27 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Objective Response as Determined by RECIST v1.1</measure>
+    <time_frame>Baseline, every 8 weeks (± 1 week) for the first 12 months following Cycle 1 Day 1, and every 12 weeks (± 1 week) thereafter up to study completion (Cycle length=21-28 days; up to approximately 27 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Objective Response as Determined by Immune-Modified RECIST</measure>
+    <time_frame>Baseline, every 8 weeks (± 1 week) for the first 12 months following Cycle 1 Day 1, and every 12 weeks (± 1 week) thereafter up to study completion (Cycle length=21-28 days; up to approximately 27 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Objective Response as Determined by HCC-Specific Modified RECIST (Arm D Only)</measure>
+    <time_frame>Baseline, every 8 weeks (± 1 week) for the first 12 months following Cycle 1 Day 1, and every 12 weeks (± 1 week) thereafter up to study completion (Cycle length=21-28 days; up to approximately 27 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free-Survival Duration as Determined by RECIST v1.1</measure>
+    <time_frame>Baseline, every 8 weeks (± 1 week) for the first 12 months following Cycle 1 Day 1, and every 12 weeks (± 1 week) thereafter up to study completion (Cycle length=21-28 days; up to approximately 27 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free-Survival Duration as Determined by Immune-Modified RECIST</measure>
+    <time_frame>Baseline, every 8 weeks (± 1 week) for the first 12 months following Cycle 1 Day 1, and every 12 weeks (± 1 week) thereafter up to study completion (Cycle length=21-28 days; up to approximately 27 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free-Survival Duration as Determined by HCC-Specific Modified RECIST (Arm D Only)</measure>
+    <time_frame>Baseline, every 8 weeks (± 1 week) for the first 12 months following Cycle 1 Day 1, and every 12 weeks (± 1 week) thereafter up to study completion (Cycle length=21-28 days; up to approximately 27 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival Duration</measure>
+    <time_frame>Baseline up to study completion or death, whichever occurs first (up to approximately 27 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Radiological Progression as Determined by RECIST v1.1 (Arms A and D only)</measure>
+    <time_frame>Baseline, every 8 weeks (± 1 week) for the first 12 months following Cycle 1 Day 1, and every 12 weeks (± 1 week) thereafter up to study completion (Cycle length=21-28 days; up to approximately 27 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Radiological Progression as Determined by Immune-Modified RECIST (Arms A and D only)</measure>
+    <time_frame>Baseline, every 8 weeks (± 1 week) for the first 12 months following Cycle 1 Day 1, and every 12 weeks (± 1 week) thereafter up to study completion (Cycle length=21-28 days; up to approximately 27 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Radiological Progression as Determined by HCC-Specific Modified RECIST (Arm D only)</measure>
+    <time_frame>Baseline, every 8 weeks (± 1 week) for the first 12 months following Cycle 1 Day 1, and every 12 weeks (± 1 week) thereafter up to study completion (Cycle length=21-28 days; up to approximately 27 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Symptomatic Progression as Defined by the Assessment of Functional Assessment of Cancer Therapy (FACT) Hepatobiliary Symptom Index 8 (FHSI-8) Questionnaire (Arm D only)</measure>
+    <time_frame>Baseline up to study completion or symptomatic progression, whichever occurs first (up to approximately 27 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Anti-Therapeutic Antibodies (ATAs) to Atezolizumab</measure>
+    <time_frame>Predose (0 h) on Day 1 of Cycles 1, 2, 3, 4, 8 and every 8 cycles until treatment discontinuation (up to 27 months); at 120 days after last dose (Cycle length =21-28 days; up to 27 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With ATAs to Bevacizumab</measure>
+    <time_frame>Predose (0 h) on Day 1 of Cycles 1 and 3; treatment discontinuation (up to 27 months); at 120 days after last dose (Cycle length=21-28 days; up to 27 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With ATAs to Vanucizumab</measure>
+    <time_frame>Predose (0 h) on Day 1 of Cycles 1, 3, 4, 8 and every 8 cycles until treatment discontinuation (up to 27 months); at 120 days after last dose (Cycle length=28 days; up to 27 months)</time_frame>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">291</enrollment>
+  <condition>Solid Tumor</condition>
+  <arm_group>
+    <arm_group_label>Arm A (Hepatocellular Carcinoma [HCC])</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with HCC will receive atezolizumab 1200 milligrams (mg) intravenous (IV) and bevacizumab 15 milligrams per kilogram (mg/kg) IV, every 3 weeks (q3w), each cycle of 21 days, as long as participants are experiencing clinical benefit in the opinion of the investigator.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B (Gastric Cancer)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with human epidermal growth factor receptor 2 (HER2) negative adenocarcinoma of the stomach or gastroesophageal junction (GEJ) will receive atezolizumab 840 mg IV, bevacizumab 10 mg/kg IV, oxaliplatin 85 milligrams per square meter (mg/m^2) IV, leucovorin 200 mg/m^2 or 400 mg/m^2 IV, and 5-FU (400 mg/m^2 IV bolus, followed by 2400 mg/m^2 continuous IV infusion over 46 [± 1] hours), every 2 weeks (q2w), each cycle of 28 days, as long as participants are experiencing clinical benefit in the opinion of the investigator. Oxaliplatin will be administered for up to 8 cycles. After 6 months, at discretion of investigator, capecitabine may be administered instead of infusional 5-FU and leucovorin, and biologic therapy may be given q3w for participant convenience. The dose of capecitabine will be at the discretion of the investigator (range of 650-1000 mg/m^2 twice daily on Days 1-4 of a 21-day cycle). The dose of atezolizumab will be adjusted to 1200 mg for q3w schedule.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm C (Metastatic Pancreatic Cancer)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with metastatic pancreatic cancer will receive atezolizumab 840 mg IV q2w starting on Day 1, Cycle 1 (each cycle of 28 days), administration of nab-paclitaxel (125 mg/m^2 IV over 30-40 minutes) followed by gemcitabine (1000 mg/m^2 IV over 30-40 minutes) will occur on Days 1, 8, and 15 of each cycle (3-weeks-on/1-week-off schedule). Treatment consisting of atezolizumab with gemcitabine and nab-paclitaxel may be continued as long as participants are experiencing clinical benefit in the opinion of the investigator.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm D (HCC)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with HCC will be randomized in a ratio of 1:1 to receive either atezolizumab + vanucizumab (Group D1) or atezolizumab + bevacizumab (Group D2). In Group D1, atezolizumab will be administered at 840 mg and vanucizumab at 2000 mg, both IV on a q2w schedule. The cycle length will be 28 days with dosing on Day 1 and Day 15 of each cycle. In Group D2, atezolizumab will be administered at 1200 mg and bevacizumab at 15 mg/kg, both IV on a q3w schedule. The cycle length will be 21 days with dosing on Day 1 of each cycle. Treatment with atezolizumab in combination with vanucizumab or bevacizumab may be continued as long as participants are experiencing clinical benefit in the opinion of the investigator.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm E (Metastatic Esophageal Cancer [mEC])</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with squamous mEC will be randomized (1:1) into Group E1 and Group E2. All participants with metastatic adenocarcinoma of esophageal carcinoma or GEJ Siewert Classification Type I will be enrolled into Group E3. In Groups E1 and E3, participants will receive atezolizumab 840 mg IV, oxaliplatin 85 mg/m^2 IV, leucovorin 200 mg/m^2 or 400 mg/m^2 IV, and 5-FU (400 mg/m^2 administered as an IV bolus, followed by 2400 mg/m^2 continuous IV infusion over 46 [± 1] hours), q2w, each cycle of 28 days, as long as participants are experiencing clinical benefit in opinion of the investigator. Oxaliplatin will be administered for up to 8 cycles. In Group E2, participants will receive atezolizumab 1200 mg IV followed by cisplatin 80 mg/m^2 IV and 5-FU 800 mg/m^2 IV for 120 hours IV q3w. Cisplatin will be administered for up to 6 cycles. Treatment with atezolizumab in combination with 5-FU may be continued as long as participants experience clinical benefit in opinion of the investigator.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>5-FU</intervention_name>
+    <description>5-FU (400 mg/m^2) will be administered as an IV bolus, followed by 2400 mg/m^2 by continuous IV infusion over 46 (± 1) hours, q2w.</description>
+    <arm_group_label>Arm B (Gastric Cancer)</arm_group_label>
+    <arm_group_label>Arm E (Metastatic Esophageal Cancer [mEC])</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Atezolizumab</intervention_name>
+    <description>Participants will receive atezolizumab in a flat dose of 1200 mg q3w (Arm A, Group D2, and Group E2) or 840 mg q2w (Arm B, Arm C, Group D1, and Groups E1 and E3).</description>
+    <arm_group_label>Arm A (Hepatocellular Carcinoma [HCC])</arm_group_label>
+    <arm_group_label>Arm B (Gastric Cancer)</arm_group_label>
+    <arm_group_label>Arm C (Metastatic Pancreatic Cancer)</arm_group_label>
+    <arm_group_label>Arm D (HCC)</arm_group_label>
+    <arm_group_label>Arm E (Metastatic Esophageal Cancer [mEC])</arm_group_label>
+    <other_name>Tecentriq; RO5541267</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bevacizumab</intervention_name>
+    <description>Participants will receive bevacizumab at 15 mg/kg q3w (Arm A and Group D2) or 10 mg/kg q2w (Arm B).</description>
+    <arm_group_label>Arm A (Hepatocellular Carcinoma [HCC])</arm_group_label>
+    <arm_group_label>Arm B (Gastric Cancer)</arm_group_label>
+    <arm_group_label>Arm D (HCC)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Gemcitabine</intervention_name>
+    <description>Gemcitabine will be administered according to the local prescribing information. The starting dose-level of gemcitabine (1000 mg/m^2) will be administered intravenously over 35 (± 5) minutes on Days 1, 8, and 15 of each 28-day cycle (3-weeks-on/1-week-off schedule).</description>
+    <arm_group_label>Arm C (Metastatic Pancreatic Cancer)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Leucovorin</intervention_name>
+    <description>Leucovorin 200 mg/m^2 or 400 mg/m^2 will be administered IV over 120 (± 15) minutes, q2w.</description>
+    <arm_group_label>Arm B (Gastric Cancer)</arm_group_label>
+    <arm_group_label>Arm E (Metastatic Esophageal Cancer [mEC])</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nab-Paclitaxel</intervention_name>
+    <description>Nab-Paclitaxel will be administered according to the local prescribing information. The starting dose-level of nab-paclitaxel (125 mg/m^2) will be administered intravenously over 35 (± 5) minutes on Days 1, 8, and 15 of each 28-day cycle (3-weeks-on/1-week-off schedule).</description>
+    <arm_group_label>Arm C (Metastatic Pancreatic Cancer)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Oxaliplatin</intervention_name>
+    <description>Oxaliplatin 85 mg/m^2 will be administered IV over 120 (± 5) minutes q2w.</description>
+    <arm_group_label>Arm B (Gastric Cancer)</arm_group_label>
+    <arm_group_label>Arm E (Metastatic Esophageal Cancer [mEC])</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Capecitabine</intervention_name>
+    <description>Capecitabine may be administered after 6 months at the discretion of the investigator (range of 650-1000 mg/m^2) twice daily on Days 1-4 of a 21-day cycle.</description>
+    <arm_group_label>Arm B (Gastric Cancer)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cisplatin</intervention_name>
+    <description>Cisplatin will be administered as 80 mg/m^2 IV over 120 minutes q3w (Group E2).</description>
+    <arm_group_label>Arm E (Metastatic Esophageal Cancer [mEC])</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vanucizumab</intervention_name>
+    <description>Vanucizumab will be administered at a flat dose of 2000 mg IV q2w (Group D1).</description>
+    <arm_group_label>Arm D (HCC)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        General Inclusion criteria
+
+          -  Measurable disease per RECIST v1.1
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1
+
+          -  Adequate hematologic and end organ function
+
+          -  Resolution of any acute, clinically significant treatment-related toxicity from prior
+             therapy to Grade less than or equal to (&lt;/=) 1 prior to study entry, with the
+             exception of alopecia
+
+          -  Ready to use reliable contraceptive procedures
+
+        Inclusion Criteria Specific to HCC (Arm A and Arm D):
+
+          -  Participants with advanced or metastatic and/or unresectable HCC
+
+          -  The participant has disease that is not amenable to a curative approach
+
+          -  No prior line of systemic therapy (includes participants who are sorafenib-naïve)
+
+          -  Willing to undergo fresh liver biopsy if provided archival tissue was taken greater
+             than (&gt;) 6 months from Cycle 1 Day 1
+
+          -  Child-Pugh Score of up to B7
+
+          -  Serum bilirubin &lt;/= 3 times upper limit of normal (x ULN)
+
+          -  International normalized ratio (INR) and activated partial thromboplastin time (aPTT)
+             &lt;/= 2 x ULN
+
+          -  Albumin &gt;2.8 grams per deciliter (g/dL)
+
+          -  Documented virology status of hepatitis, as confirmed by screening hepatitis B
+             surface antigen (HBsAg), antibody to hepatitis B core antigen (anti-HBc), and/or
+             anti-hepatitis C virus (anti-HCV)
+
+          -  Antiviral therapy per local standard-of-care if active hepatitis B virus (HBV)
+
+        Inclusion Criteria Specific to Gastric Cancer (Arm B)
+
+          -  Histologically or cytologically confirmed locally advanced or metastatic
+             adenocarcinoma of the stomach or GEJ in participants who have not received prior
+             systemic therapy for metastatic disease
+
+          -  Absence of HER2 expression documented as in situ hybridization (ISH) negative on
+             previously collected and assessed tumor tissue upon initial diagnosis of disease
+
+        Inclusion criteria specific to metastatic pancreatic cancer (Arm C)
+
+          -  Histologically or cytologically confirmed metastatic adenocarcinoma of the pancreas
+
+          -  No previous radiotherapy, surgery, chemotherapy, or investigational therapy for the
+             treatment of metastatic disease
+
+        Inclusion Criteria Specific to mEC (Arm E)
+
+          -  Histologically or cytologically confirmed locally mEC or metastatic adenocarcinoma of
+             the GEJ Siewert Classification Type I in participants who have not received prior
+             systemic therapy for primary and metastatic disease or chemoradiation therapy for
+             primary disease
+
+          -  Absence of HER2 expression documented as ISH-negative on previously collected and
+             assessed tumor tissue upon initial diagnosis of disease
+
+          -  Willing to undergo biopsy if archival tissue is not available or if archival tissue
+             was taken &gt;6 months from Cycle 1 Day 1
+
+        Exclusion Criteria:
+
+        General Exclusion Criteria
+
+          -  Uncontrolled pleural effusion, pericardial effusion, or ascites
+
+          -  Uncontrolled tumor-related pain
+
+          -  Uncontrolled hypercalcemia or symptomatic hypercalcemia requiring continued use of
+             bisphosphonate therapy
+
+          -  Known clinically significant liver disease, including active viral, alcoholic, or
+             other hepatitis, cirrhosis, fatty liver, and inherited liver disease (exception for
+             participants in Arm A and Arm D)
+
+          -  Known primary central nervous system (CNS) malignancy or untreated or active CNS
+             metastases
+
+          -  Known hypersensitivity to biopharmaceuticals produced in Chinese hamster ovary cells
+             or other recombinant human antibodies
+
+          -  Positive test for Human Immunodeficiency Virus (HIV)
+
+          -  Active hepatitis B (chronic or acute), or hepatitis C (exception for participants in
+             Arm A and Arm D)
+
+          -  Active tuberculosis
+
+          -  Severe infections within 4 weeks prior to Day 1
+
+          -  Signs or symptoms of significant infection within 2 weeks prior to Day 1
+
+          -  Received oral or IV antibiotics within 2 weeks prior to Cycle 1 Day 1
+
+          -  Significant cardiovascular disease, such as New York Heart Association (NYHA) cardiac
+             disease (Class II or greater), myocardial infarction within 3 months prior to Day 1,
+             unstable arrhythmias, or unstable angina
+
+          -  History of stroke, reversible ischemic neurological defect or transient ischemic
+             attack within 6 months prior to Day 1
+
+          -  Administration of a live, attenuated vaccine within 4 weeks before Cycle 1, Day 1 or
+             anticipation that such a live attenuated vaccine will be required during the study
+
+          -  Any serious medical condition or abnormality in clinical laboratory tests that, in
+             the investigators judgment, precludes the participants safe participation in and
+             completion of the study
+
+          -  Malignancies other than pancreatic carcinoma within 2 years prior to study start,
+             with the exception of those with a negligible risk of metastasis or death (e.g.,
+             expected 5-year OS &gt;90%) treated with expected curative outcome (such as adequately
+             treated carcinoma in situ of the cervix, basal or squamous cell skin cancer,
+             localized prostate cancer treated surgically with curative intent, ductal carcinoma
+             in situ treated surgically with curative intent)
+
+        Exclusion Criteria Related to Medications
+
+          -  Prior treatment with anti-cytotoxic T-lymphocyte-associated protein 4 (anti-CTLA4),
+             anti-programmed death-1 (anti-PD-1), or anti-programmed death ligand-1 (anti-PD-L1)
+             therapeutic antibody
+
+          -  Treatment with systemic immunostimulatory agents within 6 weeks or five half-lives of
+             the drug, whichever is longer, prior to screening
+
+          -  Treatment with systemic corticosteroids or other immunosuppressive medications
+             (including but not limited to prednisone, cyclophosphamide, azathioprine,
+             methotrexate, thalidomide, and anti-tumor necrosis factor [TNF] agents) within 2
+             weeks prior to Cycle 1, Day 1
+
+          -  History of severe allergic, anaphylactic, or other hypersensitivity reactions to
+             chimeric or humanized antibodies or fusion proteins
+
+          -  Participants with prior allogeneic bone marrow transplantation or prior solid organ
+             transplantation
+
+          -  Known allergies to oxaliplatin (or other platinum agents), leucovorin, 5-FU,
+             nab-paclitaxel (or other taxanes) or gemcitabine
+
+        Bevacizumab and Vanucizumab-Specific Exclusions (Arms A, B, and D)
+
+          -  Core biopsy or other minor surgical procedure, excluding placement of a vascular
+             access device, within 3 days prior to the first dose of bevacizumab or vanucizumab
+
+          -  History of abdominal or tracheoesophageal fistula, gastrointestinal (GI) perforation,
+             or intra-abdominal abscess within 6 months prior to Day 1
+
+          -  History of intestinal obstruction and/or clinical signs or symptoms of GI obstruction
+             within 6 months prior to Day 1 of Cycle 1
+
+          -  Clinical signs or symptoms of GI obstruction or requirement for routine parenteral
+             hydration, parenteral nutrition, or tube feeding
+
+          -  Evidence of abdominal free air that is not explained by paracentesis or recent
+             surgical procedure
+
+          -  Serious, non-healing or dehiscing wound, active ulcer, or untreated bone fracture
+
+          -  Proteinuria, as demonstrated by urine dipstick or &gt; 1.0 g of protein in a 24-hour
+             urine collection
+
+          -  Metastatic disease that involves major airways or blood vessels, or centrally located
+             mediastinal tumor masses of large volume. HCC participants (Arm A and D) with
+             vascular invasion of the portal or hepatic veins may be enrolled
+
+          -  History of intra-abdominal inflammatory process within 6 months prior to Day 1 of
+             Cycle 1
+
+          -  Radiotherapy within 28 days and abdominal/pelvic radiotherapy within 60 days prior to
+             Day 1 of Cycle 1
+
+          -  Major surgical procedure, open biopsy, or significant traumatic injury within 28 days
+             prior to Day 1 of Cycle 1
+
+          -  Chronic daily treatment with a nonsteroidal anti-inflammatory drug (NSAID)
+
+        Exclusions specific to Arms A and D (HCC)
+
+          -  Participants with untreated or incompletely treated varices with bleeding or
+             high-risk for bleeding
+
+          -  Treatment with any HCV anti-viral therapy within 4 weeks prior to Cycle 1 Day 1
+
+          -  Moderate or severe ascites
+
+          -  Hepatic encephalopathy
+
+        Exclusions Specific to Arm E (Metastatic Esophageal Cancer)
+
+          -  HER2 expression as defined by ISH positive and/or 3+ by immunohistochemistry
+
+          -  Prior chemotherapy treatment, including radio-sensitization in pre- and
+             post-operative settings
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>Hoffmann-La Roche</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Reference Study ID Number: GO30140 www.roche.com/about_roche/roche_worldwide.htm</last_name>
+    <phone>888-662-6728 (U.S. and Canada)</phone>
+    <email>global-roche-genentech-trials@gene.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Helen Diller Fam Comp Can Ctr</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Hospital</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yale School of Medicine</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Georgetown University Medical Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dana Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dana Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UNC Lineberger Comprehensive Cancer Center</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27514</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Duke Cancer Institute</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sarah Cannon Research Inst.</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03080</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Severance Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03722</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Asan Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>05505</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Samsung Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06351</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2017</verification_date>
+  <lastchanged_date>April 3, 2017</lastchanged_date>
+  <firstreceived_date>March 17, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Paclitaxel</mesh_term>
+    <mesh_term>Gemcitabine</mesh_term>
+    <mesh_term>Oxaliplatin</mesh_term>
+    <mesh_term>Albumin-Bound Paclitaxel</mesh_term>
+    <mesh_term>Cisplatin</mesh_term>
+    <mesh_term>Bevacizumab</mesh_term>
+    <mesh_term>Capecitabine</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

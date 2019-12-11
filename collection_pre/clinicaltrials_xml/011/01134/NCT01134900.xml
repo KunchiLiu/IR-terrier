@@ -1,0 +1,16 @@
+<DOC>
+	<DOC>NCT01134900</DOC>
+	<brief_summary>The utilization of clinical decision support (CDS) is increasing among healthcare facilities which have implemented computerized physician order entry or electronic medical records. Formal prospective evaluation of CDS implementations occurs rarely, and misuse or flaws in system design are often unrecognized. Retrospective review can identify failures but is too late to make critical corrections or initiate redesign efforts. A real-time surveillance dashboard for high-alert medications integrates externalized CDS interactions with relevant medication ordering, administration, and therapeutic monitoring data. The surveillance view of the dashboard displays all currently admitted, eligible patients and provides brief demographics with triggering order, laboratory, and CDS failure data to allow prioritization of high-risk scenarios. The patient detail view displays a detailed timeline of orders, order administrations, laboratory values, and CDS interactions for an individual patient and allows users to understand provider actions and patient condition changes occurring in conjunction with CDS failures. Clinical pharmacists' use of the dashboard for patient monitoring and intervention aims to increase the rate and timeliness of intercepted medication errors compared to CPOE-based CDS in the setting of acute kidney injury, which affects patients at various points across all hospital units and services and has numerous opportunities for intervention.</brief_summary>
+	<brief_title>Achieving Medication Safety During Acute Kidney Injury</brief_title>
+	<detailed_description />
+	<mesh_term>Acute Kidney Injury</mesh_term>
+	<mesh_term>Renal Insufficiency</mesh_term>
+	<criteria>0.5 mg/dl increase or decrease in serum creatinine within 48 hours Active, recurring order for targeted renally cleared or nephrotoxic medication Chronic dialysis Transplant patients</criteria>
+	<gender>All</gender>
+	<minimum_age>18 Years</minimum_age>
+	<maximum_age>N/A</maximum_age>
+	<verification_date>January 2012</verification_date>
+	<keyword>Medication Errors</keyword>
+	<keyword>Adverse Drug Events</keyword>
+	<keyword>Decision Support Systems, Clinical</keyword>
+</DOC>

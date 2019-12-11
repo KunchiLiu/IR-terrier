@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="144221">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01223183</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PRO09080375</org_study_id>
+    <nct_id>NCT01223183</nct_id>
+  </id_info>
+  <brief_title>Absorptive Clearance After Inhaled Osmotics in Cystic Fibrosis</brief_title>
+  <official_title>Absorptive Clearance After Inhaled Osmotics in Cystic Fibrosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pittsburgh</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Pittsburgh</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Blockage of the breathing tubes of the lungs by thick, sticky mucus is a major cause of lung
+      problems for people with cystic fibrosis (CF). Many researchers now believe that people with
+      CF absorb too much water from the insides of their lungs, and that the mucus in their lungs
+      becomes so thick and sticky because there is not enough water in it. The investigators are
+      trying to develop ways to measure how fast water is absorbed from the breathing tubes in the
+      lung so that the investigators can more quickly test new medications that are being
+      developed to fix this problem for CF patients. The investigators have already done studies
+      showing that people with CF absorb a particular radioactive drug (Indium-111 DTPA or
+      In-DTPA) from their lungs more quickly than people without CF. Now the investigators are
+      trying to prove that the absorption of this drug is related to the absorption of water. The
+      investigators measure the absorption of In-DTPA by delivering it in an aerosol (inhaled
+      mist) along with another radioactive drug (Technetium 99m sulfur colloid). This other drug
+      helps us measure how much material is cleared from the lungs in other ways (like coughing)
+      without being absorbed. In this study, the investigators will measure how the absorption of
+      In-DTPA is affected by inhaling isotonic saline and hypertonic saline (salt water), both of
+      which the investigators know affect the absorption of water in the airways.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      There is a substantial need for new biomarkers in the study of cystic fibrosis (CF) lung
+      disease. Conventional endpoints, such as rate of FEV1 decline, require prolonged trials and
+      large sample sizes to demonstrate therapeutic efficacy. Ideally such biomarkers would
+      provide a quantitative window to the most basic aspects of CF pathophysiology, allowing for
+      the development and evaluation of therapies prior to large scale clinical trials. The basic
+      defect of CF lung disease occurs in the airways where dysfunction of the cystic fibrosis
+      transmembrane conductance regulator (CFTR) and epithelial sodium (ENaC) channels is thought
+      to create an ionic gradient that causes excessive liquid absorption across the epithelium.
+      This results in a dehydrated airway surface liquid (ASL) layer, defective mucociliary
+      clearance, and an increased proclivity for infection and inflammation.
+
+      Aerosol-based methods have been developed to measure mucociliary clearance in the lung and
+      used to demonstrate the efficacy of inhaled osmotic therapies. We have developed an aerosol
+      technique to measure both mucociliary clearance and the absorptive clearance of a
+      hydrophilic small molecule (Diethylene triamine pentaacetic acid - DTPA) in whole, central,
+      and peripheral lung regions. We estimate DTPA absorption by delivering an aerosol containing
+      both Indium 111 DTPA (In-DTPA) and Technetium 99m sulfur colloid (Tc-SC) to the airways. The
+      clearance of each radiopharmaceutical is imaged independently and two separate clearance
+      curves are calculated. In-DTPA is cleared through both absorption and mucociliary clearance
+      while Tc-SC is cleared only through the mucociliary route. The difference between the
+      clearance rates of the radiopharmaceuticals provides an estimate of DTPA absorption rate.
+
+      Our previous studies have demonstrated that absorption of Indium-111 labeled DTPA occurs at
+      a higher rate in central (airway dominated) lung zones of CF subjects compared to controls
+      (42 vs. 32 %/hr, CF n= 9, control n=10, p=0.03). We believe that this increased DTPA
+      absorption is being caused by the increased liquid absorption occurring in these airways,
+      however there are other potential causes such as increase in tight junction permeability or
+      epithelial denuding.
+
+      In this study we propose to measure DTPA absorption after the delivery of interventions
+      known to affect liquid absorption in the airways to see if changes in DTPA absorption mirror
+      the changes in liquid absorption known to be caused by the interventions.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 2010</start_date>
+  <completion_date type="Actual">December 2012</completion_date>
+  <primary_completion_date type="Actual">December 2012</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Absorptive clearance rate</measure>
+    <time_frame>two visits inside of 24 days</time_frame>
+    <description>The absoprtion rate of In-DTPA in the airways</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">20</enrollment>
+  <condition>Cystic Fibrosis</condition>
+  <arm_group>
+    <arm_group_label>cystic fibrosis</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>hypertonic saline (7%)</intervention_name>
+    <description>single treatment by inhalation</description>
+    <arm_group_label>cystic fibrosis</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>isotonic saline</intervention_name>
+    <description>single treatment by inhalation</description>
+    <arm_group_label>cystic fibrosis</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  age ≥ 18 years
+
+          -  diagnosis of cystic fibrosis as determined by sweat test or genotype and clinical
+             symptoms
+
+          -  clinically stable as determined by the investigator (pulmonologist)
+
+        Exclusion Criteria:
+
+          -  intolerant to hypertonic saline.
+
+          -  FEV1%p &lt;40% of predicted
+
+          -  nursing mother
+
+          -  positive urine pregnancy test
+
+          -  unwilling to stop hypertonic saline therapy for 72 hours prior to each test day
+
+          -  cigarette smoker (regular smoking within 6 months of study)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University of Pittsburgh</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Corcoran TE, Thomas KM, Myerburg MM, Muthukrishnan A, Weber L, Frizzell R, Pilewski JM. Absorptive clearance of DTPA as an aerosol-based biomarker in the cystic fibrosis airway. Eur Respir J. 2010 Apr;35(4):781-6. doi: 10.1183/09031936.00059009. Epub 2009 Aug 28.</citation>
+    <PMID>19717485</PMID>
+  </reference>
+  <verification_date>June 2013</verification_date>
+  <lastchanged_date>June 14, 2013</lastchanged_date>
+  <firstreceived_date>October 14, 2010</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>cystic fibrosis</keyword>
+  <keyword>nuclear medicine</keyword>
+  <keyword>aerosol</keyword>
+  <keyword>nebulizer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Fibrosis</mesh_term>
+    <mesh_term>Cystic Fibrosis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="80706">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02054715</url>
+  </required_header>
+  <id_info>
+    <org_study_id>URCC12107</org_study_id>
+    <secondary_id>NCI-2013-02237</secondary_id>
+    <secondary_id>URCC12107</secondary_id>
+    <secondary_id>URCC-12107</secondary_id>
+    <secondary_id>U10CA037420</secondary_id>
+    <nct_id>NCT02054715</nct_id>
+  </id_info>
+  <brief_title>Multimedia Psychoeducation or Print Education in Preparing Cancer Patients for Decision Making About Clinical Trial Participation</brief_title>
+  <official_title>Evaluation of Psychoeducation for Cancer Patients Eligible for Clinical Trials</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Rochester</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Rochester</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This randomized clinical trial compares multimedia psychoeducation to print education in
+      preparing patients with cancer for decision making about clinical trial participation.
+      Multimedia psychoeducation includes a DVD and written materials with a combined focus on
+      knowledge and attitude change, and may be an effective method to help patients prepare for
+      decision making about clinical trial participation. It is not yet known whether a multimedia
+      psychoeducation is more effective than print education in preparing patients for decision
+      making about clinical trials.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To determine the effect of intervention assignment on patients' preparedness for decision
+      making about clinical trial participation.
+
+      SECONDARY OBJECTIVES:
+
+      I. To determine the effect of intervention assignment on indicators of the quality of
+      patients' decision making about clinical trial participation.
+
+      II. To examine mechanisms by which multimedia psychoeducation (MP) exerts its expected
+      positive effects on preparedness for decision making.
+
+      TERTIARY OBJECTIVES:
+
+      I. To explore the effects of intervention assignment on clinical trial participation.
+
+      OUTLINE: Participants are randomized to 1 of 2 arms.
+
+      ARM I: Participants undergo a print educational intervention during which they meet with a
+      site coordinator and are instructed to read the National Cancer Institute (NCI) booklet
+      titled Taking Part in Cancer Treatment Studies, comprised primarily of information about the
+      nature and conduct of cancer clinical trials.
+
+      ARM II: Participants undergo a multimedia psychoeducational intervention during which they
+      meet with a site coordinator and are instructed to view a digital video disk (DVD) and read
+      a booklet titled Clinical Trials: Are They Right For You? Participants are encouraged to
+      watch the DVD and read the booklet again at home.
+
+      After completion of study, patients are followed up at 3-7 and 49-56 days.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 2014</start_date>
+  <completion_date type="Actual">November 2016</completion_date>
+  <primary_completion_date type="Actual">August 2016</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Preparedness for decision making about clinical trial participation, measured using scores from the Preparation for Decision Making Scale</measure>
+    <time_frame>Up to day 56</time_frame>
+    <description>Individual NCORP site effects will be examined by plotting the Empirical Best Linear Unbiased Predictions. All potential confounding variables will be adjusted for in the analysis as fixed effects. Restricted likelihood tests will be used to test the random effects, and F-tests based on the Kenward-Roger procedure will be used to test the fixed effects.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Quality of decision making based on decisional conflict and decisional regret measured using total scores on the decisional conflict scale</measure>
+    <time_frame>Up to day 56</time_frame>
+    <description>Individual NCORP site effects will be examined by plotting the Empirical Best Linear Unbiased Predictions. All potential confounding variables will be adjusted for in the analysis as fixed effects. Restricted likelihood tests will be used to test the random effects, and F-tests based on the Kenward-Roger procedure will be used to test the fixed effects.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Attitudes regarding clinical trial participation</measure>
+    <time_frame>Up to day 56</time_frame>
+    <description>Mediational analyses will be conducted if, as expected, intervention assignment is significantly associated with decision quality as measured by the total score on the Decision Conflict Scale. Path coefficients for the mediator model and bootstrap confidence intervals for effects will be estimated to determine the significance of a potential mediator using methods described by Preacher and Hayes. Estimation (using MPlus Version 6 or later) will be through Full Information Maximum Likelihood using the bootstrap procedure to obtain standard errors and 95% confidence intervals.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-efficacy regarding clinical trial participation</measure>
+    <time_frame>Up to day 56</time_frame>
+    <description>Mediational analyses will be conducted if, as expected, intervention assignment is significantly associated with decision quality as measured by the total score on the Decision Conflict Scale. Path coefficients for the mediator model and bootstrap confidence intervals for effects will be estimated to determine the significance of a potential mediator using methods described by Preacher and Hayes. Estimation (using MPlus Version 6 or later) will be through Full Information Maximum Likelihood using the bootstrap procedure to obtain standard errors and 95% confidence intervals.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Clinical trial participation rates</measure>
+    <time_frame>Up to day 56</time_frame>
+    <description>Data for all patients offered participation in a therapeutic clinical trial will be entered into a 2 (Intervention: MP or paper education [PE]) x 2 (Clinical Trial Participation: Yes or No/Still Deciding) contingency table and analyzed using either a Fisher exact test or chi-square test as appropriate.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">418</enrollment>
+  <condition>Malignant Neoplasm</condition>
+  <arm_group>
+    <arm_group_label>Arm I (print educational intervention)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants undergo a print educational intervention during which they meet with a site coordinator and are instructed to read the NCI booklet titled Taking Part in Cancer Treatment Studies, comprised primarily of information about the nature and conduct of cancer clinical trials.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II (multimedia psychoeducational intervention)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants undergo a multimedia psychoeducational intervention during which they meet with a site coordinator and are instructed to view a DVD and read a booklet titled Clinical Trials: Are They Right For You? Participants are encouraged to watch the DVD and read the booklet again at home.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>educational intervention</intervention_name>
+    <description>Undergo print educational intervention</description>
+    <arm_group_label>Arm I (print educational intervention)</arm_group_label>
+    <other_name>intervention, educational</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>educational intervention</intervention_name>
+    <description>Undergo multimedia psychoeducational intervention</description>
+    <arm_group_label>Arm II (multimedia psychoeducational intervention)</arm_group_label>
+    <other_name>intervention, educational</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>questionnaire administration</intervention_name>
+    <description>Ancillary studies</description>
+    <arm_group_label>Arm I (print educational intervention)</arm_group_label>
+    <arm_group_label>Arm II (multimedia psychoeducational intervention)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Be able to speak and read English
+
+          -  Be diagnosed with cancer
+
+          -  Have been informed of their eligibility for a specific phase II or III therapeutic
+             clinical trial open for enrollment at the participating NCI Community Oncology
+             Research Program (NCORP) site
+
+          -  Have already met one or more eligibility criteria and have a reasonable expectation
+             of meeting any remaining eligibility criteria for the therapeutic clinical trial
+
+          -  Be capable of providing written informed consent for study participation
+
+        Exclusion Criteria:
+
+          -  Participants must not have been asked previously to participate in another
+             therapeutic cancer clinical trial
+
+          -  Participants must not have already made a decision to participate in the phase II or
+             III therapeutic clinical trial for which they were informed of their eligibility
+
+          -  Participants must not have documented or observable visual, auditory, psychiatric, or
+             neurological disorders that would interfere with study participation (e.g.,
+             blindness, deafness, psychosis, or dementia)
+
+          -  Participants must not be eligible only for phase I trial; these patients are excluded
+             because few of these trials are offered at NCORP sites and because their design and
+             goals differ considerably from those of phase II and III trials
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Paul Jacobsen</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Rochester</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>San Diego State University</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92182</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>H. Lee Moffitt Cancer Center and Research Institute</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hawaii MU-NCORP</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96813</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Heartland NCORP</name>
+      <address>
+        <city>Decatur</city>
+        <state>Illinois</state>
+        <zip>62526</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kansas City Clinical Oncology Program</name>
+      <address>
+        <city>Prairie Village</city>
+        <state>Kansas</state>
+        <zip>66208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gulf South MU-NCORP</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Research Consortium of West Michigan</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Metro MN NCORP</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55426</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nevada Cancer Research Foundation NCORP</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nevada NCORP</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>URCC / University of Rochester NCORP Research Base</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Southeast Clinical Oncology Research Consortium</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbus NCORP</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dayton Community Oncology Program</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45420</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Geisinger Cancer Institute NCORP</name>
+      <address>
+        <city>Danville</city>
+        <state>Pennsylvania</state>
+        <zip>17822</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Greenville Health System Cancer Instutite/Greenville NCORP</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29615</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wisconsin NCORP</name>
+      <address>
+        <city>Marshfield</city>
+        <state>Wisconsin</state>
+        <zip>54449</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Aurora NCORP</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2017</verification_date>
+  <lastchanged_date>January 3, 2017</lastchanged_date>
+  <firstreceived_date>January 31, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Rochester</investigator_affiliation>
+    <investigator_full_name>Gary Morrow</investigator_full_name>
+    <investigator_title>Director, URCC NCORP Research Base</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

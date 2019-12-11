@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="104124">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01748942</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00008071</org_study_id>
+    <secondary_id>NCI-2012-02780</secondary_id>
+    <secondary_id>CPC-12095-L</secondary_id>
+    <secondary_id>CR00021919</secondary_id>
+    <secondary_id>IRB00008071</secondary_id>
+    <secondary_id>P30CA069533</secondary_id>
+    <nct_id>NCT01748942</nct_id>
+  </id_info>
+  <brief_title>Dexamethasone in Reducing Oral Pain and Dry Mouth After Surgery in Patients With Oropharyngeal Cancer</brief_title>
+  <official_title>A Randomized, Placebo Controlled, Double Blinded Study of Corticosteroid Treatment for the Reduction of Postoperative Pain Following Transoral Robotic Surgery</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>OHSU Knight Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>OHSU Knight Cancer Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This randomized pilot clinical trial studies dexamethasone in reducing oral pain and dry
+      mouth after surgery in patients with oropharyngeal cancer. Dexamethasone may help lower pain
+      and dry mouth caused by surgery.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To prospectively determine if a longer 4-day course of dexamethasone (or equivalent) for
+      the management of postoperative pain and dysphagia following transoral robotic surgery
+      (TORS) is superior to the current standard of a single injection of dexamethasone 10 mg.
+
+      SECONDARY OBJECTIVES:
+
+      I. Determine the effect of postoperative corticosteroids on postoperative dysphagia
+      following TORS.
+
+      II. Determine the effect of postoperative corticosteroids on length of hospital stay
+      following TORS.
+
+      III. Determine the complications associated with postoperative corticosteroid use after
+      TORS.
+
+      OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+      ARM I: Patients receive dexamethasone intravenously (IV) at the time of surgery and orally
+      (PO) every 8 hours for up to 4 days following surgery.
+
+      ARM II: Patients receive dexamethasone IV at the time of surgery and placebo PO every 8
+      hours for up to 4 days following surgery.
+
+      After completion of study treatment, patients are followed up for up to 12 months.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>December 2012</start_date>
+  <primary_completion_date type="Actual">July 2016</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Participant, Investigator</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pain visual analogue scale (VAS) score measured at 10-point scale</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <description>A descriptive time plot of VAS scores will be produced for all enrolled subjects, with loess curve fitted separately for the experimental and control groups. A linear mixed effects model will be used to compare the pain VAS scores between the experimental and control groups.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Complications associated with postoperative corticosteroid use after TORS</measure>
+    <time_frame>Up to 21 days</time_frame>
+    <description>A descriptive statistical analysis will be conducted on complications.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Eating Assessment Tool (EAT)-10 scores</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <description>A descriptive time plot will be produced for EAT-10 scores using baseline and postoperative measurements on days 3 and day 7-21. Descriptive statistical analyses will be conducted for a summary of EAT-10 scores at baseline, days 3 and day 7-21 after surgery. A linear mixed effects model will be used to compare the EAT-10 scores between the two groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospital stay (number of days between the date of surgery and date of discharge)</measure>
+    <time_frame>Up to 21 days</time_frame>
+    <description>Kaplan-Meier functions will be fitted to compare the length of hospital stay between the experimental and control groups.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">81</enrollment>
+  <condition>Dysphagia</condition>
+  <condition>Pain</condition>
+  <condition>Stage I Oropharyngeal Squamous Cell Carcinoma</condition>
+  <condition>Stage II Oropharyngeal Squamous Cell Carcinoma</condition>
+  <condition>Stage III Oropharyngeal Squamous Cell Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Arm I (treatment)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive dexamethasone IV at the time of surgery and PO every 8 hours for up to 4 days following surgery.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II (control)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients receive dexamethasone IV at the time of surgery and placebo PO every 8 hours for up to 4 days following surgery.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexamethasone</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Arm I (treatment)</arm_group_label>
+    <arm_group_label>Arm II (control)</arm_group_label>
+    <other_name>Aacidexam</other_name>
+    <other_name>Adexone</other_name>
+    <other_name>Aknichthol Dexa</other_name>
+    <other_name>Alba-Dex</other_name>
+    <other_name>Alin</other_name>
+    <other_name>Alin Depot</other_name>
+    <other_name>Alin Oftalmico</other_name>
+    <other_name>Amplidermis</other_name>
+    <other_name>Anemul mono</other_name>
+    <other_name>Auricularum</other_name>
+    <other_name>Auxiloson</other_name>
+    <other_name>Baycuten</other_name>
+    <other_name>Baycuten N</other_name>
+    <other_name>Cortidexason</other_name>
+    <other_name>Cortisumman</other_name>
+    <other_name>Decacort</other_name>
+    <other_name>Decadrol</other_name>
+    <other_name>Decadron</other_name>
+    <other_name>Decalix</other_name>
+    <other_name>Decameth</other_name>
+    <other_name>Decasone R.p.</other_name>
+    <other_name>Dectancyl</other_name>
+    <other_name>Dekacort</other_name>
+    <other_name>Deltafluorene</other_name>
+    <other_name>Deronil</other_name>
+    <other_name>Desamethasone</other_name>
+    <other_name>Desameton</other_name>
+    <other_name>Dexa-Mamallet</other_name>
+    <other_name>Dexa-Rhinosan</other_name>
+    <other_name>Dexa-Scheroson</other_name>
+    <other_name>Dexa-sine</other_name>
+    <other_name>Dexacortal</other_name>
+    <other_name>Dexacortin</other_name>
+    <other_name>Dexafarma</other_name>
+    <other_name>Dexafluorene</other_name>
+    <other_name>Dexalocal</other_name>
+    <other_name>Dexamecortin</other_name>
+    <other_name>Dexameth</other_name>
+    <other_name>Dexamethasonum</other_name>
+    <other_name>Dexamonozon</other_name>
+    <other_name>Dexapos</other_name>
+    <other_name>Dexinoral</other_name>
+    <other_name>Dexone</other_name>
+    <other_name>Dinormon</other_name>
+    <other_name>Fluorodelta</other_name>
+    <other_name>Fortecortin</other_name>
+    <other_name>Gammacorten</other_name>
+    <other_name>Hexadecadrol</other_name>
+    <other_name>Hexadrol</other_name>
+    <other_name>Lokalison-F</other_name>
+    <other_name>Loverine</other_name>
+    <other_name>Methylfluorprednisolone</other_name>
+    <other_name>Millicorten</other_name>
+    <other_name>Mymethasone</other_name>
+    <other_name>Orgadrone</other_name>
+    <other_name>Spersadex</other_name>
+    <other_name>Visumetazone</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexamethasone</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Arm I (treatment)</arm_group_label>
+    <other_name>Aacidexam</other_name>
+    <other_name>Adexone</other_name>
+    <other_name>Aknichthol Dexa</other_name>
+    <other_name>Alba-Dex</other_name>
+    <other_name>Alin</other_name>
+    <other_name>Alin Depot</other_name>
+    <other_name>Alin Oftalmico</other_name>
+    <other_name>Amplidermis</other_name>
+    <other_name>Anemul mono</other_name>
+    <other_name>Auricularum</other_name>
+    <other_name>Auxiloson</other_name>
+    <other_name>Baycuten</other_name>
+    <other_name>Baycuten N</other_name>
+    <other_name>Cortidexason</other_name>
+    <other_name>Cortisumman</other_name>
+    <other_name>Decacort</other_name>
+    <other_name>Decadrol</other_name>
+    <other_name>Decadron</other_name>
+    <other_name>Decalix</other_name>
+    <other_name>Decameth</other_name>
+    <other_name>Decasone R.p.</other_name>
+    <other_name>Dectancyl</other_name>
+    <other_name>Dekacort</other_name>
+    <other_name>Deltafluorene</other_name>
+    <other_name>Deronil</other_name>
+    <other_name>Desamethasone</other_name>
+    <other_name>Desameton</other_name>
+    <other_name>Dexa-Mamallet</other_name>
+    <other_name>Dexa-Rhinosan</other_name>
+    <other_name>Dexa-Scheroson</other_name>
+    <other_name>Dexa-sine</other_name>
+    <other_name>Dexacortal</other_name>
+    <other_name>Dexacortin</other_name>
+    <other_name>Dexafarma</other_name>
+    <other_name>Dexafluorene</other_name>
+    <other_name>Dexalocal</other_name>
+    <other_name>Dexamecortin</other_name>
+    <other_name>Dexameth</other_name>
+    <other_name>Dexamethasonum</other_name>
+    <other_name>Dexamonozon</other_name>
+    <other_name>Dexapos</other_name>
+    <other_name>Dexinoral</other_name>
+    <other_name>Dexone</other_name>
+    <other_name>Dinormon</other_name>
+    <other_name>Fluorodelta</other_name>
+    <other_name>Fortecortin</other_name>
+    <other_name>Gammacorten</other_name>
+    <other_name>Hexadecadrol</other_name>
+    <other_name>Hexadrol</other_name>
+    <other_name>Lokalison-F</other_name>
+    <other_name>Loverine</other_name>
+    <other_name>Methylfluorprednisolone</other_name>
+    <other_name>Millicorten</other_name>
+    <other_name>Mymethasone</other_name>
+    <other_name>Orgadrone</other_name>
+    <other_name>Spersadex</other_name>
+    <other_name>Visumetazone</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Arm II (control)</arm_group_label>
+    <other_name>placebo therapy</other_name>
+    <other_name>PLCB</other_name>
+    <other_name>sham therapy</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Quality-of-Life Assessment</intervention_name>
+    <description>Ancillary studies</description>
+    <arm_group_label>Arm I (treatment)</arm_group_label>
+    <arm_group_label>Arm II (control)</arm_group_label>
+    <other_name>Quality of Life Assessment</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaire Administration</intervention_name>
+    <description>Ancillary studies</description>
+    <arm_group_label>Arm I (treatment)</arm_group_label>
+    <arm_group_label>Arm II (control)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Transoral Robotic Surgery</intervention_name>
+    <description>Undergo TORS</description>
+    <arm_group_label>Arm I (treatment)</arm_group_label>
+    <arm_group_label>Arm II (control)</arm_group_label>
+    <other_name>TORS</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients must be diagnosed with oropharyngeal squamous cell carcinoma (SCC) that are
+             surgical candidates
+
+          -  Macroscopic resection of the tumor via TORS must be planned with curative intent
+
+          -  Patient must be willing to remain on corticosteroid therapy for 4 days
+             postoperatively
+
+          -  Ability to understand and the willingness to sign a written informed consent document
+
+        Exclusion Criteria:
+
+          -  Patients with known distant metastases or other malignancies
+
+          -  Patients with a history of allergy or adverse reaction to corticosteroids
+
+          -  Patients with a history of diabetes
+
+          -  Patients with fasting capillary blood glucose of &gt; 140 on the day of surgery
+
+          -  Patients on chronic corticosteroids
+
+          -  Chronic alcohol abuse (&gt; 6 alcoholic beverages daily)
+
+          -  Patients with a history of severe chronic pain on high dose narcotics (&gt; 25 mg of
+             oxycodone or equivalent daily) preceding diagnosis of cancer
+
+          -  Patients taking significant cytochrome P450 family 3, subfamily A, polypeptide 4
+             (CYP3A4) inhibitors or inducers, i.e. protease inhibitors (ritonavir, nelfinavir,
+             etc), clarithromycin, ketoconazole, fluconazole, verapamil, diltiazem, carbamazepine,
+             phenytoin, phenobarbital, Rifampin, efavirenz, nevirapine
+
+          -  Patients who have received any investigational medication within 6 weeks of
+             enrollment, or who are scheduled to receive an investigational drug during the course
+             of the study
+
+          -  Patients who will undergo complex head and neck surgery in addition to the TORS
+             procedure requiring reconstruction with a free flap
+
+          -  Patients who have had any previous head and neck surgery that has affected
+             swallowing, voice or speech or who have had previous radiation to the head or neck
+
+          -  Patients who have any confounding medical or neurological conditions that have the
+             potential to affect cognition, speech or swallowing function; i.e. stroke,
+             neurodegenerative disease, neuromuscular movement disorders, head injury, etcetera
+
+          -  Psychiatric illness/social situations that would limit compliance with study
+             requirements
+
+          -  Excluded patients will be allowed to participate in the trial on an observational
+             basis only
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Daniel Clayburgh</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>OHSU Knight Cancer Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>OHSU Knight Cancer Institute</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2017</verification_date>
+  <lastchanged_date>February 16, 2017</lastchanged_date>
+  <firstreceived_date>December 11, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Squamous Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Dexamethasone acetate</mesh_term>
+    <mesh_term>Dexamethasone</mesh_term>
+    <mesh_term>Dexamethasone 21-phosphate</mesh_term>
+    <mesh_term>BB 1101</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

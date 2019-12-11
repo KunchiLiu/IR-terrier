@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="35655">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02642393</url>
+  </required_header>
+  <id_info>
+    <org_study_id>INO-PD-P3-2014</org_study_id>
+    <secondary_id>1U01NS090259-01A1</secondary_id>
+    <nct_id>NCT02642393</nct_id>
+  </id_info>
+  <brief_title>Study of Urate Elevation in Parkinson's Disease, Phase 3</brief_title>
+  <acronym>SURE-PD3</acronym>
+  <official_title>A Randomized, Double-blind, Placebo-controlled Trial of Urate-elevating Inosine Treatment to Slow Clinical Decline in Early Parkinson's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Michael Alan Schwarzschild</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The Parkinson Study Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Michael J. Fox Foundation for Parkinson's Research</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Rochester</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Neurological Disorders and Stroke (NINDS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A multicenter, randomized, double-blind, placebo-controlled, phase 3 trial to determine
+      whether oral inosine dosed to moderately elevate serum urate (from ≤5.7 mg/dL to 7.1-8.0
+      mg/dL) over 2 years slows clinical decline in early PD.
+
+      Clinical decline will be assessed as change in the primary outcome variable of the Movement
+      Disorders Society-Unified Parkinson's Disease Rating Scale (MDS-UPDRS), a composite scale
+      comprising patient- and clinician-reported outcomes.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Capsules containing 500 mg of inosine (active drug) or ~500 mg of lactose (placebo) will be
+      taken orally up to two capsules three times per day (i.e., up to 3 g/day) for 24 months. In
+      the inosine-treated group the number of capsules taken per day will be titrated to serum
+      urate levels - measured at trough at study visits no more than three months apart - in order
+      to achieve concentrations of 7.1-8.0 mg/dL. Initial dosing will be tailored to
+      individualized factors including gender and pretreatment serum urate, and then advanced
+      gradually toward the projected target dose. Adjustments in dosing of placebo capsules in the
+      control arm will be algorithm-based to match dosing of inosine capsules in the active drug
+      arm.
+
+      Following study drug discontinuation all subjects will be followed during a 3-month wash-out
+      period by telephone calls and a final study visit. All study visits after screening will
+      include measurement of the primary outcome variable (MDS-UPDRS) and most will include
+      secondary outcome variables: adverse events, dose adjustments, disability warranting
+      initiation of dopaminergic therapy, Quality of Life in Neurological Disorders (Neuro-QOL),
+      39-item Parkinson's Disease Questionnaire (PDQ-39), Schwab &amp; England Activities of Daily
+      Living (S&amp;E ADL) scale, Montreal Cognitive Assessment (MoCA), and orthostatic vital signs.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>June 2016</start_date>
+  <completion_date type="Anticipated">August 2020</completion_date>
+  <primary_completion_date type="Anticipated">February 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Participant, Care Provider, Investigator, Outcomes Assessor</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of clinical decline</measure>
+    <time_frame>two years</time_frame>
+    <description>The primary outcome of the trial is rate of change in MDS-UPDRS I-III total score over 24 months estimated from a shared-baseline, random-slopes mixed model, censoring follow-up of subjects after initiation of dopaminergic therapy.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of developing adverse effects</measure>
+    <time_frame>two years</time_frame>
+    <description>Safety also will be evaluated by comparing active vs. placebo treatment with respect to overall adverse event (AE) and serious AE (SAE) rate.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion developing adverse effects</measure>
+    <time_frame>two years</time_frame>
+    <description>Safety of oral inosine titrated to elevate trough serum urate to 7.1 - 8.0 mg/dL will be evaluated by comparing active vs. placebo treatment with respect to proportions of subjects experiencing individual types of AE, as classified by Medical Dictionary for Regulatory Activities (MedDRA) preferred term and system organ class.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects tolerant of the treatment</measure>
+    <time_frame>three months; two years</time_frame>
+    <description>Tolerability of a treatment will be defined as a proportion of all subjects in a treatment group who are tolerant of the treatment at 12 weeks (short-term tolerability) and 24 months (long-term tolerability). A subject who is tolerant of treatment will be defined as one who remains on-study and on the assigned treatment without one or more dose reductions lasting more than 4 weeks cumulative due to AEs. A treatment will be declared tolerable if the proportion who are tolerant is significantly greater than 50% by one-tailed testing at p &lt; 0.05.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to disability warranting dopaminergic therapy</measure>
+    <time_frame>two years</time_frame>
+    <description>Secondary efficacy outcomes will include time from baseline visit to disability warranting the initiation of dopaminergic therapy in each treatment group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical efficacy: Rate of change in PDQ-39</measure>
+    <time_frame>two years</time_frame>
+    <description>Rate of change in PDQ-39 scale points (over the time between baseline visit and final visit on study drug) will be assessed for subjects in each treatment group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical efficacy: Rate of change in Neuro-QOL</measure>
+    <time_frame>two years</time_frame>
+    <description>Rate of change in Neuro-QOL scale points (over the time between baseline visit and final visit on study drug) will be assessed for subjects in each treatment group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical efficacy: Rate of change in Neuro-QOL depression module</measure>
+    <time_frame>two years</time_frame>
+    <description>Rate of change in Neuro-QOL depression module scale points (over the time between baseline visit and final visit on study drug) will be assessed for subjects in each treatment group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical efficacy: Rate of change in Schwab and England scale</measure>
+    <time_frame>two years</time_frame>
+    <description>Rate of change in percentage points on the Schwab and England scale for functional disability (over the time between baseline visit and final visit on study drug) will be assessed for subjects in each treatment group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical efficacy: Rate of change in Montreal Cognitive Assessment (MoCA)</measure>
+    <time_frame>two years</time_frame>
+    <description>Rate of change in points on the MoCA scale (for cognition; over the time between baseline visit and final visit on study drug) will be assessed for subjects in each treatment group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical efficacy: Proportion of subjects having developed disability warranting dopaminergic therapy</measure>
+    <time_frame>up to 27 months</time_frame>
+    <description>Determinations of disability warranting initiation of dopaminergic therapy will be made every three months during period 1 (24 months on study drug) and monthly during period 2 (following study drug discontinuation, between months 24 and 27) for subjects who have not previously reached this level of disability. Analysis of measures that are equally evaluable at the end of both periods (such as proportion of subjects having developed disability warranting dopaminergic therapy), will be conducted as a three-part test: a) of significantly slower worsening during period 1, b) of non-inferior rates of worsening during period 2, and c) of a significant net benefit at the end of period 2. It could provide evidence of disease modification if all three evaluations were favorable.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Symptomatic effects</measure>
+    <time_frame>three months (after both initiation and discontinuation of study drug)</time_frame>
+    <description>Symptomatic effects will be estimated by changes in motor and other features (e.g., as assess by short-term change in total MDS-UPDRS score) during the first 3 months of wash-in at the start of period 1 and during the 3-month wash-out of period 2.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">270</enrollment>
+  <condition>Parkinson's Disease</condition>
+  <arm_group>
+    <arm_group_label>Inosine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Inosine will be dosed by titrating the number of capsules taken daily to achieve an elevation of serum urate to trough levels of 7.1 to 8.0 mg/dL.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo will be dosed to match the capsule titrations of the inosine group.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Inosine</intervention_name>
+    <description>capsules containing 500 mg of inosine</description>
+    <arm_group_label>Inosine</arm_group_label>
+    <other_name>hypoxanthine 9-β-D-ribofuranoside</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>capsules containing ~500 mg of lactose and appearing indistinguishable from inosine capsules</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>inactive agent</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        INCLUSION CRITERIA:
+
+        Study subjects meeting all of the following criteria will be allowed to enroll in the
+        study:
+
+          1. Willingness and ability to give written informed consent and to comply with trial
+             procedures.
+
+          2. Fulfillment of diagnostic criteria for idiopathic PD with at least two of the
+             cardinal signs of PD (resting tremor, bradykinesia, rigidity) present at 2nd
+             screening and baseline evaluations, as assessed by the Site Investigator.
+
+          3. Absence of current or imminent (within 90 days of enrollment) PD disability requiring
+             dopaminergic therapy, as assessed by the Site Investigator.
+
+          4. Modified Hoehn and Yahr Scale Stage 1 to 2.5 inclusive.
+
+          5. Age 30 or older at the time of PD diagnosis.
+
+          6. Diagnosis of PD made within 3 years prior to 1st Screening Visit.
+
+          7. Non-fasting serum urate ≤ 5.7 mg/dL at 1st Screening Visit (SC1).
+
+          8. If the subject is female, then:
+
+               1. Being surgically sterile (hysterectomy or tubal ligation), or
+
+               2. Being postmenopausal (last menstruation was two years or more prior to 2nd
+                  Screening Visit), or
+
+               3. For those of childbearing potential
+
+                    -  Using a reliable form of contraception for 60 days or more prior to
+                       Baseline Visit and agreeing to continue such use for 30 days post last dose
+                       of study drug. Reliable forms of contraception include: abstinence;
+                       implanted, injected or oral contraceptives (birth control pills),
+                       intrauterine device in place for at least 3 months prior to Baseline Visit,
+                       vaginal ring with spermicide, barrier with spermicide such as male or
+                       female condom, diaphragm or cervical cap, transdermal patch; male partner
+                       with vasectomy.
+
+                    -  And having a negative pregnancy test at the 2nd Screening Visit. [Note that
+                       a urine pregnancy test will be performed at screening on all women who are
+                       not at least two years postmenopausal or surgically sterile.]
+
+        EXCLUSION CRITERIA:
+
+        Study subjects meeting any of the following criteria during screening evaluations will be
+        excluded from entry into the study:
+
+          1. Atypical parkinsonism, including that due to drugs, metabolic disorders,
+             encephalitis, cerebrovascular disease, normal pressure hydrocephalus, or other
+             neurodegenerative disease.
+
+          2. Dopamine transporter (DAT) brain scan without evidence of dopamine deficit.
+
+          3. History of gout.
+
+          4. History of uric acid or urate urolithiasis, or recurrent urolithiasis all of unknown
+             type.
+
+          5. A screening test positive for uric acid crystalluria, urine pH ≤ 5.0, or an estimated
+             glomerular filtration rate &lt; 60 ml/min/1.73 m2.
+
+          6. History of myocardial infarction or stroke.
+
+          7. Symptomatic congestive heart failure with a documented ejection fraction below 45%.
+
+          8. History of severe chronic obstructive pulmonary disease.
+
+          9. Mini Mental State Exam score &lt; 25; i.e., a score of 0 to 24.
+
+         10. Use of any anti-parkinsonian medication (including levodopa, dopamine agonists,
+             amantadine, entacapone and the anticholinergic agents trihexyphenidyl and
+             benztropine) other than monoamine oxidase-B inhibitors within 60 days of Baseline, or
+             in excess of 90 days.
+
+         11. Change in the dosage of (or initiation of) a monoamine oxidase-B (MAO-B) inhibitor
+             within 90 days prior to Baseline, i.e., entry on a MAO-B inhibitor requires a stable
+             dosage for the 90 days prior to Baseline.
+
+         12. Use of the following within 30 days prior to the Baseline Visit: inosine,
+             allopurinol, febuxostat, probenecid, more than 50 IU of vitamin E daily, or more than
+             300 mg of vitamin C daily (though a daily standard multivitamin such as Bayer
+             One-A-Day® or Centrum® is permissible), reserpine, methylphenidate, amphetamines,
+             cinnarizine, monoamine oxidase-A inhibitors, tetrabenazine, neuroleptics or other
+             dopamine blocking drugs.
+
+         13. Use of the following within 90 days prior to the DAT neuroimaging screening
+             evaluation: modafinil, armodafinil, metoclopramide, alpha-methyldopa,
+             methylphenidate, reserpine, or amphetamine derivative.
+
+         14. Unstable dosing of a thiazide -- such as hydrochlorothiazide (e.g., Esidrex),
+             chlorothiazide (e.g., Diuril), chlorthalidone (e.g., Hygroton), indapamide (e.g.,
+             Lozol), metolazone (e.g., Zaroxolyn), which are permissible as long as the subject is
+             on a stable dose from 1 week prior to the 1st Screening Visit through the Baseline
+             Visit.
+
+         15. Known unstable medical or psychiatric condition that may compromise participation in
+             the study. (Note that difficulty swallowing large capsules might preclude
+             participation due to the size of the study drug capsules.)
+
+         16. Clinically serious abnormality in the screening visit laboratory studies or ECG, as
+             determined by the Site Investigator.
+
+         17. Participation in another investigational treatment study within 30 days prior to the
+             Baseline Visit.
+
+         18. Known hypersensitivity or intolerability to inosine.
+
+         19. Known hypersensitivity to DaTscan (either the active substance of ioflupane I-123 or
+             to any of the excipients).
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael A Schwarzschild, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Massachusetts General Hospital (PI of Clinical Coordinating Center), PSG (Chair, SURE-PD3 Steering Committee)</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Alberto Ascherio, MD, DrPH</last_name>
+    <role>Study Director</role>
+    <affiliation>Harvard School of Public Health, PSG (Co-Chair, SURE-PD3 Steering Committee)</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>David Oakes, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>University of Rochester (PI of Data Coordinating Center), PSG (Study Statistician/Member, SURE-PD3 Steering Committee)</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Eric A Macklin, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Massachusetts General Hospital, PSG (Study Statistician/Member, SURE-PD3 Steering Committee)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sheehan F Wheeler</last_name>
+    <phone>617-726-5714</phone>
+    <email>SFWheeler@mgh.harvard.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Candace Cromer</last_name>
+      <phone>205-996-4034</phone>
+      <email>candacecromer@uabmc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Barrow Neurological Institute</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Leslie Shelton</last_name>
+      <phone>602-406-3719</phone>
+      <email>leslie.shelton@dignityhealth.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic Arizona</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85259</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alisa Powell</last_name>
+      <phone>480-301-8788</phone>
+      <email>powell.alisa@mayo.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Banner Sun Health Research Institute</name>
+      <address>
+        <city>Sun City</city>
+        <state>Arizona</state>
+        <zip>85351</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Molly Goddard</last_name>
+      <phone>623-832-5726</phone>
+      <email>Molly.Goddard@bannerhealth.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of California San Diego</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cindy Lawrence</last_name>
+      <phone>858-246-2537</phone>
+      <email>clawrence@ucsd.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Southern California</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gina Barles</last_name>
+      <phone>323-442-5723</phone>
+      <email>Gina.Barles@med.usc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of California Davis</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Siobhan Vasquez</last_name>
+      <phone>916-703-9105</phone>
+      <email>skvasquez@ucdavis.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of California San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aaron Daley</last_name>
+      <phone>415-476-9276</phone>
+      <email>aaron.daley@ucsf.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nicola Haakonsen</last_name>
+      <phone>303-724-4644</phone>
+      <email>NICOLA.HAAKONSEN@UCDENVER.EDU</email>
+    </contact>
+    <contact_backup>
+      <last_name>Lindsay Hosford</last_name>
+      <phone>303-724-6247</phone>
+      <email>Lindsay.hosford@ucdenver.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Rocky Mountain Movement Disorder Center</name>
+      <address>
+        <city>Englewood</city>
+        <state>Colorado</state>
+        <zip>80113</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marinda Nelson</last_name>
+      <phone>303-867-5471</phone>
+      <email>mnelson@kumarneuro.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hartford HealthCare Movement Disorders Center</name>
+      <address>
+        <city>Vernon</city>
+        <state>Connecticut</state>
+        <zip>06066</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sheila Thurlow</last_name>
+      <phone>860-870-6385</phone>
+      <email>thurlow@uchc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of South Florida</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33613</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Claudia Rocha</last_name>
+      <phone>813-396-0757</phone>
+      <email>crocha1@health.usf.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30329</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elaine Sperin</last_name>
+      <phone>404-712-7044</phone>
+      <email>esperin@emory.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Augusta University</name>
+      <address>
+        <city>Augusta</city>
+        <state>Georgia</state>
+        <zip>30912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Buff Farrow</last_name>
+      <phone>706-721-0619</phone>
+      <email>bfarrow@augusta.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cynthia Poon</last_name>
+      <phone>312-503-8216</phone>
+      <email>cynthia.poon@northwestern.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Luci Blasucci</last_name>
+      <phone>312-563-2900</phone>
+      <phone_ext>4 - SUREPD3</phone_ext>
+      <email>movement_disorder@rush.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Neurosciences Institute at Central DuPage Hospital</name>
+      <address>
+        <city>Winfield</city>
+        <state>Illinois</state>
+        <zip>60190</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Komal Sharma</last_name>
+      <phone>630-933-6844</phone>
+      <email>Komal.Sharma@nm.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University</name>
+      <address>
+        <city>Indianpolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andrea Hurt</last_name>
+      <phone>317-963-7449</phone>
+      <email>andhurt@iupui.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kansas Medical Center</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Kansas</state>
+        <zip>66160</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>April Langhammer</last_name>
+      <phone>913-588-6989</phone>
+      <email>alanghammer@kumc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Louisville</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Annette Robinson</last_name>
+      <phone>502-540-3585</phone>
+      <email>annette.robinson@louisville.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Oschner Clinic Foundation</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jamie Frank</last_name>
+      <phone>504-842-5530</phone>
+      <email>Jamie.frank@ochsner.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Maryland, Baltimore</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Katherine Holmes</last_name>
+      <phone>410-328-4892</phone>
+      <email>kholmes@som.umaryland.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins University</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Becky Dunlop</last_name>
+      <phone>410-955-8795</phone>
+      <email>rdunlop@jhmi.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Grace Bwala</last_name>
+      <phone>617-643-0654</phone>
+      <email>gbwala@partners.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Boston University Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Raymond James</last_name>
+      <phone>617-638-7745</phone>
+      <email>rcjames@bu.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Althea Silver</last_name>
+      <phone>617-667-9885</phone>
+      <email>asilver2@bidmc.harvard.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Angela Stovall</last_name>
+      <phone>734-647-4787</phone>
+      <email>astovall@med.umich.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Michigan State University</name>
+      <address>
+        <city>East Lansing</city>
+        <state>Michigan</state>
+        <zip>48824</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Doozie Russell</last_name>
+      <phone>517-884-2274</phone>
+      <email>doozie.russell@ht.msu.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Health System</name>
+      <address>
+        <city>West Bloomfield</city>
+        <state>Michigan</state>
+        <zip>48322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patricia Kaminski</last_name>
+      <phone>248-661-7257</phone>
+      <email>pkamins1@hfhs.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Melissa Ammel</last_name>
+      <phone>314-747-3470</phone>
+      <email>ammelm@neuro.wustl.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Nebraska Medical Center</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68198</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carolyn Peterson</last_name>
+      <phone>402-552-2239</phone>
+      <email>carolyn.peterson@unmc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Lou Ruvo Center for Brain Health</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Milagros Formoso</last_name>
+      <phone>702-331-7049</phone>
+      <email>FORMOSM@ccf.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Overlook Medical Center, Atlantic Neuroscience Institute</name>
+      <address>
+        <city>Summit</city>
+        <state>New Jersey</state>
+        <zip>07901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Albany Medical College</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Darryl Collins</last_name>
+      <phone>518-262-6651</phone>
+      <email>collind@mail.amc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Downstate Medical Center</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sofya Glazman</last_name>
+      <phone>718-270-7371</phone>
+      <email>sofya.glazman@downstate.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ivan Bodis-Wollner, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Weill Cornell Medical Center</name>
+      <address>
+        <city>New York City</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aneliya Hanineva</last_name>
+      <phone>212-746-2474</phone>
+      <email>anh2026@med.cornell.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Upstate Medical University</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Courtney Goodrich</last_name>
+      <phone>315-464-6409</phone>
+      <email>goodricc@upstate.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lisa Gauger</last_name>
+      <phone>919-668-1538</phone>
+      <email>lisa.gauger@duke.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Cincinnati/Cincinnati Children's Hospital</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Erin Neefus</last_name>
+      <phone>513-558-6555</phone>
+      <email>erin.neefus@uc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals Cleveland Medical Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Korosec</last_name>
+      <phone>216-844-1800</phone>
+      <email>david.korosec@uhhospitals.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Foundation</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yvette Pitchford</last_name>
+      <phone>216-444-7513</phone>
+      <email>ellisy@ccf.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ohio State University</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43221</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Katherine Ambrogi</last_name>
+      <phone>614-688-6685</phone>
+      <email>katherine.ambrogi@osumc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health &amp; Sciences University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eric Serres</last_name>
+      <phone>503-494-0276</phone>
+      <email>serres@ohsu.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Devin Keating</last_name>
+      <phone>215-829-7128</phone>
+      <email>Devin.Keating@uphs.upenn.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sherri Mosovsky</last_name>
+      <phone>412-692-4659</phone>
+      <email>slmst80@pitt.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Butler Hospital</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02906</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marycia Malloy</last_name>
+      <phone>401-455-6403</phone>
+      <email>mmalloy@butler.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nancy Feracco</last_name>
+      <phone>843-792-7859</phone>
+      <email>feracco@musc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Tennessee Health Science Center</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38163</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amanda Nolte</last_name>
+      <phone>901-448-7375</phone>
+      <email>anolte@uthsc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University Medical Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dorothy Shearon</last_name>
+      <phone>615-936-2025</phone>
+      <email>dorothy.shearon@vanderbilt.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UT Southwestern Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390-9036</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>LaMetria West</last_name>
+      <phone>214-648-5608</phone>
+      <email>LaMetria.West@UTSouthwestern.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor College of Medicine</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christine Hunter</last_name>
+      <phone>713-798-3951</phone>
+      <email>chunter@bcm.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Houston Medical School</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vicki Ephron</last_name>
+      <phone>713-500-7073</phone>
+      <email>Vicki.J.Ephron@uth.tmc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor Scott &amp; White Health</name>
+      <address>
+        <city>Temple</city>
+        <state>Texas</state>
+        <zip>76508</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Melissa Ainslie</last_name>
+      <phone>254-724-5679</phone>
+      <email>melissa.ainslie@bswhealth.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Vermont</name>
+      <address>
+        <city>Burlington</city>
+        <state>Vermont</state>
+        <zip>05405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Emily Houston</last_name>
+      <phone>802-656-8974</phone>
+      <email>emily.houston@med.uvm.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Katie Sullivan</last_name>
+      <phone>434-982-6599</phone>
+      <email>kls8d@virginia.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>VCU Parkinson's &amp; Movement Disorder Center (McGuire Veterans Hospital)</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ginger Norris</last_name>
+      <phone>804-662-5307</phone>
+      <email>virginia.norris@vcuhealth.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sentara Neurology Specialists</name>
+      <address>
+        <city>Virginia Beach</city>
+        <state>Virginia</state>
+        <zip>23456</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lisa Richardson</last_name>
+      <phone>757-507-0642</phone>
+      <email>LHRICHAR@sentara.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Northwest Neurological PLLC</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patty Dykstra</last_name>
+      <phone>509-353-3710</phone>
+      <phone_ext>1</phone_ext>
+      <email>patty@premierclinicalresearch.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medical College of Wisconsin</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lynn Wheeler</last_name>
+      <phone>414-805-9307</phone>
+      <email>lwheeler@mcw.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Puerto Rico</name>
+      <address>
+        <city>San Juan</city>
+        <zip>935</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Francisco Muriel</last_name>
+      <phone>787-605-1130</phone>
+      <email>fciscomv@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.parkinson-study-group.org/</url>
+    <description>Not-for-profit scientific network of Parkinson centers in North America</description>
+  </link>
+  <reference>
+    <citation>Parkinson Study Group SURE-PD Investigators., Schwarzschild MA, Ascherio A, Beal MF, Cudkowicz ME, Curhan GC, Hare JM, Hooper DC, Kieburtz KD, Macklin EA, Oakes D, Rudolph A, Shoulson I, Tennis MK, Espay AJ, Gartner M, Hung A, Bwala G, Lenehan R, Encarnacion E, Ainslie M, Castillo R, Togasaki D, Barles G, Friedman JH, Niles L, Carter JH, Murray M, Goetz CG, Jaglin J, Ahmed A, Russell DS, Cotto C, Goudreau JL, Russell D, Parashos SA, Ede P, Saint-Hilaire MH, Thomas CA, James R, Stacy MA, Johnson J, Gauger L, Antonelle de Marcaida J, Thurlow S, Isaacson SH, Carvajal L, Rao J, Cook M, Hope-Porche C, McClurg L, Grasso DL, Logan R, Orme C, Ross T, Brocht AF, Constantinescu R, Sharma S, Venuto C, Weber J, Eaton K. Inosine to increase serum and cerebrospinal fluid urate in Parkinson disease: a randomized clinical trial. JAMA Neurol. 2014 Feb;71(2):141-50. doi: 10.1001/jamaneurol.2013.5528.</citation>
+    <PMID>24366103</PMID>
+  </reference>
+  <verification_date>January 2017</verification_date>
+  <lastchanged_date>January 27, 2017</lastchanged_date>
+  <firstreceived_date>December 19, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>Michael Alan Schwarzschild</investigator_full_name>
+    <investigator_title>Chair, SURE-PD3 Steering Committee</investigator_title>
+  </responsible_party>
+  <keyword>SURE-PD3</keyword>
+  <keyword>Parkinson's disease</keyword>
+  <keyword>PD</keyword>
+  <keyword>Inosine</keyword>
+  <keyword>Urate</keyword>
+  <keyword>Parkinson Study Group (PSG)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Parkinson Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Uric Acid</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>De-identified data; per policies of NIH/NINDS and the PSG (Parkinson Study Group)</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

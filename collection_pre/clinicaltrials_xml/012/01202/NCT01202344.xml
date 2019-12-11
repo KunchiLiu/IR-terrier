@@ -1,0 +1,19 @@
+<DOC>
+	<DOC>NCT01202344</DOC>
+	<brief_summary>The purpose of this study is to develop a computer program that might be able to accurately assess the risk of artery re-narrowing following angioplasty or stenting based on computer images. After angioplasty (a procedure to re-open narrowed or blocked blood vessels) the patients will have extra images taken in order to assess the results of the procedure; which will then be used to see whether or not these images can help predict outcomes such as the patient having to come back to the hospital to have the procedure done again.</brief_summary>
+	<brief_title>Computer Prediction of Restenosis Following Peripheral Angioplasty</brief_title>
+	<detailed_description>The study involves medical imaging of patients undergoing an angioplasty intervention in a peripheral artery. It is similar to an observational study, except that additional imaging is performed which is above the standard-of-care. Some risks may be associated with the additional imaging due to a small increase in radiation exposure and intravenous contrast administration. No investigational drug or device will be tested in this study. No control group will be used. Logistic regression analysis will be performed using NCSS statistical software to identify which explanatory variable(s), selected from the simulation results, can be used to predict binary restenosis, the categorical dependent variable. For each subject, binary restenosis will be determined by comparing the CT-scan images obtained 1 hour post-intervention to those obtained at the 6 month follow-up study. The CT-scan images will be segmented and a mesh of the target vessel will be reconstructed as described in objective 1. The lumen area will be measured in every cross-section of the mesh perpendicular to the vessel centerline, with 2 mm steps between cross-sections. The minimum lumen diameter will be calculated from the minimum lumen area. If the minimum lumen diameter at follow-up is less than 50% of the minimum lumen diameter post-intervention, then the binary restenosis is positive. Otherwise it is negative. Objective 1: Evaluate the accuracy of computer predictions of artery dilatation and stent implantation from CT-scan images. This information is hypothesized to be indicative of the accuracy of other quantities predicted by computer simulation of angioplasty, such as those used as independent variables in objective 2. Objective 2: Establish a regression model with 80% sensitivity and 80% specificity for predicting binary restenosis based on one or several injury parameters in patients undergoing angioplasty. The candidate injury parameters are: - endothelium denudation (in % of total endothelium area) - descriptors of the magnitude and spatial distribution of stretch ratio in the arterial wall - descriptors of the magnitude and spatial distribution of intramural stress in the arterial wall All injury parameters are predicted by computer simulation of angioplasty.</detailed_description>
+	<mesh_term>Polystyrene sulfonic acid</mesh_term>
+	<criteria>scheduled for percutaneous dilation of a peripheral artery; age more than 18 years; informed consent signed by the subject; target lesion in native artery; baseline lumen diameter greater than 4 mm. previous revascularization of the target lesion; subject undergoing chemotherapy.</criteria>
+	<gender>All</gender>
+	<minimum_age>18 Years</minimum_age>
+	<maximum_age>N/A</maximum_age>
+	<verification_date>October 2016</verification_date>
+	<keyword>Angioplasty</keyword>
+	<keyword>Stenosis</keyword>
+	<keyword>Restenosis</keyword>
+	<keyword>Elastic Recoil</keyword>
+	<keyword>cheduled for percutaneous dilation of a peripheral artery</keyword>
+	<keyword>Target lesion in native artery</keyword>
+	<keyword>Baseline lumen diameter greater than 4 mm</keyword>
+</DOC>

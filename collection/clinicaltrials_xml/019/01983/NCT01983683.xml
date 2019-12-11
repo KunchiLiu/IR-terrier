@@ -1,0 +1,1224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="86148">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01983683</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AC-061A302</org_study_id>
+    <nct_id>NCT01983683</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of Cadazolid Versus Vancomycin in Subjects With Clostridium Difficile-associated Diarrhea</brief_title>
+  <official_title>A Multi-center, Randomized, Double-blind Study to Compare the Efficacy and Safety of Cadazolid Versus Vancomycin in Subjects With Clostridium Difficile-associated Diarrhea (CDAD).</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Actelion</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Actelion</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This clinical study is conducted to assess the efficacy of cadazolid compared to vancomycin
+      in subjects with Clostridium difficile-associated diarrhea (CDAD).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Subjects selected to participate in the study are treated either with cadazolid or
+      vancomycin for 10 days. At the end of treatment, clinical cure is assessed; subjects are
+      then followed-up to assess any disease recurrence.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>December 2013</start_date>
+  <completion_date type="Anticipated">April 2017</completion_date>
+  <primary_completion_date type="Anticipated">March 2017</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Investigator</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical Cure</measure>
+    <time_frame>End of Treatment (10 days after starting study drug) + 2 days</time_frame>
+    <description>Clinical Cure is defined as: • Resolution of Diarrhea (ROD) (≤ 3 unformed bowel movement (UBM) per day for at least 2 consecutive days) on study treatment and maintained for 2 days after EOT, AND • No additional antimicrobial treatment active against Clostridium difficile-associated diarrhea (CDAD) or fecal microbiota transplant (FMT) between first dose of study drug and 2 days after EOT (inclusive)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Sustained Cure</measure>
+    <time_frame>End of Treatment (10 days after starting study drug) + 28-32 days</time_frame>
+    <description>Sustained cure is defined for each subject having clinical cure and no recurrence.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Resolution of Diarrhea</measure>
+    <time_frame>Baseline to End of Treatment (10 days after starting study drug)</time_frame>
+    <description>The time between the first dose of study drug and Resolution of Diarrhea.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Absolute change from baseline in clostridium difficile-associated diarrhea (CDAD) DaySyms PRO daily score</measure>
+    <time_frame>Baseline to End of Treatment (10 days after starting study drug) + 2 days</time_frame>
+    <description>Change from baseline to End of Treatment + 2 days in CDAD Symptoms as measured by the DaySyms Patient Reported Outcome (PRO)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">631</enrollment>
+  <condition>Clostridium Difficile Infection</condition>
+  <arm_group>
+    <arm_group_label>Cadazolid</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects receive oral cadazolid 250 mg twice daily (bid) and oral vancomycin-matching placebo 4 times per day (qid) for 10 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vancomycin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects receive oral vancomycin 125 mg qid and oral cadazolid-matching placebo bid for 10 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cadazolid</intervention_name>
+    <description>Cadazolid 250 mg as oral suspension twice daily.</description>
+    <arm_group_label>Cadazolid</arm_group_label>
+    <other_name>ACT-179811</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vancomycin</intervention_name>
+    <description>Vancomycin 125 mg as oral capsules 4 times daily</description>
+    <arm_group_label>Vancomycin</arm_group_label>
+    <other_name>Vancocin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cadazolid-matching placebo</intervention_name>
+    <description>Placebo matching cadazolid and administered orally twice daily</description>
+    <arm_group_label>Vancomycin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vancomycin-matching placebo</intervention_name>
+    <description>Placebo capsules matching vancomycin and administered orally 4 times per day</description>
+    <arm_group_label>Cadazolid</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Signed Informed Consent.
+
+          -  Male or female ≥ 18 years of age. Females of childbearing potential must agree to use
+             an adequate and reliable method of contraception.
+
+          -  Subject with a diagnosis of mild-moderate or severe CDAD (first occurrence or first
+             recurrence within 3 months) with: Diarrhea: a change in bowel habits with &gt; 3 liquid
+             or unformed bowel movements (UBM) within 24 hours prior to randomization, AND
+             Positive C. difficile toxin test on a stool sample produced within 72 hours prior to
+             randomization.
+
+        Exclusion Criteria:
+
+          -  More than one previous episode of CDAD in the 3-month period prior to randomization.
+
+          -  Evidence of life-threatening or fulminant CDAD.
+
+          -  Likelihood of death within 72 hours from any cause.
+
+          -  History of inflammatory colitides, chronic abdominal pain, or chronic diarrhea.
+
+          -  Antimicrobial treatment active against CDAD administered for &gt; 24 hours except for
+             metronidazole treatment failures (MTF)
+
+          -  Known hypersensitivity or contraindication to study drugs, oxazolidinones, or
+             quinolones.
+
+          -  Unable or unwilling to comply with all protocol requirements.
+
+          -  Any circumstances or conditions, which, in the opinion of the investigator, may
+             affect full participation in the study or compliance with the protocol
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anne Claire Marrast, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Actelion</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>South Birmingham</city>
+        <state>Alabama</state>
+        <zip>35249-0006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Laguna Hills</city>
+        <state>California</state>
+        <zip>92653</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Mission Hills</city>
+        <state>California</state>
+        <zip>91345</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Rialto</city>
+        <state>California</state>
+        <zip>92377</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32807</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Pensacola</city>
+        <state>Florida</state>
+        <zip>32504</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Port St. Lucie</city>
+        <state>Florida</state>
+        <zip>34987</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Stuart</city>
+        <state>Florida</state>
+        <zip>34994</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Weston</city>
+        <state>Florida</state>
+        <zip>33331</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Marietta</city>
+        <state>Georgia</state>
+        <zip>30060</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Maywood</city>
+        <state>Illinois</state>
+        <zip>60153</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Bowling Green</city>
+        <state>Kentucky</state>
+        <zip>42101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Shreveport</city>
+        <state>Louisiana</state>
+        <zip>71103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Annapolis</city>
+        <state>Maryland</state>
+        <zip>21401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Framingham</city>
+        <state>Massachusetts</state>
+        <zip>01701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Lewiston</city>
+        <state>Minnesota</state>
+        <zip>04240</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Butte</city>
+        <state>Montana</state>
+        <zip>59701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Fayetteville</city>
+        <state>North Carolina</state>
+        <zip>28304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>North Carolina</state>
+        <zip>28546</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Kinston</city>
+        <state>North Carolina</state>
+        <zip>28501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>68198-5456</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Mentor</city>
+        <state>Ohio</state>
+        <zip>44060</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Monroeville</city>
+        <state>Pennsylvania</state>
+        <zip>15146</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19101-4206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Cypress</city>
+        <state>Texas</state>
+        <zip>77433</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75235-9173</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>West Jordan</city>
+        <state>Utah</state>
+        <zip>84088</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Annandale</city>
+        <state>Virginia</state>
+        <zip>22003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Wenatchee</city>
+        <state>Washington</state>
+        <zip>98801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Marshfield</city>
+        <state>Wisconsin</state>
+        <zip>54449</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Cordoba</city>
+        <zip>5000</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>La Plata</city>
+        <zip>1900</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1200</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Bruxelles</city>
+        <zip>1000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Belo Horizonte</city>
+        <zip>30150</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Porto Alegre</city>
+        <zip>90160-093</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Surrey</city>
+        <state>British Columbia</state>
+        <zip>V3V 1Z2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V5Z 1M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Moncton</city>
+        <state>New Brunswick</state>
+        <zip>E1C 6Z8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>N6A 4V2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Chicoutimi</city>
+        <state>Quebec</state>
+        <zip>G7H 5H6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Trois-Rivieres</city>
+        <zip>G8Z 3R9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Santiago</city>
+        <zip>7560171</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Santiago</city>
+        <zip>8431657</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site 2787</name>
+      <address>
+        <city>Cakovec</city>
+        <zip>40000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site 2788</name>
+      <address>
+        <city>Pozega</city>
+        <zip>34000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site 2780</name>
+      <address>
+        <city>Zagreb</city>
+        <zip>10 000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site 2781</name>
+      <address>
+        <city>Zagreb</city>
+        <zip>10 000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site 2784</name>
+      <address>
+        <city>Zagreb</city>
+        <zip>10 000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site 2785</name>
+      <address>
+        <city>Zagreb</city>
+        <zip>10 000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site 2786</name>
+      <address>
+        <city>Zagreb</city>
+        <zip>10 001</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Brno</city>
+        <zip>625 00</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Opava</city>
+        <zip>746 01</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Ostrava</city>
+        <zip>708 52</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Praha 4</city>
+        <zip>140 21</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Praha</city>
+        <zip>150 06</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Athens</city>
+        <zip>10676</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Athens</city>
+        <zip>12462</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Athens</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Piraeus</city>
+        <zip>18536</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1088</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1097</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Debrecen</city>
+        <zip>4043</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Szekszard</city>
+        <zip>7100</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Hadera</city>
+        <zip>38100</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Haifa</city>
+        <zip>31096</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Holon</city>
+        <zip>58100</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Jerusalem</city>
+        <zip>91120</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Kfar Saba</city>
+        <zip>44281</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Petach Tikva</city>
+        <zip>49100</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Ramat-Gan</city>
+        <zip>52621</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Safed</city>
+        <zip>13100</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>120-752</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>136-705</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>158-710</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Invetigator Site</name>
+      <address>
+        <city>Cidra</city>
+        <zip>00739</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Bucharest</city>
+        <zip>021105</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Bucharest</city>
+        <zip>021659</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Cluj-Napoca</city>
+        <zip>40000</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Galati</city>
+        <zip>800179</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Iasi</city>
+        <zip>700116</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Bratislava</city>
+        <zip>950 01</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigator Site</name>
+      <address>
+        <city>Nitra</city>
+        <zip>833 05</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Belgium</country>
+    <country>Brazil</country>
+    <country>Canada</country>
+    <country>Chile</country>
+    <country>Croatia</country>
+    <country>Czech Republic</country>
+    <country>Greece</country>
+    <country>Hungary</country>
+    <country>Israel</country>
+    <country>Korea, Republic of</country>
+    <country>Puerto Rico</country>
+    <country>Romania</country>
+    <country>Slovakia</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>United Kingdom</country>
+  </removed_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 7, 2017</lastchanged_date>
+  <firstreceived_date>November 7, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Clostridium difficile infection</keyword>
+  <keyword>Post-antibiotic diarrhea</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Diarrhea</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Oxazolidinones</mesh_term>
+    <mesh_term>Vancomycin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

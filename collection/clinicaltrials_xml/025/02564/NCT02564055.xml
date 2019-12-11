@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="41658">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02564055</url>
+  </required_header>
+  <id_info>
+    <org_study_id>203121</org_study_id>
+    <nct_id>NCT02564055</nct_id>
+  </id_info>
+  <brief_title>A Dose-Finding Study of GSK2894512 Cream in Subjects With Atopic Dermatitis (AD)</brief_title>
+  <official_title>Study 203121: A Randomized, Blinded, Vehicle-Controlled, Dose-Finding Study of GSK2894512 Cream for the Treatment of Atopic Dermatitis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GlaxoSmithKline</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate the efficacy and safety of two concentrations (0.5 percent [%] and
+      1%) and two application frequencies (once a day and twice a day) of GSK2894512 cream for the
+      topical treatment in adolescent and adult subjects with atopic dermatitis. Results from this
+      study will be considered when selecting the most appropriate concentration of GSK2894512
+      cream and application frequency in future clinical studies. This is a multicenter (United
+      States, Canada, and Japan), randomized, double-blind (sponsor-unblind), vehicle-controlled,
+      6-arm, parallel-group, dose-finding study in adolescent and adult subjects with atopic
+      dermatitis. Two concentrations of GSK2894512 cream (0.5% and 1%) and a vehicle control cream
+      will be equally randomized and evaluated following application to all atopic dermatitis
+      lesions (except on the scalp) once daily (evening) or twice daily (morning and evening) for
+      12 weeks. This study will consist of 3 periods: up to 4 weeks screening, 12 weeks
+      double-blind treatment, and 4 weeks post-treatment follow-up. The total duration of subject
+      participation will be approximately 16 to 20 weeks. Approximately 270 adolescent and adult
+      males and females subjects with atopic dermatitis will be screened in order to have at least
+      228 randomized subjects (38 subjects for each of the 6 treatment groups) and approximately
+      204 evaluable subjects overall. Approximately 30 subjects will be randomized in Japan to
+      achieve at least 24 evaluable Japanese subjects.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>December 2015</start_date>
+  <completion_date type="Actual">January 2017</completion_date>
+  <primary_completion_date type="Actual">January 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Investigator</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of subjects who have a Investigator Global Assessment (IGA) score of clear (0) or almost clear (1) at Week 12 and a minimum 2-grade improvement in IGA score from Baseline to Week 12</measure>
+    <time_frame>Baseline (Day 1) and up to Week 12</time_frame>
+    <description>IGA is a clinical tool (a 5 point scale) for assessing the current state/severity of a subject's atopic dermatitis. Subjects will be scored using the following categories: 0=Clear; 1=Almost clear; 2=Mild; 3=Moderate; and 4=Severe.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from Baseline in weekly average of daily itch/pruritus score (numeric rating scale [NRS] based on the daily sign and symptom diary) at Week 12</measure>
+    <time_frame>Baseline (Day 1) and up to Week 12</time_frame>
+    <description>Subject reported itch severity, obtained from the daily sign and symptom severity diary NRS. Response options are on an 11-point NRS and range from 0 (Absent) to 10 (Worst Imaginable).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from Baseline in eczema area and severity index (EASI) score at each study visit</measure>
+    <time_frame>Baseline (Day 1) and up to Week 16</time_frame>
+    <description>The EASI scoring system is a standard clinical tool for assessing the severity of AD. Disease features are each graded on a 4-point scale (0=Absent, 1=Mild, 2=Moderate and 3=Severe) for each of the 4 body regions (head and neck, upper extremities, lower extremities, and trunk).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with a minimum 2-grade improvement in IGA score from Baseline to each study visit</measure>
+    <time_frame>Baseline (Day 1) and up to Week 16</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with an IGA score of clear (0) or almost clear (1) at each study visit</measure>
+    <time_frame>Up to Week 16</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with &gt;=50% improvement in EASI score from Baseline to each study visit</measure>
+    <time_frame>Baseline (Day 1) and up to Week 16</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from Baseline in total severity score (TSS) at each study visit</measure>
+    <time_frame>Baseline (Day 1) and up to Week 16</time_frame>
+    <description>A single target lesion at least 3 centimeter square will be selected at Baseline. The severity will be assessed on a 4-point scale (0=Absent, 1=Mild, 2=Moderate and 3=Severe).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from Baseline in individual signs of TSS at each study visit</measure>
+    <time_frame>Baseline (Day 1) and up to Week 16</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from Baseline in percent of total body surface area (%BSA) affected at each study visit</measure>
+    <time_frame>Baseline (Day 1) and up to Week 16</time_frame>
+    <description>The extent of BSA affected by AD is a general indicator of disease severity and will be measured throughout the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from Baseline in IGA scores at each study visit</measure>
+    <time_frame>Baseline (Day 1) and up to Week 16</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects who have a IGA score of clear (0) or almost clear (1) at Week 12 and a minimum 2-grade improvement in IGA score from Baseline to each study visits</measure>
+    <time_frame>Baseline (Day 1) and up to Week 16</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Nature and frequency of adverse events (AEs) as measure of safety</measure>
+    <time_frame>From the time of informed consent until the last follow-up visit (up to Week 20)</time_frame>
+    <description>An AE is any untoward medical occurrence in a clinical investigation subject, temporally associated with the use of a medicinal product, whether or not considered related to the medicinal product.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Nature and frequency of serious adverse events (SAEs) as measure of safety</measure>
+    <time_frame>From the time of informed consent until the last follow-up visit (up to Week 20)</time_frame>
+    <description>An SAE is defined as any untoward medical occurrence that, at any dose, results in death, is life threatening, requires hospitalization or prolongation of existing hospitalization, results in disability/incapacity, is a congenital anomaly/birth defect, is an important medical event that jeopardizes the subjects or may require medical or surgical intervention to prevent one of the other outcomes listed in the above definition, and is associated with drug-induced liver injury.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of local tolerability scores over time as measure of safety</measure>
+    <time_frame>Up to Week 14</time_frame>
+    <description>The investigator or qualified evaluator will assess the presence and overall degree of irritation at the application sites using a 5-point scale (0=No irritation; 1=Mild; 2=Moderate; 3=Severe [report as an AE]; 4=Very Severe [report as an AE]). The score will ideally represent an 'average' across all application sites. The subject will use a 5-point tolerability scale (0=None; 1=Slight; 2=Mild; 3=Moderate; 4=Strong/Severe) to assess the presence and degree of burning/stinging and itching at the application sites.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change over time in composite of clinical laboratory assessments including hematology and clinical chemistry parameters, as a measure of safety</measure>
+    <time_frame>Up to Week 14</time_frame>
+    <description>Clinical laboratory assessments will include hematology and clinical chemistry.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of clinically-significant abnormal laboratory test results</measure>
+    <time_frame>Up to Week 14</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change over time in composite of vital signs as measured by temperature, systolic and diastolic blood pressure, and pulse rate</measure>
+    <time_frame>Up to Week 14</time_frame>
+    <description>Vital signs will include temperature, systolic and diastolic blood pressure, and pulse rate.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of clinically-significant abnormal vital signs test results</measure>
+    <time_frame>Up to Week 14</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence and nature of abnormal electrocardiograms (ECG)</measure>
+    <time_frame>Weeks 1, 12 and 14</time_frame>
+    <description>Single 12-lead ECGs will be obtained at each time-point during the study using an ECG machine that automatically calculates the heart rate and measures of heart electrical activity.</description>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Actual">247</enrollment>
+  <condition>Dermatitis, Atopic</condition>
+  <arm_group>
+    <arm_group_label>GSK2894512 1% cream twice daily</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will apply a thin layer of GSK2894512 1% (10 milligram per gram [mg/g]) topical cream twice daily (morning and evening) for 12 weeks, to all atopic dermatitis lesions (except on the scalp).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>GSK2894512 1% cream once daily</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will apply a thin layer of GSK2894512 1% (10 mg/g) topical cream once daily (evening) for 12 weeks, to all atopic dermatitis lesions (except on the scalp).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>GSK2894512 0.5% cream twice daily</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will apply a thin layer of GSK2894512 0.5% (5 mg/g) topical cream twice daily (morning and evening) for 12 weeks, to all atopic dermatitis lesions (except on the scalp).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>GSK2894512 0.5% cream once daily</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will apply a thin layer of GSK2894512 0.5% (5 mg/g) topical cream once daily (evening) for 12 weeks, to all atopic dermatitis lesions (except on the scalp).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vehicle cream twice daily</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Subjects will apply a thin layer of vehicle topical cream twice daily (morning and evening) for 12 weeks, to all atopic dermatitis lesions (except on the scalp).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vehicle cream once daily</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Subjects will apply a thin layer of vehicle topical cream once daily (evening) for 12 weeks, to all atopic dermatitis lesions (except on the scalp).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GSK2894512 1% Cream</intervention_name>
+    <description>1.0% (10 mg/g) GSK2894512 will be supplied as white to off-white cream to be applied topically</description>
+    <arm_group_label>GSK2894512 1% cream once daily</arm_group_label>
+    <arm_group_label>GSK2894512 1% cream twice daily</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GSK2894512 0.5% Cream</intervention_name>
+    <description>0.5% (5 mg/g) GSK2894512 will be supplied as white to off-white cream to be applied topically</description>
+    <arm_group_label>GSK2894512 0.5% cream twice daily</arm_group_label>
+    <arm_group_label>GSK2894512 0.5% cream once daily</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vehicle cream</intervention_name>
+    <description>White to off-white vehicle cream base to be applied topically</description>
+    <arm_group_label>Vehicle cream once daily</arm_group_label>
+    <arm_group_label>Vehicle cream twice daily</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Male or female between 12 and 65 years of age inclusive, at the time of signing the
+             informed consent
+
+          -  Diagnosis of atopic dermatitis according to Hanifin and Rajka criteria and having
+             active inflammation.
+
+          -  Body surface area involvement &gt;=5% and &lt;=35%, excluding scalp, at Screening and
+             Baseline.
+
+          -  An IGA of atopic dermatitis score of &gt;=3 at Baseline.
+
+          -  At least one target lesion that measure at least 3 centimetre (cm) х 3 cm in size at
+             Screening and Baseline and must be representative of the subject's disease state, but
+             not located on the hands, feet, or genitalia.
+
+          -  A female subject is eligible to participate if she is not pregnant (as confirmed by a
+             negative urine human chorionic gonadotrophin test), not lactating, and at least one
+             of the following conditions applies: Non-reproductive potential defined as: 1)
+             Pre-menopausal females with one of the following procedures documented: tubal
+             ligation; hysteroscopic tubal occlusion procedure with follow-up confirmation of
+             bilateral tubal occlusion; hysterectomy; bilateral oophorectomy. 2) Post-menopausal
+             defined as 12 months of spontaneous amenorrhea (in questionable cases a blood sample
+             with simultaneous follicle stimulating hormone and estradiol levels consistent with
+             menopause and falling into the central laboratory's postmenopausal reference range is
+             confirmatory). Females on hormone replacement therapy (HRT) and whose menopausal
+             status is in doubt are required to use one of the highly effective contraception
+             methods if they wish to continue their HRT during the study. Otherwise, they must
+             discontinue HRT to allow confirmation of post-menopausal status prior to study
+             enrolment; Reproductive potential and agrees to follow one of the options listed in
+             the modified list of highly effective methods for avoiding pregnancy in females of
+             reproductive potential from 30 days prior to the first dose of study medication and
+             until after the last dose of study medication and completion of the follow-up visit.
+
+        Exclusion Criteria:
+
+          -  Unstable course of atopic dermatitis (spontaneously improving or rapidly
+             deteriorating) as determined by the investigator over the previous 4 weeks prior to
+             Baseline.
+
+          -  Concurrent conditions and history of other diseases: 1) Immunocompromized (eg,
+             lymphoma, acquired immunodeficiency syndrome, Wiskott-Aldrich Syndrome) or have a
+             history of malignant disease within 5 years before the baseline visit; 2) Chronic or
+             acute infection requiring treatment with systemic antibiotics, antivirals,
+             antiparasitics, antiprotozoals, or antifungals within 4 weeks before the baseline
+             visit; 3) Active acute bacterial, fungal, or viral (eg, herpes simplex, herpes
+             zoster, chicken pox) skin infection within 1 week before the baseline visit; 4) Any
+             other concomitant skin disorder (eg, generalized erythroderma such as Netherton's
+             Syndrome, or psoriasis); pigmentation, or extensive scarring that in the opinion of
+             the investigator may interfere with the evaluation of AD lesions or compromise
+             subject safety; 5) Presence of AD lesions only on the hands or feet without prior
+             history of involvement of other classical areas of involvement such as the face or
+             the folds; 6) Other types of eczema.
+
+          -  A history or ongoing serious illness or medical, physical, or psychiatric
+             condition(s) that, in the investigator's opinion, may interfere with the subject's
+             completion of the study.
+
+          -  Known hypersensitivity to study treatment excipients.
+
+          -  Current or chronic history of liver disease, known hepatic or biliary abnormalities
+             (with the exception of Gilbert's syndrome or asymptomatic gallstones), presence of
+             hepatitis B surface antigen (HBsAg), or positive hepatitis C antibody test result
+             within 3 months of screening.
+
+          -  Liver function tests: alanine aminotransferase (ALT) &gt;=2x upper limit of normal
+             (ULN); alkaline phosphatase and bilirubin &gt;1.5xULN (isolated bilirubin &gt;1.5xULN is
+             acceptable if bilirubin is fractionated and direct bilirubin &lt;35%).
+
+          -  QTc &gt;=450 milliseconds (msec) or QTc &gt;=480 msec for subjects with bundle branch
+             block.
+
+        NOTES: The QTc is the QT interval corrected for heart rate according to Fridericia's
+        formula (QTcF), with machine over-read. The QTc should be based on a single ECG obtained
+        over a brief recording period. If QTc is outside of the threshold value, triplicate ECGs
+        may be performed with the QTc values averaged.
+
+          -  Ultraviolet (UV) light therapy or prolonged exposure to natural or artificial sources
+             of UV radiation (eg, sunlight or tanning booth) within 4 weeks prior to the baseline
+             visit and/or intention to have such exposure during the study, which is thought by
+             the investigator to potentially impact the subject's atopic dermatitis.
+
+          -  Used any of the following treatments within the indicated washout period before the
+             baseline visit: 12 weeks or 5 half-lives (whichever is longer) - biologic agents (eg,
+             18 weeks for omalizumab); 8 weeks - cyclosporin, methotrexate, azathioprine, or other
+             systemic immunosuppressive or immunomodulating agents (eg, mycophenolate or
+             tacrolimus); 4 weeks - systemic corticosteroids or adrenocorticotropic hormone
+             analogs; 2 weeks - topical treatments: corticosteroids, calcineurin inhibitors, or
+             coal tar (on the body); 2 weeks - immunizations; sedating antihistamines (non
+             sedating antihistamines are permitted); 1 week - topical antibiotics, antibacterial
+             cleansing body wash/soap or diluted sodium hypochlorite &quot;bleach&quot; baths.
+
+          -  Participated in a clinical study and received an investigational product within the
+             following time period prior to the baseline visit: 4 weeks, 5 half-lives, or twice
+             the duration of the biological effect of the investigational product (whichever is
+             longer).
+
+          -  History of alcohol or other substance abuse within the last 2 years.
+
+          -  Participated in a previous study using GSK2894512 (or WBI-1001).
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>GSK Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>GlaxoSmithKline</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Fort Smith</city>
+        <state>Arkansas</state>
+        <zip>72916</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Fresno</city>
+        <state>California</state>
+        <zip>93720-2933</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92697</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Oceanside</city>
+        <state>California</state>
+        <zip>92056</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Santa Ana</city>
+        <state>California</state>
+        <zip>92701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80220</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>North Logan</city>
+        <state>Connecticut</state>
+        <zip>06032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30342</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Dundee</city>
+        <state>Illinois</state>
+        <zip>60118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46256</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>New Albany</city>
+        <state>Indiana</state>
+        <zip>47150</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Overland Park</city>
+        <state>Kansas</state>
+        <zip>66215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Andover</city>
+        <state>Massachusetts</state>
+        <zip>01810</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Bay City</city>
+        <state>Michigan</state>
+        <zip>48706</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>West Bloomfield</city>
+        <state>Michigan</state>
+        <zip>48322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Fridley</city>
+        <state>Minnesota</state>
+        <zip>55432</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>St. Joseph</city>
+        <state>Missouri</state>
+        <zip>64506</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10022</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>High Point</city>
+        <state>North Carolina</state>
+        <zip>27262</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45255</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Cranston</city>
+        <state>Rhode Island</state>
+        <zip>2910</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Greer</city>
+        <state>South Carolina</state>
+        <zip>29650</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77056</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Webster</city>
+        <state>Texas</state>
+        <zip>77598</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23507</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Surrey</city>
+        <state>British Columbia</state>
+        <zip>V3R 6A7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Markham</city>
+        <state>Ontario</state>
+        <zip>L3P1X2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Oakville</city>
+        <state>Ontario</state>
+        <zip>L6J 7W5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K2G 6E2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Peterborough</city>
+        <state>Ontario</state>
+        <zip>K9J5K2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Richmond Hill</city>
+        <state>Ontario</state>
+        <zip>L4B 1A5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Waterloo</city>
+        <state>Ontario</state>
+        <zip>N2J 1C4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Windsor</city>
+        <state>Ontario</state>
+        <zip>N8W 5L7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Drummondville</city>
+        <state>Quebec</state>
+        <zip>J2B 5L4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Quebec City</city>
+        <state>Quebec</state>
+        <zip>G1V4X7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Fukuoka</city>
+        <zip>813-0044</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Fukuoka</city>
+        <zip>819-0373</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Hokkaido</city>
+        <zip>003-0026</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Hokkaido</city>
+        <zip>006-0022</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kanagawa</city>
+        <zip>211-0063</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kanagawa</city>
+        <zip>220-0004</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kanagawa</city>
+        <zip>221-0825</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kumamoto</city>
+        <zip>861-3101</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Osaka</city>
+        <zip>572-0838</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Osaka</city>
+        <zip>593-8324</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>133-0057</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>169-0075</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>194-0013</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>203-0003</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>Japan</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 20, 2017</lastchanged_date>
+  <firstreceived_date>September 28, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Vehicle-Controlled</keyword>
+  <keyword>GSK2894512</keyword>
+  <keyword>Double blind</keyword>
+  <keyword>Dose-finding</keyword>
+  <keyword>Atopic Dermatitis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Dermatitis</mesh_term>
+    <mesh_term>Dermatitis, Atopic</mesh_term>
+    <mesh_term>Eczema</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

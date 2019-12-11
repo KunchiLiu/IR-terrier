@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="40392">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02580552</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MRG106-11-101</org_study_id>
+    <nct_id>NCT02580552</nct_id>
+  </id_info>
+  <brief_title>Safety, Tolerability and Pharmacokinetic Study of MRG-106 in Patients With Cutaneous T Cell Lymphoma (CTCL), MF Subtype</brief_title>
+  <official_title>A Phase 1 Dose-ranging Study to Investigate the Safety, Tolerability, and Pharmacokinetics of MRG-106 Following Local Intratumoral, Subcutaneous, and Intravenous Injection in Patients With Cutaneous T Cell Lymphoma (CTCL), Mycosis Fungoides (MF) Sub-type</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>miRagen Therapeutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>miRagen Therapeutics, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study is to evaluate the safety and tolerability of the
+      investigational drug, MRG-106, in patients with cutaneous T-cell lymphoma (CTCL), mycosis
+      fungoides subtype. MRG-106 is an inhibitor of a molecule called miR-155 that is found at
+      high levels in the malignant T-cells of many mycosis fungoides patients. miR-155 may be
+      important in promoting the growth and survival of these cancer cells. In Part A of the
+      study, MRG-106 will be tested by injection directly into CTCL lesions in the skin. In Part B
+      of the study, MRG-106 will be given by subcutaneous injection or by intravenous infusion.
+      Other objectives of the study are to measure the absorption and clearance of MRG-106 from
+      the blood, and to understand how cells in CTCL skin lesions respond when exposed to MRG-106.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study Design:
+
+        -  Part A: Cohorts of 3-6 patients will receive up to five intratumoral injections of
+           MRG-106 over a period of up to 15 days with follow-up for an additional 20 days,
+           beginning with the maximum deliverable intratumoral dose. Doses may be decreased in
+           subsequent cohorts to determine the minimum pharmacodynamically active dose.
+
+        -  Part B: Cohorts of 3-6 patients will receive six subcutaneous or intravenous doses of
+           MRG-106 over 26 days, with follow-up through 56 days. The starting dose will be
+           selected based on the tolerability of MRG-106 determined in Part A. Doses may be
+           escalated in subsequent cohorts to determine the maximum tolerated dose.
+
+        -  Patients in Part B for whom MRG-106 is well tolerated may continue on their assigned
+           dose in an extension period of the study at the discretion of the investigator and the
+           sponsor.
+
+        -  Any cohort in Part A or Part B may be expanded to further elucidate the safety,
+           tolerability, pharmacokinetics and pharmacodynamic effects of MRG-106.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>November 2015</start_date>
+  <primary_completion_date type="Anticipated">July 2017</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety and tolerability of MRG-106 based on vital signs, physical examination, clinical laboratory tests, ECG, and incidence and severity of adverse events</measure>
+    <time_frame>Up to 56 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Area under the plasma concentration vs. time curve (AUC) of MRG-106 following single and repeat doses administered intratumorally, subcutaneously or intravenously</measure>
+    <time_frame>Up to 56 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peak plasma concentration (Cmax) of MRG-106 following single and repeat doses administered intratumorally, subcutaneously or intravenously</measure>
+    <time_frame>Up to 56 days</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Exploratory assessment of changes in lesion severity before and after treatment based on the Composite Assessment of Index Lesion Severity (CAILS) scoring tool</measure>
+    <time_frame>Up to 56 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exploratory assessment of changes in lesion severity before and after treatment based on the modified Severity Weighted Assessment Tool (mSWAT)</measure>
+    <time_frame>Up to 56 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exploratory assessment of miR-155-5p expression in CTCL cutaneous lesions based on quantitative real time polymerase chain reaction (qRT-PCR) analysis of total RNA isolated from skin biopsies</measure>
+    <time_frame>Up to 56 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exploratory histological assessment of CD4+ cells in CTCL cutaneous lesions before and after treatment</measure>
+    <time_frame>Up to 56 days</time_frame>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Cutaneous T-cell Lymphoma (CTCL)</condition>
+  <condition>Mycosis Fungoides</condition>
+  <arm_group>
+    <arm_group_label>Part A, MRG-106</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intratumoral Injection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B, MRG-106</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subcutaneous Injection or Intravenous Infusion</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>MRG-106</intervention_name>
+    <description>Decreasing intratumoral doses</description>
+    <arm_group_label>Part A, MRG-106</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>MRG-106</intervention_name>
+    <description>Escalating subcutaneous or intravenous doses with starting dose selected based on MRG-106 tolerability determined in Part A</description>
+    <arm_group_label>Part B, MRG-106</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients with biopsy proven CTCL, MF sub-type, clinical stage I, II, or III, who are
+             clinically stable and on a stable treatment regimen for ≥ 4 weeks
+
+          -  Patients must be refractory to or intolerant of established therapies for their
+             condition
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1, or 2
+
+          -  Females must not be pregnant or lactating. Women of child-bearing potential must use
+             a highly effective method of contraception throughout their study participation and
+             for at least 6 months following the last dose of study drug
+
+          -  Males must be surgically sterile, abstinent, or willing to use an acceptable
+             double-barrier method of contraception during treatment and for at least 6 months
+             after the last dose of study drug
+
+        Exclusion Criteria:
+
+          -  Evidence of visceral involvement related to CTCL
+
+          -  History of renal or liver dysfunction or evidence of renal or liver dysfunction at
+             screening
+
+          -  History of hematological abnormalities (e.g., coagulopathy) or evidence of
+             hematological abnormalities at screening
+
+          -  Positive at time of screening for HIV, Hepatitis B surface antigen, Hepatitis C
+
+          -  Prior malignancies within the past 3 years (with allowance for squamous cell and
+             basal cell carcinomas with free margins at excision)
+
+          -  Use of an investigational small molecule drug during the 30 days prior to screening
+             or use of an investigational oligonucleotide or biologic drug during the prior 90
+             days
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Paul Rubin, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>miRagen Therapeutics, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>miRagen Therapeutics, Inc.</last_name>
+    <phone>720-407-4603</phone>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>City of Hope</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christiane Querfeld, MD</last_name>
+      <phone>626-256-4673</phone>
+      <email>cquerfeld@coh.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Donna Bui</last_name>
+      <phone>626-256-4673</phone>
+      <phone_ext>61987</phone_ext>
+      <email>dbui@coh.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Christiane Querfeld, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA Department of Medicine</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonsson Comprehensive Cancer Center Clinical Research Unit</last_name>
+      <phone>310-794-6500</phone>
+    </contact>
+    <investigator>
+      <last_name>Herbert Eradat, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Chao Family Comprehensive Cancer Center at University of California, Irvine</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>877-827-8839</phone>
+      <email>ucstudy@uci.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Lauren Pinter-Brown, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University Hospital and Clinics</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94063</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christine Cheung</last_name>
+      <phone>650-725-1202</phone>
+      <email>ccheung7@stanford.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Youn Kim, MD</last_name>
+      <phone>650-498-6000</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Youn Kim, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado, Anschutz Medical Campus</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sam Fox</last_name>
+      <phone>720-848-8846</phone>
+      <email>sam.fox@ucdenver.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jacquelyn Friebel, CCRP</last_name>
+      <phone>720-848-0741</phone>
+      <email>jacquelyn.friebel@ucdenver.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Theresa R. Pacheco, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Smilow Cancer Hospital at Yale-New Haven</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Francine Foss, MD</last_name>
+      <phone>203-737-5312</phone>
+      <email>Francine.Foss@yale.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Anne Caldwell, RN, BSN, OCN</last_name>
+      <phone>203-785-3465</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Francine Foss, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University; Department of Dermatology</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephanie Rangel, PhD</last_name>
+      <phone>312-695-6829</phone>
+      <email>stephanie.rangel@northwestern.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Joan Guitart, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Ohio State University Comprehensive Cancer Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Juliana Engleman</last_name>
+      <phone>614-685-6005</phone>
+      <email>Juliana.Engleman@osumc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Basem William, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Texas MD Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carol Wilson, RN</last_name>
+      <phone>713-563-4655</phone>
+      <email>clwilson@mdanderson.org</email>
+    </contact>
+    <investigator>
+      <last_name>Auris Huen, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Huntsman Cancer Institute</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ahmad Halwani, MD</last_name>
+      <phone>801-581-4477</phone>
+      <email>clinical.trials@hci.utah.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ahmad Halwani, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Inova Melanoma and Skin Cancer Center / Inova Schar Cancer Institute</name>
+      <address>
+        <city>Fairfax</city>
+        <state>Virginia</state>
+        <zip>22003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kelly Jeffords, CCRC, CCRP</last_name>
+      <phone>703-208-6606</phone>
+      <email>kelly.jeffords@inova.org</email>
+    </contact>
+    <investigator>
+      <last_name>Jennifer DeSimone, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>van Kester MS, Ballabio E, Benner MF, Chen XH, Saunders NJ, van der Fits L, van Doorn R, Vermeer MH, Willemze R, Tensen CP, Lawrie CH. miRNA expression profiling of mycosis fungoides. Mol Oncol. 2011 Jun;5(3):273-80. doi: 10.1016/j.molonc.2011.02.003. Epub 2011 Feb 24.</citation>
+    <PMID>21406335</PMID>
+  </reference>
+  <reference>
+    <citation>Moyal L, Barzilai A, Gorovitz B, Hirshberg A, Amariglio N, Jacob-Hirsch J, Maron L, Feinmesser M, Hodak E. miR-155 is involved in tumor progression of mycosis fungoides. Exp Dermatol. 2013 Jun;22(6):431-3. doi: 10.1111/exd.12161.</citation>
+    <PMID>23711069</PMID>
+  </reference>
+  <reference>
+    <citation>Maj J, Jankowska-Konsur A, Sadakierska-Chudy A, Noga L, Reich A. Altered microRNA expression in mycosis fungoides. Br J Dermatol. 2012 Feb;166(2):331-6. doi: 10.1111/j.1365-2133.2011.10669.x. Epub 2012 Jan 9.</citation>
+    <PMID>21966986</PMID>
+  </reference>
+  <reference>
+    <citation>Kopp KL, Ralfkiaer U, Gjerdrum LM, Helvad R, Pedersen IH, Litman T, Jønson L, Hagedorn PH, Krejsgaard T, Gniadecki R, Bonefeld CM, Skov L, Geisler C, Wasik MA, Ralfkiaer E, Ødum N, Woetmann A. STAT5-mediated expression of oncogenic miR-155 in cutaneous T-cell lymphoma. Cell Cycle. 2013 Jun 15;12(12):1939-47. doi: 10.4161/cc.24987. Epub 2013 May 15.</citation>
+    <PMID>23676217</PMID>
+  </reference>
+  <verification_date>December 2016</verification_date>
+  <lastchanged_date>February 23, 2017</lastchanged_date>
+  <firstreceived_date>October 15, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cutaneous T-cell Lymphoma</keyword>
+  <keyword>CTCL</keyword>
+  <keyword>Mycosis Fungoides</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, T-Cell</mesh_term>
+    <mesh_term>Mycoses</mesh_term>
+    <mesh_term>Mycosis Fungoides</mesh_term>
+    <mesh_term>Lymphoma, T-Cell, Cutaneous</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

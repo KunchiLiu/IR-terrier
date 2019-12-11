@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="91089">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01919216</url>
+  </required_header>
+  <id_info>
+    <org_study_id>6038/6996R</org_study_id>
+    <secondary_id>K23MH085236</secondary_id>
+    <nct_id>NCT01919216</nct_id>
+  </id_info>
+  <brief_title>Placebo Effects in the Treatment of Depression: Cognitive and Neural Mechanisms</brief_title>
+  <official_title>Placebo Effects in the Treatment of Depression: Cognitive and Neural Mechanisms</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>New York State Psychiatric Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>New York State Psychiatric Institute</source>
+  <brief_summary>
+    <textblock>
+      The placebo effect represents a potent treatment for MDD—placebo response in acute
+      randomized controlled trials (RCTs) of antidepressant medications averages 30%, and
+      meta-analyses have estimated the proportion of medication response attributable to placebo
+      to be 50-75%. Patient expectancy is the mechanism of placebo effects in antidepressant RCTs
+      and has been positively associated with medication response. Determining how expectancy
+      alters the course of MDD could lead to methods of optimizing placebo effects and improving
+      the treatment of MDD. In addition, investigating the neurobiology of placebo effects has the
+      potential to elucidate the pathophysiology of MDD and the mechanisms of action of
+      antidepressant treatments. Brain regions implicated in expectancy and placebo effects
+      comprise prefrontal cortical (PFC) areas, amygdala, insular cortex, rostral anterior
+      cingulate cortex (rACC), and dopaminergic reward pathways in the striatum. Pathological
+      decreases in PFC and striatal function, increases in limbic activity, and disordered
+      connectivity between these regions have all been observed in MDD, and the rostral and dorsal
+      ACC have been repeatedly linked to antidepressant treatment response.
+
+      Therefore, studying placebo effects offers a window into the functioning of the neural
+      circuits that are disturbed in MDD and improve with effective treatment. The goals of this
+      study are to determine whether expectancy affects the outcome of antidepressant
+      pharmacotherapy and to investigate the neural mechanisms of expectancy effects. These will
+      be accomplished by conducting a clinical trial randomizing adult outpatients with MDD to 8
+      weeks of treatment in high vs. low expectancy conditions. The high expectancy condition will
+      be open administration of citalopram, while the low expectancy condition will be
+      placebo-controlled administration of citalopram. The neural mechanisms of expectancy will be
+      determined using functional Magnetic Resonance Imaging (fMRI) paradigms to investigate
+      treatment activation differences in brain regions associated with placebo effects and MDD.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2010</start_date>
+  <completion_date type="Actual">June 2016</completion_date>
+  <primary_completion_date type="Actual">June 2016</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Hamilton Psychiatric Rating Scale for Depression</measure>
+    <time_frame>8 weeks</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Global Impression</measure>
+    <time_frame>8 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quick Inventory of Depression Scale</measure>
+    <time_frame>8 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hamilton Anxiety Rating Scale</measure>
+    <time_frame>8 weeks</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Picture Expectancy</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Assesses the participant's understanding of their percentage likelihood of receiving treatment with celexa, and their probability of improvement by the end of the study.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Quick Inventory of Depression Scale - Expectancy</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>A Quick Inventory of Depression Scale that assesses how the participant expects to feel at the end of the study, or, at week 8, after 3 months of open treatment.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>fMRI Scan</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Images are obtained using a GE Signa 3 Tesla whole body scanner, 3 fMRI tasks are done, FSPGR and DTI are collected.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">67</enrollment>
+  <condition>Major Depressive Disorder</condition>
+  <arm_group>
+    <arm_group_label>Open Track</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Open treatment with 20mg of citalopram, increased to 40mg if depression has not remitted at week 4.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Track</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Blinded treatment with either citalopram 20mg or placebo, increased to citalopram 40mg or placebo at week 4 if depression has not remitted.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Citalopram</intervention_name>
+    <arm_group_label>Open Track</arm_group_label>
+    <arm_group_label>Placebo Track</arm_group_label>
+    <other_name>Celexa</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Men and women aged 24-75 years
+
+          -  Diagnosed with DSM IV Major Depressive Disorder, nonpsychotic
+
+          -  24-item Hamilton Rating Scale for Depression (HRSD) score ≥ 16
+
+          -  Willing to and capable of providing informed consent and complying with study
+             procedures
+
+          -  Subjects are right-handed
+
+          -  Using appropriate contraceptive method if woman of child-bearing age
+
+        Exclusion Criteria:
+
+          -  Current comorbid Axis I DSM IV disorder other than Nicotine Dependence, Adjustment
+             Disorder, Panic Disorder, Generalized Anxiety Disorder, or Social Phobia
+
+          -  Diagnosis of substance abuse or dependence (excluding Nicotine Dependence) within the
+             past 12 months
+
+          -  History of psychosis or psychotic disorder, mania or bipolar disorder
+
+          -  Subject is considered to be at significant risk of suicide based on current mental
+             status and recent history
+
+          -  History of allergic or adverse reaction to citalopram, or nonresponse to adequate
+             trial of citalopram (at least 4 weeks at dose of 40mg) or escitalopram (at least 4
+             weeks at dose of 20mg)
+
+          -  Subject is considered based on history to be unlikely to respond to the single agent
+             citalopram (i.e., subjects with treatment resistant depression)
+
+          -  Current treatment with psychotherapy
+
+          -  CGI-Severity score of 7 at baseline Clinical Interview
+
+          -  Current or recent (within the past 4 weeks) treatment with any of the following:
+             antidepressants, antipsychotics, mood stabilizers, isoniazid, glucocorticoids,
+             opiates, centrally active antihypertensive drugs (e.g. clonidine, reserpine)
+
+          -  Subject has metal in body or prior history working with metal fragments (e.g., as a
+             machinist), tattoos, or unable to tolerate the scanning procedures (i.e., severe
+             obesity, claustrophobia)
+
+          -  Acute, severe, or unstable medical illness
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>24 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bret R Rutherford, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>New York State Psychiatric Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>New York State Psychiatric Institute</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://sklad.cumc.columbia.edu/psychiatry/clinical_trials/View_Trial.php?ID=375&amp;type=simple</url>
+    <description>Study Information</description>
+  </link>
+  <reference>
+    <citation>Rutherford BR, Roose SP. A model of placebo response in antidepressant clinical trials. Am J Psychiatry. 2013 Jul;170(7):723-33. doi: 10.1176/appi.ajp.2012.12040474. Review.</citation>
+    <PMID>23318413</PMID>
+  </reference>
+  <verification_date>March 2016</verification_date>
+  <lastchanged_date>September 22, 2016</lastchanged_date>
+  <firstreceived_date>August 5, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Depressive Disorder, Major</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Citalopram</mesh_term>
+    <mesh_term>Dexetimide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

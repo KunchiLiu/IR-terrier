@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="117227">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01576939</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB-21777</org_study_id>
+    <secondary_id>SU-08102011-8266</secondary_id>
+    <secondary_id>ENT0032</secondary_id>
+    <nct_id>NCT01576939</nct_id>
+  </id_info>
+  <brief_title>Feasibility of IMRT Modulation to Account for Scattered Radiation From Dental Fillings in Head and Neck Cancer</brief_title>
+  <official_title>A Feasibility Study of IMRT Modulation to Account for Scattered Radiation From Dental Fillings in Head and Neck Cancer Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Varian Medical Systems</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main objective of this study is to determine the feasibility of optimizing the IMRT
+      treatment plan based on dosimeter measurements of mucosal radiation dose adjacent to the
+      dental fillings to reduce such dose to &lt; 35 Gy without compromising tumor coverage and/or
+      increasing the dose to the remaining oral cavity or nearby parotid glands.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>August 2011</start_date>
+  <completion_date type="Anticipated">May 2015</completion_date>
+  <primary_completion_date type="Actual">January 2014</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility of optimizing the IMRT plan based on dosimeter measurements of mucosal radiation dose adjacent to dental fillings</measure>
+    <time_frame>2 years</time_frame>
+    <description>The primary end point will check if it is feasible to optimize the IMRT plan based on dosimeter measurements of mucosal radiation dose adjacent to the dental fillings to reduce such dose to &lt; 35 Gy without compromising dose to the tumor and the remainder oral cavity and if so, the feasibility of this approach in what proportion of patients and with what characteristics?</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Amount of radiation scattered to the adjacent mucosa (oral tongue and buccal) based on the type of dental filling</measure>
+    <time_frame>2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of the mucosal surface dose as measured by the dosimeters to the time to onset and the duration of grade &gt;= 2 mucositis during and after radiation completion.</measure>
+    <time_frame>2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of the mucosal surface dose as measured by the dosimeters to the amount of narcotic use</measure>
+    <time_frame>2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of the mucosal surface dose as measured by the dosimeters to the patient reported Mouth and Throat Soreness Score.</measure>
+    <time_frame>2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mucosal dose reduction amount on both sides in patients with bilateral metallic fillings.</measure>
+    <time_frame>2 years</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Head and Neck Cancer</condition>
+  <arm_group>
+    <arm_group_label>intensity modulated radiotherapy treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Radiation dose to the tumor is &gt; 60 Gy at 1.8-2.2 Gy/fx.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>intensity modulated radiotherapy treatment</intervention_name>
+    <arm_group_label>intensity modulated radiotherapy treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients with HNC undergoing radiation therapy +/- chemotherapy at Stanford
+             University
+
+          -  At least 18 years old
+
+          -  Metallic filling present
+
+          -  Planned radiation dose to the tumor &gt; 60 Gy at 1.8 to 2.2 Gy/fx
+
+          -  Able to understand and sign a written informed consent document.
+
+        Exclusion Criteria:
+
+          -  Pregnant
+
+          -  Nursing
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Quynh-Thu Le, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Professor of Radiation Oncology</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford University School of Medicine</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2015</verification_date>
+  <lastchanged_date>May 20, 2015</lastchanged_date>
+  <firstreceived_date>September 23, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Stanford University</investigator_affiliation>
+    <investigator_full_name>Quynh-Thu Le</investigator_full_name>
+    <investigator_title>Professor of Radiation Oncology</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Head and Neck Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="106745">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01714739</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CA223-001</org_study_id>
+    <nct_id>NCT01714739</nct_id>
+  </id_info>
+  <brief_title>A Study of an Anti-KIR Antibody Lirilumab in Combination With an Anti-PD1 Antibody Nivolumab and Nivolumab Plus an Anti-CTLA-4 Ipilimumab Antibody in Patients With Advanced Solid Tumors</brief_title>
+  <official_title>A Phase 1/2 Study of the Combination of Lirilumab (Anti-KIR) Plus Nivolumab (Anti-PD-1) or Lirilumab Plus Nivolumab and Ipilimumab in Advanced Refractory Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bristol-Myers Squibb</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bristol-Myers Squibb</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To assess the safety and tolerability and preliminary anti-tumor activity of lirilumab
+      (BMS-986015) given in combination with nivolumab (BMS-936558) and to identify dose limiting
+      toxicities (DLTs) and the maximally tolerated dose (MTD) of the combination. In addition, to
+      assess the combinations of lirilumab and nivolumab or lirilumab and nivolumab plus
+      ipilimumab (BMS-734016) in subjects with advanced (metastatic and/or unresectable)
+      refractory solid tumors.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>October 2012</start_date>
+  <completion_date type="Anticipated">July 2019</completion_date>
+  <primary_completion_date type="Anticipated">July 2019</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Care Provider, Investigator</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety and tolerability of BMS-986015 given in combination with BMS-936558 or BMS-936558 plus BMS-734016 as measured by incidence of adverse events</measure>
+    <time_frame>Approximately 3 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and tolerability of BMS-986015 given in combination with BMS-936558 or BMS-936558 plus BMS-734016 as measured by incidence of clinical laboratory test abnormalities including hematology, serum chemistry, and thyroid panel abnormalities</measure>
+    <time_frame>Approximately 3 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Objective response rate (ORR)</measure>
+    <time_frame>Approximately 3 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maximum observed serum concentration (Cmax) of BMS-986015 derived from serum concentration versus time</measure>
+    <time_frame>Approximately 27 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time of maximum observed serum concentration (Tmax) of BMS-986015 derived from serum concentration versus time</measure>
+    <time_frame>Approximately 27 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the plasma concentration-time curve from time zero to time of last quantifiable concentration [AUC(0-T)] of BMS-986015 derived from serum concentration versus time</measure>
+    <time_frame>Approximately 27 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the plasma concentration-time curve from time zero extrapolated to infinite time [AUC(INF)] of BMS-986015 derived from serum concentration versus time</measure>
+    <time_frame>Approximately 27 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Trough observed serum concentration (Ctrough) of BMS-986015 derived from serum concentration versus time</measure>
+    <time_frame>Approximately 27 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the concentration-time curve in one dosing interval [AUC(TAU)] of BMS-986015 derived from serum concentration versus time</measure>
+    <time_frame>Approximately 27 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clearance (CL) of BMS-986015 derived from serum concentration versus time</measure>
+    <time_frame>Approximately 27 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Volume of distribution at steady state (Vss) of BMS-986015 derived from serum concentration versus time</measure>
+    <time_frame>Approximately 27 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Half-life (t1/2) of BMS-986015 derived from serum concentration versus time</measure>
+    <time_frame>Approximately 27 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-drug antibody (ADA) response to BMS-986015 in combination with BMS-936558 or BMS-734016</measure>
+    <time_frame>Approximately 27 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>Approximately 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival (PFS)</measure>
+    <time_frame>Approximately 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DOR)</measure>
+    <time_frame>Approximately 3 years</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">162</enrollment>
+  <condition>CANCER,NOS</condition>
+  <arm_group>
+    <arm_group_label>Part 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dose Escalation and Initial Signal Detection in Multiple Solid Tumors - Nivolumab with Lirilumab</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2 and 3: Cohort Expansion</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In platinum-refractory recurrent or metastatic SCCHN - Nivolumab with or without Lirilumab</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 4: Cohort Expansion</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Additional Signal Detection in Solid Tumors - Nivolumab with Lirilumab</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 5 and 6</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Safety Lead-In and Additional Signal Detection in Solid Tumors -- Nivolumab Plus Ipilimumab with Lirilumab</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lirilumab</intervention_name>
+    <description>Specified dose on specified days.</description>
+    <arm_group_label>Part 1</arm_group_label>
+    <arm_group_label>Part 2 and 3: Cohort Expansion</arm_group_label>
+    <arm_group_label>Part 4: Cohort Expansion</arm_group_label>
+    <arm_group_label>Part 5 and 6</arm_group_label>
+    <other_name>BMS-986015</other_name>
+    <other_name>IPH-2102</other_name>
+    <other_name>Anti-KIR (Killer-cell Immunoglobulin-like Receptors)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nivolumab</intervention_name>
+    <description>Specified dose on specified days.</description>
+    <arm_group_label>Part 1</arm_group_label>
+    <arm_group_label>Part 2 and 3: Cohort Expansion</arm_group_label>
+    <arm_group_label>Part 4: Cohort Expansion</arm_group_label>
+    <arm_group_label>Part 5 and 6</arm_group_label>
+    <other_name>BMS-936558</other_name>
+    <other_name>Anti-PD1</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ipilimumab</intervention_name>
+    <description>Specified dose on specified days.</description>
+    <arm_group_label>Part 5 and 6</arm_group_label>
+    <other_name>BMS-734016</other_name>
+    <other_name>Anti-CTLA4</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        For more information regarding BMS clinical trial participation, please visit
+        www.BMSStudyConnect.com.
+
+        Inclusion Criteria:
+
+          -  During dose escalation, subjects with advanced solid tumors (except for primary CNS
+             metastases) that have progressed following at least one standard regimen
+
+          -  During cohort expansion, subjects with various solid tumors that have received at
+             least one and no more than 5 prior treatment regimens
+
+          -  Subjects must have measurable disease
+
+          -  Subject must consent to provide previously collected tumor tissue
+
+          -  Women and men ≥18 years of age with performance status of 0 or 1
+
+          -  At least 4 weeks since any previous treatment for cancer
+
+        Exclusion Criteria:
+
+          -  Active or chronic autoimmune diseases
+
+          -  Uncontrolled or significant cardiovascular disease
+
+          -  Chronic hepatitis (except for subjects with hepatocellular carcinoma)
+
+          -  Active infection
+
+          -  Active Central nervous system (CNS) metastases
+
+          -  Human Immunodeficiency Virus/Acquired Immunodeficiency Syndrome((HIV/AIDS)
+
+          -  Positive test for Hepatitis B virus surface antigen or Hepatitis C antibody (except
+             for subjects with hepatocellular carcinoma)
+
+        Other protocol defined inclusion/exclusion criteria could apply
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bristol-Myers Squibb</last_name>
+    <role>Study Director</role>
+    <affiliation>Bristol-Myers Squibb</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Recruiting sites have contact information. Please contact the sites directly. If there is no contact information, please email:</last_name>
+    <email>Clinical.Trials@bms.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>First line of the email MUST contain NCT# and Site #.</last_name>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0031</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Of Chicago Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas Gajewski, Site 0005</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sidney Kimmel Comprehensive Cancer Center At Johns Hopkins</name>
+      <address>
+        <city>Lutherville</city>
+        <state>Maryland</state>
+        <zip>21093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dana Faber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>F. Stephen Hodi, Site 0007</last_name>
+      <phone>617-632-9285</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Dana Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>F. Stephen Hodi, Site 0001</last_name>
+      <phone>617-582-7545</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>F. Stephen Hodi, Site 0006</last_name>
+      <phone>617-726-4292</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Neil Segal, Site 0003</last_name>
+      <phone>646-888-3359</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Ohio State University Wexner Medical Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maura Gillison, Site 0009</last_name>
+      <phone>614-685-8964</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Portland Med Ctr</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rachel Sanborn, Site 0004</last_name>
+      <phone>503-215-2604</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Upmc Eye And Ear Institute</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert Ferris, Site 0008</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>West Cancer Center</name>
+      <address>
+        <city>Germantown</city>
+        <state>Tennessee</state>
+        <zip>38138</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Moon Fenton, Site 0015</last_name>
+      <phone>901-683-0055</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0032</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>L8V 5C2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0043</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 2M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0026</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H4A 3J1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0030</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Lyon Cedex 08</city>
+        <zip>69373</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site 0012</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Nice Cedex 2</city>
+        <zip>06189</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site 0010</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Paris</city>
+        <zip>75005</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site 0013</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Villejuif Cedex</city>
+        <zip>94805</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site 0011</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Essen</city>
+        <zip>45147</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0029</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Heidelberg</city>
+        <zip>69120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0035</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Milano</city>
+        <state>MI</state>
+        <zip>20133</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site 0014</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Singapore</city>
+        <zip>119082</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0039</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Singapore</city>
+        <zip>169610</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0040</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Chur</city>
+        <zip>7000</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0033</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Lausanne</city>
+        <zip>1011</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0034</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Italy</country>
+    <country>Singapore</country>
+    <country>Switzerland</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://ctr.bms.com/ctd/start.do</url>
+    <description>BMS Clinical Trial Information</description>
+  </link>
+  <link>
+    <url>http://www.bms.com/studyconnect/Pages/home.aspx</url>
+    <description>BMS clinical trial educational resource</description>
+  </link>
+  <link>
+    <url>http://www.bms.com/clinical_trials/Pages/Investigator_Inquiry_form.aspx</url>
+    <description>Investigator Inquiry form</description>
+  </link>
+  <link>
+    <url>http://www.fda.gov/MEDWATCH/safety.htm</url>
+    <description>FDA Safety Alerts and Recalls</description>
+  </link>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 29, 2017</lastchanged_date>
+  <firstreceived_date>October 24, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+    <mesh_term>Nivolumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

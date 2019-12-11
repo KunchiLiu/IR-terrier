@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="97979">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01829165</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21206</org_study_id>
+    <secondary_id>P30MH089888-01</secondary_id>
+    <nct_id>NCT01829165</nct_id>
+  </id_info>
+  <brief_title>Brain Imaging of rTMS Treatment for Depression</brief_title>
+  <official_title>A Causal Neural Network-level Understanding of Depression and Its Treatment Through Concurrent TMS and fMRI</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The Dana Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overarching goal of this research program is to elucidate causal and directional neural
+      network- level abnormalities in depression, and how they are modulated by an
+      individually-tailored, circuit-directed intervention. By using concurrent TMS and fMRI, the
+      investigators can overcome a major limitation of neuroimaging - the inability to demonstrate
+      causality. The investigators' findings will serve as a platform for future studies wherein
+      TMS treatment can be directly guided by the investigators' ability to image and causally
+      manipulate specific neural networks.
+
+      Aim 1: To examine causal interactions between two major brain networks in depression.
+
+      Aim 2: To examine the impact of antidepressant TMS on causal network abnormalities in
+      depression.
+
+      Hypothesis 1: Depressed subjects will show blunted responses, compared to healthy controls,
+      in two targeted and interacting networks, using concurrent transcranial magnetic stimulation
+      (TMS) and functional magnetic resonance imaging (fMRI).
+
+      Hypothesis 2: Treatment of patients with high-frequency repetitive TMS (rTMS) will result in
+      normalization of baseline network-level deficits, and be predicted by degree of baseline
+      network abnormalities.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>September 2012</start_date>
+  <completion_date type="Actual">April 2016</completion_date>
+  <primary_completion_date type="Actual">April 2016</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Care Provider</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinician administered HAM-D</measure>
+    <time_frame>Up to 9 months.</time_frame>
+    <description>The Hamilton Depression Rating Scale (HAM-D) is a 24-item clinician-administered assessment utilized as a way of determining a patient's level of depression before, during, and after treatment. It takes approximately 15-20 minutes to complete the interview and score the results.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>fMRI/TMS assessed neural network connectivity</measure>
+    <time_frame>Up to 3 months.</time_frame>
+    <description>From pre- to post-treatment, improvement will be based on enhanced functional connectivity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Implicit emotion regulation</measure>
+    <time_frame>Up to 3 months</time_frame>
+    <description>Implicit emotion regulation assessed through emotion conflict task performed during functional imaging. Performance based on reaction time and recruitment of emotion regulation regions during the task.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>fMRI-assessed resting connectivity</measure>
+    <time_frame>Up to 3 months.</time_frame>
+    <description>From pre- to post-treatment of patients with high-frequency repetitive TMS (rTMS) improvement shall be measured by normalization of baseline network-level deficits.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">59</enrollment>
+  <condition>Major Depressive Disorder</condition>
+  <condition>Depression</condition>
+  <arm_group>
+    <arm_group_label>rTMS Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>rTMS will be delivered for 20 sessions over 4 weeks. Active 10 Hz rTMS will be delivered using neuro-navigation based on participants' own fMRI images. Daily treatment regiments will last 36.5 minutes and rTMS will be delivered at 120% of the participant's motor threshold. Participants will be monitored during the rTMS sessions for adverse events and/or side effects.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham Treatment</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>rTMS will be delivered for 20 sessions over 4 weeks. Placebo 10Hz rTMS will be delivered through sham stimulation electrodes. The rTMS coil will be positioned using neuro-navigation based on participants' own fMRI images, mimicking active rTMS treatment. Daily treatment regiments will last 36.5minutes and sham rTMS will be delivered at 120% of the participant's motor threshold. Participants will be monitored during the rTMS sham sessions for adverse events and/or side effects.
+Upon completing the sham 20 sessions participants are unblinded and offered 20 further treatments of guaranteed open-label treatment. The open-label treatment would follow the active rTMS treatment protocol.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>rTMS Treatment</intervention_name>
+    <description>MRI-compatible TMS stimulator</description>
+    <arm_group_label>rTMS Treatment</arm_group_label>
+    <arm_group_label>Sham Treatment</arm_group_label>
+    <other_name>Magstim Stimulator</other_name>
+    <other_name>Magventure Stimulator</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Men and women, ages 18 to 50
+
+          -  Depression assessed through phone screen
+
+          -  Must comprehend English well to ensure adequate comprehension of the fMRI and TMS
+             instructions, and of clinical scales
+
+          -  Has failed &gt;1 previous adequate antidepressant medication trials
+
+          -  Right-handed
+
+          -  No current or history of neurological disorders
+
+          -  No seizure disorder or risk of seizures
+
+        Exclusion Criteria:
+
+          -  Any contraindication to being scanned in the 3T scanners at the Lucas Center or CNI
+             such as having a pacemaker or implanted device that has not been cleared for scanning
+             at the Lucas Center or CNI
+
+          -  Any unstable medical condition, any significant CNS neurological condition such as
+             stroke, seizure, tumor, hemorrhage, multiple sclerosis, etc
+
+          -  Current rTMS treatment or prior treatment failure with rTMS
+
+          -  Current electroconvulsive therapy (ECT) or prior treatment failure with ECT
+
+          -  Currently pregnant or breastfeeding
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Stanford University</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://etkinlab.stanford.edu/trials/Study_Pages/rTMS.html</url>
+    <description>Study Description</description>
+  </link>
+  <link>
+    <url>http://etkinlab.stanford.edu/</url>
+    <description>About our lab</description>
+  </link>
+  <verification_date>November 2016</verification_date>
+  <lastchanged_date>January 19, 2017</lastchanged_date>
+  <firstreceived_date>March 21, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Stanford University</investigator_affiliation>
+    <investigator_full_name>Amit Etkin</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Depressive Disorder, Major</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

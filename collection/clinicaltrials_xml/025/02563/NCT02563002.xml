@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="41739">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02563002</url>
+  </required_header>
+  <id_info>
+    <org_study_id>3475-177</org_study_id>
+    <secondary_id>2015-002024-89</secondary_id>
+    <secondary_id>163238</secondary_id>
+    <nct_id>NCT02563002</nct_id>
+  </id_info>
+  <brief_title>Study of Pembrolizumab (MK-3475) vs Standard Therapy in Participants With Microsatellite Instability-High (MSI-H) or Mismatch Repair Deficient (dMMR) Stage IV Colorectal Carcinoma (MK-3475-177/KEYNOTE-177)</brief_title>
+  <official_title>A Phase III Study of Pembrolizumab (MK-3475) vs. Chemotherapy in Microsatellite Instability-High (MSI-H) or Mismatch Repair Deficient (dMMR) Stage IV Colorectal Carcinoma (KEYNOTE-177)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Merck Sharp &amp; Dohme Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Merck Sharp &amp; Dohme Corp.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this study, participants with MSI-H or dMMR advanced colorectal carcinoma will be
+      randomly assigned to receive either pembrolizumab or the Investigator's choice of 1 of 6
+      standard of care (SOC) chemotherapy regimens for the treatment of advanced colorectal
+      carcinoma. The primary study hypothesis is that pembrolizumab will prolong progression-free
+      survival (PFS) compared to current SOC chemotherapy.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>November 2015</start_date>
+  <completion_date type="Anticipated">September 2019</completion_date>
+  <primary_completion_date type="Anticipated">August 2019</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free Survival (PFS)</measure>
+    <time_frame>Up to 57 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response Rate (ORR)</measure>
+    <time_frame>Up to 57 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Up to 57 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">270</enrollment>
+  <condition>Colorectal Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Pembrolizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive pembrolizumab 200 mg intravenously (IV) on Day 1 of each 21-day cycle (Q3W) for up to 35 treatments (approximately 2 years)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of Care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Per Investigator choice, participants receive 1 of 6 possible standard chemotherapy regimens: mFOLFOX6, or mFOLFOX6 + bevacizumab 5 mg/kg IV on Day 1 of each 2-week cycle, or mFOLFOX6 + cetuximab 400 mg/m^2 IV over 2 hours then 250 mg/m^2 over 1 hour weekly in each 2-week cycle, or FOLFIRI, or FOLFIRI + bevacizumab 5 mg/kg IV on Day 1 of each 2-week cycle, or FOLFIRI + cetuximab 400 mg/m^2 IV over 2 hours then 250 mg/m^2 over 1 hour weekly in each 2-week cycle</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>mFOLFOX6</intervention_name>
+    <description>Regimen consists of oxaliplatin 85 mg/m^2 IV on Day 1, leucovorin 400 mg/m^2 or levoleucovorin 200 mg/m^2 IV on Day 1, 5-fluorouracil (5-FU) 400 mg/m^2 IV bolus on Day 1 and then 1200 mg/m^2/day IV over 2 days for total dose of 2400 mg/m^2 in each 2-week cycle</description>
+    <arm_group_label>Standard of Care</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>FOLFIRI</intervention_name>
+    <description>Regimen consists of irinotecan 180 mg/m^2 IV on Day 1, leucovorin 400 mg/m^2 or levoleucovorin 200 mg/m^2 IV on Day 1, 5-FU 400 mg/m^2 IV bolus on Day 1 and then 1200 mg/m^2/day IV over 2 days for total dose of 2400 mg/m^2 in each 2-week cycle</description>
+    <arm_group_label>Standard of Care</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>pembrolizumab</intervention_name>
+    <arm_group_label>Pembrolizumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>bevacizumab</intervention_name>
+    <arm_group_label>Standard of Care</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>cetuximab</intervention_name>
+    <arm_group_label>Standard of Care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Locally confirmed dMMR or MSI-H stage IV colorectal carcinoma
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1
+
+          -  Life expectancy of at least 3 months
+
+          -  Measurable disease
+
+          -  Female participants of childbearing potential must be willing to use adequate
+             contraception for the course of the study starting with the first dose of study
+             medication through 180 days after the last dose of SOC therapy or 120 days after the
+             last pembrolizumab dose
+
+          -  Male participants must agree to use adequate contraception for the course of the
+             study starting with the first dose of study medication through 180 days after the
+             last dose of SOC therapy or 120 days after the last pembrolizumab dose
+
+          -  Adequate organ function
+
+        Exclusion Criteria:
+
+          -  Has received prior systemic therapy for Stage IV colorectal cancer. May have received
+             prior adjuvant chemotherapy for colorectal cancer as long as it was completed at
+             least 6 months prior to randomization on this study
+
+          -  Currently participating and receiving treatment in another study, or participated in
+             a study of an investigational agent and received treatment, or used an
+             investigational device within 4 weeks of randomization
+
+          -  Active autoimmune disease that has required systemic treatment in past 2 years
+
+          -  Diagnosis of immunodeficiency or receiving systemic steroid therapy or any other form
+             of immunosuppressive therapy within 7 days prior to randomization on this study
+
+          -  Radiation therapy within 4 weeks prior to randomization on this study and not
+             recovered to baseline from adverse events due to radiation therapy
+
+          -  Known active central nervous system (CNS) metastases and/or carcinomatous meningitis
+
+          -  Major surgical procedure, open biopsy or significant traumatic injury within 28 days
+             prior to randomization on this study
+
+          -  Has received prior therapy with an immune checkpoint inhibitor (e.g., anti-programmed
+             cell death [PD]-1, anti-PD ligand 1 [L1], anti-PD-L2 agent, or anti-cytotoxic
+             T-lymphocyte-associated protein 4 [CTLA-4] agent, etc.)
+
+          -  Another malignancy that is progressing or requires active treatment with the
+             exception of non-melanomatous skin cancer that has undergone potentially curative
+             therapy and in situ cervical carcinoma
+
+          -  Received a live vaccine within 30 days of planned start of study medication
+
+          -  Known history of Human Immunodeficiency Virus (HIV), Hepatitis B or C
+
+          -  Known history of, or any evidence of interstitial lung disease or active,
+             non-infectious pneumonitis
+
+          -  Active infection requiring systemic therapy
+
+          -  Known psychiatric or substance abuse disorders that would interfere with cooperation
+             with the requirements of the study
+
+          -  Pregnant, breastfeeding, or expecting to conceive or father children within the
+             projected duration of the study, starting with the screening visit through 180 days
+             after the last dose of SOC or 120 days after the last dose of pembrolizumab
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Merck Sharp &amp; Dohme Corp.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Toll Free Number</last_name>
+    <phone>1-888-577-8839</phone>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0281)</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85054</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0303)</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90027</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0254)</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0264)</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0227)</name>
+      <address>
+        <city>Santa Rosa</city>
+        <state>California</state>
+        <zip>95403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0259)</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305-5826</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0283)</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0265)</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0261)</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0256)</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0277)</name>
+      <address>
+        <city>Fort Myers</city>
+        <state>Florida</state>
+        <zip>33916</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0236)</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32610</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0276)</name>
+      <address>
+        <city>St. Petersburg</city>
+        <state>Florida</state>
+        <zip>33705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0292)</name>
+      <address>
+        <city>Marietta</city>
+        <state>Georgia</state>
+        <zip>30060</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0226)</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96813</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0308)</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0250)</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0230)</name>
+      <address>
+        <city>Iowa CIty</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0251)</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0233)</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0299)</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0255)</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0297)</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0293)</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0279)</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0242)</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0257)</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0286)</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0248)</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0306)</name>
+      <address>
+        <city>Somerville</city>
+        <state>New Jersey</state>
+        <zip>08876</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0249)</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0232)</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14263</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0247)</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0231)</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45220</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0266)</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0238)</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43221</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0253)</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0290)</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97227</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0241)</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0301)</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0244)</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0252)</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0274)</name>
+      <address>
+        <city>Spartanburg</city>
+        <state>South Carolina</state>
+        <zip>29303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0280)</name>
+      <address>
+        <city>Sioux Falls</city>
+        <state>South Dakota</state>
+        <zip>57104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0229)</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0291)</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0284)</name>
+      <address>
+        <city>Arlington</city>
+        <state>Texas</state>
+        <zip>76014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0296)</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0287)</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0228)</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390-9719</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0260)</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0289)</name>
+      <address>
+        <city>Tyler</city>
+        <state>Texas</state>
+        <zip>75702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0237)</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme</name>
+      <address>
+        <city>North Ryde</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Australian Medical Information Centre</last_name>
+      <phone>61 2 8988 8428</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Canada</name>
+      <address>
+        <city>Kirkland</city>
+        <state>Quebec</state>
+        <zip>H9H 4M7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Medical Information Centre Centre d'information medicale Merck Canada Inc.</last_name>
+      <phone>514-428-8600 / 1-800-567-2594</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme</name>
+      <address>
+        <city>Glostrup</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nathan Lassota</last_name>
+      <phone>45 44824475</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MSD Finland Oy</name>
+      <address>
+        <city>Espoo</city>
+        <country>Finland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Pasternack</last_name>
+      <phone>358 20 7570300</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MSD France</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dominique Blazy</last_name>
+      <phone>33 147548990</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MSD Sharp &amp; Dohme GmbH</name>
+      <address>
+        <city>Haar</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>German Medical Information Center</last_name>
+      <phone>49 800 673 673 673</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MSD Ireland (Human Health) Ltd.</name>
+      <address>
+        <city>Dublin</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Colm Galligan</last_name>
+      <phone>353 12998700</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme Co. Ltd.</name>
+      <address>
+        <city>Hod Hasharon</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gally Teper</last_name>
+      <phone>972-9-9533310</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MSD Italia S.r.l.</name>
+      <address>
+        <city>Rome</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patrizia Nardini</last_name>
+      <phone>39 06 361911</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MSD K.K.</name>
+      <address>
+        <city>Chiyoda-Ku, Tokyo</city>
+        <zip>102-8667</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Japan Call Center</last_name>
+      <phone>81-3-6272-1957</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MSD Korea LTD</name>
+      <address>
+        <city>Seoul</city>
+        <zip>4130</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jongho Ahn</last_name>
+      <phone>82-2-331-2000 2015</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme BV</name>
+      <address>
+        <city>Haarlem</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Caroline Doornebos</last_name>
+      <phone>31 23 515 3362</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MSD Norge A/S</name>
+      <address>
+        <city>Drammen</city>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tony Johansson</last_name>
+      <phone>47 32 20 75 20</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme (I.A.) Corp</name>
+      <address>
+        <city>Singapore</city>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cesar Recto</last_name>
+      <phone>632 784 9500</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MSD (Pty) LTD South Africa</name>
+      <address>
+        <city>Midrand</city>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Khanyi Mzolo</last_name>
+      <phone>27 11 655 3140</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp and Dohme de Espana S.A.</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joaquin Mateos Chacon</last_name>
+      <phone>(0034) 913210600</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MSD Sweden</name>
+      <address>
+        <city>Stockholm</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tryggve Ljung</last_name>
+      <phone>46 (0)70 545 28 66</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MSD International GmbH</name>
+      <address>
+        <city>Lucerne 6</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Erik Mossdorf</last_name>
+      <phone>41 58 618 33 79</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme (I.A.) Corp.</name>
+      <address>
+        <city>Taipei</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>I-Hua Su</last_name>
+      <phone>886-2-66316000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp &amp; Dohme Ltd.</name>
+      <address>
+        <city>Hoddesdon</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mark Toms</last_name>
+      <phone>+44 (0) 1992 452475</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>Denmark</country>
+    <country>Finland</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Ireland</country>
+    <country>Israel</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Netherlands</country>
+    <country>Norway</country>
+    <country>Singapore</country>
+    <country>South Africa</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>Switzerland</country>
+    <country>Taiwan</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://keynoteclinicaltrials.com/</url>
+    <description>Merck Oncology Clinical Trial Information</description>
+  </link>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 1, 2017</lastchanged_date>
+  <firstreceived_date>September 28, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>PD1</keyword>
+  <keyword>PDL1</keyword>
+  <keyword>PD-L1</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Colorectal Neoplasms</mesh_term>
+    <mesh_term>Microsatellite Instability</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Bevacizumab</mesh_term>
+    <mesh_term>Pembrolizumab</mesh_term>
+    <mesh_term>Cetuximab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

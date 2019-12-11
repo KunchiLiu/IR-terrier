@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="88608">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01951586</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20120249</org_study_id>
+    <nct_id>NCT01951586</nct_id>
+  </id_info>
+  <brief_title>Denosumab in Combination With Chemotherapy as First-line Treatment of Metastatic Non-small Cell Lung Cancer</brief_title>
+  <official_title>A Randomized, Double-blind, Multi-center Phase 2 Trial of Denosumab in Combination With Chemotherapy as First-line Treatment of Metastatic Non-small Cell Lung Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Amgen</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Amgen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This randomized phase 2 trial is studying the effect of adding denosumab to standard
+      chemotherapy in the treatment of advanced lung cancer.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a global phase 2 randomized double-blind placebo-controlled study in subjects with
+      Stage IV untreated NSCLC with or without bone metastasis. Eligible subjects are to receive 4
+      to 6 cycles of a standard of care platinum-doublet chemotherapy regimen. Approximately 216
+      subjects will be randomized in a 2:1 ratio to receive denosumab or matching placebo with the
+      first investigational product dose coinciding with subject's first cycle of chemotherapy and
+      continuing until the primary analysis, unacceptable toxicity, withdrawal of consent, death,
+      or lost to follow-up. Subjects will be offered open label denosumab if study results show a
+      positive benefit:risk profile, or be followed long-term, for up to 2 years. All subjects are
+      to receive daily dietary supplements of at least 500 mg of calcium and 400 IU of vitamin D.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>December 2013</start_date>
+  <completion_date type="Anticipated">September 2018</completion_date>
+  <primary_completion_date type="Actual">July 2016</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Relative benefit on overall survival (OS)</measure>
+    <time_frame>36 months</time_frame>
+    <description>To estimate the treatment effect of the combination of denosumab and standard of care (SOC) versus SOC alone on overall survival (OS)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Tumor Tissue RANK expression in correlation with overall survival</measure>
+    <time_frame>36 months</time_frame>
+    <description>To assess whether any relative benefit on overall survival (OS) from the combination of denosumab and standard of care (SOC) versus SOC alone in NSCLC is associated with tumor RANK expression</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tumor tissue RANK expression in correlation with objective response rate (CR+PR) based on modified RECIST 1.1</measure>
+    <time_frame>36 months</time_frame>
+    <description>To assess whether any relative benefit on objective response (complete response + partial response based on modified RECIST 1.1) from combination of denosumab and standard of care therapy versus standard of care therapy alone in NSCLC is associated with tumor RANK expression</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tumor tissue RANKL expression in correlation with overall survival</measure>
+    <time_frame>36 months</time_frame>
+    <description>To assess whether any relative benefit on overall survival from the combination of denosumab and standard of care therapy versus standard of care therapy alone in NSCLC is associated with tumor RANK ligand (RANKL) expression</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tumor tissue RANKL expression in correlation with objective response (CR + PR) based on modified RECIST 1.1</measure>
+    <time_frame>36 months</time_frame>
+    <description>To assess whether any relative benefit on objective response (complete response + partial response based on modified RECIST 1.1) from the combination of denosumab and standard of care therapy versus standard of care therapy alone in NSCLC is associated with tumor RANKL expression</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response, clinical benefit rate &amp; progression-free survival based on modified RECIST 1.1</measure>
+    <time_frame>36 months</time_frame>
+    <description>To estimate the treatment effect of the combination of denosumab and standard of care therapy versus standard of care therapy alone as evaluated by potential differences in: o Objective response rate based on modified RECIST 1.1 o Clinical benefit rate ([all objective response] + [stable disease or better for at least 16 weeks] based on modified RECIST 1.1) o Progression-free survival (PFS) based on modified RECIST 1.1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum denosumab trough levels</measure>
+    <time_frame>36 months</time_frame>
+    <description>To evaluate serum denosumab trough levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment-emergent adverse events</measure>
+    <time_frame>36 months</time_frame>
+    <description>To evaluate the safety and tolerability of denosumab compared with placebo in combination with standard of care therapy</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Tumor tissue RANK expression</measure>
+    <time_frame>36 months</time_frame>
+    <description>To investigate potential biomarkers by biochemical analysis of blood, urine, and/or tumor tissue, and genetic analysis of tumor samples and correlate with treatment outcomes</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">226</enrollment>
+  <condition>Non-Small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo will be administered.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Denosumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Denosumab will be administered</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Denosumab</intervention_name>
+    <description>Denosumab will be administered</description>
+    <arm_group_label>Denosumab</arm_group_label>
+    <other_name>XGEVA</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Zometa</intervention_name>
+    <description>For the prevention of skeletal complications in subjects with bone metastasis who are not randomized to receive denosumab, zoledronic acid will be offered in a blinded manner through assignment by the IWRS/IVRS upon the request of the investigator.</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>zoledronic acid</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histologically or cytologically confirmed stage IV non-small cell lung carcinoma
+             (NSCLC), according to 7th TNM classification (cytological specimens obtained by
+             bronchial washing or brushing, or fine-needle aspiration are acceptable)
+
+          -  Subject has available and has provided consent to release to the sponsor (or
+             designee) a tumor block with confirmed tumor content (or approximately 20 unstained
+             charged slides [a minimum of 7 slides is mandatory]) and the corresponding pathology
+             report
+
+          -  Planned to receive 4 to 6 cycles of pemetrexed or gemcitabine in combination with
+             cisplatin or carboplatin
+
+             • For subjects to receive pemetrexed, planned to receive vitamin B12 and folate per
+             pemetrexed approved labeling
+
+          -  Radiographically evaluable (measurable or non-measurable) disease (according to
+             modified RECIST 1.1 criteria
+
+          -  Other inclusion criteria may apply
+
+        Exclusion Criteria:
+
+          -  Known presence of documented sensitizing epidermal growth factor receptor (EGFR)
+             activating mutation or EML4-ALK translocation (screening following local standards,
+             but strongly encouraged in non-squamous histology)
+
+          -  Known brain metastases (systematic screening of patients not mandatory)
+
+          -  Any prior systemic therapy (before randomisation) for the treatment of NSCLC
+             (including chemoradiation), except if for non-metastatic disease and was completed at
+             least 6 months prior to randomization
+
+          -  Planned to receive bevacizumab
+
+          -  Significant dental/oral disease, including prior history or current evidence of
+             osteonecrosis/ osteomyelitis of the jaw, or with the following:
+
+               -  Active dental or jaw condition which requires oral surgery
+
+               -  Non-healed dental/oral surgery
+
+               -  Planned invasive dental procedures for the course of the study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Amgen</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Goodyear</city>
+        <state>Arizona</state>
+        <zip>85338</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Anaheim</city>
+        <state>California</state>
+        <zip>92801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90813</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Farmington</city>
+        <state>Connecticut</state>
+        <zip>06030-1628</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Alexandria</city>
+        <state>Louisiana</state>
+        <zip>71301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Brewer</city>
+        <state>Maine</state>
+        <zip>04412</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Westminster</city>
+        <state>Maryland</state>
+        <zip>21157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Fairhaven</city>
+        <state>Massachusetts</state>
+        <zip>02719</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>East Setauket</city>
+        <state>New York</state>
+        <zip>11733</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Hickory</city>
+        <state>North Carolina</state>
+        <zip>28602</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Winston Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Bismarck</city>
+        <state>North Dakota</state>
+        <zip>58501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45267</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kogarah</city>
+        <state>New South Wales</state>
+        <zip>2217</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Wahroonga</city>
+        <state>New South Wales</state>
+        <zip>2076</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Adelaide</city>
+        <state>South Australia</state>
+        <zip>5000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Footscray</city>
+        <state>Victoria</state>
+        <zip>3011</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Parkville</city>
+        <state>Victoria</state>
+        <zip>3050</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Wodonga</city>
+        <state>Victoria</state>
+        <zip>3690</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T6G 1Z2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Saint John</city>
+        <state>New Brunswick</state>
+        <zip>E2L 4L2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kitchener</city>
+        <state>Ontario</state>
+        <zip>N2G 1G3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Sudbury</city>
+        <state>Ontario</state>
+        <zip>P3E 5J1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 2M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M9N 1N8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H2W 1S6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Chomutov</city>
+        <zip>430 12</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ostrava-Poruba</city>
+        <zip>708 52</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Pardubice</city>
+        <zip>532 03</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Praha 8</city>
+        <zip>180 81</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Usti nad Labem</city>
+        <zip>401 13</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Caen Cedex 5</city>
+        <zip>14076</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Dijon cedex</city>
+        <zip>21079</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Nantes Cedex 2</city>
+        <zip>44202</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Paris Cedex 10</city>
+        <zip>75475</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Paris Cedex 14</city>
+        <zip>75674</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Paris Cedex 20</city>
+        <zip>75020</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Pessac Cedex</city>
+        <zip>33604</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Reims Cedex</city>
+        <zip>51056</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Saint Quentin</city>
+        <zip>02321</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Tours Cedex 9</city>
+        <zip>37044</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Berlin</city>
+        <zip>14165</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Grosshansdorf</city>
+        <zip>22927</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Köln-Merheim</city>
+        <zip>51109</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ulm</city>
+        <zip>89081</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Athens</city>
+        <zip>11522</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Athens</city>
+        <zip>12462</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Heraklion</city>
+        <zip>71110</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Patra</city>
+        <zip>26504</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Thessaloniki</city>
+        <zip>54622</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Thessaloniki</city>
+        <zip>57010</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Monza (MB)</city>
+        <zip>20900</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Orbassano (TO)</city>
+        <zip>10043</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Pavia</city>
+        <zip>27100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Roma</city>
+        <zip>00128</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Saronno VA</city>
+        <zip>21047</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>'s Hertogenbosch</city>
+        <zip>5223 GZ</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Arnhem</city>
+        <zip>6815 AD</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Harderwijk</city>
+        <zip>3844 DG</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Tilburg</city>
+        <zip>5022 GC</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Zutphen</city>
+        <zip>7207 AE</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Bristol</city>
+        <zip>BS2 8ED</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Exeter</city>
+        <zip>EX2 5DW</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Glasgow</city>
+        <zip>G42 9LF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Guildford</city>
+        <zip>GU2 7XX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>London</city>
+        <zip>SE1 9RT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>London</city>
+        <zip>W6 8RF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Plymouth</city>
+        <zip>PL6 8DH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Preston</city>
+        <zip>PR2 9HT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>Czech Republic</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Greece</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.amgentrials.com</url>
+    <description>AmgenTrials clinical trials website</description>
+  </link>
+  <verification_date>November 2016</verification_date>
+  <lastchanged_date>December 1, 2016</lastchanged_date>
+  <firstreceived_date>September 24, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Zoledronic acid</mesh_term>
+    <mesh_term>Denosumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

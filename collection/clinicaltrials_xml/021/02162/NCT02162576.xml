@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="72446">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02162576</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PH LVL - 40202</org_study_id>
+    <nct_id>NCT02162576</nct_id>
+  </id_info>
+  <brief_title>Asthma Data Innovation Demonstration Project</brief_title>
+  <acronym>ADID</acronym>
+  <official_title>Asthma Data Innovation Demonstration Project: Impact of a Mobile Health, Sensor-driven Asthma Management Platform on Asthma Symptoms, Control and Self-management</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>David Van Sickle</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Foundation for a Healthy Kentucky</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Norton Healthcare Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Owsley Brown Charitable Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Reciprocal Labs</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Propeller Health is collaborating with Walgreens Pharmacies, the City of Louisville,
+      Qualcomm Life and other local partners to carry out a focused demonstration project that
+      will evaluate the effectiveness of the Propeller Health approach to asthma management while
+      exploring means to use real-time data on asthma exacerbations in a public health setting.
+      The Asthma Data Innovation Demonstration Project (ADID) will use wireless sensor technology
+      to develop spatial and temporal data on the use of rescue inhalers by 300 study subjects
+      with asthma in the Louisville metropolitan area. Propeller Health will process these data to
+      support two general strategies.
+
+      Asthma self management: Rescue inhaler actuation data will be compiled into individualized
+      feedback reports to support asthma self management. Propeller Health will combine
+      information on individual rescue inhaler actuations with evidence-based asthma management
+      tips into real-time reports that will be provided to subjects. ADID staff will evaluate any
+      resulting improvements in asthma control that may be based on this information. Subjects may
+      share reports with their healthcare providers.
+
+      Municipal purposes: The second strategy is to provide aggregated and de-identified, spatial
+      and temporal asthma rescue inhaler actuation data to City personnel and authorized public
+      health researchers in Louisville. These data will show the times and locations of the use of
+      rescue inhalers by the 300 study subjects throughout the greater Louisville area. ADID staff
+      will work with City personnel and researchers to investigate how this unprecedented level of
+      detailed information on exacerbations can be used best to increase public awareness of
+      environmental triggers while supporting public health surveillance efforts around
+      respiratory diseases.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>June 2012</start_date>
+  <completion_date type="Actual">January 2014</completion_date>
+  <primary_completion_date type="Actual">January 2014</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in rescue inhaler actuation data</measure>
+    <time_frame>Change from baseline at study exit, up to 13 months</time_frame>
+    <description>The Propeller Health sensor permits the capture of objective time and location data on each use of rescue inhalers, and thus represents a potential improvement over patient self-reporting. Actuation data for rescue medication will be automatically collected and processed by Propeller Health, and the frequency and timing of each subject's rescue inhaler actuations over the term of the study will be used as components of a measure of control.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Asthma Control Test scores</measure>
+    <time_frame>Change from baseline at study exit, up to 13 months</time_frame>
+    <description>The ACT is a validated instrument designed to assess asthma control. The ACT will be embedded in surveys completed by subjects at intake and again at study exit. Separate versions are provided for subjects over the age of eleven and for children under the age of 12. Scores above 19 indicate asthma that is well controlled. All else equal, we anticipate that ACT scores will increase over the term of the study.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Participant satisfaction and feedback</measure>
+    <time_frame>At study exit, up to 13 months</time_frame>
+    <description>Participants will report on their perceived value of the sensor, the data provided to them, and their utilization of the data in conversations with their provider.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Geographic areas of high density inhaler usage</measure>
+    <time_frame>After the last subject exits, up to 2 years from study initiation</time_frame>
+    <description>Anonymized rescue inhaler actuation data will be aggregated to identify geographic areas in which there are high density inhaler usage patterns</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">299</enrollment>
+  <condition>Asthma</condition>
+  <condition>Bronchial Diseases</condition>
+  <condition>Respiratory Tract Diseases</condition>
+  <condition>Lung Diseases, Obstructive</condition>
+  <condition>Lung Diseases</condition>
+  <condition>Respiratory Hypersensitivity</condition>
+  <condition>Hypersensitivity, Immediate</condition>
+  <condition>Hypersensitivity</condition>
+  <condition>Immune System Diseases</condition>
+  <arm_group>
+    <arm_group_label>Propeller Health intervention</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>After the baseline control period is completed at one month, all participants will continue using their sensors, and will begin to receive the full intervention for 12 months. The intervention includes access to all of the participant's sensor-collected data, trends, educational information and weekly reports. The 13-month term was chosen in order to eliminate any seasonal variation in asthma exacerbations.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Propeller Health intervention</intervention_name>
+    <description>The Propeller Health system works through the provision of information to patients and their providers. With the Propeller Health sensor device in place, each actuation of a patient's rescue inhaler is recorded with an automatic time stamp; in many circumstances, the location at which the device is actuated is also captured and recorded. Actuation data are then securely transmitted to Propeller Health where events and an assessment of asthma control can be viewed in secure online interfaces. The information is also compiled into individual reports that are returned to the patient and his or her provider. Patients also receive customized suggestions for asthma management based on their actuation history.</description>
+    <arm_group_label>Propeller Health intervention</arm_group_label>
+    <other_name>Asthmapolis</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Self-reported provider diagnosis of asthma
+
+          -  Prescription for Short Acting Beta Agonist (SABA) at study intake
+
+        Exclusion Criteria:
+
+          -  Subject is under the age of 5 at the beginning of the study
+
+          -  Subject does not speak English
+
+          -  Subject does not have access to the Internet or email to receive reports
+
+          -  Subject has substantial co-morbidity (self-reported provider diagnosis of COPD)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>5 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Van Sickle, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Propeller Health</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Jefferson County</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.rwjf.org/en/blogs/new-public-health/2012/08/asthmapolis_public.html</url>
+    <description>Feature by Robert Wood Johnson Foundation</description>
+  </link>
+  <verification_date>June 2014</verification_date>
+  <lastchanged_date>June 11, 2014</lastchanged_date>
+  <firstreceived_date>June 6, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Reciprocal Labs</investigator_affiliation>
+    <investigator_full_name>David Van Sickle</investigator_full_name>
+    <investigator_title>CEO</investigator_title>
+  </responsible_party>
+  <keyword>asthma</keyword>
+  <keyword>asthma control</keyword>
+  <keyword>healthcare utilization costs</keyword>
+  <keyword>community hotspots</keyword>
+  <keyword>public health research</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Asthma</mesh_term>
+    <mesh_term>Lung Diseases</mesh_term>
+    <mesh_term>Hypersensitivity</mesh_term>
+    <mesh_term>Immune System Diseases</mesh_term>
+    <mesh_term>Lung Diseases, Obstructive</mesh_term>
+    <mesh_term>Respiratory Tract Diseases</mesh_term>
+    <mesh_term>Bronchial Diseases</mesh_term>
+    <mesh_term>Hypersensitivity, Immediate</mesh_term>
+    <mesh_term>Respiratory Hypersensitivity</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

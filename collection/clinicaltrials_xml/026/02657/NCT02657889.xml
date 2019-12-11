@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="34466">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02657889</url>
+  </required_header>
+  <id_info>
+    <org_study_id>3000-PN162-01-001</org_study_id>
+    <nct_id>NCT02657889</nct_id>
+  </id_info>
+  <brief_title>Study of Niraparib in Combination With Pembrolizumab (MK-3475) in Patients With Triple-negative Breast Cancer or Ovarian Cancer</brief_title>
+  <acronym>TOPACIO</acronym>
+  <official_title>Phase 1/2 Clinical Study of Niraparib in Combination With Pembrolizumab in Patients With Advanced or Metastatic Triple-Negative Breast Cancer and in Patients With Recurrent Ovarian Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tesaro, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Merck Sharp &amp; Dohme Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Tesaro, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This Phase 1/2 study will evaluate the safety and efficacy of combination treatment with
+      niraparib and pembrolizumab (MK-3475) in patients with advanced or metastatic
+      triple-negative breast cancer or recurrent ovarian cancer. (KEYNOTE-162)
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>March 2016</start_date>
+  <completion_date type="Anticipated">February 2019</completion_date>
+  <primary_completion_date type="Anticipated">March 2018</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Evaluate dose-limiting toxicities (DLTs) of combination treatment with niraparib and pembrolizumab during the first cycle of treatment, and to establish a recommended Phase 2 dose (RP2D) and schedule</measure>
+    <time_frame>Phase 1: Approximately 9 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To estimate the clinical activity of combination treatment with niraparib and pembrolizumab in terms of objective response rate (ORR) as assessed by the Investigators using Response Evaluation Criteria in Solid Tumors (RECIST) v1.1</measure>
+    <time_frame>Phase 2: Approximately 12 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the safety and tolerability of combination treatment with niraparib and pembrolizumab using Common Terminology Criteria for Adverse Events (CTCAE, v4.03)</measure>
+    <time_frame>Approximately 18 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response Rate (ORR)</measure>
+    <time_frame>Approximately 12 months</time_frame>
+    <description>as measured by immune-related RECIST (irRECIST)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DOR)</measure>
+    <time_frame>Approximately 18 months</time_frame>
+    <description>defined as the time from first documentation of response (CR or PR) until the time of first documentation of disease progression</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate (DCR)</measure>
+    <time_frame>Approximately 12 months</time_frame>
+    <description>defined as the percentage of patients who have achieved CR, PR, or stable disease (SD) per RECIST or irRECIST</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>Approximately 18 months</time_frame>
+    <description>defined as the time from first dose to the earlier date of assessment of progression, or death by any cause in the absence of progression, by RECIST or irRECIST</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Approximately 2 years</time_frame>
+    <description>as measured from the date of first dose to the date of death by any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the Area Under the Curve (AUC), Minimum concentration (Cmin)</measure>
+    <time_frame>Approximately 9 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Concentration (Cmax)</measure>
+    <time_frame>Approximately 9 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clearance after oral administration (CL/F)</measure>
+    <time_frame>Approximately 9 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Volume of Distribution after oral administration (Vz/F)</measure>
+    <time_frame>Approximately 9 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC at steady state (AUCss)</measure>
+    <time_frame>Approximately 9 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmin at steady state (Cmin,ss)</measure>
+    <time_frame>Approximately 9 months</time_frame>
+    <description>and Cmax at steady state (Cmax,ss)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmax at steady state (Cmax,ss)</measure>
+    <time_frame>Approximately 9 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">114</enrollment>
+  <condition>Triple Negative Breast Cancer</condition>
+  <condition>Ovarian Cancer</condition>
+  <condition>Breast Cancer</condition>
+  <condition>Metastatic Breast Cancer</condition>
+  <condition>Advanced Breast Cancer</condition>
+  <condition>Stage IV Breast Cancer</condition>
+  <condition>Fallopian Tube Cancer</condition>
+  <condition>Peritoneal Cancer</condition>
+  <arm_group>
+    <arm_group_label>niraparib plus pembrolizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Phase 1: Dose-escalation: ascending doses of niraparib up to 300mg/day orally (PO) on Days 1-21 and pembrolizumab 200mg intravenously (IV) on Day 1 of each 21-day cycle
+Phase 2: niraparib (recommended Phase 2 dose) in combination with pembrolizumab 200mg IV on Day 1 of each 21-day cycle</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>niraparib</intervention_name>
+    <arm_group_label>niraparib plus pembrolizumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>pembrolizumab</intervention_name>
+    <arm_group_label>niraparib plus pembrolizumab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Main Inclusion Criteria:
+
+          -  Histologically proven advanced (unresectable) or metastatic cancer as outlined below
+
+               1. Patients with triple-negative breast cancer (TNBC) who have been treated with at
+                  least 1 prior regimen for advanced/metastatic disease or who relapsed/progressed
+                  while on or within 1 month from completion of adjuvant chemotherapy
+
+                  Phase 1: Up to 3 lines of prior chemotherapy are allowed
+
+                  Phase 2: Up to 2 lines of prior chemotherapy are allowed
+
+               2. Patients with high-grade serous ovarian, fallopian tube, or primary peritoneal
+                  cancer who have recurrent disease and have been previously treated with
+                  chemotherapy for advanced/metastatic disease and who experienced a response
+                  lasting at least 6 months to first-line platinum-based therapy but currently
+                  considered platinum-resistant
+
+                  Phase 1: Up to 4 lines of prior chemotherapy are allowed
+
+                  Phase 2: Up to 3 lines of prior chemotherapy are allowed
+
+          -  Archival tumor tissue available or a fresh biopsy must be obtained prior to study
+             treatment initiation
+
+          -  Measurable lesions by RECIST v1.1
+
+          -  Eastern Cooperative Oncology Group (ECOG) 0 or 1
+
+          -  Adequate organ function
+
+          -  Able to take oral medications
+
+          -  Female patient, if of childbearing potential, has a negative serum pregnancy test
+             within 72 hours of taking study medication and agrees to abstain from activities that
+             could result in pregnancy from enrollment through 120 days after the last dose of
+             study treatment
+
+          -  Male patient agrees to use an adequate method of contraception
+
+        Main Exclusion Criteria:
+
+          -  Progressed while on platinum treatment or within 1 month from completion of
+             platinum-containing regimen in any line of therapy
+
+          -  Known active central nervous system (CNS) metastases and/or carcinomatous meningitis
+             Note: Patients previously treated for brain metastases may be able to participate
+             provided they are stable
+
+          -  Patient has a known additional malignancy that progressed or required active
+             treatment within the last 5 years (exceptions include basal cell carcinoma of the
+             skin, squamous cell carcinoma of the skin that has undergone potentially curative
+             therapy, or in situ cervical cancer)
+
+          -  Poor medical risk
+
+          -  Pregnant or breastfeeding, or expecting to conceive children within the projected
+             duration of the study
+
+          -  Immunodeficiency or is receiving systemic steroid therapy or any other form of
+             immunosuppressive therapy within 7 days prior to the first dose of study treatment
+
+          -  Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+
+          -  Known active hepatitis B or hepatitis C
+
+          -  Active autoimmune disease that has required systemic treatment in the past 2 years
+             (ie, with use of disease-modifying agents, corticosteroids, or immunosuppressive
+             drugs). Replacement therapy (eg, thyroxine, insulin, or physiologic corticosteroid
+             replacement therapy for adrenal or pituitary insufficiency, etc.) is not considered a
+             form of systemic treatment
+
+          -  History of interstitial lung disease
+
+          -  Known history of platelet transfusion for chemotherapy-induced thrombocytopenia or
+             persistent (&gt; 4 weeks) ≥ Grade 3 hematological toxicity or fatigue from prior cancer
+             therapy
+
+          -  Prior treatment with an anti-PD-1, anti-PD-L1, or anti-PD-L2
+
+          -  Prior treatment with a known poly(ADP-ribose) polymerase (PARP) inhibitor
+
+          -  Heart-rate corrected QT interval (QTc) prolongation &gt; 470 msec at screening
+
+          -  Known history of myelodysplastic syndrome (MDS) or a pre-treatment cytogenetic
+             testing result at risk for a diagnosis of MDS/acute myeloid leukemia (AML)
+
+          -  Receiving concomitant medications that prolong QTc and is unable to discontinue use
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bruce Dezube, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Tesaro, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Clinical Trial Management Group</last_name>
+    <email>nirap-pembro.combostudy@tesarobio.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85258</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joyce Schaffer</last_name>
+      <phone>480-323-1339</phone>
+      <email>Joyce.Schaffer@honorhealth.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Panos Konstantinopoulos, MD, PhD</last_name>
+      <phone>617-632-2334</phone>
+      <email>pkonstantinopoulos@partners.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cancer Information Services</last_name>
+      <phone>800-641-2422</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ingrid Block</last_name>
+      <phone>405-271-8777</phone>
+      <email>Ingrid-Block@ouhsc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Germantown</city>
+        <state>Tennessee</state>
+        <zip>38138</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cindy Inman</last_name>
+      <phone>901-683-0055</phone>
+      <phone_ext>61236</phone_ext>
+      <email>cinman@westclinic.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2016</verification_date>
+  <lastchanged_date>February 21, 2017</lastchanged_date>
+  <firstreceived_date>January 8, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>PARP inhibitor</keyword>
+  <keyword>PD-1</keyword>
+  <keyword>Niraparib</keyword>
+  <keyword>Pembrolizumab</keyword>
+  <keyword>Keynote</keyword>
+  <keyword>TOPACIO</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Ovarian Neoplasms</mesh_term>
+    <mesh_term>Fallopian Tube Neoplasms</mesh_term>
+    <mesh_term>Triple Negative Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Niraparib</mesh_term>
+    <mesh_term>Pembrolizumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

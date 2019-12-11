@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="126491">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01455701</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NP25737</org_study_id>
+    <secondary_id>2015-000435-33</secondary_id>
+    <nct_id>NCT01455701</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Pharmacokinetic and Safety of Tocilizumab (RoActemra/Actemra) in Participants Less Than 2 Years Old With Active Systemic Juvenile Idiopathic Arthritis</brief_title>
+  <official_title>A Phase I Pharmacokinetic and Safety Study of Tocilizumab (TCZ) in Patients Less Than 2 Years Old With Active Systemic Juvenile Idiopathic Arthritis (sJIA)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hoffmann-La Roche</source>
+  <brief_summary>
+    <textblock>
+      This is a multi-center, open label single arm study to investigate the pharmacokinetics and
+      safety of tocilizumab (TCZ) (RoActemra/Actemra) in participants less than 2 years old with
+      active systemic juvenile idiopathic arthritis (sJIA). Participants will receive tocilizumab
+      infusions every 2 weeks. The anticipated time on study treatment is 12 weeks (Main
+      evaluation period). Participants will have the option to continue TCZ treatment until
+      participant reaches 2 years of age or up to one year from baseline, whichever is longer. An
+      optional extension period will follow the main evaluation period.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>October 2012</start_date>
+  <primary_completion_date type="Actual">July 2016</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximum observed plasma concentration (Cmax) of TCZ</measure>
+    <time_frame>Pre-dose on Days 1, 15, 29, 43, 57, 71, and 85; post-dose on Days 1, 29 and 71; and anytime on Days 8, 36, and 78</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Minimum observed plasma trough concentration (Cmin) of TCZ</measure>
+    <time_frame>Pre-dose on Days 1, 15, 29, 43, 57, 71, and 85; post-dose on Days 1, 29 and 71; and anytime on Days 8, 36, and 78</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Systemic Clearance (CL) of TCZ</measure>
+    <time_frame>Pre-dose on Days 1, 15, 29, 43, 57, 71, and 85; post-dose on Days 1, 29 and 71; and anytime on Days 8, 36, and 78</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Apparent volume of distribution (Vz/F) of TCZ</measure>
+    <time_frame>Pre-dose on Days 1, 15, 29, 43, 57, 71, and 85; post-dose on Days 1, 29 and 71; and anytime on Days 8, 36, and 78</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area under the curve from time zero to end of dosing (AUCtau) of TCZ</measure>
+    <time_frame>Pre-dose on Days 1, 15, 29, 43, 57, 71, and 85; post-dose on Days 1, 29 and 71; and anytime on Days 8, 36, and 78</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with adverse events (AEs)</measure>
+    <time_frame>Baseline up to 8 weeks after the last dose (overall up to week 60)</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">11</enrollment>
+  <condition>Systemic Juvenile Idiopathic Arthritis</condition>
+  <arm_group>
+    <arm_group_label>Tocilizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive tocilizumab intravenous (IV) infusion of 12 milligrams per kilogram (mg/kg) every two weeks (Q2W) for up to 10 weeks (A total of 6 infusions including one at baseline visit) in main evaluation period and 12 mg/kg every Q2W from week 12 until participant reaches 2 years of age or has been treated for one year from baseline in optional extension period .</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tocilizumab</intervention_name>
+    <description>Participants will receive tocilizumab IV infusion of 12 mg/kg Q2W up to week 10 in main evaluation period and until participant reaches 2 years of age or up to one year from baseline in optional extension period.</description>
+    <arm_group_label>Tocilizumab</arm_group_label>
+    <other_name>RoActemra/Actemra; RO4877533</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Fulfills international league of associations for rheumatology (ILAR classification)
+             criteria for sJIA
+
+          -  Duration of sJIA symptoms lasting for at least 1 months subsequent to diagnosis of
+             sJIA
+
+          -  Presence of active disease as determined by the presence of:
+
+               1. Greater than or equal to (&gt;/=) 2 active joints at screening and baseline, with
+                  at least 14 consecutive days of temperature recordings, which may include the
+                  presence or absence of fever (&gt;/=38 degree celsius) during the time between
+                  screening and baseline; or
+
+               2. &gt;/=2 active joints at screening and baseline, with a fever &gt;/=38 degree celsius
+                  for at least 5 consecutive days during the time between screening and baseline;
+                  under these circumstances a participants does not need to complete a full 14
+                  days of temperature diary entries to meet this inclusion criteria
+
+          -  Not currently receiving corticosteroids (CS) or if taking oral CS like prednisone or
+             equivalent, the dose should be less than or equal to (&lt;/=) 1 milligrams per kilogram
+             per day (mg/kg/day) and the dose has remained stable for at least 2 weeks prior to
+             baseline
+
+          -  Not currently receiving methotrexate (MTX) or if taking MTX (together with either
+             folic acid or folinic acid according to local standard-of-care), the dose has
+             remained stable or has been discontinued for at least 4 weeks prior to baseline
+
+          -  Not currently receiving non-steroidal anti-inflammatory drugs (NSAIDs) or if taking
+             NSAID, the dose has remained stable or has been discontinued for at least 2 weeks
+             prior to baseline
+
+          -  If the participants has received previous treatment with any of the following
+             biologic agents, these must have been discontinued according to the following
+             timelines prior to the baseline visit and are not permitted during the study:
+
+               1. Etanercept must have been discontinued within &gt;/= 2 weeks prior to baseline
+
+               2. Anakinra must have been discontinued within &gt;/= 4 days prior to baseline
+
+               3. Abatacept must have been discontinued within &gt;/= 12 weeks prior to baseline
+
+               4. Infliximab or adalimumab must have been discontinued within &gt;/= 8 weeks prior to
+                  baseline
+
+               5. Canakinumab must have been discontinued within &gt;/= 20 weeks prior to baseline
+
+               6. Rilonacept must have been discontinued within &gt;/= 6 weeks prior to baseline
+
+               7. Golimumab must have been discontinued within &gt;/= 10 weeks prior to baseline
+
+               8. Certrolizumab pegol must have been discontinued within &gt;/= 10 weeks prior to
+                  baseline
+
+          -  History of inadequate clinical response (in the opinion of the treating physician) to
+             NSAIDs and CS
+
+        Exclusion Criteria:
+
+        General Exclusion Criteria:
+
+          -  Any auto-immune, rheumatic disease or overlap syndrome other than sJIA
+
+          -  Not fully recovered from recent surgery or less than six weeks since surgery, at the
+             time of screening visit; or planned surgery during the study (except for myringotomy
+             surgery, which is permitted)
+
+        General Safety Inclusion Criteria:
+
+          -  Any significant concurrent medical or surgical condition which would jeopardize the
+             participants safety or ability to complete the trial
+
+          -  History of significant allergic or infusion reactions to prior biologic therapy or to
+             any of the excipients listed in TCZ product labelling documents
+
+          -  Inborn conditions characterized by a compromised immune system
+
+          -  Known human immunodeficiency virus (HIV) infection or other acquired forms of immune
+             compromise
+
+          -  Evidence of serious uncontrolled concomitant diseases including but not limited to
+             the nervous system, renal, hepatic or endocrine systems
+
+          -  Asthma for which the participant has required the use of oral or parenteral
+             corticosteroids for &gt;/=2 weeks within 6 months prior to baseline visit
+
+          -  Any active acute, subacute, chronic or recurrent bacterial, viral or systemic fungal
+             infection
+
+          -  History of atypical tuberculosis (TB)
+
+          -  Active TB requiring treatment at any point prior to screening visit
+
+          -  Positive TB test result at screen, unless treated with anti-tuberculosis therapy for
+             at least 4 weeks prior to receiving study medication and chest radiograph is negative
+             for active tuberculosis within 6 months of screening visit consistent with local
+             practice
+
+          -  Any major episode of infection requiring hospitalization or treatment during
+             screening or treatment with intravenous (IV) antibiotics completing within 4 weeks of
+             the screening visit or oral antibiotics completing within 2 weeks of the screening
+             visit
+
+          -  History of reactivation or new onset of a systemic infection such as herpes zoster or
+             Epstein Barr virus within 2 months of the screening visit
+
+          -  History of hepatitis B or hepatitis C infection
+
+          -  Chronic hepatitis - viral or autoimmune
+
+          -  Significant cardiac or pulmonary disease
+
+          -  History or concurrent serious gastrointestinal disorders such as ulcer or
+             inflammatory bowel disease, ulcerative colitis or other symptomatic lower
+             gastrointestinal conditions, including ulcer and perforation
+
+          -  History of or current cancer or lymphoma
+
+          -  History of macrophage activation syndrome (MAS) within 3 months prior to the
+             screening visit
+
+          -  Uncontrolled diabetes mellitus with elevated hemoglobin (Hgb) A1c as defined by
+             age-specific standards
+
+        Excluded Previous or Concomitant Therapy:
+
+          -  Participation in another interventional clinical trial within the past thirty days or
+             five serum half-lives of the investigative medication, whichever is longer
+
+          -  Previous treatment with TCZ
+
+          -  Administration of intravenous immunoglobulin within 4 weeks prior to the baseline
+             visit
+
+          -  Previous treatment with any cell depleting therapies, including investigational
+             agents
+
+          -  Prior stem cell transplant at any time
+
+          -  Live or attenuated vaccines within 4 weeks prior to the baseline visit, or intending
+             to receive while on study medication or 8 weeks following the last dose of study
+             medication
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>24 Months</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>Hoffmann-La Roche</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94117</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20010-2970</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60649</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229-3039</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>1270</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T3B 6A8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 1X8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H4A 3J1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Paris</city>
+        <zip>75743</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bremen</city>
+        <zip>28177</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Sankt Augustin</city>
+        <zip>53757</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Budapest</city>
+        <zip>1094</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lodz</city>
+        <zip>91-738</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lublin</city>
+        <zip>20-093</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Esplugues De Llobregas</city>
+        <state>Barcelona</state>
+        <zip>08950</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Madrid</city>
+        <zip>28034</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Valencia</city>
+        <zip>46026</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bristol</city>
+        <zip>BS2 8BJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Liverpool</city>
+        <zip>L12 2AP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>London</city>
+        <zip>WC1N 1EH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Hungary</country>
+    <country>Poland</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Russian Federation</country>
+  </removed_countries>
+  <verification_date>November 2016</verification_date>
+  <lastchanged_date>November 1, 2016</lastchanged_date>
+  <firstreceived_date>October 18, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Arthritis</mesh_term>
+    <mesh_term>Arthritis, Juvenile</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

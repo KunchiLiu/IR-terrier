@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="71558">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02174172</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GO29322</org_study_id>
+    <secondary_id>2014-000812-33</secondary_id>
+    <nct_id>NCT02174172</nct_id>
+  </id_info>
+  <brief_title>A Study to Assess the Safety and Tolerability of MPDL3280A in Combination With Other Immune-modulating Therapies in Patients With Locally Advanced or Metastatic Solid Tumors</brief_title>
+  <official_title>A PHASE I STUDY OF THE SAFETY AND PHARMACOLOGY OF MPDL3280A ADMINISTERED WITH IPILIMUMAB OR INTERFERON-ALPHA IN PATIENTS WITH LOCALLY ADVANCED OR METASTATIC SOLID TUMORS</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hoffmann-La Roche</source>
+  <brief_summary>
+    <textblock>
+      This global, multicenter, open-label study will evaluate the safety and tolerability of
+      MPDL3280A in combination with other immune-modulating therapies in the treatment of selected
+      advanced or metastatic malignancies. The MPDL3280A plus ipilimumab arm (Arm A) will focus
+      primarily on patients with advanced or metastatic NSCLC. The MPDL3280A plus interferon
+      alfa-2b arm (Arm B) will enroll patients with advanced or metastatic RCC and melanoma.
+      MPDL3280A will be administered intravenously every 3 weeks (q3w).
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>August 2014</start_date>
+  <completion_date type="Anticipated">February 2019</completion_date>
+  <primary_completion_date type="Anticipated">February 2019</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of dose-limiting toxicities (DLTs)</measure>
+    <time_frame>Up to 21 days from the first MPDL3280A treatment</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of adverse events (AEs)</measure>
+    <time_frame>Up to 30 days after last dose of study drug</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Best overall response, as determined by investigator assessment using conventional RECIST v1.1 and modified RECIST criteria</measure>
+    <time_frame>From first study treatment to disease progression, assessed up to 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of objective response</measure>
+    <time_frame>From first occurrence of a documented objective response to the time of progression or death from any cause, assessed up to 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>From first study treatment to death, assessed up to 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival</measure>
+    <time_frame>From first study treatment to first occurence of disease progression or death, assessed up to 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response (partial response plus complete response), confirmed by repeat assessments &gt;/= 4 weeks after initial documentation and determined by investigator assessment using conventional RECIST v1.1 and modified RECIST criteria</measure>
+    <time_frame>From first study treatment to disease progression, assessed up to 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum concentrations of study drugs, MPDL3280A and ipilimumab administered in combination</measure>
+    <time_frame>Up to 90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum concentrations of study drugs, MPDL3280A and interferon alfa-2b administered in combination</measure>
+    <time_frame>Up to 90 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Solid Cancers</condition>
+  <arm_group>
+    <arm_group_label>Arm A: MPDL3280A + ipilimumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B: MPDL3280A + interferon alfa-2b</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Interferon alfa-2b</intervention_name>
+    <description>Interferon alfa-2b administered subcutaneously every other day for up to 3 doses per week</description>
+    <arm_group_label>Arm B: MPDL3280A + interferon alfa-2b</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ipilimumab</intervention_name>
+    <description>Ipilimumab IV, single dose, or multiple-dose regimen every Q3W for up to 4 cycles</description>
+    <arm_group_label>Arm A: MPDL3280A + ipilimumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>MPDL3280A [TECENTRIQ]</intervention_name>
+    <description>MPDL3280A administered intraveneously (IV) every three weeks (q3w)</description>
+    <arm_group_label>Arm A: MPDL3280A + ipilimumab</arm_group_label>
+    <arm_group_label>Arm B: MPDL3280A + interferon alfa-2b</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age &gt;/= 18 years
+
+          -  Histologically or cytologically documented locally advanced or metastatic solid
+             tumors meeting the following study drug-specific criteria:
+
+        Inclusion criteria specific to Arm A: MPDL3280A + ipilimumab
+
+          -  Escalation stage: NSCLC patients
+
+          -  Expansion stage: NSCLC patients
+
+          -  Mandatory biopsy cohort: NSCLC or melanoma patients
+
+          -  Prior MPDL3280A-treated cohort: NSCLC or melanoma patients
+
+        Inclusion criteria specific to Arm B: MPDL3280A + interferon alfa-2b
+
+          -  Escalation stage: RCC or melanoma patients
+
+          -  Expansion stage: RCC or melanoma patients
+
+          -  Mandatory biopsy cohort: RCC or melanoma patients
+
+          -  Prior MPDL3280A-treated cohort: RCC or melanoma patients
+
+        Inclusion criteria specific to prior MPDL3280A-treated cohorts
+
+        Patients who have previously received MPDL3280A as monotherapy or in combination with
+        other agents (except those outlined as exclusions) are eligible if they meet the following
+        criteria:
+
+          -  Radiologic evidence of progression after having derived stable disease, partial
+             response, or complete response; patients without evidence of clinical benefit may be
+             enrolled only after approval by the Medical Monitor.
+
+          -  Minimum of 21 days from the last dose of MPDL3280A
+
+          -  No permanent discontinuation of MPDL3280A due to a treatment-related adverse event
+
+          -  Recovery from all MPDL3280A-related adverse events to Grade &lt;/= 1 or baseline at the
+             time of consent
+
+          -  No history of Grade &gt;/= 3 immune-related adverse events from MPDL3280A, of Grade &gt;/=
+             3 elevated total bilirubin, of usage of additional immunosuppression or ongoing use
+             of &gt; 10 mg prednisone or corticosteroid dose-equivalent.
+
+          -  Disease progression during or after at least one previous systemic, anti-cancer
+             treatment for locally advanced or metastatic NSCLC and RCC
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status score of 0 or 1
+
+          -  Life expectancy &gt;/= 12 weeks
+
+          -  Measurable disease, as defined by Response Evaluation Criteria in Solid Tumors
+             (RECIST) v1.1
+
+          -  Adequate hematologic and end organ function as confirmed by laboratory results within
+             14 days prior to the first study treatment
+
+          -  For women who are not postmenopausal or surgically sterile and for men with partners
+             of childbearing potential, the agreement to remain abstinent or to use single or
+             combined contraceptive methods that result in a failure rate of &lt;1% per year during
+             the treatment period and for at least 6 months after the last dose of study drug.
+
+        Exclusion Criteria:
+
+        General Medical Exclusions:
+
+          -  Pregnant and lactating women
+
+          -  Any approved anti-cancer therapy, including chemotherapy or hormonal therapy, within
+             3 weeks prior to initiation of study treatment, with the following exception: (1)
+             hormone-replacement therapy or oral contraceptives; (2) tyrosine kinase inhibitors
+             (TKIs) that have been discontinued &gt; 7 days prior to Cycle 1, Day 1, baseline scans
+             must be obtained after discontinuation of prior TKIs
+
+          -  Investigational therapy within 28 days prior to initiation of study treatment
+
+          -  History of severe allergic, anaphylactic, or other hypersensitivity reactions to
+             chimeric or humanized antibodies or fusion proteins
+
+          -  Known hypersensitivity or allergy to Chinese hamster ovary cell products or any
+             component of the MPDL3280A formulation
+
+          -  History of or active autoimmune disease
+
+          -  History of idiopathic pulmonary fibrosis (including pneumonitis), drug-induced
+             pneumonitis, organizing pneumonia, risk of pulmonary toxicity, or evidence of active
+             pneumonitis on screening chest computed tomography (CT) scan
+
+          -  Prior allogeneic bone marrow transplantation or prior solid organ transplantation
+
+          -  History of human immunodeficiency virus (HIV)
+
+          -  Patients with active hepatitis B
+
+          -  Patients with active hepatitis C
+
+          -  Patients with active tuberculosis
+
+          -  Any serious medical condition, physical examination finding, or abnormality in
+             clinical laboratory tests that, in the investigator's judgment, precludes the
+             patient's safe participation in and completion of the study
+
+        Cancer-Specific Exclusions:
+
+          -  NSCLC with sensitizing mutations in EGFR or ALK rearrangements
+
+          -  Melanoma with BRAF mutations
+
+          -  Active or untreated central nervous system (CNS) metastases, as determined by CT or
+             MRI evaluation during screening and prior radiographic assessments
+
+          -  Spinal cord compression not definitively treated with surgery and/or radiation or
+             previously diagnosed and treated spinal cord compression without evidence that
+             disease has been clinically stable for &gt;/= 2 weeks prior to screening
+
+          -  Leptomeningeal disease
+
+          -  Uncontrolled pleural effusion, pericardial effusion, or ascites requiring recurrent
+             drainage procedures (once monthly or more frequently); patients with indwelling
+             catheters are allowed.
+
+          -  Uncontrolled/unstable tumor-related pain
+
+          -  Uncontrolled hypercalcemia or symptomatic hypercalcemia requiring continued use of
+             bisphosphonate therapy or denosumab
+
+          -  History of other malignancy within 2 years prior to screening, except for
+             appropriately treated carcinoma in situ of the cervix, non-melanoma skin carcinoma,
+             Stage I uterine cancer, localized prostate cancer treated with curative intent,
+             ductal carcinoma in situ treated surgically with curative intent, or other cancers
+             with a similar outcome
+
+        Exclusion Criteria Related to Medications:
+
+          -  Prior treatment with CD137 agonists or immune checkpoint blockade therapies (Note:
+             Patients who enroll in the prior MPDL3280A-treated cohorts will have previously
+             received MPDL3280A)
+
+          -  Treatment with systemic immunostimulatory agents within four weeks or five half-lives
+             of the drug, whichever is shorter, prior to Cycle 1, Day 1
+
+          -  Treatment with systemic immunosuppressive medications within 2 weeks prior to Cycle
+             1, Day 1 (the use of inhaled corticosteroids and mineralocorticoids is allowed)
+
+        Exclusion Criteria Specific to Arm B (MPDL3280A + Interferon Alfa-2b):
+
+          -  History of depression, suicidal ideation or behavior, bipolar disorder, or psychosis
+
+          -  Hypersensitivity to interferon alpha or any component of the product
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>Hoffmann-La Roche</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Reference Study ID Number: GO29322 www.roche.com/about_roche/roche_worldwide.htm</last_name>
+    <phone>888-662-6728 (U.S. and Canada)</phone>
+    <email>global.rochegenentechtrials@roche.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Pinnacle Oncology Hematology</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85258</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic- Scottsdale</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85259</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yale University</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic-Jacksonville</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of North Carolina at Chapel Hill</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sarah Cannon Research Inst.</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Netherlands Cancer Insitute of Amsterdam</name>
+      <address>
+        <city>Amsterdam</city>
+        <zip>1066 CX</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2017</verification_date>
+  <lastchanged_date>January 12, 2017</lastchanged_date>
+  <firstreceived_date>June 19, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Interferons</mesh_term>
+    <mesh_term>Interferon-alpha</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

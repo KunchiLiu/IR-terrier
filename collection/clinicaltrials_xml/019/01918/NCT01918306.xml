@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="91159">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01918306</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VICC BRE 1287</org_study_id>
+    <secondary_id>NCI-2013-01319</secondary_id>
+    <nct_id>NCT01918306</nct_id>
+  </id_info>
+  <brief_title>GDC-0941 and Cisplatin in Treating Patients With Androgen Receptor-Negative Triple Negative Metastatic Breast Cancer</brief_title>
+  <official_title>A Phase Ib/II Trial of GDC-0941 (a PI3K Inhibitor) in Combination With Cisplatin in Patients With Androgen Receptor Negative Triple Negative Metastatic Breast Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vanderbilt-Ingram Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Genentech, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Vanderbilt-Ingram Cancer Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I/II trial study evaluates the tolerability and best tolerated dose of the PI3K
+      inhibitor GDC-0941 when given with the chemotherapy cisplatin. This study will also examine
+      how well the combination of GDC-0941 and cisplatin work in treating patients with androgen
+      receptor negative triple negative metastatic breast cancer. Patients will be randomized to
+      receive cisplatin alone or cisplatin with GDC-0941 in the phase II portion. Those receiving
+      cisplatin alone can receive GDC-0941 upon progression of their disease. Cisplatin is a
+      chemotherapy which has been shown to be effective in treating triple negative breast cancer.
+      Preclinical studies show that adding a PI3K inhibitor such as GDC-0941 to cisplatin may be a
+      more effective treatment for breast cancer.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To determine the safety and tolerability of GDC-0941 when given in combination with
+      cisplatin in patients with androgen receptor-negative (AR-) triple negative (TN) metastatic
+      breast cancer (MBC): assessment of dose limiting toxicities (DLTs) during the first 4 weeks
+      of treatment (cycle 1); determination of the maximally tolerated dose (MTD) and recommended
+      phase II dose of GDC-0941 given in combination with cisplatin. (Phase IB)
+
+      II. To evaluate the efficacy, as measured by the overall response rate (ORR), of cisplatin +
+      GDC-0941 versus cisplatin alone in patients with AR- TN MBC. (Phase II)
+
+      SECONDARY OBJECTIVES:
+
+      I. To determine the clinical benefit rate (CBR) of cisplatin + GDC-0941 in patients with AR-
+      TN MBC.
+
+      II. To determine the time to disease progression (TTP) of cisplatin + GDC-0941 versus
+      cisplatin alone in patients with AR- TN MBC.
+
+      TERTIARY OBJECTIVES:
+
+      I. To characterize pharmacokinetics of GDC-0941 when administered in combination with
+      cisplatin.
+
+      II. To explore predictors of response and mechanisms of resistance based on exploratory
+      analysis of tumor tissue obtained through biopsies.
+
+      III. To assess the prognostic effects of phosphatidylinositol-4,5-bisphosphate 3-kinase,
+      catalytic subunit alpha (PIK3CA) mutations and phosphatase and tensin homolog (PTEN) loss on
+      TTP and CBR.
+
+      OUTLINE: This is a phase I, dose-deescalation study of PI3K inhibitor GDC-0941 followed by a
+      randomized phase II study.
+
+      PHASE I: Patients receive cisplatin intravenously (IV) over 1 hour on days 1, 8, and 15 and
+      PI3K inhibitor GDC-0941 orally (PO) once daily (QD) on days 2-6, 9-13, 16-20, and 23-27.
+      Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+      PHASE II: Patients are randomized to 1 of 2 treatment arms.
+
+      ARM I: Patients receive cisplatin IV over 1 hour on days 1, 8, and 15. Courses repeat every
+      28 days in the absence of disease progression or unacceptable toxicity. Patients may
+      crossover to Arm II upon disease progression.
+
+      ARM II: Patients receive cisplatin as in Arm I and PI3K inhibitor GDC-0941 PO QD on days
+      2-6, 9-13, 16-20, and 23-27. Courses repeat every 28 days in the absence of disease
+      progression or unacceptable toxicity.
+
+      After completion of study treatment, patients are followed up for 30 days.
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    company stopped production of study drug due to excessive toxicities
+  </why_stopped>
+  <start_date>September 2013</start_date>
+  <completion_date type="Actual">April 2015</completion_date>
+  <primary_completion_date type="Actual">December 2014</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximum Tolerated Dose(MTD) of GDC-0941 - (Phase Ib)</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>MTD is defined as the highest dose tested in which a dose limiting toxicity (DLT)is experienced by 0 to 1, out of 6 patients among the dose levels assessed using CTCAE version 4.0</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Patients Achieving Overall Response Rate - (Phase II)</measure>
+    <time_frame>at 8 weeks</time_frame>
+    <description>Overall response rate (ORR) is complete response (CR) + partial response (PR) measured by RECIST version 1.1</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with dose-limiting toxicities per grade (DLT) - (Phase Ib)</measure>
+    <time_frame>During the first 4 weeks</time_frame>
+    <description>Number of patients with Grade 3 and 4 toxicities per NCI Common Terminology for Adverse Events (CTCAE) version 4.0.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Benefit Ratio (CBR)</measure>
+    <time_frame>at 32 weeks</time_frame>
+    <description>CBR is the corresponding 95% confidence interval at the MTD dose recommended for phase II. Defined as the number of patients with CR + PR + stable disease (SD) for 6 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Progression (TTP)</measure>
+    <time_frame>From time of randomization to disease progression, up to 104 weeks</time_frame>
+    <description>TTP is calculated with the corresponding 95% confidence interval at the dose recommended for phase II. It is defined as the duration from randomization to objective tumor progression</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Correlation of the presence of PIK3CA mutations in the tumor with time to tumor progression.</measure>
+    <time_frame>2 years</time_frame>
+    <description>Examining tumor tissue for PI3K mutations and correlating this statistically with clinical outcomes including time to tumor progression.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">11</enrollment>
+  <condition>Estrogen Receptor Negative Breast Cancer</condition>
+  <condition>Human Epidermal Growth Factor 2 Negative Carcinoma of Breast</condition>
+  <condition>Triple Negative Breast Cancer</condition>
+  <condition>Recurrent Breast Cancer</condition>
+  <condition>Stage IV Breast Cancer</condition>
+  <condition>Triple-negative Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>cisplatin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients receive cisplatin in Arm I. Patients may crossover to Arm II upon disease progression.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>cisplatin and GDC-0941</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive cisplatin as in Arm I and PI3K inhibitor GDC-0941. Courses repeat in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cisplatin</intervention_name>
+    <description>In Arm I patients receive cisplatin IV over 1 hour on days 1, 8, and 15. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients may crossover to Arm II upon disease progression.
+In Arm II patients receive cisplatin as in Arm I and PI3K inhibitor GDC-0941 orally (PO) one time a day (QD) on days 2-6, 9-13, 16-20, and 23-27. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.</description>
+    <arm_group_label>cisplatin</arm_group_label>
+    <arm_group_label>cisplatin and GDC-0941</arm_group_label>
+    <other_name>Platinol</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>laboratory biomarker analysis</intervention_name>
+    <description>correlative studies</description>
+    <arm_group_label>cisplatin</arm_group_label>
+    <arm_group_label>cisplatin and GDC-0941</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>pharmacological study</intervention_name>
+    <description>correlative studies</description>
+    <arm_group_label>cisplatin</arm_group_label>
+    <arm_group_label>cisplatin and GDC-0941</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>dynamic contrast-enhanced MRI, diffusion-weighted MRI &amp; chemical exchange saturation transfer MRI</intervention_name>
+    <description>correlative studies</description>
+    <arm_group_label>cisplatin</arm_group_label>
+    <arm_group_label>cisplatin and GDC-0941</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GDC -0941</intervention_name>
+    <description>Patients receive cisplatin as in Arm I and PI3K inhibitor GDC-0941 PO QD on days 2-6, 9-13, 16-20, and 23-27. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity</description>
+    <arm_group_label>cisplatin and GDC-0941</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients must provide informed written consent.
+
+          -  Patients must be &lt;18 years of age.
+
+          -  ECOG performance status 0-1.
+
+          -  Clinical stage IV invasive mammary carcinoma, ER negative (defined as expression of
+             ER in &lt; 5% cells), PR negative (defined as expression of PR in &lt; 5% cells), HER2
+             negative [acceptable FDA approved methods of HER2 analysis include IHC (0, 1+),
+             fluorescence in situ hybridization (FISH) with HER2/CEN-17 ratio &lt;2, and/or
+             chromogenic in situ hybridization (CISH)] with HER2/CEN-17 ratio &lt;2, as previously
+             documented by histological analysis.
+
+          -  Androgen receptor negativity, defined as &lt; 10% of tumor cell nuclei with
+             immunoreactivity for AR in a CLIA certified laboratory. See section 5.1.
+
+          -  Measurable disease, defined as at least one lesion that can be accurately measured in
+             at least one dimension by RECIST criteria 1.1, with radiologic scans within 21 days
+             of day 1, cycle 1.
+
+          -  Up to one prior chemotherapy regimens for metastatic disease.
+
+          -  No prior treatment with cisplatin in the metastatic setting.
+
+          -  Biopsy of a metastatic lesion in patients with reasonably accessible metastatic
+             lesions (chest wall, skin, subcutaneous tissue, lymph nodes, skin, breast, bones,
+             lung, and liver metastases). If a reasonably accessible site is available for biopsy,
+             the patient must agree to biopsy.
+
+          -  Life expectancy ≥ 6 months in the opinion of the investigator
+
+          -  Patients must have adequate hematologic, hepatic, and renal function. All tests must
+             be obtained less than 21 days from day 1 of study treatment. This includes:
+
+               -  ANC &gt;/=1500/mm3
+
+               -  Platelet count &gt;/=100,000/mm3
+
+               -  Hemoglobin ≥ 9 g/dL
+
+               -  Creatinine &lt;/=1.5X upper limits of normal (ULN)
+
+               -  INR ≤ 2
+
+               -  Total serum bilirubin ≤ 1.5 x ULN (in patients with known Gilbert Syndrome, a
+                  total bilirubin ≤ 3.0 x ULN, with direct bilirubin ≤ 1.5 x ULN)
+
+               -  AST and ALT ≤ 3 x ULN (or ≤ 5.0 x ULN if hepatic metastases are present)
+
+               -  For patients without known Type II diabetes, the following is required at
+                  screening:
+
+                  o -Fasting blood glucose &lt;/= 135 mg/dL (7.49 mmol/L) and glycosylated hemoglobin
+                  (HbA1c) &lt;7.0 % or International Federation of Clinical Chemistry (IFCC) &lt; 53
+                  mmol/mol
+
+               -  For patients with Type II diabetes receiving only oral anti-hyperglycemic
+                  therapy (patients receiving insulin are not eligible), the following are
+                  required at screening:
+
+                    -  -HbA1c &lt; 8.5 % or IFCC &lt; 69.4 mmol/mol
+
+                    -  -Stable regimen of oral anti-hyperglycemic therapy without insulin usage
+                       for at least 3 weeks prior to first study treatment
+
+                    -  -Fasting blood glucose levels &lt;/= 160 mg/dL (8.88 mmol/L) and no
+                       hypoglycemia (BS &lt;60) during home monitoring for at least 1 week prior to
+                       study entry
+
+          -  Patients must be able to swallow and retain oral medication.
+
+          -  For patients who are not postmenopausal or surgically sterile (absence of ovaries
+             and/or uterus), agreement to remain abstinent or to use two adequate methods of
+             contraception, including at least one method with a failure rate of &lt; 1% per year
+             (e.g., hormonal implants, combined oral contraceptives, vasectomy/vasectomized
+             partner, tubal ligation), during the treatment period and for at least 30 days after
+             the last dose of GDC-0941 or 6 months after the last dose of cisplatin, whichever is
+             longer; postmenopausal is defined as:
+
+          -  Age &gt;/= 60 years
+
+          -  Age &lt;/= 60 years and amenorrheic for 12 months in the absence of chemotherapy,
+             tamoxifen, toremifene, or ovarian suppression; and follicle stimulating hormone and
+             estradiol in the postmenopausal range
+
+          -  Patients may have received radiation therapy to painful bone metastases or areas of
+             impending bone fracture as long as radiation therapy is completed ≥ 2 weeks prior to
+             day 1 of cycle 1 of treatment. Patients who have received prior radiotherapy must
+             have recovered from toxicity (≤ grade 1) induced by this treatment. Baseline
+             radiologic scans must be obtained after completion of radiation.
+
+          -  Patients must complete all screening assessments as outlined in the protocol.
+
+        Exclusion Criteria:
+
+          -  Any kind of malabsorption syndrome significantly affecting gastrointestinal function.
+
+          -  Concurrent anti-cancer therapy (chemotherapy, radiation therapy, surgery,
+             immunotherapy, hormonal therapy, biologic therapy) other than the ones specified in
+             the protocol. Patients must have discontinued the above cancer therapies for 1 week
+             prior to the first dose of study medication, as well as recovered from toxicity (to ≤
+             than grade 1, except for alopecia) induced by previous treatments. Any
+             investigational drugs should be discontinued 2 weeks prior to the first dose of study
+             medication and radiotherapy must have been completed ≥ 2 weeks prior to initiation of
+             study drug (Cycle 1, Day 1).
+
+          -  Prior use of PI3K, or Akt inhibitors in the neoadjuvant, adjuvant, and metastatic
+             setting for the treatment of cancer. These include, but are not limited to: GDC-0941,
+             GDC-0980, GDC-0032, BEZ235, BKM120, LY294002, PIK-75, TGX-221, XL147, XL765, SF1126,
+             PX-866, D-87503, D-106669, GSK615, CAL101. Patients who have received PI3K/Akt
+             inhibitors previously for &lt;4 weeks will be eligible.
+
+          -  Pregnant or lactating women.
+
+          -  Insulin-dependent diabetes. Patients with Type II diabetes must meet criteria
+             outlined in Inclusion Criteria.
+
+          -  Uncontrolled intercurrent illness including, but not limited to:
+
+               -  -Ongoing or active infection requiring parenteral antibiotics
+
+               -  -Impairment of lung function (COPD &gt; grade 2, lung conditions requiring oxygen
+                  therapy) or current dyspnea at rest
+
+               -  -Symptomatic congestive heart failure (class III or IV of the New York Heart
+                  Association classification for heart disease)
+
+               -  -Known Left Ventricular Ejection Fraction (LVEF) &lt; 50%.
+
+               -  -Unstable angina pectoris, angioplasty, stenting, or myocardial infarction
+                  within 6 months
+
+               -  -Uncontrolled hypertension (systolic blood pressure &gt;160 mm Hg or diastolic
+                  blood pressure &gt; 100 mm Hg, found on two consecutive measurements separated by a
+                  1 or 2 week period despite adequate medical support)
+
+               -  -Clinically significant cardiac arrhythmia (multifocal premature ventricular
+                  contractions, bigeminy, trigeminy, ventricular tachycardia that is symptomatic
+                  or requires treatment [National Cancer Institute -Common Terminology Criteria
+                  for Adverse Events, Version 4.0, grade 3]
+
+               -  -QTcF ≥ 480 msec on screening EKG
+
+               -  -Known history of QT/QTc prolongation or Torsades de Pointes (TdP)
+
+               -  -ST depression or elevation of ≥ 1.5 mm in 2 or more leads
+
+               -  -Diarrhea of any cause ≥ CTCAE grade 2
+
+               -  -Active autoimmune disease that is not controlled by nonsteroidal or steroidal
+                  (&lt;10 mg of prednisone per day) anti inflammatory drugs or active inflammatory
+                  disease, including small or large intestine inflammation such as active Crohn's
+                  disease or ulcerative colitis, which requires immunosuppressive therapy
+
+               -  -Psychiatric illness/social situations that would compromise patient safety or
+                  limit compliance with study requirements including maintenance of a
+                  compliance/pill diary
+
+               -  -Symptomatic brain metastases (patients with a history of brain metastases must
+                  be clinically stable for at least 2 weeks from completion of radiation
+                  treatment, on a dose of steroids equivalent to &lt;10 mg prednisone daily for at
+                  least one week, and on a stable dose of therapeutic anticonvulsants)
+
+               -  -Known history of chronic liver disease, including cirrhosis, current alcohol
+                  abuse, or infection with hepatitis B virus or hepatitis C virus (active or
+                  carrier), or renal failure
+
+               -  -Known history of chronic pancreatitis
+
+               -  -Conditions that affect lymphocyte counts, such as HIV infection or
+                  immunosuppressive therapy
+
+          -  Use of prohibited drugs
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Vandana G. Abramson, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Vanderbilt-Ingram Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Alabama</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Georgetown University</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>John Hopkins University</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dana Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center</name>
+      <address>
+        <city>NYC</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of North Carolina</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt-Ingram Cancer Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor Breast Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.vicc.org/ct/</url>
+    <description>Vanderbilt-Ingram Cancer Center, Find a Clinical Trial</description>
+  </link>
+  <verification_date>August 2015</verification_date>
+  <lastchanged_date>August 17, 2015</lastchanged_date>
+  <firstreceived_date>July 25, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Vanderbilt-Ingram Cancer Center</investigator_affiliation>
+    <investigator_full_name>Vandana Abramson</investigator_full_name>
+    <investigator_title>Assistant Professor of Medicine; Medical Oncologist</investigator_title>
+  </responsible_party>
+  <keyword>Triple Negative Breast Cancer</keyword>
+  <keyword>Estrogen receptor negative breast cancer</keyword>
+  <keyword>Metastatic breast cancer</keyword>
+  <keyword>Stage IV breast cancer</keyword>
+  <keyword>HER2 negative breast cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Triple Negative Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cisplatin</mesh_term>
+    <mesh_term>Androgens</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

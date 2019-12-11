@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="101896">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01777997</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG A5308</org_study_id>
+    <secondary_id>1U01AI068636</secondary_id>
+    <nct_id>NCT01777997</nct_id>
+  </id_info>
+  <brief_title>FTC/RPV/TDF on T-Cell Activation, CD4 Cell Count, Inflammatory Biomarkers and Viral Reservoir</brief_title>
+  <official_title>A Prospective, Single-Arm, Open-Label Study to Evaluate the Effect of Fixed-Dose Emtricitabine/Rilpivirine/Tenofovir Disoproxil Fumarate on T-Cell Activation, Absolute CD4+ T-Cell Count, Inflammatory Biomarkers and Viral Reservoir in Treatment-Naïve HIV-1 Controllers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AIDS Clinical Trials Group</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>AIDS Clinical Trials Group</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is being done with people who are infected with HIV, but do not show any signs of
+      having HIV. They are also feeling well without taking HIV medication and have low or
+      undetectable levels of the virus in the blood. The purpose of this study is to see if taking
+      HIV medication (antiretroviral therapy [ART]) will reduce immune activation (a signal that
+      the body is fighting an infection) in people who have HIV, but do not show symptoms. Also
+      this study will help determine how safe the drug is and how well people react to the drug.
+
+      For this study, the following antiretroviral therapy (ART) will be provided in the form of a
+      single tablet that contains three different drugs: emtricitabine/rilpivirine/tenofovir
+      disoproxil fumarate (FTC/RPV/TDF). These drugs are combined as one tablet which is approved
+      by the Food and Drug Administration (FDA) as a single pill to treat HIV infection. The HIV
+      medication provided is one of the recommended treatments for HIV, including people with low
+      viral loads (how much HIV you have in your body) who are taking HIV drugs for the first
+      time. The risks seen with this HIV medication are the same that one would encounter when
+      taking these drugs outside of the study.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>February 2013</start_date>
+  <completion_date type="Anticipated">January 2017</completion_date>
+  <primary_completion_date type="Actual">February 2016</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in levels of CD8+ T-cell activation (defined as the percentage HLA-DR+/CD38+) from baseline to weeks 24 and 48 on ART</measure>
+    <time_frame>From baseline to week 48 on ART</time_frame>
+    <description>Change from baseline (average of study entry and study week 12), estimated with a repeated measures analysis (weeks 24 and 48 on ART) using generalized estimating equations (GEE)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Plasma HIV-1 RNA level measured by Single Copy Assay (SCA) as above versus below the limit of the assay</measure>
+    <time_frame>At baseline and weeks 4, 12, 24, 36 and 48 on ART</time_frame>
+    <description>At a specific week, the proportion of subjects with HIV-1 RNA by SCA &lt; assay limit</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in CD4+ T-cell count</measure>
+    <time_frame>From baseline to weeks 12, 24, 36 and 48 on ART</time_frame>
+    <description>Change equals each specific week CD4+ T-cell count, respectively, minus the baseline CD4+ T-cell count (average of study entry and study week 12)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in levels of CD8+ T-cell activation</measure>
+    <time_frame>From baseline to weeks 4, 24 and 48 on ART</time_frame>
+    <description>Change equals each specific week percentage, respectively, minus the baseline percentage (average of study entry and study week 12)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in levels of CD4+ T-cell activation (defined as the percentage HLA-DR+/CD38+)</measure>
+    <time_frame>From baseline to weeks 4, 24 and 48 on ART</time_frame>
+    <description>Change equals each specific week percentage, respectively, minus the baseline percentage (average of study entry and study week 12)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in levels of Interleukin (IL)-6</measure>
+    <time_frame>From baseline to weeks 4, 24 and 48 on ART</time_frame>
+    <description>Change equals each specific week result, respectively, minus the baseline result (average of study entry and study week 12)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in levels of 2D-dimer</measure>
+    <time_frame>From baseline to weeks 4, 24 and 48 on ART</time_frame>
+    <description>Change equals each specific week result, respectively, minus the baseline result (average of study entry and study week 12)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in quality of life (QoL) index</measure>
+    <time_frame>From baseline to weeks 4, 24 and 48 on ART</time_frame>
+    <description>The QoL index is obtained by averaging the five responses on the Euro-Quality of Life questionnaire (EQ-5D). Change equals each specific week index, respectively, minus the baseline index (average of study entry and study week 12)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of subjects who experience Grade 3 or 4 signs and symptoms or laboratory abnormalities, diagnoses, or other serious adverse events (SAEs)</measure>
+    <time_frame>From baseline through week 48 on ART</time_frame>
+    <description>Grading uses the Division of AIDS (DAIDS) 2004 (clarification 2009) Severity of Adverse Events Table, where Grade 1=Mild, 2=Moderate, 3=Severe, 4=Potentially life-threatening.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">57</enrollment>
+  <condition>HIV-1 Infection</condition>
+  <arm_group>
+    <arm_group_label>Fixed dose combination FTC/RPV/TDF for 48 or 96 weeks</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Step 1 From entry through week 12 the participants will receive no study treatment. From week 12 through week 60, the participants will receive one FTC/RPV/TDF (200mg/25mg/300mg) tablet orally once daily with a meal.
+Step 2 (Optional) From week 60 through Week 108, the participants will either receive one FTC/RPV/TDF (200mg/25mg/300mg)table orally once daily with a meal or no study treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Emtricitabine/rilpivirine/tenofovir disoproxil fumarate</intervention_name>
+    <arm_group_label>Fixed dose combination FTC/RPV/TDF for 48 or 96 weeks</arm_group_label>
+    <other_name>FTC/RPV/TDF</other_name>
+    <other_name>Complera</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Step 1
+
+          -  HIV-1 infection
+
+          -  ART-naïve defined as ≤7 days of ARV treatment at any time prior to entry
+             Documentation of HIV-1 RNA &lt;500 copies/mL verified by at least two measurements prior
+             to the screening RNA specimen
+
+          -  Screening HIV-1 RNA &lt;500 copies/mL using an US FDA-approved assay obtained within 60
+             days prior to study entry by any laboratory that has a CLIA certification or its
+             equivalent
+
+          -  Laboratory values obtained within 60 days prior to entry by any laboratory that has a
+             CLIA certification or its equivalent:
+
+               -  Absolute neutrophil count (ANC) &gt;=500/mm3
+
+               -  Hemoglobin &gt;=8.0 g/dL
+
+               -  Platelet count &gt;=40,000/mm3
+
+               -  Aspartate aminotransferase (AST) (SGOT), alanine aminotransferase (ALT) (SGPT),
+                  and alkaline phosphatase &lt;=5 X Upper Limit of Normal (ULN)
+
+               -  Total bilirubin &lt;=2.5 X ULN
+
+               -  Calculated creatinine clearance (CrCl) &gt;=60 mL/min
+
+          -  For females of reproductive potential, negative serum or urine pregnancy test within
+             48 hours prior to study entry by any laboratory that has a CLIA certification or its
+             equivalent. Female subjects of reproductive potential, who are participating in
+             sexual activity that could lead to pregnancy, must agree to use at least one reliable
+             form of contraceptive (ie, condoms (male or female) with or without a spermicidal
+             agent; a diaphragm or cervical cap with spermicide; an IUD; or hormone-based
+             contraceptive) while receiving the protocol-specified treatment and for 6 weeks after
+             stopping the medications.
+
+          -  No evidence of any exclusionary resistance mutations based on results from any
+             genotype assay from any laboratory that has a CLIA certification or its equivalent
+
+        Step 2
+
+          -  Completion of Step 1.
+
+          -  Ability and willingness of subject to choose to receive either open-label ART FDC
+             (FTC/RPV/TDF) or no study treatment for an additional 48 weeks.
+
+          -  For females of reproductive potential, negative serum or urine pregnancy test within
+             48 hours prior to the week 60 visit by any laboratory that has a CLIA certification
+             or its equivalent.
+
+        Exclusion Criteria:
+
+        Step 1
+
+          -  Chronic hepatitis B virus (HBV) infection (documented by hepatitis B surface antigen
+             (HBsAg) seropositivity)
+
+          -  Breastfeeding
+
+          -  Use of immunomodulators (eg, interleukins, interferons, cyclosporine), topical
+             imiquimod, HIV vaccine, systemic cytotoxic chemotherapy, or investigational therapy
+             within 30 days prior to study entry or plans to start immunomodulators, topical
+             imiquimod, HIV vaccine, systemic cytotoxic chemotherapy, or investigational therapy
+             during the study
+
+          -  Known allergy/sensitivity or any hypersensitivity to components of study drug(s) or
+             their formulation
+
+          -  Active drug or alcohol use or dependence that, in the opinion of the site
+             investigator, would interfere with adherence to study requirements
+
+          -  Acute or serious illness requiring systemic treatment and/or hospitalization within
+             30 days prior to entry
+
+          -  Symptomatic HIV disease and/or AIDS-defining illness.
+
+          -  Vaccinations within 7 days prior to study entry
+
+          -  Plans to initiate hepatitis C treatment during the study
+
+          -  Perinatally-acquired HIV
+
+          -  Use of any of the following medications within 7 days prior to study entry:
+
+               -  St. John's wort (Hypercium perforatum)
+
+               -  Anticonvulsants (eg, oxacarbazepine, phenobarbital, phenytoin)
+
+               -  Anti-infectives (eg, rifabutin, rifampin, rifapentine)
+
+               -  Corticosteroids (eg, dexamethasone (more than 1 dose))
+
+               -  Proton pump inhibitors (eg, esomeprazole, lansoprazole, omeprazole,
+                  pantoprazole, rabeprazole)
+
+        Step 2
+
+          -  Plans to start immunomodulators, topical imiquimod, HIV vaccine, systemic cytotoxic
+             chemotherapy, or investigational therapy during Step 2 of the study.
+
+          -  Plans to initiate hepatitis C treatment during Step 2 of the study. NOTE: Please
+             refer to the protocol for detailed eligibility criteria.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Alabama Therapeutics CRS (5801)</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA CARE Center CRS (601)</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90035</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ucsd, Avrc Crs (701)</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>801 University of California, San Francisco HIV/AIDS CRS</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Hospital CRS (6101)</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Georgetown University CRS (GU CRS) (1008)</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Ponce de Leon Ctr. CRS (5802)</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University CRS (2701)</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>IHV Baltimore Treatment CRS (4651)</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Medical Center ACTG CRS (103)</name>
+      <address>
+        <city>Boston</city>
+        <state>Maryland</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital ACTG CRS (101)</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hosp. ACTG CRS (107)</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bmc Actg Crs (104)</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University CRS (2101)</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bronx-Lebanon Hosp. Ctr. CRS (31469)</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10457</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>HIV Prevention &amp; Treatment CRS (30329)</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AIDS Community Health Ctr. ACTG CRS (1108)</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14604</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Rochester ACTG CRS (1101)</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Unc Aids Crs (3201)</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27516</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Moses H. Cone Memorial Hospital CRS (3203)</name>
+      <address>
+        <city>Greensboro</city>
+        <state>North Carolina</state>
+        <zip>27401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regional Center for Infectious Disease, Wendover Medical Center CRS (3203)</name>
+      <address>
+        <city>Greensboro</city>
+        <state>North Carolina</state>
+        <zip>27401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Cincinnati CRS (2401)</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45267</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Case CRS (2501)</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Metro Health CRS (2503)</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Ohio State Univ. AIDS CRS (2301)</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. of the Univ. of Pennsylvania CRS (6201)</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pitt CRS (1001)</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Miriam Hosp. ACTG CRS (2951)</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02906</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Houston AIDS Research Team CRS (31473)</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington AIDS CRS (1401)</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2016</verification_date>
+  <lastchanged_date>December 15, 2016</lastchanged_date>
+  <firstreceived_date>January 10, 2013</firstreceived_date>
+  <firstreceived_results_disposition_date>November 14, 2016</firstreceived_results_disposition_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Tenofovir</mesh_term>
+    <mesh_term>Emtricitabine</mesh_term>
+    <mesh_term>Rilpivirine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted, but a results disposition has been submitted -->
+</clinical_study>

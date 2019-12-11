@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="15801">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02901184</url>
+  </required_header>
+  <id_info>
+    <org_study_id>U-2015-030</org_study_id>
+    <nct_id>NCT02901184</nct_id>
+  </id_info>
+  <brief_title>Spironolactone Initiation Registry Randomized Interventional Trial in Heart Failure With Preserved Ejection Fraction</brief_title>
+  <acronym>SPIRRIT</acronym>
+  <official_title>Spironolactone Initiation Registry Randomized Interventional Trial in Heart Failure With Preserved Ejection Fraction, SPIRRIT-HFPEF</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Uppsala University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Karolinska University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Uppsala University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Heart failure with preserved ejection fraction (HFPEF) is common and deadly but without
+      therapy. Inconclusive studies such as TOPCAT (Treatment of Preserved Cardiac Function Heart
+      Failure With an Aldosterone Antagonist) suggest spironolactone may be effective in HFPEF,
+      but it is generic and will not be studied by industry.
+
+      SPIRRIT is a unique Registry-Randomized Clinical Trial (RRCT) that will test the hypothesis
+      that spironolactone reduces all-cause mortality in HFPEF and is summarized by PICO (Patient
+      Intervention Comparison Outcome) as follows: Population: HFPEF patients in the Swedish Heart
+      Failure Registry. HFPEF defined as symptoms/signs of HF, elevated NTproBNP (B-type
+      Natriuretic Peptide; N-terminal pro b-type Natriuretic Peptide) and EF&gt;=40%. Intervention
+      and control: Randomized 1:1 to intervention: spironolactone + usual care vs. control: usual
+      care alone.
+
+      Outcome: Primary outcome all-cause mortality. Secondary outcomes include hospitalization for
+      various causes, adverse events and treatment adherence. Outcomes are obtained automatically
+      by linking with the Population, Patient and Drug Dispensed Registries. The trial is
+      event-driven with enrollment 3 years and study duration 5 years. Based on actual patients
+      meeting eligibility 2008-2010, the control death rate is 0.141 / year. Based on TOPCAT and
+      accounting for dropouts, the investigators conservatively assume hazard ratio 0.85, or a
+      clinically meaningful 15% reduction in death, yielding a required number of events of 1208
+      and a sample size of 3335, conservatively rounded to 3500. A detailed feasibility assessment
+      shows that there will be &gt; 8197 eligible patients to meet the required enrollment of 3500.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2017</start_date>
+  <completion_date type="Anticipated">June 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to death from any cause</measure>
+    <time_frame>Collected at data base lock, five (5) years after study start</time_frame>
+    <description>Information on Death from the Swedish Causes of death registry</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to first hospitalization for heart failure</measure>
+    <time_frame>Collected at data base lock, five (5) years after study start</time_frame>
+    <description>Information on hospitalization from the Swedish Patient registry</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">3500</enrollment>
+  <condition>Heart Failure With Preserved Ejection Fraction</condition>
+  <arm_group>
+    <arm_group_label>Spironolactone treatment</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Spironolactone will be prescribed by the Investigator and filled by patient at conventional pharmacies as 25 mg tablets. The treatment will be on top of usual care. Initial dose is 25 mg/day until study end.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard care alone</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients in the control arm will get the usual care alone</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Spironolactone</intervention_name>
+    <description>Treatment with Spironolactone tablets on top of standard care</description>
+    <arm_group_label>Spironolactone treatment</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard care</intervention_name>
+    <description>Standard care does not involve Spironolactone</description>
+    <arm_group_label>Standard care alone</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Written informed consent
+
+          -  Age ≥50 years
+
+          -  Stable heart failure defined by symptoms and signs of heart failure as judged by
+             local Investigator
+
+          -  Left ventricular ejection fraction (LVEF) ≥40% recorded in last 12 months (stratified
+             to max 2/3rd in either 40-49% or ≥50% group)
+
+          -  NT-proBNP (the N-terminal prohormone of brain natriuretic peptide) &gt;300 ng/L in sinus
+             rhythm or &gt;750 ng/L in atrial fibrillation as an outpatient or prior to hospital
+             discharge
+
+        Exclusion Criteria:
+
+        Previously enrolled in this study
+
+          -  Known Ejection Fraction &lt; 40% ever
+
+          -  Current absolute indication or contraindication for MRA (mineral receptor antagonist)
+             in judgement of Investigator
+
+          -  Any condition other than heart failure with a life expectancy &lt; 3 years
+
+          -  Known chronic liver disease
+
+          -  Probable alternative explanations for symptoms:
+
+               -  Known primary cardiomyopathy (hypertrophic, constrictive, restrictive,
+                  infiltrative, congenital)
+
+               -  Primary hemodynamically significant valve disease
+
+               -  Right-sided HF not due to left-sided HF
+
+               -  Significant chronic pulmonary disease defined by Investigator or by requirement
+                  for home O2 or oral steroids,
+
+               -  Hemoglobin &lt; 10 g/dL (100 g/L )
+
+               -  BMI (body mass index) &gt; 40
+
+               -  Heart rate &gt; 105 bpm
+
+               -  Any other condition judged by Investigator to be responsible for symptoms and/or
+                  signs
+
+          -  Heart transplant or LVAD (left ventricular assist device) recipient
+
+          -  Systolic blood pressure &lt;90 or &gt;160
+
+          -  K (potassium) &gt;5.0 mmol/L
+
+          -  eGFR (estimated glomerular filtration rate) by MDRD (Modification of Diet in Renal
+             Disease) &lt; 30 ml/min/1.73m2 or creatinine &gt; 2.5 mg/dL (221 µmol/L )
+
+          -  Current lithium use
+
+          -  Actual or potential for pregnancy
+
+          -  Participation in another clinical trial where treatment for HF is studied
+
+          -  Any condition that in the opinion of the Investigator may interfere with adherence to
+             trial protocol
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lars H Lund, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Karolinska Institutet</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Inger Ekman, MSc</last_name>
+    <phone>+46768863989</phone>
+    <email>inger.ekman@ucr.uu.se</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Karolinska University Hospital</name>
+      <address>
+        <city>Solna</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Lars H Lund</last_name>
+    </contact>
+    <investigator>
+      <last_name>Lars H Lund</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 28, 2017</lastchanged_date>
+  <firstreceived_date>September 9, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Heart Failure</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Spironolactone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

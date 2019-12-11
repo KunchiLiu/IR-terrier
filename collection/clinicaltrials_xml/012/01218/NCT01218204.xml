@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="144603">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01218204</url>
+  </required_header>
+  <id_info>
+    <org_study_id>113779</org_study_id>
+    <nct_id>NCT01218204</nct_id>
+  </id_info>
+  <brief_title>A Study to Investigate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of Administering Multiple Oral Doses of GSK1292263 Alone and With Atorvastatin</brief_title>
+  <official_title>A Study to Investigate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of Administering Multiple Oral Doses of GSK1292263 Alone and With Atorvastatin</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GlaxoSmithKline</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study investigates the safety, pharmacokinetics and effects of GSK1292263 when taken
+      alone or when co-dosed with atorvastatin to subjects with dyslipidemia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This compound has been studied in healthy subjects and subjects with type II diabetes and is
+      now being studied in subjects with dyslipidemia. Because many patients with dyslipidemia are
+      on statins, it is important to study how GSK1292263 behaves when taken with a potent statin,
+      atorvastatin. The cholesterol lowering drug, ezetimibe, is included for comparison.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 2010</start_date>
+  <completion_date type="Actual">June 2011</completion_date>
+  <primary_completion_date type="Actual">June 2011</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical safety and tolerability data including spontaneous Adverse Event reporting, ECGs, vital signs, nursing/physician observation and clinical lab values.</measure>
+    <time_frame>For up to 12 weeks.</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacodynamic endpoints will include measures of lipid metabolism, as data permit.</measure>
+    <time_frame>From first dose through 24-hours post-dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic parameters of atorvastatin metabolites following once-a-day dosing: Cmax, tmax, AUC(0-24), and trough concentrations for single dose and repeat doses, as data permit.</measure>
+    <time_frame>From first dose through 24-hours post-dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic parameters of GSK1292263 following once-a-day dosing: Cmax, tmax, t½ (Day 14), tlag (Day 1), AUC(0-24), and trough concentrations, for single dose and repeat doses, as data permit.</measure>
+    <time_frame>Day 1 (0-24 hours) to Day 14 (0-48 hours)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic parameters of atorvastatin following once-a-day dosing: Cmax, tmax, AUC(0-24), and trough concentrations for single dose and repeat doses, as data permit.</measure>
+    <time_frame>Day 1 (0-24 hours) to Day 14 (0-48 hours)</time_frame>
+  </secondary_outcome>
+  <number_of_arms>16</number_of_arms>
+  <enrollment type="Actual">171</enrollment>
+  <condition>Dyslipidaemias</condition>
+  <arm_group>
+    <arm_group_label>Part A Run-in</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Subjects on stable 40mg atorvastatin &gt; 4 weeks may raise their dose to 80mg for 2 weeks in order to qualify for Part A.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part A Co-Dosing 800mg GSK1292263</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dosing for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B Washout</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Washout for 4 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B Run-in 10mg atorvastatin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Dosing for 4 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B Run-in 80mg atorvastatin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Dosing for 4 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B Co-Dosing 10mg atorvastatin + 100mg GSK1292263</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dosing for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B Co-Dosing 10mg atorvastatin + 300mg GSK1292263</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dosing for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B Co-Dosing 10mg atorvastatin + 800mg GSK1292263</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dosing for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B Co-Dosing 10mg atorvastatin + 10mg ezetimibe</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dosing for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B Dosing 100mg GSK1292263</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dosing for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B Dosing 300mg GSK1292263</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dosing for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B Dosing 800mg GSK1292263</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dosing for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B Dosing Placebo GSK1292263</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dosing for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B Co-Dosing 80mg atorvastatin + 800mg GSK1292263</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dosing for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B Co-dosing 80mg atorvastatin + Placebo (GSK1292263)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dosing for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B Co-Dosing 10mg atorvastatin + Placebo (GSK1292263)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dosing for 14 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>10mg atorvastatin</intervention_name>
+    <description>10mg</description>
+    <arm_group_label>Part B Co-Dosing 10mg atorvastatin + 100mg GSK1292263</arm_group_label>
+    <arm_group_label>Part B Co-Dosing 10mg atorvastatin + 10mg ezetimibe</arm_group_label>
+    <arm_group_label>Part B Co-Dosing 10mg atorvastatin + 800mg GSK1292263</arm_group_label>
+    <arm_group_label>Part B Run-in 10mg atorvastatin</arm_group_label>
+    <arm_group_label>Part B Co-Dosing 10mg atorvastatin + Placebo (GSK1292263)</arm_group_label>
+    <other_name>Lipitor</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>80mg atorvastatin</intervention_name>
+    <description>80mg</description>
+    <arm_group_label>Part A Run-in</arm_group_label>
+    <arm_group_label>Part B Co-Dosing 80mg atorvastatin + 800mg GSK1292263</arm_group_label>
+    <arm_group_label>Part B Run-in 80mg atorvastatin</arm_group_label>
+    <other_name>Lipitor</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GSK1292263 Placebo</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>Part B Dosing Placebo GSK1292263</arm_group_label>
+    <arm_group_label>Part B Co-dosing 80mg atorvastatin + Placebo (GSK1292263)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>100mg GSK1292263</intervention_name>
+    <description>100mg</description>
+    <arm_group_label>Part B Dosing 100mg GSK1292263</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>300mg GSK1292263</intervention_name>
+    <description>300mg</description>
+    <arm_group_label>Part B Co-Dosing 10mg atorvastatin + 300mg GSK1292263</arm_group_label>
+    <arm_group_label>Part B Dosing 300mg GSK1292263</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>800mg GSK1292263</intervention_name>
+    <description>800mg</description>
+    <arm_group_label>Part B Co-Dosing 10mg atorvastatin + 800mg GSK1292263</arm_group_label>
+    <arm_group_label>Part B Dosing 800mg GSK1292263</arm_group_label>
+    <arm_group_label>Part A Co-Dosing 800mg GSK1292263</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>10mg ezetimibe</intervention_name>
+    <description>10mg</description>
+    <arm_group_label>Part B Co-Dosing 10mg atorvastatin + 10mg ezetimibe</arm_group_label>
+    <other_name>Zetia</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Washout</intervention_name>
+    <description>No interventions - washout period</description>
+    <arm_group_label>Part B Washout</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Healthy adult males and females of non-child-bearing-potential, aged 18-75 years who
+             is capable of giving informed consent.
+
+          -  A female subject is eligible to participate if she is of:
+
+               -  Non-childbearing potential defined as pre-menopausal females with a documented
+                  tubal ligation or hysterectomy; or postmenopausal defined as 12 months of
+                  spontaneous amenorrhea. In questionable cases, a blood sample with simultaneous
+                  follicle stimulating hormone (FSH) &gt; 40 MlU/ml and estradiol &lt;40 pg/ml (&lt;140
+                  pmol/L) is confirmatory in the absence of a clear post-menopausal history.
+
+               -  Females on hormone replacement therapy (HRT) must discontinue HRT to allow
+                  confirmation of post-menopausal status prior to study enrollment. For most forms
+                  of HRT, at least 2-4 weeks will elapse between the cessation of therapy and the
+                  blood draw; this interval depends on the type and dosage of HRT. Following
+                  confirmation of their post-menopausal status, they can resume use of HRT during
+                  the study.
+
+          -  Male subjects must agree to use one of the contraception methods listed in the
+             protocol. This criterion must be followed from the time of the first dose of study
+             medication until seven days following the last dose.
+
+          -  Body weight &gt; 50 kg (110 pounds) and body mass index (BMI) between 19.0 and 39.0
+             (inclusive).
+
+          -  Part A: (i) Subjects who are on 80mg or 40mg atorvastatin for &gt;= 4 weeks and are
+             tolerating the drug well, or (ii) Subjects not on lipid-modifying therapy who have a
+             fasting low density lipoprotein cholesterol (LDLc) &gt;= 130mg/dL.
+
+          -  In Part B at Screening: Subjects who are on statins or Vytorin treatment for &gt;= 4
+             weeks.
+
+          -  Part B at the end of the 4 week washout: Subjects who have a fasting LDL cholesterol
+             of &gt;=120mg/dL and &lt;=180mg/dL and fasting triglycerides of &gt;=100mg/dL and &lt;=400mg/dL.
+
+          -  Part B at the end of the 4 week run-in on atorvastatin: Subjects who are tolerating
+             well atorvastatin 10mg or 80mg (as determined by the Investigator).
+
+          -  Part B: Subjects must be willing to discontinue statins or Vytorin for the duration
+             of the study.
+
+          -  Liver enzymes, AST and ALT &lt; 2x upper limit of normal (ULN); alkaline phosphatase and
+             bilirubin =&lt; 1.5xULN (isolated bilirubin &gt;1.5xULN is acceptable if bilirubin is
+             fractionated and direct bilirubin &lt;35%). Subjects with Gilbert's syndrome are allowed
+             to participate in the study.
+
+          -  Average QTcB or QTcF &lt; 450msec; or QTc &lt; 480msec in subjects with right bundle branch
+             block.
+
+        Exclusion Criteria:
+
+          -  A medical history of the following:
+
+               -  Clinical or angiographic cardiovascular disease, including history or current
+                  evidence of coronary heart disease, heart failure, cerebrovascular disease
+                  (including stroke and transient ischemic attack [mini-stroke]), peripheral
+                  vascular disease. Subjects pending diagnostic procedures for any of those
+                  conditions at the time of screening will not be eligible for participation.
+
+               -  Homozygous familial hypercholesterolemia or family history of familial
+                  hypercholesterolemia (Part B only). Note: Subjects with heterozygous familial
+                  hypercholesterolemia on 80mg atorvastatin who are tolerating this drug well and
+                  fulfill the other eligibility criteria may participate in Part A only.
+
+               -  History of recurrent or unexplained muscle aches (e.g., fibromyalgia), myopathy
+                  or myositis, whether or not it is related to treatment with statins or other
+                  lipid modifying drugs.
+
+               -  Renal impairment as defined by a calculated glomerular filtration rate &lt; 60
+                  mL/min
+
+               -  History of diabetes mellitus, or history of post-prandial and/or random blood
+                  glucose &gt; 200 mg/dl or fasting glucose &gt; 125 mg/dL or currently taking diabetes
+                  medications to manage fasting glucose levels (e.g., thiazolidinediones,
+                  sulfonylureas, insulin, metformin).
+
+               -  History of pancreatitis within 10 years of screening.
+
+               -  Any concurrent serious illness (e.g., severe chronic obstructive pulmonary
+                  disease, sleep apnea, history of malignancy other than skin cancer within 5
+                  years of initial diagnosis or with evidence of recurrence) that may interfere
+                  with a subject from completing the study.
+
+               -  Current or chronic history of liver disease, or known hepatic or biliary
+                  abnormalities.
+
+               -  Active peptic ulcer disease and/or history of peptic ulcer disease or
+                  gastrointestinal bleeding within 12 months prior to screening.
+
+               -  History of kidney stones within 10 years of screening.
+
+               -  History of uncorrected thyroid dysfunction or an abnormal thyroid function test
+                  assessed by thyroid stimulating hormone (TSH) at Screening. (NOTE: subjects with
+                  hypothyroidism on a stable dose of thyroid replacement therapy for at least 3
+                  months prior to screening and who have a screening TSH within the normal range
+                  may participate.)
+
+               -  Symptomatic cholelithiasis or obstructive or inflammatory gallbladder disease
+                  within 3 months prior to screening.
+
+               -  Gastrointestinal disease that could affect fat or bile acid absorption, or the
+                  pharmacokinetics or pharmacodynamics of the study drugs, including inflammatory
+                  bowel disease, chronic diarrhea, Crohn's disease or malabsorption syndromes
+                  within the past year.
+
+               -  Gastrointestinal surgery that may affect the pharmacokinetics or
+                  pharmacodynamics of the study drugs.
+
+        Note: Subjects may be enrolled in the study if they have had a cholecystectomy three or
+        more months before the time of screening and are stable and asymptomatic.
+
+          -  Subjects taking ezetimibe monotherapy, fibrates, bile acid binding resins, nicotinic
+             acid or fat absorption inhibitors are not eligible for Parts A and B.
+
+          -  For females a hemoglobin &lt; 11.5g/dL, and for males a hemoglobin &lt; 12.5g/dL.
+
+          -  Current inadequately controlled hypertension (blood pressure &gt;= 160mmHg systolic or
+             &gt;= 100mmHg diastolic at screening). If blood pressure medication is changed as a
+             result of screening, blood pressure will be re-measured after 6 weeks and must again
+             meet these criteria.
+
+          -  Significant electrocardiogram (ECG) abnormalities, defined as follows:
+
+        Heart Rate &lt; 50 and &gt;100bpm PR Interval &lt;120 and &gt; 220ms QRS duration &lt; 70 and &gt;120ms QTC
+        Interval (Bazett) &gt; 450ms Or, has clinically significant rhythm abnormalities identified
+        during 24-hour screening Holter assessment. Subjects with left bundle branch block are
+        excluded from the study. Subjects with partial right bundle branch block may be considered
+        for inclusion following consultation with the GlaxoSmithKline (GSK) Medical Monitor.
+        Subjects with Wolf-Parkinson-White (WPW) syndrome are excluded from the study.
+
+          -  Creatinine phosphokinase (CPK) &gt;= 2x ULN at screening.
+
+          -  A positive pre-study Hepatitis B surface antigen or positive Hepatitis C antibody
+             result within 3 months of screening.
+
+          -  A positive test for HIV antibody.
+
+          -  The subject has a positive pre-study drug-of-abuse screen. A minimum list of drugs
+             that will be screened for include amphetamines, barbiturates, cocaine, opiates,
+             cannabinoids and benzodiazepines.
+
+          -  History of regular alcohol consumption within 6 months of the study defined as: An
+             average weekly intake of &gt;14 drinks/week for men or &gt;7 drinks/week for women. One
+             drink is equivalent to (12 g alcohol) = 5 ounces (150 ml) of wine or 12 ounces (360
+             ml) of beer or 1.5 ounces (45 ml) of 80 proof distilled spirits.
+
+          -  Subjects will be excluded if they require treatment with systemic corticosteroids.
+
+          -  Treatment with an investigational drug within 30 days or 5 half-lives (whichever is
+             longer) prior to dosing.
+
+          -  Exposure to more than four new chemical entities within 12 months prior to the first
+             dosing day.
+
+          -  History of sensitivity or untoward reaction to the study medications (GSK1292263,
+             atorvastatin or ezetimibe), or components thereof or a history of drug or other
+             allergy that, in the opinion of the physician responsible, contraindicates their
+             participation.
+
+          -  History of intolerance to statins.
+
+          -  Any change in concomitant medication (including multivitamins, herbal remedies,
+             dietary supplements, and over-the-counter medication) within six weeks prior to
+             screening that is not approved by GSK.
+
+          -  On a diet that may affect study outcomes, or any change in diet, exercise habits or
+             smoking status within six weeks prior to screening or planned change during study
+             (e.g., new exercise program) other than that in the dietary instructions in the Study
+             Procedures Manual.
+
+          -  Use of prescription or non-prescription drugs, including vitamins, herbal and dietary
+             supplements (including St John's Wort) within 7 days (or 14 days if the drug is a
+             potential enzyme inducer) or 5 half-lives (whichever is longer) prior to the first
+             dose of study medication, unless in the opinion of the Investigator and GSK Medical
+             Monitor the medication will not interfere with the study procedures or compromise
+             subject safety.
+
+          -  Where participation in study would result in donation of blood in excess of
+             approximately 500mL within a 56 day period.
+
+          -  Subject is mentally or legally incapacitated.
+
+          -  Unwillingness or inability to follow the procedures outlined in the protocol.
+
+          -  Pregnant females as determined by positive urine hCG test at screening or prior to
+             dosing.
+
+          -  Lactating females.
+
+          -  History of sensitivity to heparin or heparin-induced thrombocytopenia.
+
+          -  Consumption of red wine, Seville oranges, grapefruit or grapefruit juice and/or
+             pummelos, exotic citrus fruits, grapefruit hybrids or fruit juices from 7 days prior
+             to the first dose of study medication.
+
+          -  Unwilling to abstain from caffeine-or xanthine-containing products from Day -2 until
+             Day 15.
+
+          -  Subject is either an immediate family member of a participating investigator, study
+             coordinator, employee of an investigator; or is a member of the staff conducting the
+             study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>GSK Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>GlaxoSmithKline</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Anniston</city>
+        <state>Alabama</state>
+        <zip>36207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Chula Vista</city>
+        <state>California</state>
+        <zip>91910</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Stockton</city>
+        <state>California</state>
+        <zip>95204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33169</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33183</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Port Orange</city>
+        <state>Florida</state>
+        <zip>32127</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>St. Petersburg</city>
+        <state>Florida</state>
+        <zip>33709</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Addison</city>
+        <state>Illinois</state>
+        <zip>60101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60610</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kalamazoo</city>
+        <state>Michigan</state>
+        <zip>49007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55430</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Berlin</city>
+        <state>New Jersey</state>
+        <zip>08009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Eugene</city>
+        <state>Oregon</state>
+        <zip>97404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Spartanburg</city>
+        <state>South Carolina</state>
+        <zip>29303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Renton</city>
+        <state>Washington</state>
+        <zip>98057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2013</verification_date>
+  <lastchanged_date>April 27, 2015</lastchanged_date>
+  <firstreceived_date>September 23, 2010</firstreceived_date>
+  <firstreceived_results_disposition_date>April 27, 2015</firstreceived_results_disposition_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Dyslipidemia</keyword>
+  <keyword>Tolerability</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Ezetimibe</keyword>
+  <keyword>Pharmacokinetics</keyword>
+  <keyword>Lipids</keyword>
+  <keyword>Statin</keyword>
+  <keyword>Atorvastatin</keyword>
+  <keyword>Pharmacodynamics</keyword>
+  <keyword>GSK1292263</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Dyslipidemias</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Atorvastatin Calcium</mesh_term>
+    <mesh_term>Ezetimibe</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted, but a results disposition has been submitted -->
+</clinical_study>

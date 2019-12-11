@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="184326">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00694473</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2007P-002178</org_study_id>
+    <nct_id>NCT00694473</nct_id>
+  </id_info>
+  <brief_title>Continuous Glucose Monitoring With a Subcutaneous Sensor During Critical Illness and Surgery</brief_title>
+  <official_title>Continuous Glucose Monitoring With a Subcutaneous Sensor During Critical Illness and Surgery</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Abbott Diabetes Care</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      We hypothesize that measurements of interstitial fluid (ISF) glucose by the FreeStyle
+      Navigator (Abbot Diabetes Care), a continuous glucose monitoring system, will correlate with
+      blood glucose (BG) values in surgical and ICU patients with a clinically useful degree of
+      accuracy.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Critically ill patients treated with intensive insulin therapy will be monitored for up to
+      72 hours with the Freestyle Navigator continuous glucose monitor. The device display will be
+      disabled so that continuous glucose monitoring results will not be available to care givers,
+      although low (&lt;60 mg/dL) and high (&gt;250 mg/dL) threshold audio alarms will be enabled. Blood
+      glucose monitoring will be performed according to the usual practice for patients treated
+      with intensive insulin therapy in each intensive care unit, except that additional blood
+      glucose measurements will be performed in response to Freestyle Navigator threshold alarm.
+      All blood glucose management decisions will be made according to intensive insulin therapy
+      protocol in each unit. Freestyle Navigator data will be downloaded from the device after
+      each subject has completed the monitoring period. Blood glucose values obtained in the
+      course of usual care, or in response to Freestyle Navigator threshold alarms, will be
+      compared with time-matched Freestyle Navigator values to assess device accuracy and alarm
+      sensitivity and specificity.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>June 2008</start_date>
+  <completion_date type="Anticipated">December 2017</completion_date>
+  <primary_completion_date type="Actual">December 2010</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Sensitivity and specificity of Navigator threshold alarms for hypoglycemia (&lt;60 mg/dl).</measure>
+    <time_frame>72 hours</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Sensitivity and specificity of Navigator threshold alarms for hyperglycemia (&gt;250 mg/dl).</measure>
+    <time_frame>72 hours</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Point-by-point accuracy of the Navigator vs. reference BG</measure>
+    <time_frame>72 hours</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sensitivity and specificity of Navigator projected low blood sugar alarm criteria calculated for events defined by a low reference BG value (&lt; 60 mg/dL)</measure>
+    <time_frame>72 hours</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sensitivity and specificity of Navigator projected high blood sugar alarm criteria calculated for events defined by a high reference BG value (&gt; 250 mg/dl)</measure>
+    <time_frame>72 hours</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Multivariate analysis seeking correlation between accuracy of the Navigator and vasopressor use, abnormal body temperature, peripheral or dependent edema, and severity of illness</measure>
+    <time_frame>72 hours</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number and duration of excursions outside of the ICU target range reported by Navigator for at least 15 consecutive minutes and not detected by BG testing</measure>
+    <time_frame>72 hours</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">65</enrollment>
+  <condition>Critical Illness</condition>
+  <arm_group>
+    <arm_group_label>Freestyle Navigator</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Continuous monitoring with the Freestyle Navigator for 72 hours or until discharge from the ICU</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Freestyle Navigator</intervention_name>
+    <description>Continuous glucose monitoring with the Freestyle Navigator for 72 hours or until discharge from the ICU</description>
+    <arm_group_label>Freestyle Navigator</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients admitted to the general surgical ICU (SICU), medical ICU (MICU), cardiac
+             surgery intensive care unit (CSICU), or neurological intensive care unit (NeuroICU),
+             are being treated with IIT, and have an arterial line in place
+
+          -  Patients scheduled for open cardiac surgery or craniotomy that have diabetes mellitus
+             or will be given high dose glucocorticoids. All of these patient will have an
+             arterial line placed at the time of surgery as a part of their usual care
+
+        Exclusion Criteria:
+
+          -  Age less than 18 years
+
+          -  Enrollment in another clinical trial that modifies their glucose management (e.g.
+             trial of modified IIT algorithm or modified glucose monitoring regimen)
+
+        In order to obtain adequate representation of patients with physiological alterations that
+        might decrease correspondence between blood and ISF glucose, we will recruit 50 subjects
+        in each of five groups:
+
+          1. Patients undergoing craniotomy who are either diabetic or will be given high dose
+             corticosteroids
+
+          2. Diabetic patients undergoing open cardiac surgery
+
+          3. Patients admitted to one of the participating ICUs with an arterial line in place and
+             receiving IIT who are vasopressor dependent, defined by continuous infusion of at
+             least 60 mg/min phenylephrine, 5 mg/min norepinephrine, or 10 mg/kg/min of dopamine,
+             or any combination of two agents for at least 90 continuous minutes in the last 8
+             hours
+
+          4. Patients admitted to one of the participating ICUs with an arterial line in place and
+             receiving IIT with pitting peripheral or dependent edema, defined by the persistence
+             of pitting to at least 5 mm depth for 5 seconds after pressure is applied to a
+             dependent area of the trunk or two limbs.
+
+          5. Critically ill patients admitted to one of the participating ICUs with an arterial
+             line in place and receiving IIT who do not fall into groups 1-4.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Steven J. Russell, M.D., Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Massachusetts General Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2016</verification_date>
+  <lastchanged_date>September 20, 2016</lastchanged_date>
+  <firstreceived_date>June 6, 2008</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>Steven J. Russell, MD, PhD</investigator_full_name>
+    <investigator_title>Assistant in Medicine</investigator_title>
+  </responsible_party>
+  <keyword>hyperglycemia</keyword>
+  <keyword>hypoglycemia</keyword>
+  <keyword>insulin</keyword>
+  <keyword>critical illness</keyword>
+  <keyword>intensive insulin therapy</keyword>
+  <keyword>continuous glucose monitoring</keyword>
+  <keyword>CGM</keyword>
+  <keyword>interstitial fluid glucose</keyword>
+  <keyword>intensive care unit</keyword>
+  <keyword>Blood glucose</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Critical Illness</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

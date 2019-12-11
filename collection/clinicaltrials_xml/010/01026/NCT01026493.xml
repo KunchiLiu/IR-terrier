@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="159186">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01026493</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RTOG-0929</org_study_id>
+    <secondary_id>CDR0000660545</secondary_id>
+    <nct_id>NCT01026493</nct_id>
+  </id_info>
+  <brief_title>Veliparib and Temozolomide in Treating Patients With Recurrent Glioblastoma</brief_title>
+  <official_title>A Randomized Phase I/II Study of ABT-888 in Combination With Temozolomide in Recurrent (Temozolomide Resistant) Glioblastoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Radiation Therapy Oncology Group</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>NRG Oncology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Radiation Therapy Oncology Group</source>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Veliparib may stop the growth of tumor cells by blocking some of the enzymes
+      needed for cell growth. Drugs used in chemotherapy, such as temozolomide. work in different
+      ways to stop the growth of tumor cells, either by killing the cells or by stopping them from
+      dividing. Giving veliparib together with temozolomide may kill more tumor cells.
+
+      PURPOSE: This randomized phase I/II trial is studying the side effects and best dose of
+      giving veliparib together with temozolomide and to see how well it works in treating
+      patients with recurrent glioblastoma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:
+
+      Primary
+
+        -  To define the maximum-tolerated dose of the combination of temozolomide and veliparib
+           in patients with recurrent glioblastoma previously or not treated with temozolomide.
+           (Phase I*)
+
+        -  To determine the efficacy of the combination of temozolomide and veliparib (using a
+           5-day vs 21-day schedule) as measured by the 6-month progression-free survival rate in
+           patients with recurrent glioblastoma previously treated with temozolomide. (Phase II*)
+
+      Secondary
+
+        -  To characterize the safety profile of the combination of temozolomide and veliparib.
+           (Phase I*)
+
+        -  To determine the adverse event profile and tolerability of the combination of
+           temozolomide and veliparib (using a 5-day vs 21-day schedule) in patients with
+           recurrent glioblastoma. (Phase II*)
+
+        -  To determine the efficacy of the combination of temozolomide and veliparib (using a
+           5-day vs 21-day schedule) as measured by objective response in patients with measurable
+           disease. (Phase II*)
+
+        -  To determine the overall survival of patients with measurable disease treated with the
+           combination of temozolomide and veliparib (using a 5-day vs 21-day schedule). (Phase
+           II*) NOTE: *Phase I was closed and phase II was opened on 3/6/12.
+
+      OUTLINE: This is a multicenter, phase I* dose-escalation study followed by a phase II*
+      randomized study. Patients enrolled in the phase II portion are stratified according to
+      bevacizumab status (bevacizumab-naive vs bevacizumab-failure), age (&lt; 50 years vs ≥ 50
+      years), Karnofsky performance status (70-80% vs 90-100%), and recent resection (yes vs
+      no/biopsy only).
+
+        -  Phase I:* Patients receive oral temozolomide once daily and oral veliparib twice daily
+           on days 1-21. Courses repeat every 28 days in the absence of disease progression or
+           unacceptable toxicity.
+
+        -  Phase II:* Patients are randomized to 1 of 2 treatment arms.
+
+             -  Arm I: Patients receive temozolomide and veliparib as in phase I.
+
+             -  Arm II: Patients receive oral temozolomide once daily and oral veliparib twice
+                daily on days 1-5. Courses repeat every 28 days in the absence of disease
+                progression or unacceptable toxicity.
+
+      After completion of study treatment, patients are followed up every 12 weeks for 1 year,
+      every 26 weeks for 2 years, and then annually thereafter.
+
+      NOTE: *Phase I was closed and phase II was opened on 3/6/12.
+
+      PROJECTED ACCRUAL: A total of 240 patients (28 for phase I* and 212 for phase II*) will be
+      accrued for this study.
+
+      NOTE: *Phase I was closed and phase II was opened on 3/6/12.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>July 2010</start_date>
+  <primary_completion_date type="Actual">May 2014</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Dose-limiting toxicity (Phase I)</measure>
+    <time_frame>The first 8 weeks.</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6-month progression-free survival rate (Phase II)</measure>
+    <time_frame>From randomization to 6 months.</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Treatment-related toxicity as measured by the NCI CTCAE version 4.0</measure>
+    <time_frame>From start of treatment to end of follow-up. Analysis occurs at the same time as the primary outcome analysis.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response (partial and complete response) rate (Phase II)</measure>
+    <time_frame>From randomization to date of progression, death or last follow-up. Analysis occurs at the same time as the primary outcome analysis.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (Phase II)</measure>
+    <time_frame>From randomization to date of death or last follow-up. Analysis occurs at the same time as the primary outcome analysis.</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">240</enrollment>
+  <condition>Brain and Central Nervous System Tumors</condition>
+  <arm_group>
+    <arm_group_label>Arm I (phase II)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive oral temozolomide once daily and oral veliparib twice daily on days 1-21. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II (phase II)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive oral temozolomide once daily and oral veliparib twice daily on days 1-5. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>temozolomide</intervention_name>
+    <description>Given orally</description>
+    <arm_group_label>Arm I (phase II)</arm_group_label>
+    <arm_group_label>Arm II (phase II)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>veliparib</intervention_name>
+    <description>Given orally</description>
+    <arm_group_label>Arm I (phase II)</arm_group_label>
+    <arm_group_label>Arm II (phase II)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:
+
+          -  Histologically confirmed diagnosis of 1 of the following:
+
+               -  Any intracranial high-grade glioma (phase I*)
+
+               -  Glioblastoma or gliosarcoma (phase II*)
+
+          -  Patients whose original histology was low-grade glioma are eligible provided they
+             were subsequently diagnosed with glioblastoma or gliosarcoma
+
+          -  Unequivocal radiographic evidence for tumor progression by MRI within 14 days prior
+             to registration and with a stable or decreasing dose of steroids at least 5 days
+             prior to scanning OR recent resection (registration within 30 days of resection) as
+             long as all of the following conditions are met:
+
+               -  Patients must have recovered from the effects of surgery
+
+               -  Residual disease following resection of recurrent glioblastoma is not mandated
+                  for eligibility into the study; to best assess the extent of residual disease
+                  post-operatively, a post-operative MRI scan should be performed within 28 days
+                  prior to registration and within 96 hours post surgery (although 24 hours would
+                  be optimum)
+
+               -  Prior radiation is required for the phase I* arm
+
+               -  Patients must have completed a course of radiation therapy and at least 2
+                  consecutive adjuvant cycles of temozolomide (phase II*)
+
+               -  A stable or decreasing dose of steroids at least 5 days prior to scanning is not
+                  mandated for patients who had a recent resection
+
+          -  No evidence of acute (i.e., new and active) intratumoral hemorrhage on MRI
+
+               -  Patients with MRI demonstrating old hemorrhage or subacute blood after a
+                  neurosurgical procedure (biopsy or resection) are eligible NOTE: *Phase I was
+                  closed and phase II was opened on 3/6/12.
+
+        PATIENT CHARACTERISTICS:
+
+          -  Karnofsky performance status 70-100%
+
+          -  WBC ≥ 3,000/mm^3
+
+          -  ANC ≥ 1,500/mm^3
+
+          -  Platelet count ≥ 100,000/mm^3
+
+          -  Hemoglobin ≥ 10.0 g/dL (transfusion or other intervention allowed)
+
+          -  SGOT ≤ 3.0 times upper limit of normal (ULN)
+
+          -  SGPT ≤ 3.0 times ULN
+
+          -  Bilirubin ≤ 1.25 times ULN
+
+          -  Creatinine &lt; 1.7 mg/dL OR estimated GFR ≥ 30 mL/min
+
+          -  Urine protein:creatinine ratio ≤ 0.5 OR urine protein &lt; 1,000 mg by 24-hour urine
+             collection**
+
+          -  Not pregnant or nursing
+
+          -  Negative pregnancy test
+
+          -  Fertile patients must use effective contraception during and for ≥ 6 months after
+             completion of study therapy
+
+          -  Able to undergo brain MRI scans with IV gadolinium
+
+          -  Able to swallow oral medications
+
+          -  Patients with a history of seizure, or new onset of seizures, should be clinically
+             controlled with no seizures for at least 14 days prior to registration
+
+          -  No other prior invasive malignancy (except for nonmelanomatous skin cancer or
+             carcinoma in situ of the cervix) unless the patient has been disease-free and off
+             therapy for that disease for ≥ 3 years
+
+          -  No severe, active comorbidity, including any of the following:
+
+               -  Transmural myocardial infarction or unstable angina within the past 6 months
+
+               -  Evidence of recent myocardial infarction or ischemia as indicated by S-T
+                  elevations of ≥ 2 mm on EKG performed within the past 14 days
+
+               -  NYHA class II-IV congestive heart failure requiring hospitalization within the
+                  past 12 months
+
+               -  Stroke or transient ischemic attack within the past 6 months
+
+               -  Cerebral vascular accident within the past 6 months
+
+               -  Serious and inadequately controlled cardiac arrhythmia
+
+               -  Clinically significant peripheral vascular disease
+
+               -  Evidence of bleeding diathesis or coagulopathy
+
+               -  Serious non-healing would, ulcer, or bone fracture
+
+               -  Abdominal fistula, gastrointestinal (GI) perforation, or intra-abdominal abscess
+                  within the past 28 days
+
+               -  Significant traumatic injury within the past 28 days
+
+               -  Acute bacterial or fungal infection requiring IV antibiotics at the time of
+                  study registration
+
+               -  Chronic obstructive pulmonary disease exacerbation or other respiratory illness
+                  requiring hospitalization or precluding study therapy within the past 14 days
+
+               -  AIDS based upon current CDC definition (HIV testing is not required)
+
+          -  No condition that would impair the ability to swallow pills (e.g., GI tract disease
+             resulting in an inability to take oral medication or a requirement for IV
+             alimentation, prior surgical procedures affecting absorption, or active peptic ulcer
+             disease)
+
+          -  No disease that would obscure toxicity or dangerously alter drug metabolism
+
+          -  Not on dialysis
+
+          -  No history of chronic hepatitis B or C NOTE: **Required for patients who received
+             prior bevacizumab and developed known clinically significant nephrotic syndrome
+             during treatment and whose baseline values have not returned to normal.
+
+        PRIOR CONCURRENT THERAPY:
+
+          -  See Disease Characteristics
+
+          -  Recovered from the toxic effects of prior therapy
+
+          -  Prior interstitial brachytherapy, Gliadel wafer, or stereotactic radiosurgery allowed
+             provided there is confirmation of progressive disease by PET scan, thallium scan, MRI
+             spectroscopy, perfusion MRI, or surgical documentation
+
+          -  No more than 3 prior treatment regimens (phase I*)
+
+          -  No more than 2 prior treatment regimens for recurrent glioblastoma/gliosarcoma (phase
+             II*)
+
+          -  More than 28 days since prior major surgical procedure or open biopsy (with the
+             exception of craniotomy)
+
+          -  At least 28 days since prior investigational agents or cytotoxic agents (42 days for
+             nitrosoureas, 21 days for procarbazine, and 14 days for vincristine)
+
+          -  At least 14 days since prior non-cytotoxic agents (e.g., bevacizumab, interferon,
+             tamoxifen, thalidomide, isotretinoin, or tyrosine kinase inhibitors)
+
+          -  No concurrent highly-active antiretroviral therapy
+
+          -  No concurrent herbal products of unknown constitution
+
+          -  No concurrent major surgical procedures NOTE: *Phase I was closed and phase II was
+             opened on 3/6/12.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>H. Ian Robins, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Wisconsin, Madison</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Rebecca and John Moores UCSD Cancer Center</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92093-0658</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cedars-Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Leeward Radiation Oncology</name>
+      <address>
+        <city>Ewa Beach</city>
+        <state>Hawaii</state>
+        <zip>96706</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Research Center of Hawaii</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96813</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Queen's Cancer Institute at Queen's Medical Center</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96813</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hawaii Medical Center - East</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago Cancer Research Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637-1470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CCOP - Kansas City</name>
+      <address>
+        <city>Prairie Village</city>
+        <state>Kansas</state>
+        <zip>66208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Central Baptist Hospital</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40503-9985</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Louisville Oncology at Norton Cancer Institute - Louisville</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regional Cancer Center at Singing River Hospital</name>
+      <address>
+        <city>Pascagoula</city>
+        <state>Mississippi</state>
+        <zip>39581</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Renown Institute for Cancer at Renown Regional Medical Center</name>
+      <address>
+        <city>Reno</city>
+        <state>Nevada</state>
+        <zip>89502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Norris Cotton Cancer Center at Dartmouth-Hitchcock Medical Center</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <zip>03756-0002</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Institute of New Jersey at UMDNJ - Robert Wood Johnson Medical School</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Highland Hospital of Rochester</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14620</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>James P. Wilmot Cancer Center at University of Rochester Medical Center</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Legacy Good Samaritan Hospital &amp; Comprehensive Cancer Center</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2015</verification_date>
+  <lastchanged_date>May 8, 2015</lastchanged_date>
+  <firstreceived_date>December 3, 2009</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>adult giant cell glioblastoma</keyword>
+  <keyword>adult glioblastoma</keyword>
+  <keyword>adult gliosarcoma</keyword>
+  <keyword>recurrent adult brain tumor</keyword>
+  <keyword>adult anaplastic astrocytoma</keyword>
+  <keyword>adult anaplastic ependymoma</keyword>
+  <keyword>adult anaplastic oligodendroglioma</keyword>
+  <keyword>adult brain stem glioma</keyword>
+  <keyword>adult mixed glioma</keyword>
+  <keyword>adult pineal gland astrocytoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Nervous System Neoplasms</mesh_term>
+    <mesh_term>Central Nervous System Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Temozolomide</mesh_term>
+    <mesh_term>Dacarbazine</mesh_term>
+    <mesh_term>Veliparib</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

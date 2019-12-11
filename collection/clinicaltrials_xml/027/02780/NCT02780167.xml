@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="25087">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02780167</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B7451006</org_study_id>
+    <secondary_id>2015-005513-72</secondary_id>
+    <nct_id>NCT02780167</nct_id>
+  </id_info>
+  <brief_title>Study To Evaluate Pf-04965842 In Subjects With Moderate To Severe Atopic Dermatitis</brief_title>
+  <official_title>A Phase 2b Randomized, Double‑Blind, Placebo-controlled, Parallel, Multicenter, Dose-ranging, Study To Evaluate The Efficacy And Safety Profile Of Pf-04965842 In Subjects With Moderate To Severe Atopic Dermatitis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pfizer</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Study B7451006 is a Phase 2b POC study which is planned to assess four PF 04965842 once
+      daily (QD) doses (10, 30, 100, 200 mg) relative to placebo over 12 weeks to characterize the
+      efficacy and safety of PF 04965842 in subjects with moderate to severe AD. The objectives of
+      the study are to demonstrate the efficacy of PF 04965842 by showing improvement in disease
+      severity in patients with moderate to severe AD as measured by the Investigator's Global
+      Assessment (IGA) and Eczema Area and Severity Index (EASI) scores, and safety to support
+      further clinical development of PF 04965842.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 15, 2016</start_date>
+  <completion_date type="Anticipated">April 7, 2017</completion_date>
+  <primary_completion_date type="Actual">March 9, 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Investigator, Outcomes Assessor</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of subjects achieving the IGA for clear (0) or almost clear (1) and &gt;2 points improvement from baseline at Week 12.</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>assessment of the overall severity of atopic dermatitis</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percent change from baseline in the eczema area and severity index (EASI) Total score at Week 12</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>EASI is a composite scoring by the atopic dermatitis clinical evaluator of the degree of erythema, induration/papulation, excoriation, and lichenification (each scored separately) for each of four body regions, with adjustment for the percent of BSA involved for each body region and for the proportion of the body region to the whole body</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects achieving the IGA for clear (0) or almost clear (1) and &gt;2 points improvement from baseline at all scheduled time points except Week 12</measure>
+    <time_frame>up to 16 weeks. Week 12 is assessed as primary efficacy endpoint.</time_frame>
+    <description>assessment of the overall severity of AD</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent change from baseline in the EASI total score at all scheduled time points except Week 12</measure>
+    <time_frame>up to 16 weeks. Week 12 data is assessed as the key secondary efficacy endpoint.</time_frame>
+    <description>EASI is a composite scoring by the atopic dermatitis clinical evaluator of the degree of erythema, induration/papulation, excoriation, and lichenification (each scored separately) for each of four body regions, with adjustment for the percent of BSA involved for each body region and for the proportion of the body region to the whole body</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects achieving &gt;3 points improvement in the pruritus numerical rating scale (NRS) from baseline at all scheduled time points</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>severity and frequency of itch (pruritus) due to atopic dermatitis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent change from baseline in the pruritus NRS from baseline at all scheduled time points</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>severity and frequency of itch</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects achieving &gt;2 points improvement in the IGA from baseline at all scheduled time points</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>assessment of the overall severity of AD</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects achieving a 50%, 75% and 90% improvement in the EASI Total score (EASI50, EASI75, EASI90) at all scheduled time points</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>50%, 75% and 90% improvement in the EASI total score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in affected body surface area (BSA) at all scheduled time points</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>body region is involved with atopic dermatitis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in SCORing atopic dermatitis (SCORAD) at all scheduled time points</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>scoring index for atopic dermatitis, which combines extent, severity, and subjective symptoms based on pruritus and sleep loss</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects achieving a 50% and 75% improvement in SCORAD (SCORAD50, SCORAD75) from baseline at all scheduled time points</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>50% and 75% improvement in SCORAD</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of treatment emergent adverse events</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>incidence of TEAE</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of specific clinical laboratory abnormalities (anemia, neutropenia, thrombocytopenia, lymphopenia, lipid profile, liver function tests [LFTs]).</measure>
+    <time_frame>16 weeks</time_frame>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>Atopic Dermatitis</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 mg of PF-04965842 QD</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>30 mg of PF-04965842 QD</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>100 mg of PF-04965842 QD</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>200 mg of PF-04965842 QD</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 5</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>placebo QD</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PF-04965842</intervention_name>
+    <description>10 mg of PF-04965842 QD for 12 weeks</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PF-04965842</intervention_name>
+    <description>30 mg of PF-04965842 QD for 12 weeks</description>
+    <arm_group_label>Cohort 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PF-04965842</intervention_name>
+    <description>100 mg of PF-04965842 QD for 12 weeks</description>
+    <arm_group_label>Cohort 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PF-04965842</intervention_name>
+    <description>200 mg of PF-04965842 QD for 12 weeks</description>
+    <arm_group_label>Cohort 4</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo QD for 12 weeks</description>
+    <arm_group_label>Cohort 5</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Male or female subjects between 18 75 years of age, inclusive, at time of informed
+             consent.
+
+          -  Must have the following atopic dermatitis criteria:
+
+               1. Have a clinical diagnosis of chronic atopic dermatitis (also known as atopic
+                  eczema) for at least 1 year prior to Day 1 and has confirmed atopic dermatitis
+                  (Hanifin and Rajka criteria of AD refer to Appendix 2) at the Screening visit.
+
+               2. Have inadequate response to treatment with topical medications given for at
+                  least 4 weeks, or for whom topical treatments are otherwise medically
+                  inadvisable (eg, because of important side effects or safety risks) within 12
+                  months of the first dose of study drug.
+
+               3. Moderate to severe AD (affected BSA &gt;=10 %, IGA &gt;=3, and EASI &gt;=12 at the
+                  screening and baseline visits).
+
+        Exclusion Criteria:
+
+          -  History of human immunodeficiency virus (HIV) or positive HIV serology at screening,
+
+          -  Infected with hepatitis B or hepatitis C viruses.
+
+          -  Have evidence of active or latent or inadequately treated infection with
+             Mycobacterium tuberculosis (TB)
+
+          -  Have received any of the following treatment regiments specified in the timeframes
+             outlined below:
+
+        Within 6 months of first dose of study drug: Any cell depleting agents Within 12 weeks of
+        first dose of study drug: Any studies with JAK inhibitors; Other biologics Within 8 weeks
+        of first dose of study drug: Participation in other studies involving investigational
+        drug(s) Within 6 weeks of first dose of study drug: Have been vaccinated with live or
+        attenuated live vaccine.
+
+        Within 4 weeks of first dose of study drug: Use of oral immune suppressants; Phototherapy
+        (NB UVB) or broad band phototherapy; Regular use (more than 2 visits per week) of a
+        tanning booth/parlor.
+
+        Within 1 week of first dose of study drug: Topical treatments that could affect atopic
+        dermatitis; Herbal medications with unknown properties or known beneficial effects for AD.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <phone>1-800-718-1021</phone>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Clinical Research Center of Alabama</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>California Dermatology &amp; Clinical Research Institute</name>
+      <address>
+        <city>Encinitas</city>
+        <state>California</state>
+        <zip>92024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Huntington Medical Foundation</name>
+      <address>
+        <city>Pasadena</city>
+        <state>California</state>
+        <zip>91105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Peninsula Research Associates, Inc.</name>
+      <address>
+        <city>Rolling Hills Estates</city>
+        <state>California</state>
+        <zip>90274</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Emil A. Tanghetti MD dba Center for Dermatology and Laser Surgery</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95819</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>TCR Medical Corporation</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Science Institute</name>
+      <address>
+        <city>Santa Monica</city>
+        <state>California</state>
+        <zip>90404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Connecticut Health Center (UConn Health)</name>
+      <address>
+        <city>Farmington</city>
+        <state>Connecticut</state>
+        <zip>06032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yale New Haven Hospital - Hospital Research Unit</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yale New Haven Hospital - Radiology</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yale School of Medicine</name>
+      <address>
+        <city>New haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yale New Haven Hospital - Investigational Drug Services</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06511</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Church Street Research Unit</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06519</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Olympian Clinical Research</name>
+      <address>
+        <city>Clearwater</city>
+        <state>Florida</state>
+        <zip>33756</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>North Florida Dermatology Associates, PA</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Park Avenue Dermatology Administration Annex</name>
+      <address>
+        <city>Orange Park</city>
+        <state>Florida</state>
+        <zip>32073</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Park Avenue Dermatology</name>
+      <address>
+        <city>Orange Park</city>
+        <state>Florida</state>
+        <zip>32073</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Leavitt Medical Associates of Florida d/b/a Ameriderm Research</name>
+      <address>
+        <city>Ormond Beach</city>
+        <state>Florida</state>
+        <zip>32174</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Forward Clinical Trials, Inc.</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33624</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MedaPhase, Inc.</name>
+      <address>
+        <city>Newnan</city>
+        <state>Georgia</state>
+        <zip>30263</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dundee Dermatology</name>
+      <address>
+        <city>West Dundee</city>
+        <state>Illinois</state>
+        <zip>60118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dawes Fretzin Clinical Research Group, LLC</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46256</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dawes Fretzin Dermatology Group, LLC</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46256</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Indiana Clinical Trials Center</name>
+      <address>
+        <city>Plainfield</city>
+        <state>Indiana</state>
+        <zip>46168</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DS Research</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40241</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Shondra L Smith, MD Dermatology &amp; Advanced Aesthetics</name>
+      <address>
+        <city>Lake Charles</city>
+        <state>Louisiana</state>
+        <zip>70605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Somerset Skin Centre</name>
+      <address>
+        <city>Troy</city>
+        <state>Michigan</state>
+        <zip>48084</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MediSearch Clinical Trials</name>
+      <address>
+        <city>St. Joseph</city>
+        <state>Missouri</state>
+        <zip>64506</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Consortium</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89119</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Psoriasis Treatment Center of Central New Jersey</name>
+      <address>
+        <city>East Windsor</city>
+        <state>New Jersey</state>
+        <zip>08520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Dermatology Group, P.C</name>
+      <address>
+        <city>Verona</city>
+        <state>New Jersey</state>
+        <zip>07044</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Forest Hills Dermatology Group</name>
+      <address>
+        <city>Forest Hills</city>
+        <state>New York</state>
+        <zip>11375</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sadick Research Group</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10075</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vital Prospects Clinical Research Institute, P.C</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74136-7028</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DermDox Centers for Dermatology</name>
+      <address>
+        <city>Hazleton</city>
+        <state>Pennsylvania</state>
+        <zip>18201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UPMC Department of Dermatology</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Partners, LLC</name>
+      <address>
+        <city>Johnston</city>
+        <state>Rhode Island</state>
+        <zip>02919</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Health Concepts</name>
+      <address>
+        <city>Rapid City</city>
+        <state>South Dakota</state>
+        <zip>57702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Bellaire Dermatology Associates</name>
+      <address>
+        <city>Bellaire</city>
+        <state>Texas</state>
+        <zip>77401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Dermatology and Laser Specialists</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Clinical Research,Inc</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>West End Dermatology Associates</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Woden Dermatology</name>
+      <address>
+        <city>Phillip</city>
+        <state>Australian Capital Territory</state>
+        <zip>2606</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Australian Clinical Research Network</name>
+      <address>
+        <city>Sydney</city>
+        <state>New South Wales</state>
+        <zip>2035</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Skin Centre</name>
+      <address>
+        <city>Benowa</city>
+        <state>Queensland</state>
+        <zip>4217</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Veracity Clinical Research</name>
+      <address>
+        <city>Woolloongabba</city>
+        <state>Queensland</state>
+        <zip>4102</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sinclair Dermatology</name>
+      <address>
+        <city>East Melbourne</city>
+        <state>Victoria</state>
+        <zip>3002</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Melbourne Hospital</name>
+      <address>
+        <city>Parkville</city>
+        <state>Victoria</state>
+        <zip>3050</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fremantle Dermatology</name>
+      <address>
+        <city>Fremantle</city>
+        <state>Western Australia</state>
+        <zip>6160</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>North Eastern Health Specialists</name>
+      <address>
+        <city>Hectorville, South Australia</city>
+        <zip>5073</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of British Columbia</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V5Z 4E8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wiseman Dermatology Research Inc.</name>
+      <address>
+        <city>Winnipeg</city>
+        <state>Manitoba</state>
+        <zip>R3M 3Z4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Lynderm Research Inc.</name>
+      <address>
+        <city>Markham</city>
+        <state>Ontario</state>
+        <zip>L3P 1X2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research by ICLS</name>
+      <address>
+        <city>Oakville</city>
+        <state>Ontario</state>
+        <zip>L6J 7W5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Skin Centre for Dermatology</name>
+      <address>
+        <city>Peterborough</city>
+        <state>Ontario</state>
+        <zip>K9J 5K2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Centre for Dermatology</name>
+      <address>
+        <city>Richmond Hill</city>
+        <state>Ontario</state>
+        <zip>L4B IA5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>K. Papp Clinical Research</name>
+      <address>
+        <city>Waterloo</city>
+        <state>Ontario</state>
+        <zip>N2J 1C4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Windsor Clinical Research Inc</name>
+      <address>
+        <city>Windsor</city>
+        <state>Ontario</state>
+        <zip>N8W 5L7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Innovaderm Research Inc.</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H2K 4L5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Diex Research Sherbrooke Inc.</name>
+      <address>
+        <city>Sherbrooke</city>
+        <state>Quebec</state>
+        <zip>J1H 1Z1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre de Recherche Dermatologique du Quebec metropolitain (CRDQ)</name>
+      <address>
+        <city>Quebec</city>
+        <zip>G1V 4X7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ISA GmbH</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10789</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Schleswig-Holstein</name>
+      <address>
+        <city>Luebeck</city>
+        <zip>23538</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Muenster</name>
+      <address>
+        <city>Muenster</city>
+        <zip>48149</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Tuebingen</name>
+      <address>
+        <city>Tuebingen</city>
+        <zip>72076</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Bacs Kiskun Megyei Korhaz, Bor es Nemibeteggondozo</name>
+      <address>
+        <city>Kecskemet</city>
+        <zip>6000</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CRU Hungary Ltd., MISEK-CRU</name>
+      <address>
+        <city>Miskolc</city>
+        <zip>3529</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Szegedi Tudomanyegyetem SzentGyorgyi Albert Klinikai Kozpont Borgyogyaszati es Allergologiai Klinika</name>
+      <address>
+        <city>Szeged</city>
+        <zip>6720</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Allergo-Derm Bakos Kft.</name>
+      <address>
+        <city>Szolnok</city>
+        <zip>5000</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>Germany</country>
+    <country>Hungary</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://trialinfoemail.pfizer.com/pages/landing.aspx?StudyID=B7451006&amp;StudyName=A+Phase+2b+Randomized%2C+Double%E2%80%91blind%2C+Placebo-controlled%2C+Parallel%2C+Multicenter%2C+Dose-ranging%2C+Study+To+Evaluate+The+Efficacy+And+Safety+Profile+Of+Pf-04965842+In+Subjects+With+Moderate+To+Severe+Atopic+Dermatitis</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>April 2017</verification_date>
+  <lastchanged_date>April 7, 2017</lastchanged_date>
+  <firstreceived_date>April 11, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Phase 2</keyword>
+  <keyword>randomized</keyword>
+  <keyword>double-blind</keyword>
+  <keyword>placebo</keyword>
+  <keyword>atopic dermatitis</keyword>
+  <keyword>safety</keyword>
+  <keyword>efficacy</keyword>
+  <keyword>JAK</keyword>
+  <keyword>janus kinase</keyword>
+  <keyword>moderate</keyword>
+  <keyword>severe</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Dermatitis</mesh_term>
+    <mesh_term>Dermatitis, Atopic</mesh_term>
+    <mesh_term>Eczema</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

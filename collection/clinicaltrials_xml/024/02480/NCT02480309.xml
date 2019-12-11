@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="48078">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02480309</url>
+  </required_header>
+  <id_info>
+    <org_study_id>15-0272</org_study_id>
+    <nct_id>NCT02480309</nct_id>
+  </id_info>
+  <brief_title>MMPPC: A Probabilistic Closed-loop Artificial Pancreas to Handle Unannounced Meals and Exercise</brief_title>
+  <acronym>MMPPC</acronym>
+  <official_title>MMPPC: A Probabilistic Closed-loop Artificial Pancreas to Handle Unannounced</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Colorado, Denver</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Colorado, Denver</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the safety, feasibility and efficacy of the Multiple Model Probabilistic
+      Predictive Control / Diabetes Assistant (MMPPC/DiAS) system in full day and night
+      closed-loop control in adolescents and adults with type 1 diabetes. This will be addressed
+      in two parts. There will be an initial 36 hour inpatient study with hourly plasma glucose
+      monitoring and scheduled exercise and meals. If the system is shown to be safe, feasible and
+      effective, the study will proceed to supervised hotel studies with remote monitoring to test
+      system use over 3 days/2 nights.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To further develop and refine an artificial pancreas system using the MMPPC framework that
+      the investigators have developed. The MMPPC controller has been tested in a number of in
+      silico studies as well as a small cohort of clinical studies. The controller is unique
+      compared to other closed-loop systems in that it does not require meal announcement or a
+      priming dose of insulin prior to a meal and is therefore a fully closed-loop system. Initial
+      results were encouraging and the investigators achieved acceptable glucose control during
+      the day and night.
+
+      With this protocol, the investigators will further test the algorithm, as well how well the
+      algorithm operates within an automated, portable closed-loop device, the DIAS in clinical
+      studies. The DIAS system is able to use glucose sensor input and communicate to an insulin
+      pump. The algorithm is incorporated within an Android phone, which determines insulin
+      delivery. The studies will involve an initial inpatient phase, with frequent plasma glucose
+      monitoring and proceed to supervised, remotely-monitored studies in a hotel setting.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>June 2015</start_date>
+  <completion_date type="Anticipated">March 2017</completion_date>
+  <primary_completion_date type="Anticipated">March 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Evaluate the Safety of the MMPPC/DiAs system&lt;50 mg/dL</measure>
+    <time_frame>participants will be followed during inpatient stay an average of 36 hours</time_frame>
+    <description>No more than two meter glucose values s &lt;50 mg/dL, separated by at least 30 minutes</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluate the feasibility of the MMPPC/DiAs system</measure>
+    <time_frame>within 3 hours of enrollment of each subject</time_frame>
+    <description>System initiation and operation at least 75% of the time for 75% of subjects</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluate the efficacy of the MMPPC/DiAs system</measure>
+    <time_frame>participants will be followed during inpatient and hospitals stays an average of 36 and 72 hours respectively</time_frame>
+    <description>The time spent in range 70-180 mg/dL is at least 65% for 80% subjects</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Type 1 Diabetes</condition>
+  <arm_group>
+    <arm_group_label>Inpatient</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The use of the MMPPC/DiAs system (artificial pancreas) over 36 hours.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Hotel</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The use of the MMPPC/DiAs system (artificial pancreas) in a supervised hotel study over 3 days/2 nights.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Inpatient use of the MMPPC/DiAs system</intervention_name>
+    <description>An inpatient evaluation of the use of the MMPPC/DiAs system in day and night closed-loop control in adolescents and adults with type 1 diabetes.</description>
+    <arm_group_label>Inpatient</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Outpatient use of the MMPPC/DiAs system</intervention_name>
+    <description>An outpatient evaluation of the use of the MMPPC/DiAs system in day and night closed-loop control in adolescents and adults with type 1 diabetes over 2-3 days.</description>
+    <arm_group_label>Hotel</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Clinical diagnosis of type 1 diabetes
+
+               -  The diagnosis of type 1 diabetes is based on the investigator's judgment;
+
+               -  C peptide level and antibody determinations are not needed.
+
+          2. Daily insulin therapy for at least 12 months
+
+          3. Age between 14.0 to 55.0 years of age.
+
+          4. Subject has used a downloadable insulin pump for at least 3 months.
+
+          5. Subject comprehends written English.
+
+          6. Female patients who are sexually active must be on acceptable method of contraception
+             e.g. oral contraceptive pill, diaphragm, IUD
+
+          7. Female patients must have a negative urine pregnancy test
+
+          8. Informed consent form signed by subjects aged ≥ 18 years
+
+          9. Parent/guardian (for subjects &lt; 18 years) and subject understand the study protocol
+             and agree to comply with it. Both parents must sign if possible.
+
+         10. Total daily insulin requirement should be at least 0.4 units/kg/day
+
+        Exclusion Criteria:
+
+          1. Diabetic ketoacidosis in the past month
+
+          2. History of seizure or loss of consciousness in the previous 6 months
+
+          3. Subject has a respiratory condition such as asthma, if treated with systemic
+             corticosteroids in the previous 6 months, or cystic fibrosis
+
+          4. Subject has a history of any cardiac or vascular disorder such as myocardial
+             infarction, unstable angina, coronary artery bypass surgery, coronary artery
+             stenting, transient ischemic attack, cerebrovascular accident, angina, congestive
+             heart failure, arrhythmia or thromboembolic disease
+
+          5. Subject has a history of liver or kidney disease (other than microalbuminuria)
+
+          6. Systolic blood pressure &gt; 140 mmHg on screening visit
+
+          7. Diastolic blood pressure &gt; 90 mmHg on screening visit
+
+          8. Subject has active Graves disease with a suppressed Thyroid Stimulating Hormone
+
+          9. Subjects with inadequately treated thyroid disease or celiac disease
+
+         10. Subject has a neurologic disorder that in the judgment of the investigator will
+             affect completion of the protocol
+
+         11. Either the subject or the subject's primary caregiver has received inpatient
+             psychiatric treatment in the past 6 months
+
+         12. Subject has a history of diagnosed medical eating disorder
+
+         13. Subject has a history of known illicit drug abuse
+
+         14. Subject has a history of known prescription drug abuse
+
+         15. Subject has a history of current alcohol abuse
+
+         16. Subject has a history of visual impairment which would not allow subject to
+             participate
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>14 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Maahs, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Colorado, Denver</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>David Maahs, MD</last_name>
+    <phone>303-724-6706</phone>
+    <email>maahs.david@ucdenver.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Laura Messer, RN, MPH</last_name>
+    <phone>303-724-6742</phone>
+    <email>laurel.messer@ucdenver.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Barbara Davis Center for Childhood Diabetes</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2016</verification_date>
+  <lastchanged_date>December 8, 2016</lastchanged_date>
+  <firstreceived_date>June 4, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Pancrelipase</mesh_term>
+    <mesh_term>Pancreatin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

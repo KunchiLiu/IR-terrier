@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2884">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03069352</url>
+  </required_header>
+  <id_info>
+    <org_study_id>M16-043</org_study_id>
+    <secondary_id>2016-003900-30</secondary_id>
+    <nct_id>NCT03069352</nct_id>
+  </id_info>
+  <brief_title>A Study of Venetoclax in Combination With Low Dose Cytarabine Versus Low Dose Cytarabine Alone in Treatment Naïve Patients With Acute Myeloid Leukemia Who Are Ineligible for Intensive Chemotherapy</brief_title>
+  <official_title>A Randomized, Double-Blind, Placebo Controlled Study of Venetoclax Co-Administered With Low Dose Cytarabine Versus Low Dose Cytarabine in Treatment Naïve Patients With Acute Myeloid Leukemia Who Are Ineligible for Intensive Chemotherapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AbbVie</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AbbVie</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 3, randomized, double-blind, placebo-controlled, multicenter study to assess
+      the efficacy and safety of venetoclax co-administered with low dose cytarabine (LDAC) versus
+      LDAC co-administered with placebo in treatment naïve participants with acute myeloid
+      leukemia (AML) who are ineligible for intensive induction chemotherapy.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 2017</start_date>
+  <completion_date type="Anticipated">January 2020</completion_date>
+  <primary_completion_date type="Anticipated">January 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Care Provider, Investigator, Outcomes Assessor</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>Measured up to 2 years after the last participant is enrolled</time_frame>
+    <description>OS is defined as the number of days from the date of randomization to the date of death.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants with complete remission (CR) or complete remission with incomplete marrow recovery (CRi)</measure>
+    <time_frame>Up to 2 years after the last participant is randomized</time_frame>
+    <description>This will be calculated based on current International Working Group (IWG) criteria. CR is defined as absolute neutrophil count greater than 10^3/ microliter (mcL), platelets greater than or equal to 10^5/mcL, red cell transfusion independence, and bone marrow with less than 5% blasts. CRi is defined as bone marrow with less than 5% blasts, and absolute neutrophils of less than 10^3/mcL or thrombocytopenia less than or equal to 10^5/mcL (100,000/mcL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Event-free survival (EFS)</measure>
+    <time_frame>Up to 2 years after the last participant is enrolled</time_frame>
+    <description>EFS will be defined as the number of days from randomization to the date of progressive disease, relapse from CR to CRi, treatment failure, or death from any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants with CR or CRi recovery (CR + CRi) by the initiation of Cycle 2</measure>
+    <time_frame>Up to 6 months after the last participant is randomized</time_frame>
+    <description>This will be calculated based on current International Working Group (IWG) criteria. CR is defined as absolute neutrophil count greater than 10^3/ microliter (mcL), platelets greater than or equal to 10^5/mcL, red cell transfusion independence, and bone marrow with less than 5% blasts. CRi is defined as bone marrow with less than 5% blasts, and absolute neutrophils of less than 10^3/mcL or thrombocytopenia less than or equal to 10^5/mcL (100,000/mcL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Reported Outcomes Measurement Information System (PROMIS) Cancer Fatigue Short Form [SF] 7a</measure>
+    <time_frame>Up to 2 years after the last participant is enrolled</time_frame>
+    <description>Fatigue will be assessed using the Patient Reported Outcomes Measurement Information System (PROMIS) Cancer Fatigue Short Form (SF) 7a global fatigue score. PROMIS Cancer Fatigue SF 7a is a seven item questionnaire that assesses the impact and experience of fatigue over the past 7 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Global Health Status/Quality of Life (GHS/QoL)</measure>
+    <time_frame>Up to 2 years after the last participant is enrolled</time_frame>
+    <description>Global health status/quality of life will be assessed using the GHS/QoL scale from the European Organization for Research and Treatment of Cancer Quality of Life Questionnaire Core (EORTC QLQC30).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">175</enrollment>
+  <condition>Acute Myeloid Leukemia (AML)</condition>
+  <arm_group>
+    <arm_group_label>Venetoclax + Low Dose Cytarabine (LDAC)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Venetoclax 600 mg orally every day (QD) QD on Days 1 - 28 plus LDAC 20 mg/m^2 subcutaneously QD on Days 1 - 10 (28 day cycle)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo + LDAC</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matching Placebo for Venetoclax 600 mg orally QD on Days 1 - 28 plus LDAC 20 mg/m^2 subcutaneous QD on Days 1 - 10 (28 day cycle)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Venetoclax</intervention_name>
+    <description>tablet</description>
+    <arm_group_label>Venetoclax + Low Dose Cytarabine (LDAC)</arm_group_label>
+    <other_name>ABT-199</other_name>
+    <other_name>Venclaxta</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>tablet</description>
+    <arm_group_label>Placebo + LDAC</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cytarabine</intervention_name>
+    <description>Subcutaneous</description>
+    <arm_group_label>Venetoclax + Low Dose Cytarabine (LDAC)</arm_group_label>
+    <arm_group_label>Placebo + LDAC</arm_group_label>
+    <other_name>Cytosar-U</other_name>
+    <other_name>Ara-C</other_name>
+    <other_name>Arabinosylcytosine</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Participants must have histological confirmation of Acute Myeloid Leukemia (AML) by
+             World Health Organization (WHO) criteria, is ineligible for intensive induction
+             chemotherapy.
+
+          -  Participants must have adequate renal and liver function.
+
+        Exclusion Criteria:
+
+          -  Participant received any prior treatment for AML with the exception of hydroxyurea,
+             allowed through the first cycle of study treatment.
+
+          -  Participant had an antecedent myeloproliferative neoplasm (MPN) including
+             myelofibrosis, essential thrombocytosis, polycythemia vera, or chronic myelogenous
+             leukemia (CML) with or without BCR-ABL mutation.
+
+          -  Participant that has acute promyelocytic leukemia (APL).
+
+          -  Participant has known central nervous system (CNS) involvement with AML.
+
+          -  Participant has known Human Immunodeficiency Virus (HIV) infection, known to be
+             positive for hepatitis B virus (HBV), or hepatitis C virus (HCV) infection.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>AbbVie Inc</last_name>
+    <role>Study Director</role>
+    <affiliation>AbbVie</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>AbbVie_Call Center</last_name>
+    <phone>847.283.8955</phone>
+    <email>abbvieclinicaltrials@abbvie.com</email>
+  </overall_contact>
+  <link>
+    <url>http://www.rxabbvie.com/</url>
+  </link>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 30, 2017</lastchanged_date>
+  <firstreceived_date>February 28, 2017</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Leukemia</keyword>
+  <keyword>Treatment naïve</keyword>
+  <keyword>Venetoclax</keyword>
+  <keyword>Acute Myeloid Leukemia</keyword>
+  <keyword>Cytarabine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Leukemia, Myeloid</mesh_term>
+    <mesh_term>Leukemia, Myeloid, Acute</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cytarabine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

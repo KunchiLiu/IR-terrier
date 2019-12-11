@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="48434">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02475681</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACE-CL-007</org_study_id>
+    <nct_id>NCT02475681</nct_id>
+  </id_info>
+  <brief_title>Elevate CLL TN: Study of Obinutuzumab + Chlorambucil, Acalabrutinib (ACP-196) + Obinutuzumab, and Acalabrutinib in Subjects With Previously Untreated CLL</brief_title>
+  <official_title>A Randomized, Multicenter, Open-Label, 3 Arm Phase 3 Study of Obinutuzumab in Combination With Chlorambucil, Acalabrutinib (ACP-196) in Combination With Obinutuzumab, and Acalabrutinib Monotherapy in Subjects With Previously Untreated CLL</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Acerta Pharma BV</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Acerta Pharma BV</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is evaluating the efficacy of obinutuzumab in combination with chlorambucil
+      compared with acalabrutinib in combination with obinutuzumab (Arm B) for the treatment of
+      previously untreated chronic lymphocytic leukemia (CLL).
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>June 2015</start_date>
+  <primary_completion_date type="Anticipated">December 2019</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Outcomes Assessor</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free survival in Arm A compared to Arm B</measure>
+    <time_frame>49 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>IRC-assessed objective response rate (ORR) in Arm A versus Arm B and Arm A versus Arm C</measure>
+    <time_frame>49 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to next treatment (TTNT) in Arm A versus Arm B and Arm A versus Arm C</measure>
+    <time_frame>49 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events, serious adverse events and changes in laboratory measurements in Arm A versus Arm B and Arm A versus Arm C</measure>
+    <time_frame>49 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival in Arm A versus Arm B and Arm A versus Arm C</measure>
+    <time_frame>49 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">535</enrollment>
+  <condition>Chronic Lymphocytic Leukemia</condition>
+  <arm_group>
+    <arm_group_label>Obinutuzumab in Combination with Chlorambucil</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Obinutuzumab IV infusions will be administered over a total of 6 treatment cycles. Chlorambucil will be orally administered on Days 1 and 15 of Cycles 1 through 6.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Acalabrutinib in Combination with Obinutuzumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Obinutuzumab IV infusions will be administered over a total of 6 treatment cycles. ACP-196 will be orally administered starting on Cycle 1 Day 1. Daily administration of ACP-196 will continue until disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Acalabrutinib Monotherapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Acalabrutinib will be orally administered on Cycle 1 Day 1 until disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Acalabrutinib</intervention_name>
+    <arm_group_label>Acalabrutinib in Combination with Obinutuzumab</arm_group_label>
+    <arm_group_label>Acalabrutinib Monotherapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Obinutuzumab</intervention_name>
+    <arm_group_label>Obinutuzumab in Combination with Chlorambucil</arm_group_label>
+    <arm_group_label>Acalabrutinib in Combination with Obinutuzumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Chlorambucil</intervention_name>
+    <arm_group_label>Obinutuzumab in Combination with Chlorambucil</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Men and women: ≥ 65 years of age OR &gt; 18 and &lt; 65 years of age, provided that they
+             meet at least one of the following criteria:
+
+               1. Creatinine clearance 30 to 69 mL/min.
+
+               2. A score higher than 6 on the Cumulative Illness Rating Scale-Geriatric.
+
+          -  ECOG performance status of 0, 1, or 2.
+
+          -  Diagnosis of CD20+ CLL.
+
+          -  Active disease meeting ≥ 1 of the following IWCLL 2008 criteria for requiring
+             treatment.
+
+          -  Meet the following laboratory parameters:
+
+               1. ANC ≥ 750 cells/μL, or ≥ 500 cells/μL in subjects with documented bone marrow
+                  involvement, and independent of growth factor support 7 days before assessment.
+
+               2. Platelet count ≥ 50,000 cells/μL, or ≥ 30,000 cells/μL in subjects with
+                  documented bone marrow involvement, and without transfusion support 7 days
+                  before assessment. Subjects with transfusion-dependent thrombocytopenia are
+                  excluded.
+
+               3. Serum AST and ALT/SGPT ≤ 3.0 x ULN.
+
+               4. Total bilirubin ≤ 1.5 x ULN.
+
+               5. Estimated creatinine clearance ≥ 30 mL/min.
+
+        Exclusion Criteria:
+
+          -  Any prior systemic treatment for CLL.
+
+          -  Known CNS lymphoma or leukemia.
+
+          -  Known prolymphocytic leukemia or history of, or currently suspected, Richter's
+             syndrome.
+
+          -  Uncontrolled autoimmune hemolytic anemia or idiopathic thrombocytopenia purpura.
+
+          -  Major surgery within 4 weeks before first dose of study drug.
+
+          -  Prior malignancy, except for adequately treated lentigo maligna melanoma,
+             non-melanomatous skin cancer, in situ cervical carcinoma, or other malignancy treated
+             with no evidence of active disease &gt; 3 years before Screening and at low risk for
+             recurrence.
+
+          -  Significant cardiovascular disease within 6 months of screening.
+
+          -  Known history of infection with HIV.
+
+          -  History of stroke or intracranial hemorrhage within 6 months before randomization.
+
+          -  Known history of a bleeding diathesis.
+
+          -  Requires or receiving anticoagulation with warfarin or equivalent vitamin K
+             antagonists within 7 days of first dose of study drug.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Priti Patel, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Acerta Pharma BV</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Arizona Oncology Associates</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pacific Cancer Medical Center Inc.</name>
+      <address>
+        <city>Anaheim</city>
+        <state>California</state>
+        <zip>92801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Cancer Center</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rocky Mountain Cancer Centers</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Illinois Cancer Specialists</name>
+      <address>
+        <city>Niles</city>
+        <state>Illinois</state>
+        <zip>60714</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Maryland Oncology Hematology, P.A.</name>
+      <address>
+        <city>Columbia</city>
+        <state>Maryland</state>
+        <zip>21044</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gabrail Cancer Center</name>
+      <address>
+        <city>Canton</city>
+        <state>Ohio</state>
+        <zip>44718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Willamette Valley Cancer Institute and Research Center</name>
+      <address>
+        <city>Springfield</city>
+        <state>Oregon</state>
+        <zip>97477</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology - Medical City Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology - Dallas Presbyterian Hospital</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Care Centers of South Texas</name>
+      <address>
+        <city>New Braunfels</city>
+        <state>Texas</state>
+        <zip>78130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Care Centers of South Texas</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78217</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology - Deke Slayton Cancer Center</name>
+      <address>
+        <city>Webster</city>
+        <state>Texas</state>
+        <zip>77598</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oncology and Hematology Associates of Southwest Virginia, Inc.</name>
+      <address>
+        <city>Roanoke</city>
+        <state>Virginia</state>
+        <zip>24014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Yakima Valley Memorial Hospital / North Star Lodge</name>
+      <address>
+        <city>Yakima</city>
+        <state>Washington</state>
+        <zip>98902</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2017</verification_date>
+  <lastchanged_date>February 14, 2017</lastchanged_date>
+  <firstreceived_date>June 12, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Leukemia, Lymphoid</mesh_term>
+    <mesh_term>Leukemia, Lymphocytic, Chronic, B-Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Obinutuzumab</mesh_term>
+    <mesh_term>Chlorambucil</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

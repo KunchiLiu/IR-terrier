@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="162697">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00980343</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2012-02922</org_study_id>
+    <secondary_id>NCI-2012-02922</secondary_id>
+    <secondary_id>CDR0000654829</secondary_id>
+    <secondary_id>ABTC-0904</secondary_id>
+    <secondary_id>ABTC-0904</secondary_id>
+    <secondary_id>U01CA137443</secondary_id>
+    <nct_id>NCT00980343</nct_id>
+  </id_info>
+  <brief_title>GDC-0449 in Treating Patients With Recurrent Glioblastoma Multiforme That Can Be Removed by Surgery</brief_title>
+  <official_title>A Biomarker and Phase II Study of GDC-0449 in Patients With Recurrent Glioblastoma Multiforme</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <brief_summary>
+    <textblock>
+      This randomized phase II trial is studying how well GDC-0449 works in treating patients with
+      recurrent glioblastoma multiforme that can be removed by surgery. GDC-0449 may be effective
+      in treating patients with glioblastoma multiforme.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. 6-month progression-free survival (PFS-6) measured from start of treatment following
+      surgery.
+
+      SECONDARY OBJECTIVES:
+
+      I. Toxicity. (Clinical) II. Overall survival. (Clinical) III. Tumor response (PR+CR:
+      MacDonald criteria). (Clinical) IV. Determination of in vivo drug effect in recurrent GBM.
+      (Correlative studies) V. Determination of in vitro drug effect on CD133+ glioma-derived
+      neurospheres. (Correlative studies) VI. Determination of Sonic Hedgehog pathway activation
+      in primary vs. recurrent GBM. (Correlative studies)
+
+      TERTIARY OBJECTIVES:
+
+      I. Correlate clinical outcome (6 mo PFS) with biologic correlates (1-3) above.
+
+      OUTLINE: This is a multicenter study. Patients are randomized to 1 of 2 treatment arms.
+
+      Arm I: Patients receive oral Hedgehog antagonist GDC-0449 once daily for 7 days before
+      surgery.
+
+      Arm II: Patients do not receive treatment before surgery. Beginning within 28 days after
+      surgical resection, all patients receive oral Hedgehog antagonist GDC-0449 once daily on
+      days 1-28. Courses repeat every 28 days in the absence of disease progression or
+      unacceptable toxicity.
+
+      Fresh and paraffin-embedded tissue samples are collected for correlative laboratory studies.
+
+      After completion of study treatment, patients are followed up every 2 months.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>February 2010</start_date>
+  <primary_completion_date type="Actual">May 2012</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>6 months</time_frame>
+    <description>Estimated using Kaplan Meier curves.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Survival times</measure>
+    <time_frame>30 days from last dose of drug treatment</time_frame>
+    <description>Estimated using Kaplan Meier curves.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Response rate assessed by the Response Evaluation Criteria in Solid Tumors (RECIST)</measure>
+    <time_frame>30 days from last dose of drug treatment</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Toxicity incidence graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) v4.0</measure>
+    <time_frame>30 days from last dose of drug treatment</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency and proliferation of T2-derived cluster of differentiation (CD)133+ neurospheres</measure>
+    <time_frame>12 hours post-vismodegib administration</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sonic hedgehog (SHh) pathway members and markers of proliferation</measure>
+    <time_frame>12 hours post-vismodegib administration</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">46</enrollment>
+  <condition>Adult Giant Cell Glioblastoma</condition>
+  <condition>Adult Glioblastoma</condition>
+  <condition>Adult Gliosarcoma</condition>
+  <condition>Recurrent Adult Brain Tumor</condition>
+  <arm_group>
+    <arm_group_label>Arm I (neoadjuvant vismodegib, surgery)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive oral Hedgehog antagonist GDC-0449 once daily for 7 days before surgery.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II (neoadjuvant surgery, vismodegib)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients do not receive treatment before surgery. Beginning within 28 days after surgical resection, all patients receive oral Hedgehog antagonist GDC-0449 once daily on days 1-28. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>vismodegib</intervention_name>
+    <description>Given orally</description>
+    <arm_group_label>Arm I (neoadjuvant vismodegib, surgery)</arm_group_label>
+    <arm_group_label>Arm II (neoadjuvant surgery, vismodegib)</arm_group_label>
+    <other_name>Erivedge</other_name>
+    <other_name>GDC-0449</other_name>
+    <other_name>Hedgehog antagonist GDC-0449</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>therapeutic conventional surgery</intervention_name>
+    <description>Undergo surgery</description>
+    <arm_group_label>Arm I (neoadjuvant vismodegib, surgery)</arm_group_label>
+    <arm_group_label>Arm II (neoadjuvant surgery, vismodegib)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>laboratory biomarker analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Arm I (neoadjuvant vismodegib, surgery)</arm_group_label>
+    <arm_group_label>Arm II (neoadjuvant surgery, vismodegib)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients must have histologically proven glioblastoma which is progressive or
+             recurrent following radiation therapy +/- chemotherapy
+
+          -  Patients must have measurable contrast-enhancing progressive or recurrent
+             glioblastoma by MRI imaging prior to starting treatment; patient must be able to
+             tolerate MRIs
+
+          -  Patients must be eligible for surgical resection according to the following criteria:
+
+               -  Patient competent to sign consent
+
+               -  Expectation that the surgeon can resect &gt;= 50% of the Gd-enhancing tumor with
+                  low risk of inducing neurological injury
+
+               -  Lack of hematologic, cardiac or other medical contraindications to surgery
+
+               -  Surgery must take place Monday-Thursday, with the exception of patients being
+                  treated at Cleveland Clinic/University Hospitals: these patients may undergo
+                  surgery Monday-Friday
+
+               -  Patients must have a tumor size ≥ 2.5 cm in diameter in two perpendicular planes
+                  in order to enable correlative studies
+
+          -  Paraffin embedded tissue must be available from initial surgical resection at
+             diagnosis (prior to any treatment)
+
+          -  Patients may have an unlimited number of prior therapy regimens
+
+          -  Patients must have recovered from severe toxicity of prior therapy; the following
+             intervals from previous treatments are required to be eligible:
+
+               -  3 months from the completion of radiation
+
+               -  6 weeks from a nitrosourea chemotherapy
+
+               -  3 weeks from a non-nitrosourea chemotherapy
+
+               -  4 weeks from any investigational (not FDA-approved) agents
+
+               -  2 weeks from administration of a non-cytotoxic, FDA-approved agent (e.g.,
+                  tarceva, hydroxychloroquine, bevacizumab, etc.)
+
+          -  Patients may be on a non-enzyme-inducing anti-epileptic drug (non-EIAED); they may
+             not be on an EIAED; if previously on an EIAED, patient must be off for at least 14
+             days prior to the first dose of GDC-0449
+
+          -  Patients must have a Karnofsky performance status &gt;= 60% (i.e. the patient must be
+             able to care for himself/herself with occasional help from others)
+
+          -  WBC ≥ 3,000/mcL
+
+          -  Absolute neutrophil count ≥ 1,500/mcL
+
+          -  Platelets ≥ 100,000/mcL
+
+          -  Total bilirubin ≤ institutional upper limit of normal
+
+          -  AST(SGOT)/ALT(SGPT) ≤ 4.0 X institutional upper limit of normal
+
+          -  Creatinine within institutional upper limit of normal OR creatinine clearance &gt;= 60
+             mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+
+          -  Patients must be able to provide written informed consent
+
+          -  The effects of GDC-0449 on the developing human fetus at the recommended therapeutic
+             dose are unknown; for this reason and because Hh signal pathway inhibitors are known
+             to be teratogenic, women of child-bearing potential and men must use two forms of
+             contraception (i.e., barrier contraception and one other method of contraception)
+             prior to study entry, for the duration of study participation, and for at least 12
+             months post-treatment; should a woman become pregnant or suspect she is pregnant
+             while participating in this study, she should inform her treating physician
+             immediately
+
+          -  Women of childbearing potential are required to have a negative serum pregnancy test
+             (with a sensitivity of at least 25 mIU/mL) within 10-14 days prior to treatment start
+             and be required to agree to have the test repeated within 24 hours prior to the first
+             dose of GDC-0449 (serum or urine); a pregnancy test (serum or urine) will be
+             administered every 4 weeks if their menstrual cycles are regular or every 2 weeks if
+             their cycles are irregular while on study within the 24-hour period prior to the
+             administration of GDC-0449; a positive urine test must be confirmed by a serum
+             pregnancy test; prior to dispensing GDC-0449, the investigator must confirm and
+             document the patient's use of two contraceptive methods, dates of negative pregnancy
+             test, and confirm the patient's understanding of the teratogenic potential of
+             GDC-0449; women of childbearing potential are defined as follows:
+
+               -  Patients with regular menses
+
+               -  Patients with amenorrhea, irregular cycles, or using a contraceptive method that
+                  precludes withdrawal bleeding
+
+               -  Women who have had a tubal ligation
+
+          -  Women are considered not to be of childbearing potential for the following reasons:
+
+               -  The patient has undergone hysterectomy and/or bilateral oophorectomy
+
+               -  The patient is post-menopausal defined by amenorrhea for at least 1 year in a
+                  woman &gt; 45 years old
+
+          -  Patients may not be breast-feeding a child
+
+          -  Patients must have a Mini Mental State Exam score of &gt;= 15
+
+        Exclusion Criteria:
+
+          -  Patients with serious concurrent infection or medical illness, which would jeopardize
+             the ability of the patient to receive the treatment outlined in this protocol with
+             reasonable safety, are ineligible
+
+          -  Patients may not be receiving any other investigational agents
+
+          -  Patients with a history of allergic reactions attributed to compounds of similar
+             chemical or biologic composition to GDC-0449 or other agents used in the study are
+             ineligible
+
+          -  Patients taking medications with narrow therapeutic indices that are metabolized by
+             cytochrome P450 (CYP450), including warfarin sodium (Coumadin®) are ineligible
+
+          -  GDC-0449 inhibits CYP2C8, CYP2C9, and CYP2C19 drug metabolism enzymes in vitro at
+             concentrations that may be clinically relevant; therefore, caution should be
+             exercised when dosing GDC-0449 concurrently with medications that are substrates of
+             CYP2C8, CYP2C9, and CYP2C19 and have narrow therapeutic windows; in addition,
+             GDC-0449 is a substrate of CYP3A4; however, the in vitro metabolic conversion of
+             GDC-0449 is low; effects of CYP inducers (e.g., carbamazepine, phenobarbital,
+             phenytoin, rifabutin, rifampin, St. John's wort, and troglitazone) on clinical
+             concentrations of GDC-0449 are unknown; likewise, the effects of strong inhibitors of
+             CYP3A4 (e.g., clarithromycin, erythromycin, itraconazole, ketoconazole, nefazodone,
+             and telithromycin) on GDC-0449 clinical concentrations are unknown, and caution
+             should be exercised when dosing GDC-0449 concurrently with inhibitors of CYP3A4
+
+          -  Patients with malabsorption syndrome or other condition that would interfere with
+             intestinal absorption are ineligible; patients must be able to swallow capsules
+
+          -  Patients with clinically important history of liver disease, including viral or other
+             hepatitis or cirrhosis are ineligible
+
+          -  Patients with a history of uncontrolled hypocalcemia, hypomagnesemia, hyponatremia or
+             hypokalemia defined as less than the lower limit of normal for the institution,
+             despite adequate electrolyte supplementation are excluded from this study
+
+          -  Patients with uncontrolled intercurrent illness including, but not limited to,
+             hypertension, ongoing or active infection, symptomatic congestive heart failure,
+             unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social
+             situations that would limit compliance with study requirements, are ineligible
+
+          -  Pregnant women are excluded from this study because GDC-0449 is an Hh pathway
+             inhibiting agent with the potential for teratogenic or abortifacient effects; because
+             there is an unknown but potential risk for adverse events in nursing infants
+             secondary to treatment of the mother with GDC-0449, breastfeeding should be
+             discontinued if the mother is treated with GDC-0449
+
+          -  HIV-positive patients on combination antiretroviral therapy are ineligible because of
+             the potential for pharmacokinetic interactions with GDC-0449
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Charles Nock</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Cancer Institute (NCI)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of California at Los Angeles (UCLA )</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF-Mount Zion</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California San Francisco Medical Center-Parnassus</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University/Winship Cancer Institute</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Adult Brain Tumor Consortium</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21231-1000</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest University Health Sciences</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Case Western Reserve University</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Foundation</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pennsylvania/Abramson Cancer Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2013</verification_date>
+  <lastchanged_date>May 21, 2014</lastchanged_date>
+  <firstreceived_date>September 18, 2009</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Gliosarcoma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

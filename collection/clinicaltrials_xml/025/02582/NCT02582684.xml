@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="40228">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02582684</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG A5353</org_study_id>
+    <secondary_id>2UM1AI068636</secondary_id>
+    <nct_id>NCT02582684</nct_id>
+  </id_info>
+  <brief_title>Dolutegravir Plus Lamivudine Dual Therapy in Treatment Naïve HIV-1 Patients</brief_title>
+  <official_title>A Study to Evaluate Dolutegravir Plus Lamivudine Dual Therapy for the Treatment of Naïve HIV-1-infected Participants</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AIDS Clinical Trials Group</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>AIDS Clinical Trials Group</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is being done to see if the combination of two anti-HIV medicines, dolutegravir
+      (DTG, Tivicay) and lamivudine (3TC, Epivir) taken once a day, will provide a safe,
+      effective, and well-tolerated treatment for HIV. DTG is a type of HIV medicine called an
+      integrase inhibitor; 3TC is a type of HIV medicine called a reverse transcriptase inhibitor.
+      DTG works by blocking integrase and 3TC works by blocking reverse transcriptase, two HIV
+      proteins (enzymes). This prevents HIV from multiplying and lowers the viral load (amount of
+      HIV in the blood). Both DTG and 3TC are currently part of Food and Drug Administration (FDA)
+      recommended regimens along with a third active drug. Since some HIV medicines have side
+      effects and are costly, there is interest in whether HIV can be successfully controlled with
+      fewer than three HIV drugs.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>December 2015</start_date>
+  <completion_date type="Anticipated">October 9, 2017</completion_date>
+  <primary_completion_date type="Actual">February 28, 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Virologic success at week 24</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Virologic success is defined as HIV-1 RNA &lt;50 copies/mL and on study treatment (FDA Snapshot definition). Participants with HIV-1 RNA ≥50 copies/mL or who discontinued study treatment or did not have HIV-1 RNA data are counted as non-success.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Virologic success at week 12</measure>
+    <time_frame>measured through 12 weeks after study entry</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Virologic success at week 48</measure>
+    <time_frame>measured through 48 weeks after study entry</time_frame>
+    <description>Participants are evaluated for virologic failure regardless of whether on study treatment.
+Confirmation will be determined based on any two consecutive evaluations meeting the virologic failure definition regardless of the time between them.
+Participants discontinuing the study (for any reason, including death and lost to follow-up) will be considered a virologic failure if their last measurement meets the definition of virologic failure but no confirmatory measurement was obtained. All other participants' follow-up will be censored immediately after the last available plasma HIV-1 RNA measurement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma HIV-1 RNA level</measure>
+    <time_frame>measured through 48 weeks after study entry</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CD4+ cell count</measure>
+    <time_frame>measured through 48 weeks after study entry</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>HIV-1 drug resistance mutations in participants with virologic failure</measure>
+    <time_frame>measured through 48 weeks after study entry</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lipid values</measure>
+    <time_frame>measured through 48 weeks after study entry</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sign/symptoms or laboratory toxicities of Grade 3 or higher, or of any grade which led to a permanent change or discontinuation of study treatment</measure>
+    <time_frame>measured through 52 weeks after study entry</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">122</enrollment>
+  <condition>HIV-1 Infection</condition>
+  <arm_group>
+    <arm_group_label>Arm 1: DTG 50 MG + 3TC 300 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dolutegravir</intervention_name>
+    <description>Participants will receive 50 mg of DTG orally daily</description>
+    <arm_group_label>Arm 1: DTG 50 MG + 3TC 300 mg</arm_group_label>
+    <other_name>DTG</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lamivudine</intervention_name>
+    <description>Participants will receive 300 mg of 3TC orally daily.</description>
+    <arm_group_label>Arm 1: DTG 50 MG + 3TC 300 mg</arm_group_label>
+    <other_name>3TC</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  HIV-1 infection, documented by any licensed rapid HIV test or HIV enzyme or
+             chemiluminescence immunoassay (E/CIA) test kit at any time prior to study entry and
+             confirmed by a licensed Western blot or a second antibody test by a method other than
+             the initial rapid HIV and/or E/CIA, or by HIV-1 antigen, plasma HIV-1 RNA viral load.
+
+        NOTE: The term &quot;licensed&quot; refers to a US FDA-approved kit, which is required for all IND
+        studies.
+
+        WHO and CDC (Centers for Disease Control and Prevention) guidelines mandate that
+        confirmation of the initial test result must use a test that is different from the one
+        used for the initial assessment. A reactive initial rapid test should be confirmed by
+        either another type of rapid assay or an E/CIA that is based on a different antigen
+        preparation and/or different test principle (e.g., indirect versus competitive), or a
+        Western blot or a plasma HIV-1 RNA viral load.
+
+          -  Plasma HIV-1 RNA ≥1000 copies/mL and &lt;500,000 copies/mL obtained within 90 days prior
+             to study entry using any FDA-approved assay by any US laboratory that has a CLIA
+             certification or its equivalent.
+
+          -  No evidence of any RT, any integrase, or major protease resistance mutation
+             (according to the 2014 IAS-USA drug resistance mutations list, available at
+             https://www.iasusa.org/sites/default/files/tam/22-3-642.pdf) based on pre-ARV
+             treatment genotype performed any time prior to study entry.
+
+        NOTE: Integrase genotyping must be performed at screening and is provided by the study. RT
+        and PR genotyping should be performed at screening as part of routine clinical care if not
+        previously performed.
+
+          -  ARV treatment drug-naive (defined as no previous ARV treatment at any time prior to
+             study entry, with the exception of successful post-exposure prophylaxis (PEP) or
+             pre-exposure prophylaxis (PrEP).
+
+        NOTE: Participants who were diagnosed with HIV while on PrEP or within a year of PrEP
+        (unless documented seronegative in the interim) are not eligible.
+
+          -  The following laboratory values obtained within 45 days prior to study entry by any
+             US laboratory that has a CLIA certification or its equivalent:
+
+               -  ANC ≥750/mm3
+
+               -  Hemoglobin ≥10.0 g/dL
+
+               -  Platelets ≥ 50,000/mm3
+
+               -  Calculated creatinine clearance (CrCl) ≥50 mL/min, as estimated by the
+                  Cockcroft-Gault equation
+
+               -  AST &lt;5 x ULN (upper limit of normal)
+
+               -  ALT &lt;5x ULN
+
+               -  Total bilirubin &lt;1.5 x ULN
+
+          -  Hepatitis B surface antigen negative within 45 days prior to study entry performed by
+             a CLIA-certified laboratory.
+
+          -  For women with reproductive potential, negative serum or urine pregnancy test at
+             screening and within 48 hours prior to study entry (by any US clinic or laboratory
+             that has a CLIA certification or its equivalent, or is using a point of care
+             (POC)/CLIA-waived test). Reproductive potential is defined as women who have not been
+             postmenopausal for at least 24 consecutive months, i.e., who have had menses within
+             the preceding 24 months, or have not undergone surgical sterilization (e.g.,
+             hysterectomy, bilateral oophorectomy, salpingectomy, tubal ligation or tubal
+             micro-inserts). The urine test must have a sensitivity of ≤50 mIU/mL.
+
+        NOTE: Women who report 12 months of amenorrhea and have a follicle-stimulating hormone
+        (FSH) level in the menopausal range should be considered as NOT having reproductive
+        potential.
+
+          -  If participating in sexual activity that could lead to pregnancy, female participants
+             with reproductive potential must use one form of contraceptive as listed below while
+             receiving protocol-specified medications and for 30 days after stopping the
+             medications. At least one of the following methods must be used appropriately:
+
+               1. Condoms (male or female) with or without a spermicidal agent. Condoms are
+                  recommended because their appropriate use is the only contraception method
+                  effective for preventing HIV transmission.
+
+                  NOTE: In the setting of condom failure, emergency contraception (plan B) is an
+                  appropriate backup method of contraception.
+
+               2. Diaphragm or cervical cap with spermicide.
+
+               3. Intrauterine device.
+
+               4. Hormone-based contraceptive.
+
+          -  Ability and willingness of participant or legal representative to provide informed
+             consent.
+
+        Exclusion Criteria:
+
+          -  Serious illness requiring systemic treatment and/or hospitalization NOTE: Participant
+             is eligible if the participant completes therapy 7 days prior to study entry or is
+             clinically stable on therapy in the opinion of the site investigator for 7 days prior
+             to study entry.
+
+        NOTE: Participants with oral candidiasis, vaginal candidiasis, mucocutaneous herpes
+        simplex, and other minor illnesses (as judged by the site investigator) are eligible.
+
+          -  Treatment within 30 days prior to study entry with immune modulators such as systemic
+             steroids, interleukins, interferons, granulocyte colony-stimulating factor (G-CSF),
+             erythropoietin, or any investigational therapy.
+
+        NOTE: Participants receiving stable physiologic glucocorticoid doses (defined as
+        prednisone ≤15 mg/day or equivalent as a stable or tapering dose) are eligible.
+        Participants receiving corticosteroids for acute therapy for PCP or asthma exacerbation,
+        or receiving a short course (defined as ≤2 weeks of pharmacologic glucocorticoid therapy)
+        are eligible.
+
+          -  Pregnancy or breastfeeding.
+
+          -  The following are prohibited while the participant is on study drugs:
+
+               -  Systemic cytotoxic chemotherapy NOTE: Topical 5FU and treatments for human
+                  papilloma virus disease are allowed.
+
+               -  Dofetilide is prohibited with DTG as DTG may inhibit its renal tubular secretion
+                  resulting in increased dofetilide concentrations and potential for toxicity.
+
+               -  There are no prohibited medications with 3TC
+
+          -  Known allergy/sensitivity to any of the study drugs or their formulations.
+
+          -  Active drug or alcohol use or dependence that may interfere with adherence to study
+             requirements, in the opinion of the site investigator.
+
+          -  Active hepatitis C virus (HCV) treatment or anticipated need for treatment within
+             study period.
+
+        NOTE: HCV infection alone is not exclusionary.
+
+          -  Unstable liver disease (as defined by the presence of ascites, encephalopathy,
+             coagulopathy, hypoalbuminemia, esophageal or gastric varices, or persistent
+             jaundice), known biliary abnormalities (with the exception of Gilbert's syndrome or
+             asymptomatic gallstones).
+
+          -  Severe hepatic impairment (Class C) as determined by Child-Pugh classification.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Roy Gulick, MD, MPH</last_name>
+    <role>Study Chair</role>
+    <affiliation>Weill Medical College of Cornell University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Babafemi Taiwo, MBBS</last_name>
+    <role>Study Chair</role>
+    <affiliation>Northwestern University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Southern California CRS (1201)</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA CARE Center CRS (601)</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ucsd, Avrc Crs (701)</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ucsf Aids Crs (801)</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Hospital CRS (6101)</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Miami AIDS CRS (901)</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Ponce de Leon Center CRS (5802)</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University CRS (2701)</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rush Univ. Med. Ctr. ACTG CRS (2702)</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital ACTG CRS (101)</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hosp. ACTG CRS (107)</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University CRS (2101)</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cornell CRS (7804)</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10011</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Weill Med. College of Cornell Univ., The Cornell CTU -Chelsea (7803)</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10011</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia Physicians and Surgeons CRS (30329)</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Rochester Adult HIV Therapeutic Strategies Network CRS (31787)</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>3201 Chapel Hill CRS</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27516</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Greensboro CRS (3203)</name>
+      <address>
+        <city>Greensboro</city>
+        <state>North Carolina</state>
+        <zip>27401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Cincinnati CRS (2401)</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45267</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Ohio State Univ. AIDS CRS (2301)</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. of the Univ. of Pennsylvania CRS (6201)</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Miriam Hospital ACTG CRS (2951)</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02906</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt Therapeutics CRS (3652)</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Houston AIDS Research Team CRS (31473)</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Puerto Rico-AIDS CRS (5401)</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00935</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2017</verification_date>
+  <lastchanged_date>April 4, 2017</lastchanged_date>
+  <firstreceived_date>October 20, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Dolutegravir</mesh_term>
+    <mesh_term>Lamivudine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

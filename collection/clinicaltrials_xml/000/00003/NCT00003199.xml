@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="238238">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00003199</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PSOC 1605</org_study_id>
+    <secondary_id>NCI-2010-00728</secondary_id>
+    <nct_id>NCT00003199</nct_id>
+  </id_info>
+  <brief_title>Combination Chemotherapy and Peripheral Blood Stem Cell Transplant Followed By Aldesleukin and Sargramostim in Treating Patients With Inflammatory Stage IIIB or Metastatic Stage IV Breast Cancer</brief_title>
+  <official_title>A Phase II Trial for Patients With Inflammatory (Stage IIIB) and Responsive Metastatic Stage IV Breast Cancer Using Busulfan, Melphalan and Thiotepa Followed by Autologous or Syngeneic PBSC Rescue and 12 Weeks of Post-Engraftment Immunotherapy With Low-Dose IL-2 and GM-CSF</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fred Hutchinson Cancer Research Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fred Hutchinson Cancer Research Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial studies how well giving combination chemotherapy and peripheral blood
+      stem cell transplant followed by aldesleukin and sargramostim works in treating patients
+      with inflammatory stage IIIB or metastatic stage IV breast cancer. Drugs used in
+      chemotherapy, such as busulfan, melphalan, and thiotepa, work in different ways to stop the
+      growth of tumor cells, either by killing the cells or by stopping them from dividing. A
+      peripheral stem cell transplant may be able to replace blood-forming cells that were
+      destroyed by chemotherapy. This may allow more chemotherapy to be given so that more tumor
+      cells are killed. Aldesleukin may stimulate the white blood cells to kill breast cancer
+      cells. Giving aldesleukin together with sargramostim may kill more tumor cells
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To determine the event-free survival and survival of patients treated for inflammatory
+      (Stage IIIb) and responsive stage IV breast cancer with BUMELTT and PBSC support and low
+      dose immunotherapy with IL2 and GM-CSF.
+
+      SECONDARY OBJECTIVES:
+
+      II. To determine the toxicity of a combination of low-dose IL-2 and GM-CSF in patients
+      following HDC with BUMELTT and PBSC support.
+
+      OUTLINE:
+
+      PREPARATIVE REGIMEN: Patients receive busulfan orally (PO) once every 6 hours on days -8,
+      -7, and -6; melphalan IV over 30 minutes on days -5 and -4; and thiotepa IV over 2 hours on
+      days -3 and -2.
+
+      TRANSPLANTATION: Patients undergo autologous peripheral blood stem cell infusion on day 0.
+
+      POST-TRANSPLANT THERAPY: All patients receive tamoxifen citrate* PO once daily beginning
+      prior to aldesleukin (IL-2) and sargramostim (GM-CSF) therapy and continuing for 5 years or
+      until relapse (estrogen receptor [ER]- or progesterone receptor [PR]-positive patients) OR
+      until completion of IL-2/GM-CSF therapy (ER-negative or PR-negative patients). Eligible
+      patients receive IL-2 subcutaneously (SC) daily and GM-CSF SC 3 times weekly for 12 weeks
+      beginning 30-100 days after transplantation. Patients may receive radiotherapy after
+      completion of IL-2/GM-CSF treatment if no prior radiotherapy was given before
+      transplantation.
+
+      *Stage IV patients not receiving IL-2/GM-CSF therapy who received tamoxifen citrate as part
+      of adjuvant therapy and subsequently failed, receive oral anastrozole once daily for 5 years
+      or until progression instead of tamoxifen.
+
+      [*For postmenopausal patients, the choice and duration of hormonal therapy given in addition
+      to or an alternative to tamoxifen therapy will be at the physician's discretion]
+
+      Patients are followed up every 3 months for 2 years, every 6 months for 3 years, and then
+      annually thereafter.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>November 1997</start_date>
+  <primary_completion_date type="Actual">December 2009</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Disease-free survival</measure>
+    <time_frame>2 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Toxicity rate</measure>
+    <time_frame>After every 10th patient is treated with IL-2/GM-CSF</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>Estrogen Receptor-negative Breast Cancer</condition>
+  <condition>Estrogen Receptor-positive Breast Cancer</condition>
+  <condition>Inflammatory Breast Cancer</condition>
+  <condition>Male Breast Cancer</condition>
+  <condition>Progesterone Receptor-negative Breast Cancer</condition>
+  <condition>Progesterone Receptor-positive Breast Cancer</condition>
+  <condition>Stage IIIB Breast Cancer</condition>
+  <condition>Stage IV Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Arm I</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>See Detailed Description.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>tamoxifen citrate</intervention_name>
+    <description>Given orally</description>
+    <arm_group_label>Arm I</arm_group_label>
+    <other_name>Nolvadex</other_name>
+    <other_name>TAM</other_name>
+    <other_name>tamoxifen</other_name>
+    <other_name>TMX</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>busulfan</intervention_name>
+    <description>Given orally</description>
+    <arm_group_label>Arm I</arm_group_label>
+    <other_name>BSF</other_name>
+    <other_name>BU</other_name>
+    <other_name>Misulfan</other_name>
+    <other_name>Mitosan</other_name>
+    <other_name>Myeloleukon</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>thiotepa</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Arm I</arm_group_label>
+    <other_name>Oncotiotepa</other_name>
+    <other_name>STEPA</other_name>
+    <other_name>TESPA</other_name>
+    <other_name>Tespamin</other_name>
+    <other_name>TSPA</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>melphalan</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Arm I</arm_group_label>
+    <other_name>Alkeran</other_name>
+    <other_name>CB-3025</other_name>
+    <other_name>L-PAM</other_name>
+    <other_name>L-phenylalanine mustard</other_name>
+    <other_name>L-Sarcolysin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>aldesleukin</intervention_name>
+    <description>Given SC</description>
+    <arm_group_label>Arm I</arm_group_label>
+    <other_name>IL-2</other_name>
+    <other_name>Proleukin</other_name>
+    <other_name>recombinant human interleukin-2</other_name>
+    <other_name>recombinant interleukin-2</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>sargramostim</intervention_name>
+    <description>Given SC</description>
+    <arm_group_label>Arm I</arm_group_label>
+    <other_name>GM-CSF</other_name>
+    <other_name>Leukine</other_name>
+    <other_name>Prokine</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>peripheral blood stem cell transplantation</intervention_name>
+    <description>Undergo autologous peripheral blood stem cell infusion</description>
+    <arm_group_label>Arm I</arm_group_label>
+    <other_name>PBPC transplantation</other_name>
+    <other_name>PBSC transplantation</other_name>
+    <other_name>peripheral blood progenitor cell transplantation</other_name>
+    <other_name>transplantation, peripheral blood stem cell</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>radiation therapy</intervention_name>
+    <description>May undergo radiotherapy after completion of IL-2/GM-CSF</description>
+    <arm_group_label>Arm I</arm_group_label>
+    <other_name>irradiation</other_name>
+    <other_name>radiotherapy</other_name>
+    <other_name>therapy, radiation</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients with inflammatory (stage IIIb) or responsive stage IV breast cancer with
+             metastasis to soft tissue and/or bone; responsive stage IV disease is defined as
+             patients who achieve a PR (&gt;= 50% reduction in measurable tumor burden) or CR
+             following initial chemotherapy for metastatic disease or patients with locally
+             recurrent disease (chest wall/axillary nodes) who are rendered disease-free following
+             surgery or radiation therapy without receiving chemotherapy; bone disease is
+             categorized as responsive if there is demonstrated sclerosis of prior lesions with no
+             new lesions
+
+          -  Patients should have received 4-7 cycles of an Adriamycin and/or taxane-based regimen
+             for stage IIIb or stage IV disease; locally recurrent (chest wall/axillary nodes)
+             patients rendered NED by RT or surgery do not need to receive chemotherapy for stage
+             IV disease prior to Cytoxan/Taxol
+
+          -  Patient has received Cytoxan 4 gm/m^2 x 1 and Taxol 250 mg/m^2 x 1 per FHCRC protocol
+             506.03; Cytoxan/Taxol must be given after all other chemotherapy is completed and
+             before transplant
+
+          -  Stem cells were collected after mobilization with Cytoxan/Taxol or after mobilization
+             from an FHCRC approved cytokine protocol; if syngeneic collection, PBSC's were
+             collected by using G-CSF according to FHCRC protocol 753; patient has an adequate
+             number of peripheral blood stem cells stored (&gt;= 2.5 x 10^6 CD34+ cells/kg)
+
+          -  The patient must have the capacity to give informed consent; the patient must have
+             signed an approved consent form conforming with federal and institutional guidelines
+
+          -  Hepatic function: Bilirubin =&lt; 2 mg%; SGOT or SGPT =&lt; 2.5 x institutional normal
+
+          -  Renal function: Creatinine =&lt; 2.0 mg/dl or a creatinine clearance &gt;= 50 mg/min
+
+          -  Pre-Study tests have been performed as outlined in the Study Calendar
+
+          -  Patients will begin IL-2/GM-CSF therapy if they meet the following criteria
+             post-transplant:
+
+          -  Can start therapy 30 to 100 days after transplant
+
+          -  Karnofsky performance status &gt; 60
+
+          -  ANC &gt; 1,000 cells/mm^3 and platelets &gt; 30,000/cells/mm^3 (transfusion independent)
+             for at least 5 days before starting therapy
+
+          -  Total bilirubin =&lt; 2.5 x upper limit of normal
+
+          -  SGOT =&lt; 2.5 x upper limit of normal
+
+          -  Creatinine =&lt; 2.0 mg/dl
+
+        Exclusion Criteria:
+
+          -  Patients with a Karnofsky Performance Score less than 70
+
+          -  Patients with a left ventricular ejection fraction less than 50 % (LVEF must be
+             performed in patients with symptoms of CHF, abnormal cardiac exam or history of
+             Adriamycin therapy total dose &gt; 400 mg/m^2)
+
+          -  Patient is pregnant
+
+          -  Patient is seropositive for the human immunodeficiency virus
+
+          -  Patients with a history of seizures
+
+          -  Patients with hypersensitivity to E.coli preparations
+
+          -  Patients with active auto-immune disease
+
+          -  Patients with clinically significant pulmonary disease, i.e., diffusion capacity
+             corrected &lt; 60% of predicted; patients with pulmonary problems should be evaluated
+             with appropriate pulmonary studies and/or consult
+
+          -  Patients with a history of CNS lesion (brain or carcinoid meningitis)
+
+          -  Patients with significant active infection precluding transplant
+
+          -  Patients who have had more than one prior chemotherapy regimen for stage IV disease
+             or a prior transplant for any stage disease
+
+          -  Patients who have had CD34+ selection of their PBSC products
+
+          -  Patients will not receive IL-2/GM-CSF therapy if they:
+
+          -  Are &gt; 100 days from transplant
+
+          -  Have documented disease progression after transplant
+
+          -  Have an active infection
+
+          -  Manifested cardiac complications during the initial transplant period, including
+             arrhythmias (that required therapy), congestive heart failure, angina, myocardial
+             infarct, or decreased LVEF to &lt; 45%
+
+          -  Currently have pericardial effusions, pleural effusions or ascites
+
+          -  Manifested pulmonary toxicity during the initial transplant period and have a
+             diffusion capacity corrected =&lt; 60%
+
+          -  Are on steroids
+
+          -  Currently have a Grade 3 toxicity from BuMelTT
+
+          -  If the patient does not wish to receive the therapy
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Leona Holmberg</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fred Hutchinson Cancer Research Center/University of Washington Cancer Consortium</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Fred Hutchinson Cancer Research Center/Puget Sound Oncology Consortium</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2011</verification_date>
+  <lastchanged_date>July 8, 2011</lastchanged_date>
+  <firstreceived_date>November 1, 1999</firstreceived_date>
+  <responsible_party>
+    <name_title>Holmberg, Leona</name_title>
+    <organization>Fred Hutchinson Cancer Research Center/University of Washington Cancer Consortium</organization>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Breast Neoplasms, Male</mesh_term>
+    <mesh_term>Inflammatory Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Aldesleukin</mesh_term>
+    <mesh_term>Thiotepa</mesh_term>
+    <mesh_term>Interleukin-2</mesh_term>
+    <mesh_term>Tamoxifen</mesh_term>
+    <mesh_term>Melphalan</mesh_term>
+    <mesh_term>Busulfan</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

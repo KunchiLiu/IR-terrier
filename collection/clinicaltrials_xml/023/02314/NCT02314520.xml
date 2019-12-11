@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="60793">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02314520</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY00000582</org_study_id>
+    <nct_id>NCT02314520</nct_id>
+  </id_info>
+  <brief_title>Complications Associated With Central Venous Access in the NSICU: PICC vs CVC</brief_title>
+  <acronym>NSPVC</acronym>
+  <official_title>Complications Associated With Central Venous Access in the NSICU: PICC vs CVC</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Milton S. Hershey Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Milton S. Hershey Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this study is to determine whether Peripherally Inserted Central Catheter or
+      Centrally Inserted Venous Catheters have lower complication rates in the Neuroscience
+      Intensive Care Unit. After admission to the Neuroscience ICU and if they require central
+      access, patients will be randomized to receive a PICC or CVC and complications (such as
+      pneumothorax, deep venous thrombosis, infection, etc.) will be tracked and compared between
+      the two interventions.
+    </textblock>
+  </brief_summary>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date>July 2015</start_date>
+  <primary_completion_date type="Anticipated">June 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>All cause complications</measure>
+    <time_frame>up to 10 weeks</time_frame>
+    <description>Aggregation of all complications associated with central access including insertion</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Deep Venous Thrombosis</measure>
+    <time_frame>up to 10 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to complication</measure>
+    <time_frame>up to 10 weeks</time_frame>
+    <description>length of time with line in place required to develop the complication</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Insertion related complication</measure>
+    <time_frame>Insertion</time_frame>
+    <description>Any complication of insertion including technical failure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Infection</measure>
+    <time_frame>up to 10 weeks</time_frame>
+    <description>A Central access associated infection (CLABSI)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical failure</measure>
+    <time_frame>up to 10 weeks</time_frame>
+    <description>A mechanical failure (clot, tear, etc.) of the central access line</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">362</enrollment>
+  <condition>PICC</condition>
+  <condition>Central Venous Catheter</condition>
+  <condition>Central Line</condition>
+  <condition>Neuro ICU</condition>
+  <condition>Neuroscience ICU</condition>
+  <condition>CVC</condition>
+  <arm_group>
+    <arm_group_label>PICC</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients randomly assigned to receive a peripherally inserted central catheter and they will be monitored for either having a complication or no complication.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CVC</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients randomly assigned to receive a centrally inserted central catheter and they will be monitored for either having a complication or no complication.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>peripherally inserted central catheter</intervention_name>
+    <description>Any complication associated with central access</description>
+    <arm_group_label>PICC</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>centrally inserted central catheter</intervention_name>
+    <description>Central access not associated with any complication</description>
+    <arm_group_label>CVC</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Adult patients admitted to the NSICU, who require central access for the treatment of
+        their illness.
+
+        Exclusion Criteria:
+
+          1. Current or recent (within 1 month) diagnosis of bacteremia
+
+          2. Current or recent (within 1 year with confirmed resolution by imaging) deep venous
+             thrombosis
+
+          3. Existing central access
+
+          4. Non-English speaking
+
+          5. Requirement for emergent central access and unable to obtain consent in an emergency
+             setting
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>July 2015</verification_date>
+  <lastchanged_date>July 16, 2015</lastchanged_date>
+  <firstreceived_date>November 26, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Milton S. Hershey Medical Center</investigator_affiliation>
+    <investigator_full_name>J Christopher Zacko</investigator_full_name>
+    <investigator_title>Assistant Professor of Neurosurgery</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

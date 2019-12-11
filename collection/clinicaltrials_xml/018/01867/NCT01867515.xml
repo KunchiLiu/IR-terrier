@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="95047">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01867515</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C1020-R</org_study_id>
+    <secondary_id>5I01RX001020-03</secondary_id>
+    <nct_id>NCT01867515</nct_id>
+  </id_info>
+  <brief_title>Spectral Dynamics and Speech Understanding by Hearing Impaired People</brief_title>
+  <official_title>Spectral Dynamics and Speech Understanding by Hearing Impaired People</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>VA Office of Research and Development</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>VA Office of Research and Development</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this program of research is to understand the perception of the dynamic
+      spectral properties of speech by hearing-impaired listeners, with the long-term goal of
+      improving speech understanding by these individuals in adverse listening conditions. The
+      proposed research compares the performance of normally-hearing and hearing-impaired
+      listeners on measures of speech understanding in the presence of different types of signal
+      distortion and speech understanding of signals with enhanced spectral dynamics. A
+      computational model based on the amount of potential information available in speech will be
+      used to quantify differences in speech intelligibility due to hearing status and stimulus
+      characteristics.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a behavioral study of human auditory perception. Each experiment in this study
+      involves prospective data collection from three types of listeners. The experimental
+      listeners will be people with sensorineural hearing loss and the control listeners will
+      either be subjects with normal hearing or normal-hearing listeners for whom hearing loss
+      will be simulated through the use of a spectrally-shaped broadband noise. The tasks of the
+      subjects in this study involve either listening to synthesized sounds over earphones while
+      seated comfortably in a sound-treated booth, and making responses indicating the subject's
+      auditory perception of these sounds by touching specific areas on a touch-screen terminal;
+      or, listening to recorded, acoustically modified syllables, words, or sentences over
+      earphones and making responses indicating the subject's identification.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 2013</start_date>
+  <completion_date type="Actual">September 2016</completion_date>
+  <primary_completion_date type="Actual">September 2016</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Perception of spectral change in speech</measure>
+    <time_frame>Three years</time_frame>
+    <description>The experimental approach compares speech identification performance among normal hearing listeners, hearing-impaired listeners, and normal hearing listeners with simulated hearing impairment. Tasks will be carried out in quiet and in the presence of 2 levels of continuous, speech-shaped background noise. Experimental metrics will be percentage of correct/incorrect speech identification and patterns of response confusions. Error rates and error patterns will be compared among the three listener groups. Performance will also be interpreted relative to the output of a computational model.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Speech understanding of signals with targeted spectral change enhancement</measure>
+    <time_frame>Three years</time_frame>
+    <description>The experimental approach compares speech identification performance among normal hearing listeners, hearing-impaired listeners, and normal hearing listeners with simulated hearing impairment for stimuli that have been enhanced in the frequency region of the second formant. Tasks will be carried out in quiet and in the presence of two levels of continuous, speech-shaped background noise. Experimental metrics will be percentage of correct/incorrect speech identification and patterns of response confusions.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Hearing Loss, Sensorineural</condition>
+  <arm_group>
+    <arm_group_label>Normally-hearing listeners</arm_group_label>
+    <description>Participants with auditory thresholds within the normal limits.
+individuals with hearing thresholds of 20 dB HL or better at all octave frequencies between 250 Hz and 4000 Hz</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Hearing-impaired listeners</arm_group_label>
+    <description>individuals with bilateral sensorineural hearing losses with thresholds between 25 and 70 dB HL and no losses greater than 70 dB HL at frequencies of 4000 Hz or below</description>
+  </arm_group>
+  <biospec_retention>None Retained</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      None collected
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        community sample
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  individuals with hearing thresholds of 20 dB HL or better at all octave frequencies
+             between 250 Hz and 4000 Hz
+
+          -  or, individuals with bilateral sensorineural hearing losses with thresholds between
+             25 and 70 dB HL and no losses greater than 70 dB HL at frequencies of 4000 Hz or
+             below
+
+        Exclusion Criteria:
+
+          -  a conductive hearing impairment or other otological pathology
+
+          -  hearing thresholds greater than 70 dB HL at any frequencies of 4000 Hz or below or
+             pure-tone averages (averaged across 500, 1000, and 2000 Hz) of greater than 65 dB HL
+
+          -  bilateral differences greater than 20 dB at any frequency below 4000 Hz
+
+          -  an inability to complete the experimental tasks
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michelle R Molis, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>VA Portland Health Care System, Portland, OR</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>VA Portland Health Care System, Portland, OR</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2016</verification_date>
+  <lastchanged_date>November 21, 2016</lastchanged_date>
+  <firstreceived_date>May 20, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Hearing</keyword>
+  <keyword>Hearing Loss, sensorineural</keyword>
+  <keyword>Speech Perception</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Hearing Loss</mesh_term>
+    <mesh_term>Deafness</mesh_term>
+    <mesh_term>Hearing Loss, Sensorineural</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

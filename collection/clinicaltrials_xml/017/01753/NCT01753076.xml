@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="103807">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01753076</url>
+  </required_header>
+  <id_info>
+    <org_study_id>112264</org_study_id>
+    <nct_id>NCT01753076</nct_id>
+  </id_info>
+  <brief_title>Study of Ozanezumab (GSK1223249) Versus Placebo in the Treatment of Amyotrophic Lateral Sclerosis</brief_title>
+  <official_title>Study NOG112264, a Phase II Study of Ozanezumab (GSK1223249) Versus Placebo in the Treatment of Amyotrophic Lateral Sclerosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GlaxoSmithKline</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a 48-week, randomised, multi-centre, double-blind, placebo-controlled, parallel
+      group investigation of the efficacy and safety of intravenous (IV) ozanezumab (GSK1223249)
+      compared to placebo in subjects with Amyotrophic Lateral Sclerosis (ALS). Following a
+      screening period of up to four weeks, eligible subjects will be randomised (1:1) to receive
+      IV placebo or 15 milligram (mg)/ kilogram (kg) IV ozanezumab every 2 weeks for a period of
+      48 weeks with a follow-up visit around 14 weeks after the last infusion. A total of
+      approximately 294 eligible subjects will be randomised from approximately 37 centers
+      worldwide. The primary objective is to assess the effect of ozanezumab on the physical
+      function and survival of ALS subjects over a treatment period of 48 weeks. Function will be
+      measured using the ALS Functional Rating Scale - Revised (ALSFRS-R). Secondary objectives
+      include the evaluation of other clinical outcomes associated with ALS (respiratory function,
+      muscle strength, progression free survival and overall survival) in support of the primary
+      objective. Quality of life, safety, tolerability, immunogenicity and pharmacokinetics
+      (ozanezumab and riluzole) will also be assessed.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>December 2012</start_date>
+  <completion_date type="Actual">January 2015</completion_date>
+  <primary_completion_date type="Actual">November 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To assess the effect of ozanezumab on the function and survival of ALS patients</measure>
+    <time_frame>Over 48 weeks</time_frame>
+    <description>The effect of ozanezumab on the function and survival of ALS patients will be measured by the joint rank scores for combined analysis of function and survival measured by the ALS Functional Rating Scale-Revised (ALSFRS-R) over 48-weeks.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in amyotrophic lateral sclerosis functional rating scale-revised (ALSFRS R)</measure>
+    <time_frame>Week 48</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Slow Vital Capacity (SVC)</measure>
+    <time_frame>Week 48</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Muscle Strength as measured by Hand Held Dynamometry (HDD)</measure>
+    <time_frame>Week 48</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Clinical Global Impression - Improvement Scale (CGI-I) responders at Week 48</measure>
+    <time_frame>Week 48</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (at Week 48 and Week 60)</measure>
+    <time_frame>Up to Week 48 and up to Week 60</time_frame>
+    <description>Defined as time from randomisation to death or censored at Week 48 / Week 60 whichever comes first</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free Survival</measure>
+    <time_frame>Up to Week 48</time_frame>
+    <description>Defined as time from randomisation to progression or death or censored at Week 48 whichever comes first</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 48 in EuroQol-Short form (EQ 5D-L)</measure>
+    <time_frame>Week 48</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 48 in amyotrophic lateral sclerosis assessment questionnaire-40 (ALSAQ 40)</measure>
+    <time_frame>Week 48</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence and severity of adverse events (AEs)</measure>
+    <time_frame>Throughout the study (screening upto follow-up)</time_frame>
+    <description>Number of subjects with incidence of AEs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in vital signs (systolic blood pressure, diastolic blood pressure and heart rate) and weight</measure>
+    <time_frame>up to Week 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in routine laboratory tests</measure>
+    <time_frame>up to Week 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in electrocardiogram (ECG) parameters</measure>
+    <time_frame>up to Week 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma PK parameters at steady state</measure>
+    <time_frame>W0, W2 (only part A), W4, W8, W12, W24, W36, W44, W48, W60</time_frame>
+    <description>Estimates of individual ozanezumab PK parameters, including AUC(0-tau)ss, Cavgss, will be listed and summarized</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma concentrations of riluzole</measure>
+    <time_frame>W0, W2 (only part A), W4, W8, W12, W24, W36, W44, W48, W60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the immunogenicity of IV ozanezumab</measure>
+    <time_frame>W0, W12, W24, W36, W48 and Follow-up (W&gt;=60)</time_frame>
+    <description>Incidence of anti-ozanezumab antibodies and relationship to trough concentration in serum will be measured</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of decline over 48 weeks in amyotrophic lateral sclerosis functional rating scale-revised (ALSFRS R) total score</measure>
+    <time_frame>Week 48</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">304</enrollment>
+  <condition>Amyotrophic Lateral Sclerosis</condition>
+  <arm_group>
+    <arm_group_label>Ozanezumab IV</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Administered by IV route. Treatment period - 48 Weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Normal saline by IV route. Treatment period - 48 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ozanezumab</intervention_name>
+    <description>Ozanezumab injection solution</description>
+    <arm_group_label>Ozanezumab IV</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Normal saline (0.9% sodium chloride) infusion</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients with diagnosis of familial or sporadic ALS
+
+          -  Onset of muscle weakness no more than 30 months before screening visit.
+
+          -  Slow Vital Capacity (SVC) of at least 65% predicted for gender, age, ethnicity and
+             height at Screening.
+
+          -  If on riluzole, the dose must have been stable for at least 28 days prior to Baseline
+             visit.
+
+          -  Age 18 - 80 years inclusive.
+
+          -  Female subjects may participate if they are of non-child-bearing potential or if they
+             are of child-bearing potential they must agree to use the approved contraceptive
+             methods
+
+          -  Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) &lt;=2x upper limit
+             of normal (ULN); alkaline phosphatase and bilirubin &lt;=1.5xULN.
+
+          -  QTc (both QTcB and QTcF) &lt;450 milliseconds (msec) or &lt;480 msec for subjects with
+             Bundle Branch Block at Screening and Baseline (average from triplicate ECGs).
+
+        Exclusion Criteria:
+
+          -  Patients with other neuromuscular disorders (including a history of polio) which in
+             the opinion of the investigator could have contributed to the muscular atrophy or
+             weakness caused by ALS
+
+          -  Patients with primary lateral sclerosis, monomelic ALS, ALS Parkinsonism dementia
+             complex.
+
+          -  Patients requiring non-invasive or mechanical ventilation (non-invasive ventilation
+             for sleep apnoea is allowed subject to discussion with Medical Monitor)
+
+          -  Patients on diaphragmatic pacing.
+
+          -  Presence of any of the following clinical conditions: Drug abuse or alcoholism,
+             uncontrolled hypertension, active major infectious disease, unstable psychiatric
+             illness within 90 days of the Screening visit
+
+          -  Subjects, who in the investigator's judgement, pose a significant suicide risk. -
+             Current or chronic history of liver disease, known hepatic or biliary abnormalities
+             (with the exception of Gilbert's syndrome or asymptomatic gallstones), positive
+             Hepatitis B surface antigen or Hepatitis C antibody test.
+
+          -  Subjects who have participated in a clinical trial involving receipt of a
+             biopharmaceutical product within 6 months prior to the first dosing day.
+
+          -  Exposure to non-biological experimental agents 1 month or 5 half-lives prior to
+             Baseline visit (whichever is longer).
+
+          -  History of sensitivity to ozanezumab, or components thereof, or a history of other
+             allergies that, in the opinion of the investigator, contraindicates participation in
+             the study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>GSK Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>GlaxoSmithKline</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Randwick</city>
+        <state>New South Wales</state>
+        <zip>2031</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Herston</city>
+        <state>Queensland</state>
+        <zip>4029</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T3M 1M4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>N6A 5A5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M4N 3M5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H2L 4M1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H3A 2B4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Lille cedex</city>
+        <zip>59037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Limoges cedex</city>
+        <zip>87042</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Montpellier cedex 5</city>
+        <zip>34295</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Nice cedex 3</city>
+        <zip>06202</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Paris cedex 13</city>
+        <zip>75651</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Ulm</city>
+        <state>Baden-Wuerttemberg</state>
+        <zip>89081</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Muenchen</city>
+        <state>Bayern</state>
+        <zip>81675</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Hannover</city>
+        <state>Niedersachsen</state>
+        <zip>30625</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Bochum</city>
+        <state>Nordrhein-Westfalen</state>
+        <zip>44789</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Jena</city>
+        <state>Thueringen</state>
+        <zip>07747</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Berlin</city>
+        <zip>13353</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Torino</city>
+        <state>Piemonte</state>
+        <zip>10126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Verona</city>
+        <state>Veneto</state>
+        <zip>37134</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kanagawa</city>
+        <zip>252-0380</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Miyagi</city>
+        <zip>980-8574</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Osaka</city>
+        <zip>560-8552</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>110-744</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>133-792</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>136-705</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Utrecht</city>
+        <zip>3584 CX</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Preston</city>
+        <state>Lancashire</state>
+        <zip>PR2 9HT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Brighton</city>
+        <zip>BN2 5BE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Edgbaston,</city>
+        <zip>B15 2TT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Netherlands</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2015</verification_date>
+  <lastchanged_date>July 9, 2015</lastchanged_date>
+  <firstreceived_date>December 17, 2012</firstreceived_date>
+  <firstreceived_results_disposition_date>May 28, 2015</firstreceived_results_disposition_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>efficacy</keyword>
+  <keyword>Amyotrophic lateral sclerosis</keyword>
+  <keyword>ozanezumab</keyword>
+  <keyword>safety</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Sclerosis</mesh_term>
+    <mesh_term>Motor Neuron Disease</mesh_term>
+    <mesh_term>Amyotrophic Lateral Sclerosis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted, but a results disposition has been submitted -->
+</clinical_study>

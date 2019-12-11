@@ -1,0 +1,1882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="135614">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01336023</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NN9068-3697</org_study_id>
+    <secondary_id>U1111-1119-1174</secondary_id>
+    <secondary_id>2010-021560-15</secondary_id>
+    <nct_id>NCT01336023</nct_id>
+  </id_info>
+  <brief_title>Dual Action of Liraglutide and Insulin Degludec in Type 2 Diabetes: A Trial Comparing the Efficacy and Safety of Insulin Degludec/Liraglutide, Insulin Degludec and Liraglutide in Subjects With Type 2 Diabetes</brief_title>
+  <acronym>DUAL™ I</acronym>
+  <official_title>A 26 Week Randomised, Parallel Three-arm, Open-label, Multi-centre, Multinational Treat-to-target Trial Comparing Fixed Ratio Combination of Insulin Degludec and Liraglutide Versus Insulin Degludec or Liraglutide Alone, in Subjects With Type 2 Diabetes Treated With 1-2 Oral Anti-diabetic Drugs (OADs)With a 26 Week Extension</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novo Nordisk A/S</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novo Nordisk A/S</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This trial is conducted globally. The aim of this trial is to compare the efficacy and
+      safety of insulin degludec/liraglutide (IDegLira) versus insulin degludec (IDeg) and
+      liraglutide (Lira) in subjects with type 2 diabetes. Subjects are to continue their
+      pre-trial treatment with metformin or metformin + pioglitazone throughout the entire trial.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>May 2011</start_date>
+  <completion_date type="Actual">November 2012</completion_date>
+  <primary_completion_date type="Actual">May 2012</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean change from baseline in HbA1c (glycosylated haemoglobin) at week 26</measure>
+    <time_frame>Week 0, week 26</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in body weight at week 26</measure>
+    <time_frame>Week 0, Week 26</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of hypoglycaemic episodes</measure>
+    <time_frame>Weeks 0-26</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in incremental area under the curve 0-4h (iAUC0-4h) derived from the glucose concentration profile during meal test</measure>
+    <time_frame>Week 0, Week 26</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean actual daily insulin dose</measure>
+    <time_frame>Week 26</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">1663</enrollment>
+  <condition>Diabetes</condition>
+  <condition>Diabetes Mellitus, Type 2</condition>
+  <arm_group>
+    <arm_group_label>IDeg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IDegLira</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lira</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>insulin degludec/liraglutide</intervention_name>
+    <description>Insulin degludec/liraglutide treatment will be initiated and titrated (individually adjusted) twice weekly according to the mean self measured plasma glucose (SMPG) (fasting). Insulin degludec/liraglutide is injected subcutaneously (under the skin) once daily.</description>
+    <arm_group_label>IDegLira</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>insulin degludec</intervention_name>
+    <description>Insulin degludec treatment will be initiated with 10 U and titrated (individually adjusted) twice weekly according to the mean SMPG (fasting). Insulin degludec is injected subcutaneously (under the skin) once daily.</description>
+    <arm_group_label>IDeg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>liraglutide</intervention_name>
+    <description>Liraglutide will be started with 0.6 mg and subsequent 0.6 mg weekly dose escalation to 1.8 mg. Liraglutide dose of 1.8 mg/day will be continued for the remaining part of the trial. Liraglutide is injected subcutaneously (under the skin) once daily.</description>
+    <arm_group_label>Lira</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subjects with type 2 diabetes
+
+          -  HbA1c 7.0-10.0 % (both inclusive) with the aim of a median HbA1c of 8.3%.
+             Accordingly, when approximately 50% of the randomised subjects have a HbA1c above
+             8.3%, the remaining subjects randomised must have a HbA1c of below or equal to 8.3%,
+             or when approximately 50% of the randomised subjects have a HbA1c of below or equal
+             to 8.3%, the remaining subjects randomised must have a HbA1c above 8.3%
+
+          -  Male or female, age 18 years or above (Taiwan: 20 years or above for a site 653 in
+             Taiwan: Taichung Veterans General Hospital)
+
+          -  Subjects on stable dose of 1-2 OADs (metformin [at least 1500 mg or max tolerated
+             dose] or metformin [at least 1500 mg or max tolerated dose] + pioglitazone [at least
+             30 mg]) for at least 90 days prior to screening
+
+          -  Body Mass Index (BMI) maximum 40 kg/m^2
+
+        Exclusion Criteria:
+
+          -  Treatment with insulin (except for short-term treatment due to intercurrent illness
+             at the discretion of the Investigator)
+
+          -  Treatment with GLP-1 (glucagon-like peptide-1) receptor agonists (eg exenatide,
+             liraglutide), sulphonylurea or dipeptidyl peptidase 4 (DPP-4) inhibitors within 90
+             days prior to trial
+
+          -  Impaired liver function, defined as alanine aminotransferese (ALAT) at least 2.5
+             times Upper Normal Range (UNR) (one retest analysed at the central laboratory within
+             a week from first sample taken is permitted with the result of the last sample being
+             the conclusive)
+
+          -  Impaired renal function defined as serum-creatinine at least 133 mcmol/l (at least
+             1.5 mg/dl) for males and at least 125 mcmol/l (at least 1.4) for females, or as
+             allowed according to local contraindications for metformin (one retest analysed at
+             the central laboratory within a week from first sample taken is permitted with the
+             result of the last sample being the conclusive)
+
+          -  Screening calcitonin at least 50 ng/L
+
+          -  Subjects with personal or family history of medullary thyroid carcinoma (MTC) or
+             multiple endocrine neoplasia type 2 (MEN 2)
+
+          -  Cardiac disorder defined as: congestive heart failure (NYHA class III-IV), diagnosis
+             of unstable angina pectoris, cerebral stroke and/or myocardial infarction within the
+             last 12 months and planned coronary, carotid or peripheral artery revascularisation
+             procedures
+
+          -  Severe uncontrolled treated or untreated hypertension (systolic blood pressure at
+             least 180 mm Hg or diastolic blood pressure at least 100 mm Hg)
+
+          -  Acute treatment required proliferative retinopathy or maculopathy (macular oedema)
+
+          -  History of chronic pancreatitis or idiopathic acute pancreatitis
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Global Clinical Registry (GCR, 1452)</last_name>
+    <role>Study Director</role>
+    <affiliation>Novo Nordisk A/S</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Anaheim</city>
+        <state>California</state>
+        <zip>92801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Chino</city>
+        <state>California</state>
+        <zip>91710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Concord</city>
+        <state>California</state>
+        <zip>94520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Encino</city>
+        <state>California</state>
+        <zip>91436</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Fair Oaks</city>
+        <state>California</state>
+        <zip>95628</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Fresno</city>
+        <state>California</state>
+        <zip>93726</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Greenbrae</city>
+        <state>California</state>
+        <zip>94904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90807</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Monterey</city>
+        <state>California</state>
+        <zip>93940</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Palm Springs</city>
+        <state>California</state>
+        <zip>92262-6972</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Poway</city>
+        <state>California</state>
+        <zip>92064</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92117</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92161-0002</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>San Mateo</city>
+        <state>California</state>
+        <zip>94401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Santa Barbara</city>
+        <state>California</state>
+        <zip>93105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Tustin</city>
+        <state>California</state>
+        <zip>92780</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Valencia</city>
+        <state>California</state>
+        <zip>91355</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Walnut Creek</city>
+        <state>California</state>
+        <zip>94598</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Colorado Springs</city>
+        <state>Colorado</state>
+        <zip>80910</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Golden</city>
+        <state>Colorado</state>
+        <zip>80401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Waterbury</city>
+        <state>Connecticut</state>
+        <zip>06708</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Newark</city>
+        <state>Delaware</state>
+        <zip>19713</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Clearwater</city>
+        <state>Florida</state>
+        <zip>33765</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Fort Lauderdale</city>
+        <state>Florida</state>
+        <zip>33316-2521</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Kissimmee</city>
+        <state>Florida</state>
+        <zip>34741</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Florida</state>
+        <zip>32935</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33135-1687</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33135</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33156</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Orange Park</city>
+        <state>Florida</state>
+        <zip>32073</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Pembroke Pines</city>
+        <state>Florida</state>
+        <zip>33027</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33603</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30318</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Georgia</state>
+        <zip>31909-1692</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Conyers</city>
+        <state>Georgia</state>
+        <zip>30094-5965</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30035</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Lawrenceville</city>
+        <state>Georgia</state>
+        <zip>30046</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Roswell</city>
+        <state>Georgia</state>
+        <zip>30076-2126</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Meridian</city>
+        <state>Idaho</state>
+        <zip>83646</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Nampa</city>
+        <state>Idaho</state>
+        <zip>83686-6011</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Gurnee</city>
+        <state>Illinois</state>
+        <zip>60031</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>O Fallon</city>
+        <state>Illinois</state>
+        <zip>62246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Avon</city>
+        <state>Indiana</state>
+        <zip>46123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Fishers</city>
+        <state>Indiana</state>
+        <zip>46038-1862</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Franklin</city>
+        <state>Indiana</state>
+        <zip>46131-9121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46254</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Michigan City</city>
+        <state>Indiana</state>
+        <zip>46383</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Muncie</city>
+        <state>Indiana</state>
+        <zip>47304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Crestview Hills</city>
+        <state>Kentucky</state>
+        <zip>41017-3464</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Metairie</city>
+        <state>Louisiana</state>
+        <zip>70006-2930</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Metairie</city>
+        <state>Louisiana</state>
+        <zip>70006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Hyattsville</city>
+        <state>Maryland</state>
+        <zip>20782</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Rockville</city>
+        <state>Maryland</state>
+        <zip>20852</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Buckley</city>
+        <state>Michigan</state>
+        <zip>49620</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Southfield</city>
+        <state>Michigan</state>
+        <zip>48034-7661</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Southfield</city>
+        <state>Michigan</state>
+        <zip>48075</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Troy</city>
+        <state>Michigan</state>
+        <zip>48098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Chesterfield</city>
+        <state>Missouri</state>
+        <zip>63017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>St. Charles</city>
+        <state>Missouri</state>
+        <zip>63303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Henderson</city>
+        <state>Nevada</state>
+        <zip>89052-2649</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Nashua</city>
+        <state>New Hampshire</state>
+        <zip>03063</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Toms River</city>
+        <state>New Jersey</state>
+        <zip>08753-2975</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Toms River</city>
+        <state>New Jersey</state>
+        <zip>08755-8050</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>West Seneca</city>
+        <state>New York</state>
+        <zip>14224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Asheboro</city>
+        <state>North Carolina</state>
+        <zip>27203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Asheville</city>
+        <state>North Carolina</state>
+        <zip>28803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Burlington</city>
+        <state>North Carolina</state>
+        <zip>27215-8700</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28277</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27713</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Greensboro</city>
+        <state>North Carolina</state>
+        <zip>27408</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Morehead City</city>
+        <state>North Carolina</state>
+        <zip>28557</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Shelby</city>
+        <state>North Carolina</state>
+        <zip>28152</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Statesville</city>
+        <state>North Carolina</state>
+        <zip>28625-1916</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Winston Salem</city>
+        <state>North Carolina</state>
+        <zip>27103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Canton</city>
+        <state>Ohio</state>
+        <zip>44718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45242-4494</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43207-1230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Franklin</city>
+        <state>Ohio</state>
+        <zip>45005</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Kettering</city>
+        <state>Ohio</state>
+        <zip>45429</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Mason</city>
+        <state>Ohio</state>
+        <zip>45040-6815</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Maumee</city>
+        <state>Ohio</state>
+        <zip>43537</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Beaver</city>
+        <state>Pennsylvania</state>
+        <zip>15009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Bridgeville</city>
+        <state>Pennsylvania</state>
+        <zip>15017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Norristown</city>
+        <state>Pennsylvania</state>
+        <zip>19401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19152</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15224-2215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>East Providence</city>
+        <state>Rhode Island</state>
+        <zip>02914</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Columbia</city>
+        <state>South Carolina</state>
+        <zip>29201-2970</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Greer</city>
+        <state>South Carolina</state>
+        <zip>29651</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Pelzer</city>
+        <state>South Carolina</state>
+        <zip>29669</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Simpsonville</city>
+        <state>South Carolina</state>
+        <zip>29681</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Spartanburg</city>
+        <state>South Carolina</state>
+        <zip>29303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Taylors</city>
+        <state>South Carolina</state>
+        <zip>29687</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Chattanooga</city>
+        <state>Tennessee</state>
+        <zip>37404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Chattanooga</city>
+        <state>Tennessee</state>
+        <zip>37411</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Kingsport</city>
+        <state>Tennessee</state>
+        <zip>37660</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75251</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390-8858</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76113</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77074</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Irving</city>
+        <state>Texas</state>
+        <zip>75061-2210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Killeen</city>
+        <state>Texas</state>
+        <zip>76543-5600</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Lubbock</city>
+        <state>Texas</state>
+        <zip>79423</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Sugarland</city>
+        <state>Texas</state>
+        <zip>77478</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Ogden</city>
+        <state>Utah</state>
+        <zip>84403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>St. George</city>
+        <state>Utah</state>
+        <zip>84790</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Burke</city>
+        <state>Virginia</state>
+        <zip>22015</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Manassas</city>
+        <state>Virginia</state>
+        <zip>20110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Virginia Beach</city>
+        <state>Virginia</state>
+        <zip>23462</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Penrith</city>
+        <state>New South Wales</state>
+        <zip>2751</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T5J 3N4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Oulu</city>
+        <zip>90100</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Rehburg-Loccum</city>
+        <zip>31547</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Eger</city>
+        <zip>3300</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cochin</city>
+        <state>Kerala</state>
+        <zip>695010</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Dublin</city>
+        <zip>DUBLIN 7</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Palermo</city>
+        <zip>90127</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cheras</city>
+        <zip>56000</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Guadalajara</city>
+        <state>Jalisco</state>
+        <zip>44600</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Clinical Trial Call Center</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00921</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Voronezh</city>
+        <zip>394018</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Singapore</city>
+        <zip>308433</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Moldava nad Bodvou</city>
+        <zip>045 01</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Port Elizabeth</city>
+        <state>Eastern Cape</state>
+        <zip>6014</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Partida de Bacarot</city>
+        <zip>03114</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Taichung City</city>
+        <zip>407</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bangkok</city>
+        <zip>10400</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bury St Edmunds</city>
+        <zip>IP33 2QZ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>Finland</country>
+    <country>Germany</country>
+    <country>Hungary</country>
+    <country>India</country>
+    <country>Ireland</country>
+    <country>Italy</country>
+    <country>Malaysia</country>
+    <country>Mexico</country>
+    <country>Puerto Rico</country>
+    <country>Russian Federation</country>
+    <country>Singapore</country>
+    <country>Slovakia</country>
+    <country>South Africa</country>
+    <country>Spain</country>
+    <country>Taiwan</country>
+    <country>Thailand</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://novonordisk-trials.com</url>
+    <description>Clinical Trials at Novo Nordisk</description>
+  </link>
+  <verification_date>January 2014</verification_date>
+  <lastchanged_date>January 6, 2014</lastchanged_date>
+  <firstreceived_date>April 13, 2011</firstreceived_date>
+  <firstreceived_results_disposition_date>December 19, 2012</firstreceived_results_disposition_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Insulin, Globin Zinc</mesh_term>
+    <mesh_term>Insulin</mesh_term>
+    <mesh_term>Insulin, Long-Acting</mesh_term>
+    <mesh_term>Liraglutide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted, but a results disposition has been submitted -->
+</clinical_study>

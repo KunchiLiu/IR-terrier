@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9850">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02978716</url>
+  </required_header>
+  <id_info>
+    <org_study_id>G1T28-04</org_study_id>
+    <secondary_id>2016-004466-26</secondary_id>
+    <nct_id>NCT02978716</nct_id>
+  </id_info>
+  <brief_title>Trilaciclib (G1T28), a CDK 4/6 Inhibitor, in Combination With Gemcitabine and Carboplatin in Metastatic Triple Negative Breast Cancer (mTNBC)</brief_title>
+  <official_title>Phase 2 Study of the Safety, Efficacy, and Pharmacokinetics of G1T28 in Patients With Metastatic Triple Negative Breast Cancer Receiving Gemcitabine and Carboplatin Chemotherapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>G1 Therapeutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>G1 Therapeutics, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a study to investigate the potential clinical benefit of trilaciclib (G1T28) in
+      preserving the bone marrow and the immune system, and enhancing chemotherapy antitumor
+      efficacy when administered prior to carboplatin and gemcitabine (GC therapy) for patients
+      with metastatic triple negative breast cancer.
+
+      The study is open-label and approximately 90 patients will be randomly assigned (1:1:1
+      fashion) to 1 of the 3 following treatment groups:
+
+        -  Group 1: GC therapy (Days 1 and 8 of 21-day cycles) only (n=30)
+
+        -  Group 2: GC therapy (Days 1 and 8) plus trilaciclib (G1T28) on Days 1 and 8 of 21-day
+           cycles (n=30)
+
+        -  Group 3: GC therapy (Days 2 and 9) plus trilaciclib (G1T28) on Days 1, 2, 8, and 9 of
+           21-day cycles (n=30)
+
+      The study will include 3 study phases: Screening Phase, Treatment Phase, and Survival
+      Follow-up Phase. The Treatment Phase begins on the day of first dose with study treatment
+      and completes at the Post-Treatment Visit.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>January 2017</start_date>
+  <completion_date type="Anticipated">December 2019</completion_date>
+  <primary_completion_date type="Anticipated">December 2018</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Treatment Related Adverse Event, including Abnormal Laboratory Events</measure>
+    <time_frame>18 months</time_frame>
+    <description>All AEs, including clinical laboratory, vitals signs, physical examinations and ECGs will be analyzed in all patients receiving study drug from from the signing of the informed consent until 30 days after the last dose of study medication up to 18 months</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Tumor response based on RECIST, Version 1.1</measure>
+    <time_frame>18 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression free survival (PFS)</measure>
+    <time_frame>27 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>36 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hematologic parameters</measure>
+    <time_frame>18 months</time_frame>
+    <description>Number of patients with treatment related abnormal laboratory assessments. Laboratory toxicities will be assessed using NCI CTCAE, Version 4.03</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of Trilaciclib (G1T28), Carboplatin and Gemcitabine: Maximum Plasma Concentration (Cmax)</measure>
+    <time_frame>24 hours</time_frame>
+    <description>The observed peak plasma concentration determined from the plasma (Cmax)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of Trilaciclib (G1T28), Carboplatin and Gemcitabine: Area under Curve - plasma concentration (AUC)</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Area under the plasma concentration-time curve (AUC)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of Trilaciclib (G1T28), Carboplatin and Gemcitabine: Plasma: terminal half life (T1/2)</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Plasma- terminal half life (T1/2)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of Trilaciclib (G1T28), Carboplatin and Gemcitabine: Plasma - Volume of distribution</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Volume of distribution in the terminal elimination phase (Vz)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of chemotherapy dose reductions</measure>
+    <time_frame>18 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of dose interruptions overall</measure>
+    <time_frame>18 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>Triple-Negative Breast Neoplasms</condition>
+  <condition>Breast Neoplasm</condition>
+  <condition>Breast Cancer</condition>
+  <condition>Triple-Negative Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Group 1: Gemcitabine/Carboplatin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>GC chemotherapy (gemcitabine 1000 mg/m2 and carboplatin AUC = 2 administered IV) on Days 1 and 8 in 21-day cycles.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2: Trilaciclib (G1T28) + Gemcitabine/Carboplatin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Trilaciclib (G1T28) IV prior to GC chemotherapy (gemcitabine 1000 mg/m2 and carboplatin AUC = 2 administered IV) on Days 1 and 8 in 21-day cycles.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3: Trilaciclib (G1T28) + Gemcitabine/Carboplatin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Trilaciclib (G1T28) IV on Days 1, 2, 8 and 9. GC chemotherapy (gemcitabine 1000 mg/m2 and carboplatin AUC = 2 administered IV) on Days 2 and 9 in 21-day cycles.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Trilaciclib</intervention_name>
+    <arm_group_label>Group 2: Trilaciclib (G1T28) + Gemcitabine/Carboplatin</arm_group_label>
+    <arm_group_label>Group 3: Trilaciclib (G1T28) + Gemcitabine/Carboplatin</arm_group_label>
+    <other_name>G1T28</other_name>
+    <other_name>CDK 4/6 Inhibitor</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Gemcitabine</intervention_name>
+    <arm_group_label>Group 1: Gemcitabine/Carboplatin</arm_group_label>
+    <arm_group_label>Group 2: Trilaciclib (G1T28) + Gemcitabine/Carboplatin</arm_group_label>
+    <arm_group_label>Group 3: Trilaciclib (G1T28) + Gemcitabine/Carboplatin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carboplatin</intervention_name>
+    <arm_group_label>Group 1: Gemcitabine/Carboplatin</arm_group_label>
+    <arm_group_label>Group 2: Trilaciclib (G1T28) + Gemcitabine/Carboplatin</arm_group_label>
+    <arm_group_label>Group 3: Trilaciclib (G1T28) + Gemcitabine/Carboplatin</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Confirmed diagnosis of HR-negative, HER2-negative (TNBC) breast cancer
+
+          -  Available TNBC diagnostic tumor tissue (archived tissue allowed)
+
+          -  Measurable disease as defined by RECIST, Version 1.1
+
+          -  ECOG performance status 0 to 1
+
+          -  Adequate organ function
+
+          -  Predicted life expectancy of 3 or more months
+
+        Exclusion Criteria:
+
+          -  More than 1 prior chemotherapy regimen for locally recurrent or metastatic TNBC
+
+          -  Prior treatment of locally recurrent or metastatic breast cancer with gemcitabine,
+             carboplatin, or cisplatin (previous adjuvant/neoadjuvant chemotherapy with
+             carboplatin, cisplatin, or gemcitabine is allowed if ≥ 12 months have elapsed between
+             the date of last adjuvant/neoadjuvant chemotherapy administration and first
+             documented local or distant disease recurrence)
+
+          -  Less than 12 months between date of last adjuvant chemotherapy administration (with
+             curative intent) and first documented local or distant disease recurrence.
+
+          -  Active uncontrolled/symptomatic CNS metastases, carcinomatous meningitis, or
+             leptomeningeal disease
+
+          -  Investigational drug within 30 days of first trilaciclib (G1T28) dose
+
+          -  Concurrent radiotherapy, radiotherapy within 14 days of first trilaciclib (G1T28)
+             dose
+
+          -  Cytotoxic chemotherapy within 3 weeks of first trilaciclib (G1T28) dose
+
+          -  Prior hematopoietic stem cell or bone marrow transplantation
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Contact</last_name>
+    <role>Study Director</role>
+    <affiliation>G1 Therapeutics, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>G1 Therapeutics Clinical Contact</last_name>
+    <email>clinicalinfo@g1therapeutics.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Arizona Oncology Associates, PC - HOPE</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85704</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Rachel Swart, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Disney Family Cancer Center</name>
+      <address>
+        <city>Burbank</city>
+        <state>California</state>
+        <zip>91505</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Raul Mena, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sharp Clinical Oncology</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Reema Batra, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial UC Health</name>
+      <address>
+        <city>Colorado Springs</city>
+        <state>Colorado</state>
+        <zip>80909</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Uchenna Nijiaju, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Cancer Specialists</name>
+      <address>
+        <city>Fort Myers</city>
+        <state>Florida</state>
+        <zip>33916</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Lowell Hart, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Cancer Research Institute, LLC.</name>
+      <address>
+        <city>Plantation</city>
+        <state>Florida</state>
+        <zip>33324</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Lauren Carcas, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Cancer Specialists - North (FCS North)</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Florida</state>
+        <zip>33705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Gail Wright, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Moffitt Cancer Center</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Hyo Han, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Cancer Specialists - East (FCS East)</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Eric Harris, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Alphonsus Regional Medical Center</name>
+      <address>
+        <city>Boise</city>
+        <state>Idaho</state>
+        <zip>83706</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Kerry Pulver, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Norton Cancer Institute</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Jeffrey Hargis, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Maryland Greenebaum Comprehensive Cancer Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201-1544</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Katherine Tkaczuk, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Luke's Cancer Institute</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64113</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Timothy Pluard, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Comprehensive Cancer Centers of Nevada</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89128</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Anu R. Thummala, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Levine Cancer Center</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Antoinette Tan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Forsyth Memorial Hospital, Novant Health Oncology Specialists</name>
+      <address>
+        <city>Winston Salem</city>
+        <state>North Carolina</state>
+        <zip>27103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Judith Hopkins, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tennessee Oncology</name>
+      <address>
+        <city>Chattanooga</city>
+        <state>Tennessee</state>
+        <zip>37404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Brooke Daniel, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tennessee Oncology</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Denise Yardley, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology-Dallas Presbyterian Hospital</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>75231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Kristi J. McIntyre, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology, P.A.</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78745</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Debra A. Patt, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology, P.A.</name>
+      <address>
+        <city>Bedford</city>
+        <state>Texas</state>
+        <zip>76022</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Thomas C. Anderson, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology - Baylor Charles A. Sammons Cancer Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Joyce A. O'Shaughnessy, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology-El Paso Cancer Treatment Center Grandview</name>
+      <address>
+        <city>El Paso</city>
+        <state>Texas</state>
+        <zip>79902</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Ines J. Sanchez-Rivera, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Center for Cancer and Blood Disorders</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Robyn Young, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology-San Antonio Northeast</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78217</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Sharon T. Wilks, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tyler Hematology-Oncology, PA</name>
+      <address>
+        <city>Tyler</city>
+        <state>Texas</state>
+        <zip>75701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Arielle Lee, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology, P.A.</name>
+      <address>
+        <city>Tyler</city>
+        <state>Texas</state>
+        <zip>75702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Donald A. Richards, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Patrick Dillon, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Cancer Specialists, PC</name>
+      <address>
+        <city>Fairfax</city>
+        <state>Virginia</state>
+        <zip>22031</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Anne M. Favret, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Oncology Associates</name>
+      <address>
+        <city>Virginia Beach</city>
+        <state>Virginia</state>
+        <zip>23456</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Michael A. Danso, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Northwest Medical Specialties, PLLC</name>
+      <address>
+        <city>Tacoma</city>
+        <state>Washington</state>
+        <zip>98405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Sibel Blau, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Centre Osijek</name>
+      <address>
+        <city>Osijek</city>
+        <zip>31000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Dejan Labudović, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>General Hospital Varaždin</name>
+      <address>
+        <city>Varazdin</city>
+        <zip>42000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Željko Vojnović, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Centre &quot;Sestre milosrdnice&quot;</name>
+      <address>
+        <city>Zagreb</city>
+        <zip>10000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Nina Dabelić, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Centre Zagreb</name>
+      <address>
+        <city>Zagreb</city>
+        <zip>10000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Damir Vrbanec, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rocky Mountain Cancer Centers</name>
+      <address>
+        <city>Lakewood</city>
+        <state>Colorado</state>
+        <zip>80228</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Ling Ma, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Croatia</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 31, 2017</lastchanged_date>
+  <firstreceived_date>November 18, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Breast Cancer</keyword>
+  <keyword>CDK 4/6 Inhibitor</keyword>
+  <keyword>Triple Negative Breast Cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Triple Negative Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Gemcitabine</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

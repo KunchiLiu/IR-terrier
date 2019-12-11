@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="58516">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02344251</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PRO00033472</org_study_id>
+    <nct_id>NCT02344251</nct_id>
+  </id_info>
+  <brief_title>Assessing the Effectiveness and Safety of the ID-Cap System for Medication Monitoring and Adherence</brief_title>
+  <official_title>A Phase II Randomized Trial to Assess the Effectiveness and Safety of the ID-Cap System for Medication Ingestion Monitoring and Enhancing Adherence</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical University of South Carolina</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Medical University of South Carolina</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In pharmacotherapy trials involving drug-dependent individuals, medication compliance is a
+      significant issue, as rates tend to be low and adherence to medication may predict improved
+      outcomes (Baros et al, 2007; McRae et al, 2004; O'Brien et al, 1996; Somoza et al., 2010).
+      However, methods commonly used to determine compliance may result in inaccurate measurement
+      of adherence. In this study, we propose to assess the effectiveness and safety of the
+      ID-Cap-M, a novel compliance measurement device, in a healthy population.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The primary objective of this clinical trial is to evaluate the acceptability, tolerability,
+      and efficacy of the ID-Cap-M in a healthy population. The ID-Cap is an ingestible medical
+      device for detecting the presence of an ingested capsule inside the gastrointestinal (GI)
+      tract.
+
+      Participation in the study takes 3 visits over a period of approximately six weeks. The
+      first visit is a screening visit to determine if participants are eligible to participate.
+      After the initial assessment visit, participants will be randomized to one of two groups.
+      Group 1 will have compliance measured by self-report and urine riboflavin levels. This group
+      will not receive computer-chipped capsules, but will receive their medication in a bottle
+      capped with a MEMS Track Cap, which records when the medication bottle is opened and closed.
+      Group 2 will receive computer-chipped capsules and will have compliance measured by
+      self-report, urine riboflavin levels, and data collected by an e-Tect reader. Participants
+      randomized to this group will also receive reminder calls and/or text messages to ingest the
+      study medication if a signal is not sent from the e-Tect reader to the study team within one
+      hour of the scheduled medication administration time. They will also be using biometric
+      identification technology to ensure that they are taking the capsules as directed,
+      specifically electrocardiogram (ECG).
+
+      After the initial screening visit, participants will be required to attend two clinic visits
+      during the six-week study, a randomization visit and a one-week follow-up visit
+      approximately one week after last medication dose.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">June 1, 2016</start_date>
+  <completion_date type="Anticipated">June 1, 2017</completion_date>
+  <primary_completion_date type="Actual">December 7, 2016</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Medication compliance</measure>
+    <time_frame>Six weeks</time_frame>
+    <description>The primary outcome will be medication compliance as measured by the proportion of days adherent to taking medication.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Safety assessment: Rates of adverse events reported</measure>
+    <time_frame>Six weeks</time_frame>
+    <description>A secondary outcome will be safety assessment as measured by the rate of adverse events reported.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">40</enrollment>
+  <condition>Medication Compliance</condition>
+  <arm_group>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Compliance measured by MEMS Cap, riboflavin and self-report.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Compliance measured by riboflavin, self-report, and ID-Cap technology.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>MEMS Cap</intervention_name>
+    <description>MEMS Track Cap records when the medication bottle is opened and closed</description>
+    <arm_group_label>Group 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>ID-Cap</intervention_name>
+    <description>ID-Cap Tag is an ingestible medical device for detecting the presence of an ingested capsule inside the gastrointestinal (GI) tract.</description>
+    <arm_group_label>Group 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Riboflavin</intervention_name>
+    <description>50 mg</description>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_label>Group 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Must be between the ages of 18 and 65 years
+
+          -  If female and of childbearing potential, must agree to use acceptable methods of
+             birth control for the duration of the trial
+
+          -  Must consent to random assignment, and be willing to commit to medication ingestion
+
+          -  Must be able to read and provide informed consent
+
+          -  Must function at an intellectual level sufficient to allow accurate completion of
+             assessments
+
+          -  Must have a Body Mass Index (BMI) below 35
+
+        Exclusion Criteria:
+
+          -  Women who are pregnant, nursing, or plan to become pregnant during the course of the
+             study
+
+          -  Must not have evidence of a significant medical condition which may affect capsule
+             passage through the gastrointestinal tract (including, but not limited to, Crohn's
+             disease, small bowel tumors, intestinal adhesions, ulcerations, and radiation
+             enteritis)
+
+          -  Must not have a current major psychiatric disorder as these may interfere with
+             assessment measures
+
+          -  Must not be currently dependent on other substances, with the exception of nicotine
+             or caffeine, within the past 60 days
+
+          -  Hypersensitivity to riboflavin or any other capsule component;
+
+          -  Individuals with embedded electronic devices
+
+          -  Patients who, in the investigator's opinion, would be unable to comply with study
+             procedures or assessments, or would be unacceptable study candidates (e.g., poses
+             threat to staff)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Aimee McRae-Clark, PharmD, BCPP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical University of South Carolina</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 14, 2017</lastchanged_date>
+  <firstreceived_date>January 16, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Medical University of South Carolina</investigator_affiliation>
+    <investigator_full_name>Aimee McRae-Clark</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Drug study</keyword>
+  <keyword>Medication compliance</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Riboflavin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="29460">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02723188</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TASMC-13-TH-334</org_study_id>
+    <nct_id>NCT02723188</nct_id>
+  </id_info>
+  <brief_title>Modulation of Fear Extinction Processes Using Transcranial Electrical Stimulation</brief_title>
+  <official_title>Modulation of Fear Extinction Processes Using Transcranial Electrical Stimulation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tel Aviv University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Tel Aviv University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to examine the effects of transcranial electrical stimulation on
+      processes associated with fear extinction in healthy humans.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Research links the processes of fear conditioning and extinction to the treatment of anxiety
+      and stress-related disorders. Moreover, considerable translational research examines the
+      neural correlates of these processes. However, virtually no research in humans manipulates
+      neural correlates of these processes, which limits basic-clinical integration. The present
+      study aimed to use transcranial electrical stimulation (tES) to modulate processes
+      associated with fear extinction in order to assess the potential utility of tES in enhancing
+      exposure-based treatment. To this end, healthy participants underwent a three-day fear
+      conditioning and extinction paradigm. Participants were randomly assigned into 3 groups,
+      differing in terms of tES applied during the extinction learning phase (Day 2) and targeting
+      the medial prefrontal cortex: 1) direct current (DC) stimulation, aimed at enhancing
+      extinction learning; 2) alternate current (AC) stimulation, aimed at interfering with
+      reconsolidation of the fear memory activated during the extinction phase; and 3) sham
+      stimulation. The outcome measures (outlined next) involve the assessment of extinction
+      recall during a test phase (Day 3). Successful modulation of extinction learning by tES
+      would be reflected in enhanced extinction recall.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 2014</start_date>
+  <completion_date type="Actual">April 2015</completion_date>
+  <primary_completion_date type="Actual">April 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Double Blind (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Galvanic skin response (GSR)</measure>
+    <time_frame>During three-day experimental task</time_frame>
+    <description>Measured throughout task using 2 standard electrodes on fingers</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Self-reported fear rankings</measure>
+    <time_frame>During three-day experimental task</time_frame>
+    <description>Participants marked how fearful they are of stimuli used in task (1-7 scale)</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">45</enrollment>
+  <condition>Stress Related Disorder</condition>
+  <condition>Anxiety</condition>
+  <arm_group>
+    <arm_group_label>Sham</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Sham electrical stimulation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>DC: Direct current</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Direct current electrical stimulation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AC: Alternating current</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Alternating current electrical stimulation</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Sham stimulation (1.5 milliampere,30 seconds)</intervention_name>
+    <arm_group_label>Sham</arm_group_label>
+    <other_name>DC Stimulator Plus (neuroConn, Germany), serial 0118</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>DC stimulation (1.5 milliampere, 20 minutes)</intervention_name>
+    <arm_group_label>DC: Direct current</arm_group_label>
+    <other_name>DC Stimulator Plus (neuroConn, Germany), serial 0118</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>AC stimulation (1.5 milliampere,1.5 Hertz frequency)</intervention_name>
+    <arm_group_label>AC: Alternating current</arm_group_label>
+    <other_name>DC Stimulator Plus (neuroConn, Germany), serial 0118</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Exclusion Criteria:
+
+          -  Self-reported major psychiatric condition
+
+          -  Screening specific for electrical stimulation (psychotropic medication, metal
+             implants in head, epilepsy or seizure history)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <verification_date>March 2016</verification_date>
+  <lastchanged_date>March 29, 2016</lastchanged_date>
+  <firstreceived_date>March 24, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Tel Aviv University</investigator_affiliation>
+    <investigator_full_name>Yair Bar-Haim</investigator_full_name>
+    <investigator_title>Professor of Psychology</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

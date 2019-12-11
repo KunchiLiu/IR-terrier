@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="39912">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02586805</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DX-2930-03</org_study_id>
+    <secondary_id>2015-003943-20</secondary_id>
+    <nct_id>NCT02586805</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety Study of DX-2930 to Prevent Acute Angioedema Attacks in Patients With Type I and Type II HAE</brief_title>
+  <official_title>HELP Study: A Multicenter, Randomized, Double-Blind, Placebo-Controlled Efficacy and Safety Study to Evaluate DX-2930 For Long-Term Prophylaxis Against Acute Attacks of Hereditary Angioedema (HAE)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shire</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Dyax Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Shire</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase 3, multicenter, randomized, double-blind, placebo-controlled trial to
+      evaluate the efficacy and safety of DX-2930 in preventing acute angioedema attacks in
+      patients with Type I and Type II HAE.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>November 2015</start_date>
+  <completion_date type="Anticipated">March 2017</completion_date>
+  <primary_completion_date type="Anticipated">March 2017</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Participant, Care Provider, Investigator, Outcomes Assessor</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Investigator confirmed HAE attacks per week observed in each DX-2930 treatment arm versus placebo arm</measure>
+    <time_frame>Efficacy assessment period (Day 0 through Day 182)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number per week of HAE attacks requiring acute attack therapy use for each DX-2930 treatment arm versus placebo arm</measure>
+    <time_frame>Efficacy assessment period (Day 0 through Day 182)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number per week of moderate or severe HAE attacks for each DX-2930 treatment arm versus placebo arm</measure>
+    <time_frame>Efficacy assessment period (Day 0 through Day 182)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Investigator confirmed HAE attacks for each DX-2930 treatment arm versus placebo arm occurring on Day 14 through Day 182</measure>
+    <time_frame>Day 14 through Day 182</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Hereditary Angioedema</condition>
+  <arm_group>
+    <arm_group_label>DX-2930 300 mg every 2 weeks</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>300 mg DX-2930 administered every 2 weeks by subcutaneous injection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>DX-2930 300 mg every 4 weeks</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>300 mg DX-2930 administered every 4 weeks by subcutaneous injection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>DX-2930 150 mg every 4 weeks</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>150 mg DX-2930 administered every 4 weeks by subcutaneous injection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo administered every 2 weeks by subcutaneous injection.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>DX-2930 - 300mg/2wk</intervention_name>
+    <description>300 mg DX-2930 administered every 2 weeks by subcutaneous injection.</description>
+    <arm_group_label>DX-2930 300 mg every 2 weeks</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>DX-2930 - 300mg/4wk</intervention_name>
+    <description>300 mg DX-2930 administered every 4 weeks by subcutaneous injection. To maintain the study blind, subjects will be given placebo injections every other 2 weeks when they are not receiving drug.</description>
+    <arm_group_label>DX-2930 300 mg every 4 weeks</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>DX-2930 - 150mg/4wk</intervention_name>
+    <description>150 mg DX-2930 administered every 4 weeks by subcutaneous injection. To maintain the study blind, subjects will be given placebo injections every other 2 weeks when they are not receiving drug.</description>
+    <arm_group_label>DX-2930 150 mg every 4 weeks</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo administered every 2 weeks by subcutaneous injection.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Males and females 12 years of age or older at time of screening
+
+          -  Documented diagnosis of HAE, Type I or II
+
+          -  Baseline rate of at least 1 Investigator-confirmed HAE attack per 4 weeks
+
+          -  Adult subjects and caregivers of subjects under the age of 18 are willing and able to
+             read, understand, and sign an informed consent form. Subjects age 12 to 17, whose
+             caregiver provides informed consent, are willing and able to read, understand an
+             dsign an assent form.
+
+          -  Males and femailes who are fertile and sexually active must adhere to contraception
+             requirements.
+
+        Exclusion Criteria:
+
+          -  Concomitant diagnosis of another form of chronic, recurrent angioedema, such as
+             acquired angioedema, idiopathic angioedema, or recurrent angioedema associated with
+             urticaria.
+
+          -  Participation in a prior DX-2930 study
+
+          -  Treatment with any other investigational drug or exposure to an investigational
+             device within 4 weeks prior screening
+
+          -  Exposure to angiotensin-converting enzyme (ACE) inhibitors or any estrogen-containing
+             medications within 4 weeks prior to screening.
+
+          -  Exposure to androgens within 2 weeks prior to entering the run-in period.
+
+          -  Use of long-term prophylactic therapy for HAE within 2 weeks prior to entering the
+             run-in period.
+
+          -  Use of short-term prophylaxis for HAE within 7 days prior to entering the run-in
+             period.
+
+          -  Any of the following liver function test abnormalities: alanine aminotransferase
+             (ALT) &gt; 3x upper limit of normal, or aspartate aminotransferase (AST) &gt; 3x upper
+             limit of normal, or total bilirubin &gt; 2x upper limit of normal (unless the bilirubin
+             elevation is a result of Gilbert's syndrome).
+
+          -  Pregnancy or breastfeeding.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Shire Physician</last_name>
+    <role>Study Director</role>
+    <affiliation>Shire</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Clinical Research Center of Alabama, LLC</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Research of Arizona</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85251</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UC San Diego School of Medicine</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AIRE Medical of Los Angeles</name>
+      <address>
+        <city>Santa Monica</city>
+        <state>California</state>
+        <zip>90404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Allergy &amp; Asthma Clinical Research</name>
+      <address>
+        <city>Walnut Creek</city>
+        <state>California</state>
+        <zip>94598</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>IMMUNOe International Health &amp; Research Centers</name>
+      <address>
+        <city>Centennial</city>
+        <state>Colorado</state>
+        <zip>80112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Asthma and Allergy Associates, P.C.</name>
+      <address>
+        <city>Colorado Springs</city>
+        <state>Colorado</state>
+        <zip>80907</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of South Florida</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33613</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kansas Medical Center</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Kansas</state>
+        <zip>66160</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institute of Asthma &amp; Allergy, P.C.</name>
+      <address>
+        <city>Chevy Chase</city>
+        <state>Maryland</state>
+        <zip>20815</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02421</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan Hospital and Health System</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Midwest Immunology Clinic</name>
+      <address>
+        <city>Plymouth</city>
+        <state>Minnesota</state>
+        <zip>55446</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hudson-Essex Allergy, LLC</name>
+      <address>
+        <city>Belleville</city>
+        <state>New Jersey</state>
+        <zip>07109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Atlantic Research Center, LLC</name>
+      <address>
+        <city>Ocean</city>
+        <state>New Jersey</state>
+        <zip>07712</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Winthrop University Hospital</name>
+      <address>
+        <city>Mineola</city>
+        <state>New York</state>
+        <zip>11501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Mount Sinai Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>American Health Research</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28277</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Duke Asthma, Allergy and Airway Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bernstein Clinical Research Center, LLC</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Optimed Research, LTD</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Toledo Institute of Clinical Research</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43617</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Penn State Milton S. Hershey Medical Center</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Austin Regional Clinic</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78731</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AARA Research Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Intermountain Clinical Research</name>
+      <address>
+        <city>Draper</city>
+        <state>Utah</state>
+        <zip>84020</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Allergy Associates of Utah</name>
+      <address>
+        <city>Murray</city>
+        <state>Utah</state>
+        <zip>84107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Commonwealth University</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Marycliff Allergy Specialists</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Wisconsin</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ottawa Allergy Research Corporation</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1G 6C6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gordon Sussman Clinical Research Inc.</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M4V 1R2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique Specialisee en Allergie de la Capitale</name>
+      <address>
+        <city>Quebec City</city>
+        <state>Quebec</state>
+        <zip>G1V 4M6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Charité - University of Berlin</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10117</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hautklinik und Poliklinik der Universitätsmedizin</name>
+      <address>
+        <city>Mainz</city>
+        <zip>55131</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>HZRM Hamophilie-Zentrum Rhein Main</name>
+      <address>
+        <city>Morfelden-Walldorf</city>
+        <zip>64546</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital L. Sacco, Milan University</name>
+      <address>
+        <city>Milan</city>
+        <zip>20157</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Triumpharma</name>
+      <address>
+        <city>Amman</city>
+        <zip>11941</zip>
+        <country>Jordan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sociedad Alergologica</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00918</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Barts Health NHS Trust Clinical Research Centre</name>
+      <address>
+        <city>London</city>
+        <zip>E1 2ES</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>Germany</country>
+    <country>Italy</country>
+    <country>Jordan</country>
+    <country>Puerto Rico</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2017</verification_date>
+  <lastchanged_date>February 15, 2017</lastchanged_date>
+  <firstreceived_date>October 23, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>DX-2930</keyword>
+  <keyword>Hereditary Angioedema</keyword>
+  <keyword>Dyax</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Angioedema</mesh_term>
+    <mesh_term>Angioedemas, Hereditary</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="20125">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02844907</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00070325</org_study_id>
+    <secondary_id>01992</secondary_id>
+    <nct_id>NCT02844907</nct_id>
+  </id_info>
+  <brief_title>Paracrine Effects on Insulin Secretion</brief_title>
+  <official_title>Regulation of Insulin Secretion by the GLP-1 Receptor</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>David D'Alessio, M.D.</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Durham VA Medical Center</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Duke University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine the interaction of GLP-1 and GIP to regulate
+      insulin secretion in nondiabetic subjects. The first part of this aim will determine the
+      threshold plasma concentration of GLP-1 that increases insulin secretion to test the
+      hypothesis that fasting levels of circulating GLP-1 are insufficient to mediate β-cell
+      secretion. The second part of the aim will determine whether the insulin response to
+      specific amino acids is dependent on the α-cell release of GLP-1.
+
+      The study will enroll up to 40 healthy overweight participants and while it is anticipated
+      that the screening blood draw will yield a number of screen failures, it is estimated that
+      12 subjects will complete the entire study protocol. Enrolled participants will be asked to
+      complete five study visits including the consent visit and four infusion study visits that
+      will include hyperglycemic clamps. Each infusion procedure will last 4 hours.
+
+      The primary outcome for visits 2-3 will be insulin secretion in response to hyperglycemia
+      and GLP-1. Data will be analyzed using 2-way ANOVA for repeated measures using time and
+      treatment as the two factors. Post-hoc comparisons will be used to determine the stage when
+      intact GLP-1 levels exceed fasting levels and the stage when insulin secretion exceeds that
+      of the clamp alone. The primary outcome for visits 4-5 will be arginine-stimulated insulin
+      secretion with and without GLP-1r blockade. The mean increment of ISR above baseline in the
+      15 minutes after arginine stimulation will be used to integrate insulin secretion, the
+      primary outcome measure, and two-way analysis of variance with fasting/hyperglycemia, and
+      Ex-9/saline as the two factors; post-hoc comparisons among the 4 insulin responses will be
+      made if a significant interaction is present.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2017</start_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Beta-cell sensitivity</measure>
+    <time_frame>20-30 minute infusion periods</time_frame>
+    <description>Beta-cell sensitivity for each incretin will equal the slope of the insulin secretion</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Insulin Secretion</condition>
+  <arm_group>
+    <arm_group_label>Hyperglycemic clamp</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>During the 4-hour procedure, a variable infusion of 20% dextrose and blood glucose will be clamped at basal + 3mM.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Hyperglycemic clamp + GLP-1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>During the 4-hour procedure, a variable infusion of 20% dextrose and blood glucose will be clamped at basal + 3mM. Participants will receive an infusion of synthetic GLP-1 between the 60-160 minute time-points of the clamp. The amount of GLP-1 infused will begin at 10ng/kg/h and will increase to 20, 30, 40 and 50 ng/kg/h in 20-minute intervals.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Hyperglycemic clamp + Arginine + Ex-9</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Following baseline blood sampling, participants will begin an infusion of Exendin-9 (Ex-9) (750 pmol/kg/min) for 180 minutes. One hour (time-point 60) into the infusion study, participants will receive an IV bolus infusion of 5g arginine (a simple amino acid) over 1 minute followed by frequent blood sampling over 30 minutes. Upon removal of these blood samples, a hyperglycemic clamp will begin and continued for 90 minutes. At the 150 minute time-point, a second arginine bolus will be given with frequent blood sampling (3.5ml) over the ensuing 30 minutes.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Hyperglycemic clamp + Arginine + Saline</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Following baseline blood sampling, participants will begin an infusion of saline for 180 minutes. One hour (time-point 60) into the infusion study, participants will receive an IV bolus infusion of 5g arginine (a simple amino acid) over 1 minute followed by frequent blood sampling over 30 minutes. Upon removal of these blood samples, a hyperglycemic clamp will begin and continued for 90 minutes. At the 150 minute time-point, a second arginine bolus will be given with frequent blood sampling (3.5ml) over the ensuing 30 minutes.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GLP-1</intervention_name>
+    <description>Upon establishing a hyperglycemic clamp (target: 125 mg/dL) GLP-1 will be infused.</description>
+    <arm_group_label>Hyperglycemic clamp + GLP-1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ex-9</intervention_name>
+    <description>Upon establishing a hyperglycemic clamp (target: 125 mg/dL) Ex-9 will be infused.</description>
+    <arm_group_label>Hyperglycemic clamp + Arginine + Ex-9</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Arginine</intervention_name>
+    <description>IV bolus infusion of 5g arginine over 1 minute.</description>
+    <arm_group_label>Hyperglycemic clamp + Arginine + Ex-9</arm_group_label>
+    <arm_group_label>Hyperglycemic clamp + Arginine + Saline</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Hyperglycemic Clamp</intervention_name>
+    <description>A variable infusion of 20% dextrose will begin to clamp the blood glucose at basal +3 mM.</description>
+    <arm_group_label>Hyperglycemic clamp</arm_group_label>
+    <arm_group_label>Hyperglycemic clamp + GLP-1</arm_group_label>
+    <arm_group_label>Hyperglycemic clamp + Arginine + Ex-9</arm_group_label>
+    <arm_group_label>Hyperglycemic clamp + Arginine + Saline</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Saline</intervention_name>
+    <description>Saline will be infused through the IV line</description>
+    <arm_group_label>Hyperglycemic clamp + Arginine + Saline</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Body Mass Index (BMI) 25-35 kg/m2
+
+          -  HbA1c ≤ 5.7%
+
+          -  Ability to speak and understand English
+
+        Exclusion Criteria:
+
+          -  Rheumatoid arthritis
+
+          -  Diabetes or immediate family history of diabetes
+
+          -  Coronary artery disease
+
+          -  Congestive heart failure
+
+          -  Pulmonary disorders, including COPD and asthma
+
+          -  Malabsorptive GI disease, such as celiac disease, or gastric bypass
+
+          -  Significant hepatic disease
+
+          -  Renal insufficiency (eGFR &lt; 60 mL/kg/min)
+
+          -  Anemia (hematocrit &lt; 34%) as measured at screening visit
+
+          -  Pregnant females
+
+          -  Consumption of daily medications that alter glucose metabolism of GI function
+             (glucocorticoids, psychotropics, narcotics, metoclopramide)
+
+          -  Consumption or injection of insulin
+
+          -  Apparent sensitivity to any of the study peptides as determined by the skin test
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>25 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Leslie Willis, MS</last_name>
+    <phone>919-660-6782</phone>
+    <email>leslie.willis@duke.edu</email>
+  </overall_contact>
+  <verification_date>July 2016</verification_date>
+  <lastchanged_date>January 31, 2017</lastchanged_date>
+  <firstreceived_date>July 22, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Duke University Medical Center</investigator_affiliation>
+    <investigator_full_name>David D'Alessio, M.D.</investigator_full_name>
+    <investigator_title>Professor, Division Chief of Endocrinology</investigator_title>
+  </responsible_party>
+  <keyword>Incretins</keyword>
+  <keyword>GLP-1</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Glucagon-Like Peptide 1</mesh_term>
+    <mesh_term>Glucagon</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="32490">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02683707</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00089755</org_study_id>
+    <nct_id>NCT02683707</nct_id>
+  </id_info>
+  <brief_title>The Platelet Aggregation After tiCagrelor Inhibition and FentanYl Trial (PACIFY)</brief_title>
+  <acronym>PACIFY</acronym>
+  <official_title>The Platelet Aggregation After tiCagrelor Inhibition and FentanYl Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      With potent analgesic properties, perceived hemodynamic benefits and limited alternatives,
+      opiates are the analgesic mainstay for acute coronary syndrome (ACS) patients reporting
+      peri-procedural pain or nitrate-resistant chest pain. However, large observational studies
+      suggest that opiate administration during ACS may result in adverse cardiovascular outcomes.
+      Complimenting this, a number of recent mechanistic studies have demonstrated delayed and
+      attenuated effects of oral dual anti-platelet therapy (DAPT) on platelet inhibition
+      endpoints among subjects receiving intravenous morphine. These studies support the
+      hypothesis that morphine delays the gastrointestinal absorption of DAPT medications.
+      However, no data exist on the impact of intravenous fentanyl, a systemic opioid analgesic
+      routinely administered during percutaneous coronary intervention (PCI) procedures, on the
+      platelet inhibition effects of DAPT. The investigators hypothesize that, similar to
+      morphine, fentanyl administered at the time of PCI will reduce and delay the effect of DAPT
+      on platelet function. As such, the primary aim of this study is to test the impact of
+      intravenous fentanyl on residual platelet reactivity by randomizing patients undergoing PCI
+      to a strategy of peri-procedural benzodiazepine plus non-systemic local analgesia or to the
+      current standard of benzodiazepine plus intravenous fentanyl. Given the critical need for
+      rapid and robust inhibition of platelet function during PCI, this trial has true potential
+      to change clinical practice, particularly if the investigators demonstrate reduced DAPT
+      absorption and elevated residual platelet reactivity among patients receiving fentanyl
+      during PCI.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>March 2016</start_date>
+  <completion_date type="Anticipated">March 2017</completion_date>
+  <primary_completion_date type="Anticipated">March 2017</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single Blind (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Ticagrelor Pharmacokinetics</measure>
+    <time_frame>Measured over 24 hours (at 0, 0.5, 1, 2, 4, and 24 hours)</time_frame>
+    <description>Area under the curve for Ticagrelor Absorption</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Single Time-point Platelet Reactivity using Verify Now</measure>
+    <time_frame>Measured at 2 hours</time_frame>
+    <description>Blood test of Platelet Cell Reactivity using Verify Now (P2Y12 Reactivity Units)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Platelet Reactivity using Light Transmission Aggregometry</measure>
+    <time_frame>Measured at 2 hours</time_frame>
+    <description>Blood test of Platelet Cell Reactivity using Light Transmission Aggregometry</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time-averaged Platelet Reactivity by Verify Now</measure>
+    <time_frame>Time-averaged over 24 hours (with measurements at 0, 0.5, 1, 2, 4, and 24 hours)</time_frame>
+    <description>Blood test of Platelet Cell Reactivity using Verify Now (P2Y12 Reactivity Units)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Self-reported Pain</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Patient self report of pain using a visual analog scale</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>Coronary Artery Disease</condition>
+  <arm_group>
+    <arm_group_label>PCI without IV opiate</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>IV midazolam and Local Anesthetic, with removal of IV fentanyl from peri-procedural analgesia (which is otherwise routinely given)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PCI with IV opiate</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>IV midazolam and Local Anesthetic and IV fentanyl for peri-procedural analgesia</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Removal of Fentanyl from peri-procedural analgesia</intervention_name>
+    <description>Removal of Fentanyl from peri-procedural analgesia (which is otherwise routinely given for PCI)</description>
+    <arm_group_label>PCI without IV opiate</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fentanyl</intervention_name>
+    <description>IV peri-procedural analgesia</description>
+    <arm_group_label>PCI with IV opiate</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lidocaine</intervention_name>
+    <description>Local Anesthetic</description>
+    <arm_group_label>PCI without IV opiate</arm_group_label>
+    <arm_group_label>PCI with IV opiate</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Midazolam</intervention_name>
+    <description>IV sedation</description>
+    <arm_group_label>PCI without IV opiate</arm_group_label>
+    <arm_group_label>PCI with IV opiate</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  undergoing clinically indicated PCI; &gt;18 years of age; able for PO medications and to
+             provide informed consent
+
+        Exclusion Criteria:
+
+          -  pregnant; any DAPT(clopidogrel, prasugrel, ticagrelor) within 14 days of enrollment;
+             known coagulation disorders; active treatment with oral anticoagulant or low
+             molecular weight heparin; impaired renal or hepatic function; platelets &lt; 100 x10 3
+             /mcl; planned use of Glycoprotein 2b3a for PCI; Prior Trans Arterial Valve
+             Replacement (TAVR) or planned TAVR post PCI; and contraindications to ticagrelor or
+             opiates.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John W McEvoy, MBBCh MHS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>John W McEvoy, MBBCh MHS</last_name>
+    <email>jmcevoy1@jhmi.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Johns Hopkins Hospital and University School of Medicicine</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John W McEvoy, MBBCh MHS</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2016</verification_date>
+  <lastchanged_date>March 24, 2016</lastchanged_date>
+  <firstreceived_date>February 11, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Percutaneous Coronary Intervention</keyword>
+  <keyword>Blood Platelets</keyword>
+  <keyword>Fentanyl</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lidocaine</mesh_term>
+    <mesh_term>Anesthetics, Local</mesh_term>
+    <mesh_term>Anesthetics</mesh_term>
+    <mesh_term>Fentanyl</mesh_term>
+    <mesh_term>Midazolam</mesh_term>
+    <mesh_term>Ticagrelor</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

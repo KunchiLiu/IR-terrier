@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="19772">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02849496</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2016-01130</org_study_id>
+    <secondary_id>NCI-2016-01130</secondary_id>
+    <secondary_id>10020</secondary_id>
+    <secondary_id>10020</secondary_id>
+    <secondary_id>UM1CA186689</secondary_id>
+    <nct_id>NCT02849496</nct_id>
+  </id_info>
+  <brief_title>Veliparib and Atezolizumab Either Alone or in Combination in Treating Patients With Stage III-IV Triple Negative Breast Cancer</brief_title>
+  <official_title>A Phase II Multiple-Arm, Open-Label, Randomized Study of PARP Inhibition (Veliparib; ABT-888) and Anti-PD-L1 Therapy (Atezolizumab; MPDL3280A) Either Alone or in Combination in Homologous DNA Repair (HDR) Deficient Triple Negative Breast Cancer (TNBC)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This randomized phase II trial studies how well veliparib and atezolizumab work either alone
+      or in combination in treating patients with stage III-IV triple negative breast cancer.
+      Veliparib may stop the growth of tumor cells by blocking some of the enzymes needed for cell
+      growth. Monoclonal antibodies, such as atezolizumab, may interfere with the ability of tumor
+      cells to grow and spread. It is not known whether giving veliparib and atezolizumab either
+      alone or in combination would work better in patients with triple negative breast cancer.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To determine the progression free survival (PFS) of veliparib in combination with
+      atezolizumab (MPDL3280A) in advanced triple negative breast cancer (TNBC) harboring
+      homologous deoxyribonucleic acid (DNA) repair (HDR) through breast cancer gene (BRCA) 1/2
+      mutation.
+
+      SECONDARY OBJECTIVES:
+
+      I. Determine the overall response rate (ORR) of veliparib (ABT-888) in combination with
+      MPDL3280A in advanced TNBC harboring HDR through BRCA 1/2 mutation.
+
+      II. Determine the duration of response (DoR) of ABT-888 in combination with MPDL3280A in
+      advanced TNBC harboring HDR through BRCA 1/2 mutation.
+
+      III. Determine the changes in extent of mutational burden in BRCA 1/2 mutated tumors at
+      baseline and at progression.
+
+      IV. Evaluate and characterize changes in the extent of programmed cell death ligand-1
+      (PD-L1) expression and tumor immune infiltrates.
+
+      V. Retrospectively evaluate tumors with limited immune infiltrate (e.g. &quot;non-inflamed&quot;) to
+      determine if poly (adenosine diphosphate) ribose polymerase inhibitors (PARPi) increased
+      immune infiltration.
+
+      VI. Determine the immune-related best overall response (irBOR) of ABT-888 in combination
+      with MPDL3280A in advanced TNBC harboring HDR through BRCA 1/2 mutation.
+
+      TERTIARY OBJECTIVES:
+
+      I. Evaluate changes in candidate neoantigen profiles and immune/inflammation signatures
+      using DNA and ribonucleic acid (RNA)-sequencing in serial tumor biopsies.
+
+      II. Evaluate and characterize immune parameters in peripheral blood/ peripheral blood
+      mononuclear cell (PBMCs).
+
+      III. Test the hypothesis that DNA repair status affects the tumor-immune interaction.
+
+      IV. Characterize mechanism of action of the PARP inhibitor ABT-888 (veliparib).
+
+      OUTLINE: Patients are randomized to 1 of 3 arms.
+
+      ARM I: Patients receive veliparib orally (PO) twice daily (BID) on days 1-21. Courses repeat
+      every 21 days in the absence of disease progression or unacceptable toxicity.
+
+      ARM II: Patients receive atezolizumab intravenously (IV) over 30-60 minutes on day 1.
+      Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+      ARM III: Patients receive veliparib PO BID on days 1-21 and atezolizumab IV over 30-60
+      minutes on day 1. Courses repeat every 21 days in the absence of disease progression or
+      unacceptable toxicity.
+
+      After completion of study treatment, patients are followed up for at least 4 weeks.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>November 2016</start_date>
+  <primary_completion_date type="Anticipated">August 2018</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>PFS</measure>
+    <time_frame>Time from start of treatment to time of progression or death, whichever occurs first, assessed up to 4 weeks</time_frame>
+    <description>The study arms will be compared for duration of response survival with Kaplan-Meier estimates and log-rank tests. The Rothman confidence interval (CI), which is based on Greenwood's variance, Thomas and Grunkemeier CI, and the simultaneous confidence bands by Nair and Hall and Wellner, will be reported. In addition, the possible risk factors will be compared for survival with log-rank test. For multivariate analysis, the proportional hazards Cox model will be applied to investigate potential prognostic factors, such as age and stage of disease of the PFS data. The adjusted p-values of the haza</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>DoR</measure>
+    <time_frame>Time from documentation of tumor response to disease progression, assessed up to 4 weeks</time_frame>
+    <description>The study arms will be compared for duration of response survival with Kaplan-Meier estimates and log-rank tests. The Rothman confidence interval (CI), which is based on Greenwood's variance, Thomas and Grunkemeier CI, and the simultaneous confidence bands by Nair and Hall and Wellner, will be reported. In addition, the possible risk factors will be compared for survival with log-rank test. For multivariate analysis, the proportional hazards Cox model will be applied to investigate potential prognostic factors, such as age and stage of disease of the DoR data. The adjusted p-values of the haza</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ORR evaluated by immune response criteria and normal Response Evaluation Criteria in Solid Tumors criteria</measure>
+    <time_frame>Up to 4 weeks</time_frame>
+    <description>The ORR will be estimated using the 95% confidence interval (CI) based on Wilson's method. The Bonferroni corrected Fisher's exact test will be applied to examine the difference between arm III vs. arm I and arm III vs. arm II. The Wilcoxon rank sum test and Fisher's exact test will be applied to study the association between the response status and the continuous and categorical variables, respectively. The generalized non-linear model and logistic regression will be applied for multivariable data analysis. The adjusted p-value and 95% CI of the odds ratios will be reported.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change in PARPi</measure>
+    <time_frame>Baseline to up to 4 weeks</time_frame>
+    <description>Will be analyzed using Lasso-based elastic net method. The elastic net method is a variable selection procedure by L1 and L2 penalized estimation that enforces variable selection and shrinkage simultaneously. The penalty parameter that controls the shrinkage of fixed terms and the variable selection will be determined by k-fold cross validation. The statistical analyses will be completed by either R 3.2.1 or SAS 9.4 statistical program in this project.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in PD-L1</measure>
+    <time_frame>Baseline to up to 4 weeks</time_frame>
+    <description>Will be analyzed using Lasso-based elastic net method. The elastic net method is a variable selection procedure by L1 and L2 penalized estimation that enforces variable selection and shrinkage simultaneously. The penalty parameter that controls the shrinkage of fixed terms and the variable selection will be determined by k-fold cross validation. The statistical analyses will be completed by either R 3.2.1 or SAS 9.4 statistical program in this project.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Changes in extent of mutational burden in BRCA1/2</measure>
+    <time_frame>Baseline to up to 4 weeks</time_frame>
+    <description>Will be analyzed using Lasso-based elastic net method. The elastic net method is a variable selection procedure by L1 and L2 penalized estimation that enforces variable selection and shrinkage simultaneously. The penalty parameter that controls the shrinkage of fixed terms and the variable selection will be determined by k-fold cross validation. The statistical analyses will be completed by either R 3.2.1 or SAS 9.4 statistical program in this project.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Changes of biomarkers expression using DNA and RNA-sequencing</measure>
+    <time_frame>Baseline to up to 4 weeks</time_frame>
+    <description>Will be analyzed using Lasso-based elastic net method. The elastic net method is a variable selection procedure by L1 and L2 penalized estimation that enforces variable selection and shrinkage simultaneously. The penalty parameter that controls the shrinkage of fixed terms and the variable selection will be determined by k-fold cross validation. The statistical analyses will be completed by either R 3.2.1 or statistical analysis system (SAS) 9.4 statistical program in this project.</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>BRCA1 Gene Mutation</condition>
+  <condition>BRCA2 Gene Mutation</condition>
+  <condition>Estrogen Receptor Negative</condition>
+  <condition>HER2/Neu Negative</condition>
+  <condition>Progesterone Receptor Negative</condition>
+  <condition>Stage IIIA Breast Cancer</condition>
+  <condition>Stage IIIB Breast Cancer</condition>
+  <condition>Stage IIIC Breast Cancer</condition>
+  <condition>Stage IV Breast Cancer</condition>
+  <condition>Triple-Negative Breast Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Arm I (veliparib)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive veliparib PO BID on days 1-21. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II (atezolizumab)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive atezolizumab IV over 30-60 minutes on day 1. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm III (veliparib, atezolizumab)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive veliparib PO BID on days 1-21 and atezolizumab IV over 30-60 minutes on day 1. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Atezolizumab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Arm II (atezolizumab)</arm_group_label>
+    <arm_group_label>Arm III (veliparib, atezolizumab)</arm_group_label>
+    <other_name>MPDL 3280A</other_name>
+    <other_name>MPDL 328OA</other_name>
+    <other_name>MPDL-3280A</other_name>
+    <other_name>MPDL3280A</other_name>
+    <other_name>MPDL328OA</other_name>
+    <other_name>RG7446</other_name>
+    <other_name>RO5541267</other_name>
+    <other_name>Tecentriq</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Laboratory Biomarker Analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Arm I (veliparib)</arm_group_label>
+    <arm_group_label>Arm II (atezolizumab)</arm_group_label>
+    <arm_group_label>Arm III (veliparib, atezolizumab)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Veliparib</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Arm I (veliparib)</arm_group_label>
+    <arm_group_label>Arm III (veliparib, atezolizumab)</arm_group_label>
+    <other_name>ABT-888</other_name>
+    <other_name>PARP-1 inhibitor ABT-888</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients must have histologically documented unresectable stage III or IV triple
+             negative breast cancer (TNBC) and a known BRCA 1/2 mutation present
+
+          -  Patients must have measurable disease, defined as at least one lesion that can be
+             accurately measured in at least one dimension (longest diameter to be recorded for
+             non-nodal lesions and short axis for nodal lesions) as &gt;= 20 mm (&gt;= 2 cm) with
+             conventional techniques or as &gt;= 10 mm (&gt;= 1 cm) with spiral computed tomography (CT)
+             scan, magnetic resonance imaging (MRI), or calipers by clinical exam
+
+          -  Any number of prior treatment regimens is allowed
+
+          -  Prior chemotherapy is allowed, including platinum therapy; patients must not have
+             received chemotherapy for 4 weeks prior to the initiation of study treatment and must
+             have recovery =&lt; grade 1 from any adverse events from any prior chemotherapy (other
+             than alopecia); patients must not have had nitrosoureas or mitomycin C for 6 weeks
+             prior to the initiation of study treatment
+
+          -  Prior radiation therapy is allowed; patients must not have received minimal radiation
+             therapy (=&lt; 5% of their total marrow volume) within 3 weeks prior to the initiation
+             of study treatment; otherwise, patients must not have received radiation therapy (&gt;
+             5% of their total marrow volume) within 4 weeks prior to the initiation of study
+             treatment; patients who have received prior radiation to 50% or more of their total
+             marrow volume will be excluded
+
+          -  Patients who have received prior treatment with anti-CTLA-4 may be enrolled, provided
+             the following requirements are met: minimum of 12 weeks from the first dose of
+             anti-CTLA-4 and &gt; 6 weeks from the last dose, and no history of severe immune-related
+             adverse effects from anti-CTLA-4 (National Cancer Institute [NCI] Common Terminology
+             Criteria for Adverse Events [CTCAE] grade 3 and 4)
+
+          -  Treatment with systemic immunostimulatory agents (including, but not limited to,
+             interferon [IFN]- alpha or interleukin [IL]-2) is allowed, provided the following is
+             met: minimum of 6 weeks or five half-lives of the drug (whichever is shorter) prior
+             to cycle 1, day 1
+
+          -  Treatment with systemic immunosuppressive medications (including, but not limited to,
+             prednisone, cyclophosphamide, azathioprine, methotrexate, thalidomide, and anti-tumor
+             necrosis factor [anti-TNF] agents) is allowed, provided the following is met: minimum
+             of 2 weeks prior to cycle 1, day 1; patients who have received acute, low dose,
+             systemic immunosuppressant medications (e.g., a one-time dose of dexamethasone for
+             nausea) may be enrolled; the use of corticosteroids and mineralocorticoids (e.g.,
+             fludrocortisone) for patients with orthostatic hypotension or adrenocortical
+             insufficiency is allowed
+
+          -  Patients taking bisphosphonate therapy for symptomatic hypercalcemia are NOT allowed;
+             use of bisphosphonate therapy for other reasons (e.g., bone metastasis or
+             osteoporosis) is allowed
+
+          -  Prior experimental (non-FDA approved) therapies and immunotherapies are allowed;
+             patients must not have received these therapies for 4 weeks prior to the initiation
+             of study treatment (or within five half-lives of the investigational product,
+             whichever is longer) and must have recovery =&lt; grade 1 from any adverse events of
+             these therapies (other than alopecia); prior treatment with any PARP inhibitor or any
+             anti-programmed cell death protein 1 (PD-1)/anti-PD-L1 antibody is NOT allowed
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status =&lt; 2 (Karnofsky &gt;= 60%)
+
+          -  Life expectancy of greater than 12 weeks
+
+          -  Leukocytes &gt;= 2,500/mcL
+
+          -  Absolute neutrophil count &gt;= 1,500/mcL
+
+          -  Platelets &gt;= 100,000/mcL (&gt;= 50,000 for patients with hematologic malignancies)
+
+          -  Hemoglobin &gt;= 8 g/dL
+
+          -  Total bilirubin =&lt; 1.5 x upper limit of normal (ULN) (however, patients with known
+             Gilbert disease who have serum bilirubin level =&lt; 3 x ULN may be enrolled)
+
+          -  Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase
+             [SGOT])/alanine aminotransferase (ALT) (serum glutamic pyruvic transaminase [SGPT])
+             =&lt; 3 x upper limit of normal (ULN) if no liver metastasis; =&lt; 5 x upper ULN if liver
+             metastasis present
+
+          -  Alkaline phosphatase =&lt; 2.5 x ULN (=&lt; 5 x ULN for patients with documented liver
+             involvement or bone metastases)
+
+          -  Creatinine clearance &gt;= 30 mL/min/1.73 m^2 by Cockcroft-Gault
+
+          -  International normalized ratio (INR) and activated partial thromboplastin time (aPTT)
+             =&lt; 1.5 x ULN (this applies only to patients who do not receive therapeutic
+             anticoagulation; patients receiving therapeutic anticoagulation, such as
+             low-molecular-weight heparin or warfarin, should be on a stable dose)
+
+          -  Patients must have tumors determined to be easily accessible for biopsy and must be
+             willing to have serial biopsies (third biopsy if cross-over occurs to combination
+             arm)
+
+          -  Women of child-bearing potential must agree to use adequate contraception (hormonal
+             or barrier method of birth control; abstinence) prior to study entry, for the
+             duration of study participation, and for 90 days after the last dose of study agent;
+             should a woman become pregnant or suspect she is pregnant while she or her partner is
+             participating in this study, she should inform her treating physician immediately
+
+          -  Ability to understand and the willingness to sign a written informed consent document
+
+        Exclusion Criteria:
+
+          -  Patients with prior allogeneic bone marrow transplantation or prior solid organ
+             transplantation
+
+          -  Patients with known brain metastases should be excluded from this clinical trial
+
+          -  Patients with known primary central nervous system (CNS) malignancy or symptomatic
+             CNS metastases are excluded, with the following exceptions:
+
+               -  Patients with asymptomatic untreated CNS disease may be enrolled, provided all
+                  of the following criteria are met:
+
+                    -  Evaluable or measurable disease outside the CNS
+
+                    -  No metastases to brain stem, midbrain, pons, medulla, cerebellum, or within
+                       10 mm of the optic apparatus (optic nerves and chiasm)
+
+                    -  No history of intracranial hemorrhage or spinal cord hemorrhage
+
+                    -  No ongoing requirement for dexamethasone for CNS disease; patients on a
+                       stable dose of anticonvulsants are permitted
+
+                    -  No neurosurgical resection or brain biopsy within 28 days prior to cycle 1,
+                       day 1
+
+               -  Patients with asymptomatic treated CNS metastases may be enrolled, provided all
+                  the criteria listed above are met as well as the following:
+
+                    -  Radiographic demonstration of improvement upon the completion of CNS
+                       directed therapy and no evidence of interim progression between the
+                       completion of CNS directed therapy and the screening radiographic study
+
+                    -  No stereotactic radiation or whole-brain radiation within 28 days prior to
+                       cycle 1, day 1
+
+                    -  Screening CNS radiographic study &gt;= 4 weeks from completion of radiotherapy
+                       and &gt;= 2 weeks from discontinuation of corticosteroids
+
+          -  Known hypersensitivity to Chinese hamster ovary cell products or other recombinant
+             human antibodies
+
+          -  History of severe allergic, anaphylactic, or other hypersensitivity reactions to
+             chimeric or humanized antibodies or fusion proteins
+
+          -  History of allergic reactions attributed to compounds of similar chemical or biologic
+             composition to ABT-888 and MPDL3280A
+
+          -  Prior treatment with any PARP inhibitor or any anti-PD-1/anti-PD-L1 antibody
+
+          -  Known clinically significant liver disease, including active viral, alcoholic, or
+             other hepatitis; cirrhosis; fatty liver; and inherited liver disease
+
+               -  Patients with past or resolved hepatitis B infection (defined as having a
+                  negative hepatitis B surface antigen [HBsAg] test and a positive anti-HBc
+                  [antibody to hepatitis B core antigen] antibody test) are eligible
+
+               -  Patients positive for hepatitis C virus (HCV) antibody are eligible only if
+                  polymerase chain reaction (PCR) is negative for HCV RNA
+
+          -  History or risk of autoimmune disease, including, but not limited to, systemic lupus
+             erythematosus, rheumatoid arthritis, inflammatory bowel disease, vascular thrombosis
+             associated with antiphospholipid syndrome, Wegener's granulomatosis, Sjogren's
+             syndrome, Bell's palsy, Guillain-Barre syndrome, multiple sclerosis, autoimmune
+             thyroid disease, vasculitis, lichen sclerosis, or glomerulonephritis
+
+               -  Patients with a history of autoimmune hypothyroidism on a stable dose of thyroid
+                  replacement hormone may be eligible
+
+               -  Patients with controlled Type 1 diabetes mellitus on a stable insulin regimen
+                  may be eligible
+
+               -  Patients with eczema, psoriasis, lichen simplex chronicus of vitiligo with
+                  dermatologic manifestations only (e.g., patients with psoriatic arthritis would
+                  be excluded) are permitted provided that they meet the following conditions:
+
+                    -  Patients with psoriasis must have a baseline ophthalmologic exam to rule
+                       out ocular manifestations
+
+                    -  Rash must cover less than 10% of body surface area (BSA)
+
+                    -  Disease is well controlled at baseline and only requiring low potency
+                       topical steroids (e.g., hydrocortisone 2.5%, hydrocortisone butyrate 0.1%,
+                       fluocinolone 0.01%, desonide 0.05%, alclometasone dipropionate 0.05%)
+
+                    -  No acute exacerbations of underlying condition within the last 12 months
+                       (not requiring psoralen plus ultraviolet A radiation [PUVA], methotrexate,
+                       retinoids, biologic agents, oral calcineurin inhibitors; high potency or
+                       oral steroids)
+
+          -  History of idiopathic pulmonary fibrosis, pneumonitis (including drug induced),
+             organizing pneumonia (i.e., bronchiolitis obliterans, cryptogenic organizing
+             pneumonia, etc.), or evidence of active pneumonitis on screening chest computed
+             tomography (CT) scan; history of radiation pneumonitis in the radiation field
+             (fibrosis) is permitted if recovered
+
+          -  Patients with active tuberculosis (TB) are excluded
+
+          -  Severe infections within 4 weeks prior to cycle 1, day 1, including, but not limited
+             to, hospitalization for complications of infection, bacteremia, or severe pneumonia
+
+          -  Signs or symptoms of severe infection within 2 weeks prior to cycle 1, day 1
+
+          -  Received oral or intravenous (IV) antibiotics within 2 weeks prior to cycle 1, day 1;
+             patients receiving prophylactic antibiotics (e.g., for prevention of a urinary tract
+             infection or chronic obstructive pulmonary disease) are eligible
+
+          -  Major surgical procedure within 28 days prior to cycle 1, day 1 or anticipation of
+             need for a major surgical procedure during the course of the study
+
+          -  Administration of a live, attenuated vaccine within 4 weeks before cycle 1, day 1 or
+             anticipation that such a live, attenuated vaccine will be required during the study
+
+               -  Influenza vaccination should be given during influenza season only
+                  (approximately October to March); patients must not receive live, attenuated
+                  influenza vaccine within 4 weeks prior to cycle 1, day 1 or at any time during
+                  the study
+
+          -  Uncontrolled intercurrent illness including, but not limited to, ongoing or active
+             infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac
+             arrhythmia, or psychiatric illness/social situations that would limit compliance with
+             study requirements
+
+          -  Human immunodeficiency virus (HIV)-positive patients on combination antiretroviral
+             therapy are ineligible; appropriate studies will be undertaken in patients receiving
+             combination antiretroviral therapy when indicated
+
+          -  Pregnant women are excluded from this study; breastfeeding should be discontinued if
+             the mother is treated with ABT-888 and MPDL3280A
+
+          -  Any prior grade &gt;= 3 immune-related adverse event (irAE) while receiving any previous
+             immunotherapy agent, or any unresolved irAE &gt; grade 1
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Patricia LoRusso</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Yale University Cancer Center LAO</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Mayo Clinic in Arizona</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85259</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ciara C. O'Sullivan</last_name>
+      <phone>855-776-0015</phone>
+    </contact>
+    <investigator>
+      <last_name>Ciara C. O'Sullivan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California Davis Comprehensive Cancer Center</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Helen K. Chew</last_name>
+      <phone>916-734-3089</phone>
+    </contact>
+    <investigator>
+      <last_name>Helen K. Chew</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Smilow Cancer Center/Yale-New Haven Hospital</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patricia M. LoRusso</last_name>
+      <phone>203-785-5702</phone>
+    </contact>
+    <investigator>
+      <last_name>Patricia M. LoRusso</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Yale University Cancer Center LAO</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Patricia M. LoRusso</last_name>
+      <phone>203-785-5944</phone>
+      <email>patricia.lorusso@yale.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Patricia M. LoRusso</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Yale University</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patricia M. LoRusso</last_name>
+      <phone>203-785-5702</phone>
+    </contact>
+    <investigator>
+      <last_name>Patricia M. LoRusso</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic in Florida</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32224-9980</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ciara C. O'Sullivan</last_name>
+      <phone>855-776-0015</phone>
+    </contact>
+    <investigator>
+      <last_name>Ciara C. O'Sullivan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Moffitt Cancer Center</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hyo S. Han</last_name>
+      <phone>800-456-7121</phone>
+      <email>canceranswers@moffitt.org</email>
+    </contact>
+    <investigator>
+      <last_name>Hyo S. Han</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins University/Sidney Kimmel Cancer Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roisin M. Connolly</last_name>
+      <phone>410-955-8804</phone>
+      <email>jhcccro@jhmi.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Roisin M. Connolly</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital Cancer Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gerburg M. Wulf</last_name>
+      <phone>617-667-9925</phone>
+    </contact>
+    <investigator>
+      <last_name>Gerburg M. Wulf</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gerburg M. Wulf</last_name>
+      <phone>617-667-9925</phone>
+    </contact>
+    <investigator>
+      <last_name>Gerburg M. Wulf</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gerburg M. Wulf</last_name>
+      <phone>617-667-9925</phone>
+    </contact>
+    <investigator>
+      <last_name>Gerburg M. Wulf</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gerburg M. Wulf</last_name>
+      <phone>617-667-9925</phone>
+    </contact>
+    <investigator>
+      <last_name>Gerburg M. Wulf</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ciara C. O'Sullivan</last_name>
+      <phone>855-776-0015</phone>
+    </contact>
+    <investigator>
+      <last_name>Ciara C. O'Sullivan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Haeseong Park</last_name>
+      <phone>800-600-3606</phone>
+      <email>info@siteman.wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Haeseong Park</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ohio State University Comprehensive Cancer Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anne M. Noonan</last_name>
+      <phone>800-293-5066</phone>
+      <email>Jamesline@osumc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Anne M. Noonan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh Cancer Institute (UPCI)</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shannon L. Puhalla</last_name>
+      <phone>412-647-2811</phone>
+    </contact>
+    <investigator>
+      <last_name>Shannon L. Puhalla</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University/Ingram Cancer Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vandana G. Abramson</last_name>
+      <phone>800-811-8480</phone>
+    </contact>
+    <investigator>
+      <last_name>Vandana G. Abramson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2016</verification_date>
+  <lastchanged_date>April 6, 2017</lastchanged_date>
+  <firstreceived_date>July 27, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Triple Negative Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Veliparib</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

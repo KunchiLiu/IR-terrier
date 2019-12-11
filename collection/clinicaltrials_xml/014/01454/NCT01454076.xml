@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="126616">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01454076</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C16009</org_study_id>
+    <secondary_id>U1111-1183-0218</secondary_id>
+    <nct_id>NCT01454076</nct_id>
+  </id_info>
+  <brief_title>Phase 1 Pharmacokinetics Study of Oral IXAZOMIB in Patients With Advanced Nonhematologic Malignancies or Lymphoma</brief_title>
+  <official_title>A Phase 1 Study of Oral IXAZOMIB (MLN9708) to Assess Relative Bioavailability, Food Effect, Drug-Drug Interaction With Ketoconazole, Clarithromycin or Rifampin; and Safety and Tolerability in Patients With Advanced Nonhematologic Malignancies or Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Millennium Pharmaceuticals, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Takeda</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open-label, multicenter, sequential, 5-arm, phase 1 study of oral IXAZOMIB
+      designed to assess drug-drug interaction with ketoconazole (Arm 1), the relative
+      bioavailability of 2 capsule formulations of IXAZOMIB (Arm 2), food effect (Arm 3),
+      drug-drug interaction with rifampin (Arm 4), and drug-drug interaction with clarithromycin
+      (Arm 5) in patients with advanced nonhematologic malignancies or lymphoma.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>November 2011</start_date>
+  <completion_date type="Actual">June 2016</completion_date>
+  <primary_completion_date type="Actual">April 2015</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Arm 1: Ratio of geometric mean Cmax and AUC0-tlast of IXAZOMIB administered as Capsule B formulation with ketoconazole versus when administered as a single agent and 90% confidence intervals (CI)</measure>
+    <time_frame>Cycle 1: Days 1-28</time_frame>
+    <description>Arm 1: Effect of ketoconazole on the single-dose pharmacokinetics of IXAZOMIB administered as Capsule B formulation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Arm 2: Ratio of geometric mean Cmax and AUC0-tlast of Capsule B formulation versus Capsule A formulation and 90% CI</measure>
+    <time_frame>Cycle 1: Days 1-28</time_frame>
+    <description>Arm 2: Relative bioavailability of a Capsule B formulation of IXAZOMIB in reference to Capsule A formulation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Arm 3: Capsule B formulation ratio of geometric mean Cmax and AUC0-tlast of IXAZOMIB administered as Capsule B formulation with food versus without food and 90% CI</measure>
+    <time_frame>Cycle 1: Days 1-28</time_frame>
+    <description>Arm 3: Effect of food on the single-dose pharmacokinetics of IXAZOMIB administered as Capsule B formulation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Arm 4: Ratio of geometric mean Cmax and AUC0-tlast of IXAZOMIB administered as Capsule B with rifampin versus when administered as a single agent and 90% confidence intervals (CI)</measure>
+    <time_frame>Cycle 1: Days 1-21</time_frame>
+    <description>Arm 4: To characterize the effect of rifampin on the single-dose pharmacokinetics of IXAZOMIB administered as Capsule B formulation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>• Arm 5: Ratio of geometric mean Cmax and AUC0-tlast of IXAZOMIB administered as Capsule B with clarithromycin versus when administered as a single agent and 90% confidence intervals (CI)</measure>
+    <time_frame>Cycle 1: Days 1-21</time_frame>
+    <description>Arm 5: To characterize the effect of clarithromycin on the single-dose pharmacokinetics of IXAZOMIB administered as Capsule B formulation</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events, serious adverse events, assessments of clinical laboratory values, and vital sign measurements</measure>
+    <time_frame>From the time informed consent is signed through 30 days after the last dose of study drug, approximately 13 months</time_frame>
+    <description>Safety and tolerability of IXAZOMIB</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Measures of disease response according to standard criteria</measure>
+    <time_frame>Q2 cycles for first 4 cycles, then Q3 cycles, approximately 13 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Actual">125</enrollment>
+  <condition>Nonhematologic Malignancies</condition>
+  <condition>Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Arm 1 (ketoconazole drug-drug interaction study)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive a single 2.5-mg oral dose of IXAZOMIBCapsule B formulation on Day 1 and Day 15 during Cycle 1. Patients receive concomitant oral ketoconazole, a strong CYP3A inhibitor, at a dose of 400-mg once daily on Days 12 through 25 during Cycle 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2 (relative bioavailability study)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive a single oral dose of IXAZOMIB Capsule A or Capsule B formulation on Day 1, followed by a single dose of 4.0-mg of the alternate formulation (Capsule B formulation or A) on Day 15 of a 28-days pharmacokinetic cycle.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 3 (food effect study)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive a single 4.0-mg oral dose of IXAZOMIB as Capsule B formulation with or without a standard high-fat breakfast on Day (D) 1 of Cycle (C) 1, followed by administration under the alternate food intake condition on D 15 of C 1. Fasted treatment: D 1 or 15 dose administered with ~ 8-oz of water following an overnight fast, including no medications, of ~10 hrs. Fed treatment: following an overnight fast, including no medications, of ~10 hrs, patients start breakfast 30 min prior to the administration of the D 1 or 15 dose. IXAZOMIB is administered 30 min after the start of the meal with ~8-oz of water. In both treatments, no food is allowed for at least 4 hrs postdose of the D 1 or 15 dose. Water is allowed except for 1 hr before and after drug administration.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 4 (rifampin drug-drug interaction study)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive a single 4.0-mg oral dose of IXAZOMIB Capsule B formulation on Day 1 and Day 15 during Cycle 1, the 21-day PK cycle. Patients receive concomitant oral rifampin, a strong CYP3A inducer, at a dose of 600 mg once daily on Days 8 through 21 during Cycle 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 5 (clarithromycin drug-drug interaction study)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive a single 4.0-mg oral dose of IXAZOMIB Capsule B formulation on Day 6 during Cycle 1, the 21-day PK cycle. Patients receive concomitant oral clarithromycin, a strong CYP3A inhibitor, at a dose of 500 mg twice daily on Days 1 through 16 during Cycle 1.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>IXAZOMIB Capsule B formulation</intervention_name>
+    <description>Applicable to all Arms:
+After completion of Cycle 1, patients receive a 4.0- mg dose of IXAZOMIB Capsule B formulation on Days 1, 8, and 15 of a 28-day schedule; however, starting with Cycle 4 and beyond patients will have the option of escalating to the 5.3-mg dose at the discretion of the investigator and the Millennium clinician.
+The maximum duration of treatment is 12 months after completion of Cycle 1 (13 months in total) unless it is determined that a patient would derive benefit from continued therapy beyond 12 cycles.</description>
+    <arm_group_label>Arm 1 (ketoconazole drug-drug interaction study)</arm_group_label>
+    <arm_group_label>Arm 2 (relative bioavailability study)</arm_group_label>
+    <arm_group_label>Arm 3 (food effect study)</arm_group_label>
+    <arm_group_label>Arm 4 (rifampin drug-drug interaction study)</arm_group_label>
+    <arm_group_label>Arm 5 (clarithromycin drug-drug interaction study)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>IXAZOMIB Capsule A formulation</intervention_name>
+    <arm_group_label>Arm 2 (relative bioavailability study)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ketoconazole</intervention_name>
+    <arm_group_label>Arm 1 (ketoconazole drug-drug interaction study)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>rifampin</intervention_name>
+    <arm_group_label>Arm 4 (rifampin drug-drug interaction study)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Drug: clarithromycin</intervention_name>
+    <arm_group_label>Arm 5 (clarithromycin drug-drug interaction study)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Male or female patients 18 years or older
+
+          -  Patients must have a diagnosis of histologically or cytologically confirmed
+             metastatic and/or advanced solid tumor malignancy or lymphoma for which no effective
+             standard treatment is available
+
+          -  Female patients who are postmenopausal at least 1 year, OR surgically sterile, OR if
+             of childbearing potential, agree to practice 2 effective methods of contraception, at
+             the same time from the time of signing the consent form through 90 days after the
+             last dose of study drug, or agree to practice true abstinence
+
+          -  Male patients, even if surgically sterilized, agree to practice effective barrier
+             contraception during the entire study treatment period and through 90 days after the
+             last dose of study drug OR agree to practice true abstinence
+
+          -  Voluntary written informed consent
+
+          -  Clinical laboratory values as specified in protocol
+
+          -  Suitable venous access
+
+          -  Recovered (ie, &lt; Grade 1 toxicity or patient's baseline status) from the reversible
+             effects of prior anticancer therapy
+
+        Exclusion Criteria:
+
+          -  Peripheral neuropathy &gt; Grade 2 on clinical examination
+
+          -  Systemic treatment with strong inhibitors of CYP1A2, strong inhibitors of CYP3A, or
+             strong CYP3A inducers or use of ginkgo biloba or St. John's wort within 14 days
+             before the first dose of IXAZOMIB
+
+          -  Patient has symptomatic brain metastasis. Patients with brain metastases must: have
+             stable neurologic status following surgery or radiation for at least 2 weeks after
+             completion of the definitive therapy; AND be without neurologic dysfunction that
+             would confound the evaluation of neurologic and other adverse events
+
+          -  Female patients who are pregnant or lactating
+
+          -  Serious illness that could interfere with protocol completion
+
+          -  Autologous stem cell transplant within 6 months before Day 1 of Cycle 1, or prior
+             allogeneic stem cell transplant at any time
+
+          -  Prior treatment with rituximab or other unconjugated any antibody treatment within 42
+             days (21 days if there is clear evidence of progressive disease or immediate
+             treatment is mandated)
+
+          -  Ongoing treatment with corticosteroids
+
+          -  Radiotherapy within 21 days before the first dose of study drug
+
+          -  Major surgery within 14 days before the first dose of study drug
+
+          -  Infection requiring systemic antibiotic therapy or other serious infection within 14
+             days prior to first dose of study drug
+
+          -  Life-threatening illness unrelated to cancer
+
+          -  Known human immunodeficiency virus (HIV) positive, hepatitis B surface
+             antigen-positive, or suspected hepatitis C infection
+
+          -  Diagnosis or treatment of another malignancy within 2 years preceding first dose, OR
+             previously diagnosed with another malignancy and have any evidence of residual
+             disease. Patients with nonmelanoma skin cancer or carcinoma in situ of any type are
+             not excluded if they have undergone complete resection
+
+          -  Evidence of uncontrolled cardiovascular conditions
+
+          -  QTc &gt; 500 milliseconds on a 12-lead electrocardiogram (ECG)
+
+          -  Known gastrointestinal disease or procedure that could interfere with the oral
+             absorption or tolerance of IXAZOMIB including difficulty swallowing capsules;
+             diarrhea &gt; Grade 1 despite supportive therapy
+
+          -  Patients with gastric achlorhydria
+
+          -  Patients who have used any nicotine containing products within 14 days before the
+             first dose of study drug (Arm 1, Arm 4, and Arm 5)
+
+          -  Treatment with any investigational products or systemic antineoplastic therapies
+             within 21 days before the first dose of IXAZOMIB
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Monitor</last_name>
+    <role>Study Director</role>
+    <affiliation>Millennium Pharmaceuticals, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2017</verification_date>
+  <lastchanged_date>January 3, 2017</lastchanged_date>
+  <firstreceived_date>October 13, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cmax: maximum plasma concentration</keyword>
+  <keyword>AUC0-tlast: time zero to the time of the last quantifiable concentration</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Rifampin</mesh_term>
+    <mesh_term>Clarithromycin</mesh_term>
+    <mesh_term>Ketoconazole</mesh_term>
+    <mesh_term>Ixazomib</mesh_term>
+    <mesh_term>Glycine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

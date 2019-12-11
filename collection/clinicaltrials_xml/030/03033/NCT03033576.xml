@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5636">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03033576</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2017-00105</org_study_id>
+    <secondary_id>NCI-2017-00105</secondary_id>
+    <secondary_id>S1616</secondary_id>
+    <secondary_id>S1616</secondary_id>
+    <secondary_id>S1616</secondary_id>
+    <secondary_id>U10CA180888</secondary_id>
+    <nct_id>NCT03033576</nct_id>
+  </id_info>
+  <brief_title>Ipilimumab With or Without Nivolumab in Treating Patients With Melanoma That is Stage IV or Stage III and Cannot Be Removed by Surgery</brief_title>
+  <official_title>A Phase II Randomized Study of Nivolumab (NSC-732442) With Ipilimumab (NSC-748726) or Ipilimumab Alone in Advanced Melanoma Patients Refractory to an Anti-PD1 or Anti-PD-L1 Agent</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This randomized phase II studies how well ipilimumab with or without nivolumab work in
+      treating patients with melanoma that is stage IV or stage II and cannot be removed by
+      surgery. Monoclonal antibodies, such as ipilimumab and nivolumab, may interfere with the
+      ability of tumor cells to grow and spread.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To compare progression free survival (PFS) of patients with advanced melanoma refractory
+      to an anti-PD-1 or anti-PD-L1 agent, treated with combination therapy ipilimumab plus
+      nivolumab versus ipilimumab alone.
+
+      SECONDARY OBJECTIVES:
+
+      I. To estimate difference in T-cell infiltrate between on-study biopsy samples of patients
+      who respond to combination therapy (including confirmed and unconfirmed, complete and
+      partial response per Response Evaluation Criteria in Solid Tumors [RECIST] 1.1) as compared
+      to those who do not respond.
+
+      II. To evaluate the objective response rate (ORR), defined as confirmed complete or partial
+      response per RECIST 1.1, in each treatment arm.
+
+      III. To evaluate the overall survival (OS) of patients in each treatment arm. IV. To
+      evaluate the toxicity profile of patients in each treatment arm.
+
+      TERTIARY OBJECTIVES:
+
+      I. To assess the marginal prognostic value of baseline T-cell density, T-cell receptor (TCR)
+      clonality, and mutational load in terms of response.
+
+      II. To assess the joint prognostic value of T-cell density, TCR clonality, and mutational
+      load in terms of response.
+
+      III. To identify T-cell poor subtype(s) that are associated with response.
+
+      OUTLINE: Patients are randomized to 1 of 2 arms.
+
+      ARM I: Patients receive ipilimumab intravenously (IV) over 90 minutes on day 1. Treatment
+      repeats every 21 days for up to 4 courses in the absence of disease progression or
+      unacceptable toxicity.
+
+      ARM II: Patients receive nivolumab IV over 60 minutes and ipilimumab IV over 90 minutes on
+      day 1. Treatment repeats every 21 days for up to 4 courses in the absence of disease
+      progression or unacceptable toxicity. Patients then receive nivolumab IV over 60 minutes on
+      days 1 and 15. Courses repeat every 28 days in the absence of disease progression or
+      unacceptable toxicity.
+
+      After completion of study treatment, patients are followed up every 6 months for 2 years and
+      then annually for 1 year.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date>August 2017</start_date>
+  <primary_completion_date type="Anticipated">October 2018</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>PFS</measure>
+    <time_frame>From date of registration to date of first documentation of progression or symptomatic deterioration, or death due to any cause, assessed up to 3 years</time_frame>
+    <description>Will be compared between arms using a log-rank test. Kaplan-Meier plots will be constructed and median PFS for each arm with corresponding 95% Brookmeyer-Crowley confidence intervals will be estimated.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>CD8+ expression levels</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>will evaluate by comparing the quantitative CD8+ expression levels between patients who eventually respond and patients who do not respond using a two-sample t-test and control the type I error at the two-sided 0.05 level. Assuming that the trial accrues to completion, 90% compliance in tissue and biopsy submission, and that 25% of patients respond, then we anticipate 80% power to detect a mean difference in CD8+ expression of 0.875 standard deviations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events assessed by National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>Toxicity will be assessed in each arm separately. Any toxicity with at least 5% chance of occurring has 93.7% and 60.3% chance of being observed at least once in the combination therapy and ipilimumab alone arms, respectively. We will be able to estimate the rate of occurrence of any particular toxicity to within 12.3% (95% CI) and 21.4% in the combination therapy and ipilimumab alone arms, respectively</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>OS</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>Will construct Kaplan-Meier plots and estimate the median OS and construct 95% Brookmeyer-Crowley confidence intervals. We will be able to estimate the ORR or the OS rates at a particular time point (e.g. 13 weeks) to within 12.3% (95% confidence interval [CI]) and 21.4% in the combination therapy and ipilimumab alone arms, respectively. Waterfall plots will be constructed to represent each patient's best change in tumor burden.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Response rate (confirmed and unconfirmed, complete and partial responses)</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>Will estimate the response rate in each arm and construct 95% binomial confidence intervals. All randomized patients will be included in the analysis of response. Patients who cannot have their exact response determined due to inadequate disease assessments will be counted in the denominator as non-responders.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">94</enrollment>
+  <condition>Stage III Skin Melanoma</condition>
+  <condition>Stage IIIA Skin Melanoma</condition>
+  <condition>Stage IIIB Skin Melanoma</condition>
+  <condition>Stage IIIC Skin Melanoma</condition>
+  <condition>Stage IV Skin Melanoma</condition>
+  <arm_group>
+    <arm_group_label>Arm I (ipilimumab)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients receive ipilimumab IV over 90 minutes on day 1. Treatment repeats every 21 days for up to 4 courses in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II (nivolumab, ipilimumab)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive nivolumab IV over 60 minutes and ipilimumab IV over 90 minutes on day 1. Treatment repeats every 21 days for up to 4 courses in the absence of disease progression or unacceptable toxicity. Patients then receive nivolumab IV over 60 minutes on days 1 and 15. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Ipilimumab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Arm I (ipilimumab)</arm_group_label>
+    <arm_group_label>Arm II (nivolumab, ipilimumab)</arm_group_label>
+    <other_name>Anti-Cytotoxic T-Lymphocyte-Associated Antigen-4 Monoclonal Antibody</other_name>
+    <other_name>BMS-734016</other_name>
+    <other_name>MDX-010</other_name>
+    <other_name>MDX-CTLA4</other_name>
+    <other_name>Yervoy</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Laboratory Biomarker Analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Arm I (ipilimumab)</arm_group_label>
+    <arm_group_label>Arm II (nivolumab, ipilimumab)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Nivolumab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Arm II (nivolumab, ipilimumab)</arm_group_label>
+    <other_name>BMS-936558</other_name>
+    <other_name>MDX-1106</other_name>
+    <other_name>NIVO</other_name>
+    <other_name>ONO-4538</other_name>
+    <other_name>Opdivo</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients must have pathologically confirmed melanoma that is either stage IV or
+             unresectable stage III; patients may have primaries of cutaneous, mucosal or unknown
+             origin; patients with uveal (ocular) primary are not eligible
+
+          -  Patients must have measurable disease per RECIST 1.1; computed tomography (CT) scans
+             or magnetic resonance imaging (MRI)s used to assess measurable disease must have been
+             completed within 28 days prior to registration; if the only measurable disease is
+             cutaneous or subcutaneous, lesions must be at least 10 mm in greatest dimension and
+             able to be serially recorded using calipers and photographs; tests used to assess
+             non-measurable disease must have been performed within 42 days prior to registration;
+             all disease must be assessed and documented on the Baseline Tumor Assessment Form
+
+          -  Patients with central nervous system (CNS) metastases must have all lesions
+             adequately treated with stereotactic radiation therapy, craniotomy, or gamma knife
+             therapy with no subsequent evidence of CNS progression; patients must not have
+             required steroids for at least 14 days prior to registration; patients with central
+             nervous system (CNS) metastases must have all lesions adequately treated with
+             stereotactic radiation therapy, craniotomy, gamma knife therapy, or whole brain
+             radiotherapy, with no subsequent evidence of CNS progression; patients must not have
+             required steroids for at least 14 days prior to registration
+
+          -  Patients must have had prior treatment with anti-PD1 or anti-PD-L1 agents and had
+             documented disease progression either while on these agents or after stopping therapy
+             with these agents without intervening therapy; patients must have discontinued
+             anti-PD-1 or anti-PD-L1 therapy at least 21 days prior to registration
+
+          -  Patients must not have achieved a confirmed partial or complete response to the
+             anti-PD-1 or anti-PD-L1 agents prior to progression
+
+          -  Patients must not have had systemic therapy, excluding anti-PD-1 or anti-PD-L1
+             agents, within 21 days prior to registration
+
+          -  Patients must not have had prior radiation therapy within 14 days prior to
+             registration
+
+          -  Patients must not have had:
+
+               -  Prior treatment with ipilimumab or other CTLA-4 antagonists
+
+               -  Systemic therapy between progression on the anti-PD-1 or anti-PD-L1 agents and
+                  registration
+
+               -  Note: Systemic therapy (including BRAF-targeting agents) prior to anti-PD-1 or
+                  anti-PD-L1 therapy is allowed
+
+          -  Patients must not be planning to require any additional form of systemic anti-tumor
+             therapy while on protocol treatment
+
+          -  Patients must have Zubrod performance status of =&lt; 2
+
+          -  Patients must have complete history and physical examination within 28 days prior to
+             registration
+
+          -  Absolute neutrophil count (ANC) &gt;= 1,500/mcL
+
+          -  Hemoglobin &gt;= 8 g/dL
+
+          -  Platelets &gt;= 100,000/mcL
+
+          -  Total bilirubin =&lt; 2.5 x institutional upper limit of normal (IULN) (except patients
+             with Gilbert's syndrome)
+
+          -  Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) both =&lt; 5 x IULN
+
+          -  Serum creatinine =&lt; 2.0 x IULN
+
+          -  Patients with a known history of human immunodeficiency virus (HIV) must have CD4
+             count &gt;= institutional lower limit of normal within 28 days prior to registration
+
+          -  Patients must not have known active hepatitis B virus (HBV) or hepatitis C virus
+             (HCV) infection prior to registration
+
+          -  Patients must not have an active infection requiring systemic therapy at time of
+             registration
+
+          -  Patients must not have organ allografts
+
+          -  Patients must not have received systemic treatment with corticosteroids (&gt; 10 mg
+             daily prednisone or equivalent) or other immunosuppressive medications within 14 days
+             prior to registration; inhaled or topical steroids, and adrenal replacement doses =&lt;
+             10 mg daily prednisone or equivalent are permitted in the absence of active
+             autoimmune disease
+
+          -  Patients must not have a history of immune-mediated pneumonitis or colitis that
+             required interruption of therapy or treatment of steroids
+
+          -  No other prior malignancy is allowed except for the following: adequately treated
+             basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated
+             stage 0, I or II cancer from which the patient is currently in complete remission, or
+             any other cancer from which the patient has been disease free for two years
+
+          -  Patients must not be pregnant or nursing due to risk of fetal or nursing infant harm;
+             females of reproductive potential must have negative serum pregnancy test within 2
+             days prior to registration and agree to use an effective contraceptive method
+             throughout the study and for 23 weeks after completion of protocol treatment; a woman
+             is considered to be of &quot;reproductive potential&quot; if she has had menses at any time in
+             the preceding 12 consecutive months; in addition to routine contraceptive methods,
+             &quot;effective contraception&quot; also includes heterosexual celibacy and surgery intended to
+             prevent pregnancy (or with a side-effect of pregnancy prevention) defined as a
+             hysterectomy, bilateral oophorectomy or bilateral tubal ligation; if at any point a
+             previously celibate patient chooses to become heterosexually active during or within
+             23 weeks after protocol treatment, she is responsible for beginning effective
+             contraceptive measures
+
+          -  Males who are sexually active with women of reproductive potential must have agreed
+             to use birth control throughout the study and for 31 weeks after completion of
+             protocol treatment; in addition to routine contraceptive methods, &quot;effective
+             contraception&quot; also includes heterosexual celibacy and surgery intended to prevent
+             pregnancy (vasectomy); if at any point a previously celibate patient chooses to
+             become heterosexually active during or within 31 weeks after completion of protocol
+             treatment, he is responsible for beginning effective contraceptive measures
+
+          -  Patients must be offered the opportunity to submit archival tissue for translational
+             medicine; patients must also be willing to undergo biopsies and submit fresh tissue
+             and blood for translational medicine
+
+          -  Patients must be informed of the investigational nature of this study and must sign
+             and give written informed consent in accordance with institutional and federal
+             guidelines
+
+          -  As a part of the OPEN registration process the treating institution's identity is
+             provided in order to ensure that the current (within 365 days) date of institutional
+             review board approval for this study has been entered in the system
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ari Vanderwalde</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Southwest Oncology Group</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>SWOG</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ari M. Vanderwalde</last_name>
+      <email>pharmacy@westclinic.com</email>
+    </contact>
+    <investigator>
+      <last_name>Ari M. Vanderwalde</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2017</verification_date>
+  <lastchanged_date>February 3, 2017</lastchanged_date>
+  <firstreceived_date>January 26, 2017</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Melanoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+    <mesh_term>Nivolumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

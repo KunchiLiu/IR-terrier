@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="40400">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02580448</url>
+  </required_header>
+  <id_info>
+    <org_study_id>INO-VT-464-CL-006</org_study_id>
+    <nct_id>NCT02580448</nct_id>
+  </id_info>
+  <brief_title>CYP17 Lyase and Androgen Receptor Inhibitor Treatment With Seviteronel Trial (INO-VT-464-006; NCT02580448)</brief_title>
+  <acronym>CLARITY-01</acronym>
+  <official_title>A Phase 1/2 Open-Label Study to Evaluate the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics and Efficacy of VT-464 in Patients With Advanced Breast Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Innocrin Pharmaceutical</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Innocrin Pharmaceutical</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical study is to determine the safety, tolerability, pharmacokinetics
+      and activity of VT-464, a lyase-selective inhibitor of CYP17, in patients with advanced
+      breast cancer.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a non-randomized, open-label, Phase 1/2 trial of VT-464 in patients with AR (+) TNBC
+      or ER (+)/HER2 normal unresectable locally advanced MBC. There will be a dose confirmation
+      Phase 1 portion of the study to establish the recommended Phase 2 dose. Phase 2 will be an
+      open-label, multi-center study and divided into parallel cohorts: AR (+) TNBC and ER (+) BC
+      patients at the RP2D confirmed/established in Phase 1.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>August 2015</start_date>
+  <completion_date type="Anticipated">December 2017</completion_date>
+  <primary_completion_date type="Anticipated">June 2017</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Describe the dose-limiting adverse events and determination of the maximum-tolerated dose of VT-464</measure>
+    <time_frame>Duration of Study</time_frame>
+    <description>The maximum tolerated dose (MTD) is defined as the highest dose level with Maximum tolerated dose is defined as the highest level dose with DLT in no more than 1 out of 6 patients</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of VT-464 in the ITT population</measure>
+    <time_frame>At least monthly over the first eight 28-day cycles</time_frame>
+    <description>Area under the curve concentration verses time curve and Peak Plasma Concentration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy of VT-464 as measured by overall response rate based on RECIST 1.1</measure>
+    <time_frame>At least monthly over the first eight 28-day cycles</time_frame>
+    <description>Response and progression will be evaluated using the international criteria proposed by Response Evaluation Criteria in Solid Tumors (RECIST) committee. Changes in only the largest diameter of the tumor lesion are used in RECIST 1.1. Evaluation will occur every 2 cycles for the first 12 months and then every 3 cycles thereafter.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy of VT-464 as measured by progression free survival</measure>
+    <time_frame>At least monthly over the first eight 28-day cycles</time_frame>
+    <description>Response and progression will be evaluated using the international criteria proposed by Response Evaluation Criteria in Solid Tumors (RECIST) committee. Changes in only the largest diameter of the tumor lesion are used in RECIST 1.1. Evaluation will occur every 2 cycles for the first 12 months and then every 3 cycles thereafter.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimate efficacy of VT-464 as measured by clinical benefit rate at 16 weeks (CBR16) for patients with TNBC and clinical benefit rate at 24 weeks (CBR24) for patients with ER(+) BC in Phase 1 study population.</measure>
+    <time_frame>Duration of the study</time_frame>
+    <description>Clinical Benefit Rate will be assessed at 16 weeks for TNBC patients and at 24 weeks for ER+ patients</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">110</enrollment>
+  <condition>Cancer of the Breast</condition>
+  <condition>Breast Cancer</condition>
+  <condition>Advanced Breast Cancer</condition>
+  <condition>Metastatic Breast Cancer</condition>
+  <condition>Male Breast Cancer</condition>
+  <condition>Triple Negative Breast Cancer</condition>
+  <condition>ER+ Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Female AR(+) TNBC Enzalutamide Naïve</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Female AR(+) TNBC Enzalutamide Naïve Patients</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Female AR(+) TNBC Enzalutamide Treated</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Female AR(+) TNBC Enzalutamide Treated Patients</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Female ER(+) BC Patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Female ER(+) BC Patients</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Male ER(+) BC Patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Male ER(+) BC Patients</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Female AR(+) TNBC Enzalutamide Naïve</intervention_name>
+    <description>VT-464 given daily with evening meal in 28 day cycles</description>
+    <arm_group_label>Female AR(+) TNBC Enzalutamide Naïve</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Female AR(+) TNBC Enzalutamide Treated</intervention_name>
+    <description>VT-464 given daily with evening meal in 28 day cycles</description>
+    <arm_group_label>Female AR(+) TNBC Enzalutamide Treated</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Female ER(+) BC Patients</intervention_name>
+    <description>VT-464 given daily with evening meal in 28 day cycles</description>
+    <arm_group_label>Female ER(+) BC Patients</arm_group_label>
+    <other_name>Female ER+ Breast Cancer Patients</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Male ER(+) BC Patients</intervention_name>
+    <description>VT-464 given daily with evening meal in 28 day cycles</description>
+    <arm_group_label>Male ER(+) BC Patients</arm_group_label>
+    <other_name>Men with ER+ Breast Cancer</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Patients must have documented histological or cytological evidence of invasive cancer
+             of the breast. Measureable disease is not required.
+
+          2. Phase 1 patients must have TNBC or ER(+) HER2 normal breast cancer and Phase 2
+             patients must have AR(+) TNBC or ER(+) HER2 normal breast cancer
+
+               -  ER positive is defined as positive if ≥1% by IHC
+
+               -  ER/PgR(-) is defined as negative if 0% by IHC
+
+               -  HER2 normal is defined as IHC 0-1+ or IHC 2+(and FISH less than 2), or FISH less
+                  than 2.0
+
+               -  AR(+) is defined as ≥1% by IHC. The assessment of AR expression may have been
+                  performed any time in the past. Enrollment may be based on local pathology
+                  findings with subsequent review of AR expression by central pathology to
+                  determine if the patient will be considered evaluable for Phase 2. For patients
+                  without known AR status in Phase 2, AR assessment will be performed as a
+                  pre-screening test following the signing of a separate non-therapeutic informed
+                  consent.
+
+          3. Female patients with ER(+)/HER2 normal tumors must be post-menopausal defined as
+             cessation of regular menses for at least 12 consecutive months with no alternative
+             pathological or physiological cause, and have a serum FSH level within the
+             laboratory's reference range for postmenopausal females that are ≥ 60 years old.
+             Ovarian suppression with a LHRH agonist or antagonists to achieve cessation of
+             regular menses is allowed on study. Male patients with ER(+)/HER2 normal tumors must
+             be undergoing gonadal suppression using LHRH agonists or antagonists prior to dosing
+             with VT-464 and continue with the LHRH agonist or antagonist for the duration of the
+             study.
+
+          4. Patients with ER(+)/HER2 normal tumors must have progression of disease following at
+             least 1 prior line of endocrine therapy. Progression of disease within 6 months of
+             adjuvant endocrine therapy will be considered a line of prior endocrine therapy.
+             Patients in the TNBC - Enzalutamide Treated Cohort (Cohort 2) must have received
+             prior enzalutamide for breast cancer.
+
+          5. Availability of a representative, formalin-fixed, paraffin-embedded, tumor specimen
+             that enables the definitive diagnosis of breast cancer with adequate viable tumor
+             cells in a tissue block (preferred) or ≥ 10 (20 preferred) freshly cut, unstained,
+             serial slides and the associated pathology report are required prior to enrollment
+             (All Phase 2 patients and Phase 1 patients to be considered part of the Phase 2
+             evaluable population).
+
+          6. Patients must ≥ 18 years of age
+
+          7. ECOG PS of 0 or 1
+
+          8. Patients must have adequate hematopoietic function as evidenced by:
+
+               -  WBC ≥ 3,000/μl
+
+               -  ANC ≥ 1,500/μl
+
+               -  Platelet count ≥ 100,000/μl
+
+               -  HGB ≥ 10 g/dl and not transfusion dependent
+
+          9. Patients must have adequate hepatic function as evidenced by:
+
+               -  AST/ALT levels ≤ 3X the ULN
+
+               -  Bilirubin levels of ≤ 2.0 mg/dl
+
+         10. Patients must have adequate renal function as evidenced by a serum creatinine of ≤
+             2.0 mg/dl.
+
+         11. Patients must have K+ &gt;3.5 mEq/l.
+
+         12. Women of child-bearing potential must have a negative serum or urine pregnancy test
+             within 72 hours of Cycle 1 Day 1. Female patients who are not of childbearing
+             potential meet at least one of the following criteria:
+
+               -  Have undergone a documented hysterectomy and/or bilateral oophorectomy,
+
+               -  Have medically confirmed ovarian failure, or
+
+               -  Achieved post-menopausal status, defined as cessation of regular menses for at
+                  least 12 consecutive months with no alternative pathological or physiological
+                  cause, and have a serum FSH level within the laboratory's reference range for
+                  postmenopausal females that are &lt; 60 years old. Ovarian suppression with a LHRH
+                  agonist to achieve cessation of regular menses is allowed on study.
+
+         13. Women of child-bearing potential and men who have partners of child-bearing potential
+             must agree to use two highly effective methods of contraception throughout the study
+             and for at least 30 days after the last dose of VT-464 for women and 90 days after
+             the last dose of VT-464 for men. Men must also agree to not donate sperm through 90
+             days following the last dose of VT-464. For men, one form must be a male condom.
+             Highly effective methods of contraception are:
+
+               -  Established use of oral, inserted, injected or implanted hormonal methods of
+                  contraception is allowed provided the patient plans to remain on the same
+                  treatment throughout the entire study and has been using that hormonal
+                  contraceptive for an adequate period of time to ensure effectiveness.
+
+               -  Correctly placed copper-containing intrauterine device (IUD)
+
+               -  Male condom or female condom used WITH a spermicide (ie, foam, gel, film, cream,
+                  or suppository).
+
+               -  Bilateral tubal ligation or bilateral salpingectomy or bilateral tubal occlusive
+                  procedure (provided that occlusion has been confirmed in accordance with the
+                  device's label).
+
+               -  Vasectomy
+
+         14. Patients or their legal representatives must be willing and able to provide written
+             informed consent
+
+        Exclusion Criteria:
+
+          1. Patients who require pharmacological or replacement doses of systemic corticosteroids
+             or who have received systemic corticosteroids within 7 days of study drug initiation.
+
+          2. Patients who have received any investigational agent within 5 half-lives of the agent
+             in question; if the half-life is not known, within 28 days of study entry.
+
+          3. Patients who have received anti-androgens within 4 weeks of study entry.
+
+          4. Patients who have received palliative radiotherapy within 4 weeks of study entry.
+
+          5. Patients who have received any other therapeutic treatment for breast cancer within 2
+             weeks of study entry, except for LHRH agonists or antagonists in patients undergoing
+             ovarian suppression enrolled in the Female ER(+) BC cohort and patients undergoing
+             gonadal suppression enrolled in the Male ER(+) BC cohort.
+
+          6. Patients with symptomatic CNS metastases from breast cancer
+
+          7. Patients with a history of adrenal insufficiency. Patients receiving systemic
+             corticosteroids greater than 2-weeks in duration within 6 months of study entry must
+             have a lack of adrenal insufficiency as evidenced by a morning plasma cortisol
+             concentration of ≥ 500 nmol/l or a plasma cortisol response to an ACTH stimulation
+             test that is deemed clinical normal.
+
+          8. Patients with a history of another invasive malignancy within the last 3 years.
+
+          9. Patients with a QTcF interval of &gt;470 msec on the first of the triplicate Screening
+             ECGs; if the first ECG QTcF interval is &gt;470 msec, then the mean QTcF of the
+             triplicate Screening ECGs can be used and if the mean is &lt;470 msec, the patient may
+             be enrolled.
+
+         10. History of clinically significant cardiac arrhythmias (e.g., ventricular tachycardia,
+             ventricular fibrillation, atrial fibrillation with rapid ventricular response,
+             torsades de pointes, second degree orthird degree atrioventricular heart block
+             without a permanent pacemaker in place).
+
+         11. Class III, or IV heart failure as defined by the New York Heart Association (NYHA)
+             functional classification system.
+
+         12. Patients with bone metastases who have initiated denosumab or bisphosphonate therapy
+             within 28 days of Cycle 1 Day 1.
+
+         13. Patients with any intercurrent conditions that could preclude their participation in
+             the study, pose an undue medical hazard, or which could interfere with the
+             interpretation of the study results
+
+         14. Patients with a history of seizure within the past 2 years or those who require
+             prophylactic antiseizure medications are excluded.
+
+         15. History of loss of consciousness or transient ischemic attack within 12 months before
+             study drug initiation.
+
+         16. Patients who have known active HIV, Hepatitis B, or Hepatitis C infections.
+
+         17. Patients with any other condition which in the opinion of the investigator would
+             preclude participation in the study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Keishea Williams</last_name>
+    <role>Study Chair</role>
+    <affiliation>Sponsor GmbH</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Keishea Williams</last_name>
+    <phone>919-799-2037</phone>
+    <email>kwilliams@innocrinpharma.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Joel Eisner, PhD</last_name>
+    <email>jeisner@innocrinpharma.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Wallace Tumor Institute- University of Alabama</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35249</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kimberly LaMaster, RN</last_name>
+      <phone>205-975-0306</phone>
+      <email>lamaster@uab.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Christos Vaklavas, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clearview Cancer Institute</name>
+      <address>
+        <city>Huntsville</city>
+        <state>Alabama</state>
+        <zip>35805</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Leslie Smoot</last_name>
+      <phone>256-705-4246</phone>
+      <email>vleslies@ccihsv.com</email>
+    </contact>
+    <investigator>
+      <last_name>Brian Matthews, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado</name>
+      <address>
+        <city>Auroa</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonathan Scheiner</last_name>
+      <phone>720-848-0719</phone>
+    </contact>
+    <investigator>
+      <last_name>Anthony Elias, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Cancer Specialists</name>
+      <address>
+        <city>Fort Myers</city>
+        <state>Florida</state>
+        <zip>33916</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cara O'Keefe, BS</last_name>
+      <phone>239-274-8200</phone>
+      <phone_ext>0125</phone_ext>
+      <email>cokeefe@FLCancer.com</email>
+    </contact>
+    <investigator>
+      <last_name>Fadi Kayali, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Cancer Specialists- North</name>
+      <address>
+        <city>St. Petersburg</city>
+        <state>Florida</state>
+        <zip>33705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cara O'Keefe, BS</last_name>
+      <phone>239-274-8200</phone>
+      <phone_ext>0125</phone_ext>
+      <email>cokeefe@FLCancer.com</email>
+    </contact>
+    <investigator>
+      <last_name>Gail Wright, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Georgia Cancer Center at Augusta University</name>
+      <address>
+        <city>Augusta</city>
+        <state>Georgia</state>
+        <zip>30912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sandra Wall, RN</last_name>
+      <phone>706-721-4430</phone>
+      <email>swall@augusta.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Shou-Ching Tang, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Louisville Hospital / James Brown Cancer Center</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elizabeth Riley, MD</last_name>
+      <email>beth.riley@louisville.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Glenda Marker</last_name>
+      <phone>505-562-4087</phone>
+      <email>glenda.marker@louisville.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Elizabeth Riley, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aditya Bardia, MD</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Melissa Pesaturo</last_name>
+      <phone>617-613-4732</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Aditya Bardia, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marty Brown</last_name>
+      <phone>734-615-5224</phone>
+      <email>martybrn@med.umich.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Catherine Van Poznak, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Haythem Ali</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Patricia Vallieres</last_name>
+      <phone>313-916-2438</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Mayhem Ali, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Masonic Cancer Center</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Almarie Coleman</last_name>
+      <phone>612-625-1703</phone>
+      <email>colem258@umn.edu</email>
+    </contact>
+    <investigator>
+      <last_name>David Potter, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Network/Oncology Associates PC</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wendie Philips, RN</last_name>
+      <phone>402-991-8468</phone>
+      <email>wphilips@gucancer.com</email>
+    </contact>
+    <investigator>
+      <last_name>Stephen Lemon, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>John Theurer Cancer Center at Hackensack University Medical Center</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aretha DiSalvo, RN</last_name>
+      <phone>551-996-8258</phone>
+      <email>Aretha.DiSalvo@hackensackmeridian.org</email>
+    </contact>
+    <investigator>
+      <last_name>Deena Graham, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>North Shore Hematology Oncology Associates</name>
+      <address>
+        <city>East Setauket</city>
+        <state>New York</state>
+        <zip>11733</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Don Marx</last_name>
+      <phone>631-675-5143</phone>
+      <email>dmarx@NSHOA.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Fred Parrish, LPN</last_name>
+      <phone>631-675-5289</phone>
+      <email>fparrish@nshoa.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Noshir DaCosta, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Leigh Ann Boyle</last_name>
+      <phone>646-888-4728</phone>
+      <email>boylel@mskcc.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Zola Sundar, MPH, CCRP</last_name>
+      <phone>646 888-5345</phone>
+      <email>sookhooz@mskcc.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Tiffany A. Traina, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UNC Lineberger Comprehensive Cancer Center</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Symone Young</last_name>
+      <email>symone_young@med.unc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Lisa Carey, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Novant Health Presbyterian Medical Center - Oncology Research</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Debbie Griswald</last_name>
+    </contact>
+    <contact_backup>
+      <email>dgriswell@novanthealth.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ayla Kessler, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michelle Parks</last_name>
+      <phone>919-660-1278</phone>
+      <email>michelle.parks@duke.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sheryl D Cummings, RN, OCN</last_name>
+      <phone>919-613-4579</phone>
+      <email>sheryl.cummings@duke.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Kimberly Blackwell, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gabrail Cancer Center Research</name>
+      <address>
+        <city>Canton</city>
+        <state>Ohio</state>
+        <zip>44718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carrie Smith</last_name>
+      <phone>330-492-3345</phone>
+      <email>csmith@gabrailcancercenter.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Hannah Crocker, BS</last_name>
+      <phone>330-492-3345</phone>
+      <email>hcrocker@gabrailcancercenter.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Nashat Gabrail, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Ohio State University</name>
+      <address>
+        <city>Colombus</city>
+        <state>Ohio</state>
+        <zip>43202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>April Greene</last_name>
+      <phone>614-685-7037</phone>
+      <email>AprilD.Green@osumc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Bhuvaneswari Ramaswamy, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Robert Wesolowski, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Stephenson Cancer Center</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sharon Mears</last_name>
+      <phone>405-271-8001</phone>
+      <phone_ext>48276</phone_ext>
+      <email>Sharon-Mears@ouhsc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Wajeeja Razaq, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Charleston Hematology and Oncology Associates</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29414</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Brandi Rischer</last_name>
+      <email>Brandi.Risher@choasc.com</email>
+    </contact>
+    <investigator>
+      <last_name>David Ellison, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>SCRI Tenessee Oncology Nashville</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marsha Dunn</last_name>
+      <phone>615-329-7234</phone>
+      <email>Marsha.Dunn@scresearch.net</email>
+    </contact>
+    <investigator>
+      <last_name>Denise Yardley, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mary Crowley Cancer Research Centers</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Catherine Raj</last_name>
+      <phone>972-566-3064</phone>
+    </contact>
+    <contact_backup>
+      <last_name>Jana Adams, RN, BSN</last_name>
+      <phone>972.566.3089</phone>
+      <email>JAdams@marycrowley.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>John Nemunaitis, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Texas Southwestern Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sarah Weyandt, PhD</last_name>
+      <phone>214-648-7020</phone>
+      <email>Sarah.Weyandt@UTSouthwestern.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Barbara Haley, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Center for Cancer and Blood Disorders (Fort Worth)</name>
+      <address>
+        <city>Fort Worth,</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Name: Deanna Phillips Phillips</last_name>
+      <phone>817-759-7000</phone>
+      <email>dphillips@txcc.com</email>
+    </contact>
+    <investigator>
+      <last_name>Roblyn Young, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>US Oncology</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76177</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rita Lopez</last_name>
+      <phone>214-370-1846</phone>
+      <email>rita.lopez2@usoncology.com</email>
+    </contact>
+    <investigator>
+      <last_name>Cynthia Osborne, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Huntsman Cancer Institute</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Brady Gamble</last_name>
+      <phone>801-585-0550</phone>
+      <email>Brady.Gamble@hci.utah.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Hung Khong, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Oncology Associates</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephanie Griffith</last_name>
+      <phone>757-213-5813</phone>
+    </contact>
+    <contact_backup>
+      <last_name>Dana Austin, MS</last_name>
+      <phone>757-213-5615</phone>
+      <email>Dana.Austin@usoncology.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Michael Danso, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 28, 2017</lastchanged_date>
+  <firstreceived_date>October 7, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Breast Cancer</keyword>
+  <keyword>Breast</keyword>
+  <keyword>Advanced Breast Cancer</keyword>
+  <keyword>Metastatic Breast Cancer</keyword>
+  <keyword>CYP17</keyword>
+  <keyword>Male Breast Cancer</keyword>
+  <keyword>Triple Negative Cancer</keyword>
+  <keyword>ER+ Breast Cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Triple Negative Breast Neoplasms</mesh_term>
+    <mesh_term>Breast Neoplasms, Male</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

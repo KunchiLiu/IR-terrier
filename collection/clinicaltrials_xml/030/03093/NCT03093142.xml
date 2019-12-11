@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1055">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03093142</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KowloonH</org_study_id>
+    <nct_id>NCT03093142</nct_id>
+  </id_info>
+  <brief_title>The Treatment Effectiveness of Combined tDCs and Neurofeedback (NF) for Patients With Cognitive Deficits After Stroke</brief_title>
+  <official_title>The Treatment Effectiveness of Combined tDCs and Neurofeedback (NF) for Patients With Cognitive Deficits After Stroke</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Kowloon Hospital, Hong Kong</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Chinese University of Hong Kong</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Kowloon Hospital, Hong Kong</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a double blinded, randomized control trial with a pretest-posttest control and
+      interventional groups design. Both the assessor and participants are blinded to all
+      assessments and evaluations. All patients with subacute stroke undergo in-patient or
+      out-patient rehabilitation are screened initially by a series of screening test. Suitable
+      patients are assigned randomly to 3 groups respectively. Group 1 is the combined
+      transcranial direct current stimulation (tDCS) and neurofeedback group. Group 2 is the
+      neurofeedback group. Group 3 is the control group with sham neurofeedback training.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Treatment sessions for all three groups are conducted by the investigators who has training
+      in neurofeedback and transcranial direct current stimulation (tDCs). The neurofeedback
+      protocol will follow the study of Reichert et al., 2016. Electroencephalography signals for
+      SensoriMotor Rhythm (SMR) training were recorded at channel Cz, digitized at 256 Hertz (Hz)
+      and filtered with a 0.5 Hz high-pass and a 60 Hz low-pass filter. 50 Hz Notch filter will be
+      setup to eliminate the background noise. A 5-channel system amplifier (Procomp5, thought
+      technology) would be adopted for data recording. The ground electrode was located at the
+      right mastoid, the reference at the left mastoid. Each participant performed 10 training
+      sessions on different days. Sessions were conducted 3-5 times a week and consisted of 10 min
+      of preparation, a 3-min baseline trial in which the participants saw moving bars while
+      instructed to relax themselves without trying to control the bars voluntarily, and six 3-min
+      feedback runs. In these runs, participants were instructed to increase SMR power while
+      reducing artifacts (EMG &amp; EOG). Three bars were presented on a computer screen: the height
+      of the bar in the middle reflected real-time SMR power (12-15 Hz, band power), while the
+      height of the left bar reflected theta power (4-7 Hz, EEG band power) and the height of the
+      right bar beta power (EEG band power between 21 and 35 Hz which indicates movements and
+      other high-frequency disturbances). The data recorded in the baseline trial was used to
+      calculate individual thresholds for the three bars. The threshold of SMR power was adapted
+      automatically after each run on the basis of the previous run (mean). When the SMR band
+      power exceeded the predefined threshold, the color of the bar changed from red to green.
+      When participant was able to move the SMR bar above its threshold while keeping the artifact
+      bars below the thresholds, reward was given by getting points shown at the screen.
+      Furthermore, auditory feedback was provided as a reward by means of a midi tone feedback.
+      Participants were not given any instruction of how to control the feedback bars but were
+      only told to stay mentally focused and physically relaxed. Patients in all three groups will
+      receive 30 minutes conventional computer remediation training after neurofeedback in each
+      training session. Attention Processing Training III software was adopted for clients
+      training. The software had categorized attention according to Sohlberg &amp; Mateer, 1987 and
+      divided into sustained attention, selective attention, suppression, working memory and
+      alternate attention. The programme consisted of both visual and auditory exercises. The
+      investigators will assign the computer remediation exercise to the clients according to the
+      participants' abilities.
+
+      The tDCS + neurofeedback group will carry out 30 minutes tDCS simultaneously with computer
+      remediation. The tDCS protocol is based on the work of Jo. et al., 2009 with anodal tDCS (2
+      milliampere (mA), 30 mins, 30 seconds ramp up and down time) applied over DLPFC which is F3
+      or F4 according to 10-20 system. Stimulation (2 mA, 30 minutes) will be delivered by a
+      direct current stimulator through a pair of 35 cm2 rubber electrodes enclosed in
+      saline-soaked sponges and affixed to the head with rubber bands. The anode will be placed at
+      F3 and cathode will be placed at F4.
+
+      The sham neurofeedback group will conduct the sham neurofeedback training. The investigator
+      would setup according to study done by Engelbregt et al., 2015. The investigator who
+      supervise the client to do the neurofeedback training would not know the condition as
+      another investigator would setup the machine before the training. The electrodes of the sham
+      objects would be placed in the inactive slot of the recording machine. The machine will be
+      covered by the blanket after setup so that the operating investigator will not know whether
+      it is sham or experimental condition.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 1, 2017</start_date>
+  <completion_date type="Anticipated">December 31, 2018</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Outcomes Assessor</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change score in Trail Making Test A &amp; B from baseline</measure>
+    <time_frame>One day before the treatment , up to 4 weeks, up to 16 weeks</time_frame>
+    <description>Trail Making Test is a neuropsychological test of visual attention and task switching. It consists of two parts in which the subject is instructed to connect a set of 25 dots as quickly as possible while still maintaining accuracy.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change score in Executive function performance Test (EFPT) from baseline</measure>
+    <time_frame>One day before the treatment , up to 4 weeks, up to 16 weeks</time_frame>
+    <description>The Executive Function Performance Test is a performance-based assessment of executive function through observation of four Instrumental Activities of Daily Living.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change score in Functional Independence Measure (FIM) from basline</measure>
+    <time_frame>One day before the treatment , up to 4 weeks, up to 16 weeks</time_frame>
+    <description>The Functional Independence Measure instrument is a basic indicator of patient disability. FIM is used to track the changes in the functional ability of a patient during an episode of hospital rehabilitation care.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change score in Stroke Adapted 30 item version of the Sickness Impact Profile (SA - SIP 30)</measure>
+    <time_frame>One day before the treatment , up to 4 weeks, up to 16 weeks</time_frame>
+    <description>SA-SIP 30 assesses quality of life in patients who have sustained a stroke.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change score in Stroop Test from baseline</measure>
+    <time_frame>One day before the treatment , up to 4 weeks, up to 16 weeks</time_frame>
+    <description>The Stroop Test was designed to differentiate between individuals who are non-brain damaged and individuals with brain damage.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chaneg score in Rivermead Behavioral Memory Test from baseline</measure>
+    <time_frame>One day before the treatment , After 10 treatment sessions, 3 months follow up after 10 sessions</time_frame>
+    <description>The Rivermead behavioral memory Test-II consists of 11 subtests designed to assess memory difficulties frequently encountered by patients with acquired brain damage.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change score in Paced Auditory Serial Addition Test (PASAT) from baseline</measure>
+    <time_frame>One day before the treatment , up to 4 weeks, up to 16 weeks</time_frame>
+    <description>Paced Auditory Serial Addition Test (PASAT) is a neuropsychological test used to assess capacity and rate of information processing and sustained and divided attention</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Stroke</condition>
+  <condition>Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>tDCS&amp;neurofeedback&amp;computer remediation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>30 minutes neurofeedback and 30 minutes tDCs simultaneously with computer remediation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>neurofeedback&amp;computer remediation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>30 minutes neurofeedback and 30 minutes computer remediation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>sham neurofeedback&amp;computer remediation</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>30 minutes sham neurofeedback and 30 minutes computer remediation.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>tDCS&amp;neurofeedback&amp;computer remediation</intervention_name>
+    <description>tDCs and neurofeedback and computer remediation</description>
+    <arm_group_label>tDCS&amp;neurofeedback&amp;computer remediation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>neurofeedback&amp;computer remediation</intervention_name>
+    <description>Neurofeedback and computer remediation</description>
+    <arm_group_label>neurofeedback&amp;computer remediation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>sham neurofeedback&amp;computer remediation</intervention_name>
+    <description>sham neurofeedback and computer remediation</description>
+    <arm_group_label>sham neurofeedback&amp;computer remediation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. First or second stroke (haemorrhagic or ischaemic) confirmed by computer axial
+             tomography scan or magnetic resonance imaging
+
+          2. Below 16 th percentile cut off in Hong Kong Montreal - Cognitive Assessment (HK -
+             MoCA) (range from 17-25/30).
+
+          3. Less than twelve months since onset of stroke at study entry
+
+          4. Able to follow simple command
+
+        Exclusion Criteria:
+
+          1. Patients with severe dysphasia (either expressive or comprehensive) which restricts
+             communication;
+
+          2. History of other neurological disease, psychiatric disorder, or alcoholism;
+
+          3. Significant impairment in visual or auditory function
+
+          4. Any additional medical or psychological condition that would affect their ability to
+             comply with the study protocol.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marko Chan, MSc.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Kowloon Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marko Chan, MSc.</last_name>
+    <phone>31297131</phone>
+    <email>ckl892@ha.org.hk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Kowloon Hospital</name>
+      <address>
+        <city>Kowloon</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marko Chan, MSc.</last_name>
+      <phone>852-31297131</phone>
+      <email>ckl892@ha.org.hk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Hong Kong</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 22, 2017</lastchanged_date>
+  <firstreceived_date>March 1, 2017</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Kowloon Hospital, Hong Kong</investigator_affiliation>
+    <investigator_full_name>Marko Chan</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>transcranial direct current stimulation (tDCs)</keyword>
+  <keyword>neurofeedback</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Stroke</mesh_term>
+    <mesh_term>Cognition Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

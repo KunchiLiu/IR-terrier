@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="13994">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02924727</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CLCZ696G2301</org_study_id>
+    <secondary_id>2016-002154-20</secondary_id>
+    <nct_id>NCT02924727</nct_id>
+  </id_info>
+  <brief_title>Prospective ARNI vs ACE Inhibitor Trial to DetermIne Superiority in Reducing Heart Failure Events After MI</brief_title>
+  <acronym>PARADISE-MI</acronym>
+  <official_title>A Multi-center, Randomized, Double-blind, Active-controlled, Parallel-group Phase 3 Study to Evaluate the Efficacy and Safety of LCZ696 Compared to Ramipril on Morbidity and Mortality in High Risk Patients Following an AMI</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novartis</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the efficacy and safety of LCZ696 titrated to a
+      target dose of 200 mg twice daily, compared to ramipril titrated to a target dose of 5 mg
+      twice daily, in addition to conventional post-AMI treatment, in reducing the occurrence of
+      composite endpoint of CV death, HF hospitalization and outpatient HF (time-to-first event
+      analysis) in post-AMI patients with evidence of LV systolic dysfunction and/or pulmonary
+      congestion, with no known prior history of chronic HF..
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>December 2016</start_date>
+  <completion_date type="Anticipated">July 2019</completion_date>
+  <primary_completion_date type="Anticipated">July 2019</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to the first occurrence of a confirmed composite endpoint</measure>
+    <time_frame>Time from randomization to first occurrence (up to approximately 32 months)</time_frame>
+    <description>A confirmed composite endpoint includes cardiovascular (CV) death, heart failure (HF) hospitalization, or outpatient heart failure</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to the first occurrence of a confirmed composite of CV death or HF hospitalization</measure>
+    <time_frame>Time from randomization to first occurrence (up to approximately 32 months)</time_frame>
+    <description>A confirmed composite endpoint for this outcome measure includes cardiovascular death or heart failure hospitalization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to the first occurrence of a confirmed composite of HF hospitalization or outpatient HF</measure>
+    <time_frame>Time from randomization to first occurrence (approximately up to 32 months)</time_frame>
+    <description>A confirmed composite endpoint includes first occurrence of heart failure hospitalization or outpatient heart failure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to the first occurrence of a confirmed composite of CV death, non-fatal spontaneous myocardial infarction or non-fatal stroke</measure>
+    <time_frame>Time from randomization to first occurrence (approximately up to 32 months)</time_frame>
+    <description>A confirmed composite endpoint for this outcome measure includes cardiovascular death, non-fatal spontaneous myocardial infarction or non-fatal stroke</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total number of recurrent confirmed composite endpoints</measure>
+    <time_frame>Time from randomization to end of study (approximately up to 32 months)</time_frame>
+    <description>A confirmed composite endpoint includes cardiovascular death, heart failure hospitalization, non-fatal spontaneous MI hospitalization, and non-fatal stroke hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to all-cause mortality</measure>
+    <time_frame>Time from randomization to death (approximately up to 32 months)</time_frame>
+    <description>All-cause mortality defined as death related to CV and non-CV events.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">4650</enrollment>
+  <condition>Acute Myocardial Infarction</condition>
+  <arm_group>
+    <arm_group_label>LCZ696 (sacubitril/valsartan)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Following randomization, patients will receive LCZ696 in titrated doses from level 1 up to level 3 (50, 100 and 200 mg twice daily).
+Patients will be required to take a total of two pills, (one tablet from the LCZ696 pack and one capsule from ramipril matching placebo pack) twice a day for the duration of the study.
+Patients randomized to LCZ who were previously treated with ACE inhibitors receiving the last dose of that agent during the last 36 hours prior to randomization will receive a valsartan bridge for one day. These patients will receive two doses of valsartan for 1 day in a blinded manner prior to beginning double-blind LCZ696 treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ramipril</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Following randomization, patients will receive the Ramipril in titrated doses from level 1 up to level 3 (1.25, 2.5 and 5 mg twice daily).
+Patients will be required to take a total of two pills, (one capsule from the ramipril pack and one tablet from LCZ696 matching placebo pack) twice a day for the duration of the study.
+Patients randomized to ramipril who were previously treated with ACE inhibitors receiving the last dose of that agent during the last 36 hours prior to randomization will immediately start on double-blind ramipril; however, to maintain double blind/double dummy of the valsartan bridge, these patients will receive two doses of matching valsartan placebo for 1 day in a blinded manner prior to beginning double-blind LCZ696 placebo.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>LCZ696 (sacubitril/valsartan)</intervention_name>
+    <description>LCZ696 (sacubitril/valsartan) tablet will be available in 24/26 mg, 49/51 mg and 97/103 mg, respectively</description>
+    <arm_group_label>LCZ696 (sacubitril/valsartan)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ramipril</intervention_name>
+    <description>Ramipril 1.25 mg, 2.5 mg, and 5 mg oral capsules</description>
+    <arm_group_label>Ramipril</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo of LCZ696</intervention_name>
+    <description>Matching placebo of LCZ696 tablets</description>
+    <arm_group_label>Ramipril</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo of ramipril</intervention_name>
+    <description>Matching placebo of ramipril capsule</description>
+    <arm_group_label>LCZ696 (sacubitril/valsartan)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Valsartan</intervention_name>
+    <description>Valsartan (VAL489) 40 mg and 80 mg tablets, two doses for 1 day to patients who were previously treated with ACE inhibitors receiving the last dose of that agent during the last 36 hours prior to randomization</description>
+    <arm_group_label>LCZ696 (sacubitril/valsartan)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo of valsartan</intervention_name>
+    <description>matching placebo of valsartan for one day to patients who will be randomized to received ramipril</description>
+    <arm_group_label>Ramipril</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Male or female patients ≥ 18 years of age.
+
+          2. Diagnosis of spontaneous AMI based on the universal MI definition* with randomization
+             to occur between 12 hours and 7 days after index event presentation.
+
+          3. Evidence of LV systolic dysfunction and/or pulmonary congestion requiring intravenous
+             treatment associated with the index MI event defined as:
+
+               -  LVEF ≤40% after index MI presentation and prior to randomization and/or
+
+               -  Pulmonary congestion requiring intravenous treatment during the index
+                  hospitalization
+
+          4. At least one of the following 8 risk factors:
+
+               -  Age ≥ 70 years
+
+               -  eGFR &lt;60 mL/min/1.73 m2 based on MDRD formula at screening visit
+
+               -  Type I or II diabetes mellitus
+
+               -  Documented history of prior MI
+
+               -  Atrial fibrillation as noted by ECG, associated with index MI
+
+               -  LVEF &lt;30% associated with index MI
+
+               -  Worst Killip class III or IV associated with index MI requiring intravenous
+                  treatment
+
+               -  STEMI without reperfusion therapy within the first 24 hours after presentation
+
+          5. Hemodynamically stable defined as:
+
+               -  SBP ≥ 100 mmHg at randomization for patients who received ACEi/ARB during the
+                  last 24 hours prior to randomization
+
+               -  SBP ≥ 110 mmHg at randomization for patients who did not receive ACEi/ARB during
+                  the last 24 hours prior to randomization
+
+               -  No IV treatment with diuretics, vasodilators, vasopressors and/or inotropes
+                  during the 24 hours prior to randomization
+
+        Key Exclusion Criteria:
+
+          1. Known history of chronic HF prior to randomization
+
+          2. Cardiogenic shock within the last 24 hours prior to randomization
+
+          3. Persistent clinical HF at the time of randomization
+
+          4. Coronary artery bypass graft (CABG) performed or planned for index MI
+
+          5. Clinically significant right ventricular MI as index MI
+
+          6. Symptomatic hypotension at screening or randomization
+
+          7. Patients with a known history of angioedema
+
+          8. Stroke or transient ischemic attack within one month prior to randomization
+
+          9. Known or suspected bilateral renal artery stenosis
+
+         10. Clinically significant obstructive cardiomyopathy
+
+         11. Open-heart surgery performed within one month prior to randomization or planned
+             cardiac surgery w/in the 3 months prior to randomization
+
+         12. eGFR &lt; 30 ml/min/1.73 m2 as measured by MDRD at screening
+
+         13. Serum potassium &gt; 5.2 mmol /L at screening
+
+         14. Known hepatic impairment (as evidenced by total bilirubin &gt; 3.0 mg/dL or increased
+             ammonia levels, if performed), or history of cirrhosis with evidence of portal
+             hypertension such as varices
+
+         15. Previous use of LCZ696 or EntrestoTM
+
+         16. History of malignancy of any organ system (other than localized basal cell carcinoma
+             of the skin) within the past 3 years with a life expectancy of less than 1year.
+
+         17. History of hypersensitivity to the study drugs or drugs of similar chemical classes
+             or known intolerance or contraindications to study drugs or drugs of similar chemical
+             classes including ACE inhibitors, ARB or NEP inhibitors
+
+         18. Pregnant or nursing women or women of child-bearing potential unless they are using
+             highly effective methods of contraception
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <phone>1-888-669-6682</phone>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <phone>+41613241111</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Huntsville</city>
+        <state>Alabama</state>
+        <zip>35801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Carmichael</city>
+        <state>California</state>
+        <zip>95608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Northridge</city>
+        <state>California</state>
+        <zip>91325</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Cumming</city>
+        <state>Georgia</state>
+        <zip>30041</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Covington</city>
+        <state>Louisiana</state>
+        <zip>70433</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Slidell</city>
+        <state>Louisiana</state>
+        <zip>70458</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Lansing</city>
+        <state>Michigan</state>
+        <zip>48912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Lynchburg</city>
+        <state>Virginia</state>
+        <zip>24501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Rotterdam</city>
+        <zip>3083 AN</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Singapore</city>
+        <zip>169609</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+    <country>Singapore</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2017</verification_date>
+  <lastchanged_date>January 6, 2017</lastchanged_date>
+  <firstreceived_date>October 4, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Spontaneous AMI</keyword>
+  <keyword>HF hospitalization</keyword>
+  <keyword>outpatient HF</keyword>
+  <keyword>LV systolic dysfunction</keyword>
+  <keyword>pulmonary congestion</keyword>
+  <keyword>STEMI</keyword>
+  <keyword>NSTEMI</keyword>
+  <keyword>randomized clinical trial</keyword>
+  <keyword>LCZ696</keyword>
+  <keyword>ramipril</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Infarction</mesh_term>
+    <mesh_term>Myocardial Infarction</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Ramipril</mesh_term>
+    <mesh_term>Angiotensin-Converting Enzyme Inhibitors</mesh_term>
+    <mesh_term>Valsartan</mesh_term>
+    <mesh_term>LCZ 696</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

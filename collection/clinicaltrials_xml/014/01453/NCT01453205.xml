@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="126683">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01453205</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CD-ON-MEDI-551-1088</org_study_id>
+    <nct_id>NCT01453205</nct_id>
+  </id_info>
+  <brief_title>A Phase 2, Multicenter, Randomized, Open-label Study of MEDI-551 in Adults With Relapsed or Refractory Diffuse Large B-Cell Lymphoma (DLBCL)</brief_title>
+  <official_title>A Phase 2 Randomized Open-label Study of MEDI-551 in Adults With Relapsed or Refractory DLBCL</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>MedImmune LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>MedImmune LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overall purpose of the study is to determine if MEDI-551, when used in combination with
+      salvage chemotherapy, Ifosfamide-carboplatin-etoposide (ICE) or Dexamethasone-cytarabine
+      (DHAP) in patients with relapsed or refractory DLBCL who are eligible for Autologous Stem
+      Cell Transplant (ASCT), has superior efficacy compared to rituximab in the same population.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>February 2012</start_date>
+  <completion_date type="Actual">July 2016</completion_date>
+  <primary_completion_date type="Actual">July 2016</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall Response Rate (ORR)</measure>
+    <time_frame>Study Day 1080</time_frame>
+    <description>Evaluation of the overall response rate (ORR), including Partial Response (PR) and Complete Response (CR), of subjects treated with MEDI-551 when used in combination with ICE or DHAP versus rituximab in combination with ICE or DHAP in subjects with relapsed or refractory DLBCL.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Antitumor Activity</measure>
+    <time_frame>Study Day 1080</time_frame>
+    <description>Includes complete response rate, Minimal residual disease negative complete response rate, time to response (TTR), time to progression (TTP), progression-free survival (PFS), and overall survival (OS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acceptable Dose</measure>
+    <time_frame>Study Day 42</time_frame>
+    <description>Determination of an acceptable dose for MEDI-551 when used in combination with ICE or DHAP; Benefit/Risk Analysis of Safety and Efficacy to be determined</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety and Tolerability</measure>
+    <time_frame>Study Day 1080</time_frame>
+    <description>The safety endpoints include Adverse Events (AEs), Serious Adverse Events (SAEs) occurring during the protocol-specified reporting period and changes in clinical laboratory evaluations, Electrocardiogram (ECGs), vital signs, and weight from baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity (IM)</measure>
+    <time_frame>Up to Study Day 1080</time_frame>
+    <description>Number and percentage of subjects who develop detectable anti-drug antibodies</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics (PK)</measure>
+    <time_frame>Study Day 1; Study Day 8; Study Day 12; Study Day 19; Study Day 26; Study Day 54; Study Day 110; Study Day 138; Study Day 166</time_frame>
+    <description>Area Under Curve, CMAX, T1-half</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">252</enrollment>
+  <condition>Diffuse Large B-Cell Lymphoma (DLBCL)</condition>
+  <arm_group>
+    <arm_group_label>MEDI-551 (dose level 1) + ICE/DHAP</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>MEDI-551 (dose level 1) + ICE/DHAP</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MEDI-551 (dose level 2) + ICE/DHAP</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>MEDI-551 (dose level 2) + ICE/DHAP</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Rituximab + ICE/DHAP</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Rituximab + ICE/DHAP</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>MEDI-551</intervention_name>
+    <description>MEDI-551 at the assigned dose will be administered via Intravenous (IV) infusion. Subjects will receive 3 cycles of M-ICE or M-DHAP unless CR is achieved at the end of Cycle 2, disease progression is noted at the end of Cycle 2, or a significant/serious drug related toxicity occurs (as per the opinion of the investigator).</description>
+    <arm_group_label>MEDI-551 (dose level 1) + ICE/DHAP</arm_group_label>
+    <arm_group_label>MEDI-551 (dose level 2) + ICE/DHAP</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rituximab</intervention_name>
+    <description>Rituximab at 375 mg/m2 will be administered via IV infusion 2 days before the start of Cycle 1 and on Day 1 of each cycle. The infusion time for rituximab will be 50 400 mg/hr, depending on subject's tolerance. Subjects will receive 3 cycles of Rituximab with Ice (R ICE) or Rituximab with DHAP (R-DHAP) unless CR is achieved at the end of Cycle 2, disease progression is noted at the end of Cycle 2, or a significant/serious drug related toxicity occurs (as per the opinion of the investigator).</description>
+    <arm_group_label>Rituximab + ICE/DHAP</arm_group_label>
+    <other_name>Rituxan; MabThera</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ICE</intervention_name>
+    <description>ICE will be administered via IV infusion as follows: ifosfamide 5 g/m2 continuously for 24 hours with mesna on Days 2 and 3; carboplatin AUC=5 mg/mL x min [800 mg maximum) on Day 2; etoposide 100 mg/m2 on Days 1, 2, and 3) in 21-day cycles.</description>
+    <arm_group_label>MEDI-551 (dose level 1) + ICE/DHAP</arm_group_label>
+    <arm_group_label>MEDI-551 (dose level 2) + ICE/DHAP</arm_group_label>
+    <arm_group_label>Rituximab + ICE/DHAP</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>DHAP</intervention_name>
+    <description>DHAP will be administered via IV infusion as follows: dexamethasone 40 mg on Days 1, 2, 3, and 4; cisplatin 100 mg/m2 continuously for 24 hours on Day 1 of dosing cycle; cytarabine 2 g/m2 in 3-hour infusion repeated after 12 hours (2 doses) on Day 2 in 21-day cycles.</description>
+    <arm_group_label>MEDI-551 (dose level 1) + ICE/DHAP</arm_group_label>
+    <arm_group_label>MEDI-551 (dose level 2) + ICE/DHAP</arm_group_label>
+    <arm_group_label>Rituximab + ICE/DHAP</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Autologous Stem Cell Transplant (ASCT)</intervention_name>
+    <description>Subjects who achieve CR or PR will undergo stem cell harvest and autologous stem cell transplantation (ASCT) following standard institutional protocols.</description>
+    <arm_group_label>MEDI-551 (dose level 1) + ICE/DHAP</arm_group_label>
+    <arm_group_label>MEDI-551 (dose level 2) + ICE/DHAP</arm_group_label>
+    <arm_group_label>Rituximab + ICE/DHAP</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histologically confirmed aggressive B-cell DLBCL, including FL transforming to DLBCL
+             &amp; Grade III FL
+
+          -  Relapsed from or refractory to at least one treatment containing rituximab or another
+             anti-CD20 based immunotherapy combined with anthracycline- or anthracenedione-based
+             chemotherapy
+
+          -  Eligible for ASCT
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1, or 2
+
+          -  Life expectancy of ≥ 12 weeks
+
+          -  Adequate hematological function
+
+        Exclusion Criteria:
+
+          -  Any chemotherapy, radiotherapy, immunotherapy, biologic, investigational or hormonal
+             therapy for treatment of lymphoma within 28 days prior to treatment
+
+          -  Previous cancer therapy for DLBCL other than anthracycline- or anthracenedione based
+             chemoimmunotherapy, monotherapy rituximab prior to first line therapy and/or as a
+             maintenance therapy, or limited field radiotherapy
+
+          -  Prior autologous or allogeneic SCT
+
+          -  New York Heart Association ≥ Class II congestive heart failure; Clinically
+             significant abnormality on ECG
+
+          -  History of other invasive malignancy within 5 years except for localized/in situ,
+             carcinomas such as cervical carcinoma in situ.
+
+          -  Evidence of active infection
+
+          -  Documented current central nervous system involvement by leukemia or lymphoma
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>MedImmune LLC</last_name>
+    <role>Study Director</role>
+    <affiliation>MedImmune LLC</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35061</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Burbank</city>
+        <state>California</state>
+        <zip>91501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Palm Springs</city>
+        <state>California</state>
+        <zip>92262</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Sylmar</city>
+        <state>California</state>
+        <zip>91342</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Westwood</city>
+        <state>Kansas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Hazard</city>
+        <state>Kentucky</state>
+        <zip>41701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Lafayette</city>
+        <state>Louisiana</state>
+        <zip>70503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Shreveport</city>
+        <state>Louisiana</state>
+        <zip>71103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>66160</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10466</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Fargo</city>
+        <state>North Dakota</state>
+        <zip>58102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Newark</city>
+        <state>Ohio</state>
+        <zip>43055</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Sylvania</city>
+        <state>Ohio</state>
+        <zip>43560</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37909</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Lubbock</city>
+        <state>Texas</state>
+        <zip>79410</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Morgantown</city>
+        <state>West Virginia</state>
+        <zip>26505</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>St. John</city>
+        <state>New Brunswick</state>
+        <zip>E2E5A2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Greenfield Park</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Brno</city>
+        <zip>12808</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Praha 2</city>
+        <zip>12808</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Praha</city>
+        <zip>12808</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Bordeaux</city>
+        <zip>33300</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Le Mans</city>
+        <zip>72000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Libourne Cedex</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Marseille</city>
+        <zip>13005</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Marseille</city>
+        <zip>13273</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Pessac</city>
+        <zip>33604</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Rouen</city>
+        <zip>76100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Tours</city>
+        <zip>37100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Berlin</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Frankfurt</city>
+        <zip>65929</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Mainz</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Muenchen</city>
+        <zip>80804</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Tuebingen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Wuerzburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Budapest</city>
+        <zip>01083</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Debrecen</city>
+        <zip>04032</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Gyor</city>
+        <zip>09200</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kaposvar</city>
+        <zip>07400</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ashkelon</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Haifa</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Jerusalem</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Tel Aviv</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Gdynia</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Lublin</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Nizhny Novgorod</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>197341</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>St. Petersburg</city>
+        <zip>197341</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>St. Petersburg</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Cadiz</city>
+        <zip>11009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Girona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>L'Hospitalet de Llobregat</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28025</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Majadahonda</city>
+        <zip>28222</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Malaga</city>
+        <zip>29010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Pamplona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Salamanca</city>
+        <zip>37007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>San Sebastian de los Reyes</city>
+        <zip>28702</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41013</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46015</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46026</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Izmir</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kurupelit</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Malatya</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Talas</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>Czech Republic</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Hungary</country>
+    <country>Israel</country>
+    <country>Poland</country>
+    <country>Russian Federation</country>
+    <country>Spain</country>
+    <country>Turkey</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Italy</country>
+  </removed_countries>
+  <verification_date>August 2016</verification_date>
+  <lastchanged_date>August 4, 2016</lastchanged_date>
+  <firstreceived_date>October 3, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Lymphoma, Non-Hodgkin's Lymphoma, Diffuse Large B-Cell Lymphoma, DLBCL, B-Cell Malignancy, anti-CD19, monoclonal antibody, second line, ASCT, Refractory</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Rituximab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,1410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="39991">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02585778</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LPS14355</org_study_id>
+    <secondary_id>2015-000799-92</secondary_id>
+    <secondary_id>U1111-1172-4772</secondary_id>
+    <nct_id>NCT02585778</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of Alirocumab Versus Placebo on Top of Maximally Tolerated Lipid Lowering Therapy in Patients With Hypercholesterolemia Who Have Type 1 or Type 2 Diabetes and Are Treated With Insulin (ODYSSEY DM - Insulin)</brief_title>
+  <official_title>A Randomized, Double-Blind, Placebo-Controlled, Parallel Group Study to Evaluate the Efficacy and Safety of Alirocumab in Insulin Treated Patients With Type 1 or Type 2 Diabetes and With Hypercholesterolemia at High Cardiovascular Risk Not Adequately Controlled on Maximally Tolerated LDL-C Lowering Therapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sanofi</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Regeneron Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Sanofi</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Primary Objectives:
+
+        -  To demonstrate the superiority of alirocumab in comparison with placebo in the
+           reduction of calculated low-density lipoprotein cholesterol (LDL-C) in patients with
+           diabetes treated with insulin and with hypercholesterolemia at high cardiovascular risk
+           not adequately controlled on maximally tolerated LDL-C lowering therapy.
+
+        -  To evaluate the safety and tolerability of alirocumab in patients with diabetes treated
+           with insulin.
+
+      Secondary Objective:
+
+      To demonstrate that alirocumab is superior in comparison to placebo in its effects on other
+      lipid parameters (ie, measured LDL-C, non-high-density lipoprotein cholesterol [non-HDL-C],
+      apolipoprotein B [Apo B], total cholesterol [TC], lipoprotein a [Lp(a)]), high density
+      lipoprotein cholesterol (HDL-C), triglyceride (TG) levels, triglyceride rich lipoproteins
+      (TGRL), apolipoprotein A-1 (Apo A-1), apolipoprotein CIII (Apo C-III), and LDL particle
+      number and size).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The maximum study duration will be approximately 9 months per patient, including a 6 month
+      treatment period, a screening period of up to 3 weeks, and an 8 week safety observation
+      period.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>October 2015</start_date>
+  <completion_date type="Anticipated">March 2017</completion_date>
+  <primary_completion_date type="Anticipated">March 2017</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Investigator</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percent change in calculated LDL-C in the intent to treat (ITT) population</measure>
+    <time_frame>From baseline to Week 24</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of patients with adverse events</measure>
+    <time_frame>From baseline to Week 32</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percent change in calculated LDL-C in the modified ITT (mITT) population</measure>
+    <time_frame>From baseline to Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent change in measured LDL-C in the ITT population</measure>
+    <time_frame>From baseline to Weeks 12 and 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent change in calculated LDL-C in the ITT population</measure>
+    <time_frame>From baseline to Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent change in non-HDL-C in the ITT population</measure>
+    <time_frame>From baseline to Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent change in Apo B in the ITT population</measure>
+    <time_frame>From baseline to Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent change in total cholesterol in the ITT population</measure>
+    <time_frame>From baseline to Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients reaching calculated LDL-C &lt; 70 mg/dL in the mITT population</measure>
+    <time_frame>Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients reaching calculated LDL-C &lt; 50 mg/dL in the mITT population</measure>
+    <time_frame>Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients reaching non-HDL &lt; 100 mg/dL in the mITT population</measure>
+    <time_frame>Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients reaching non-HDL &lt; 80 mg/dL in the mITT population</measure>
+    <time_frame>Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent change in Lp(a) in the ITT population</measure>
+    <time_frame>From baseline to Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent change in HDL-C in the ITT population</measure>
+    <time_frame>From baseline to Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent change in TG in the ITT population</measure>
+    <time_frame>From baseline to Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent change in LDL-C particle number in the ITT population</measure>
+    <time_frame>From baseline to Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent change in LDL-C particle size in the ITT population</measure>
+    <time_frame>From baseline to Week 24</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Hypercholesterolaemia</condition>
+  <arm_group>
+    <arm_group_label>Alirocumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Will be injected subcutaneously every 2 weeks starting with Dose 1 with potential blinded uptitration to Dose 2 at Week 12. The following background therapies: antihyperglycemic agents, statins, and other lipid modifying therapy will be administered as applicable or as per Investigator's discretion</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Will be injected subcutaneously every 2 weeks. The following background therapies: antihyperglycemic agents, statins, and other lipid modifying therapy will be administered as applicable or as per Investigator's discretion</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ALIROCUMAB SAR236553 (REGN727)</intervention_name>
+    <description>Pharmaceutical form:solution for injection Route of administration: subcutaneous</description>
+    <arm_group_label>Alirocumab</arm_group_label>
+    <other_name>Praluent</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>placebo</intervention_name>
+    <description>Pharmaceutical form:solution for injection Route of administration: subcutaneous</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>insulin</intervention_name>
+    <description>Pharmaceutical form:solution for injection Route of administration: subcutaneous</description>
+    <arm_group_label>Alirocumab</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Lantus (insulin glargine)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>insulin</intervention_name>
+    <description>Pharmaceutical form:powder Route of administration: inhalation</description>
+    <arm_group_label>Alirocumab</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Afrezza (insulin human)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>statin</intervention_name>
+    <description>Pharmaceutical form:tablet Route of administration: oral</description>
+    <arm_group_label>Alirocumab</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>lipid modifying therapy</intervention_name>
+    <description>Pharmaceutical form:tablet Route of administration: oral</description>
+    <arm_group_label>Alirocumab</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:
+
+          -  Patients with type 1 or type 2 diabetes treated with insulin whose LDL-C levels are
+             not adequately controlled with maximally tolerated lipid-modifying therapy.
+
+          -  LDL-C of 70 mg/dL or greater.
+
+          -  18 years of age or more.
+
+          -  Glycosylated hemoglobin (HbA1c) less than 10%.
+
+          -  History of cardiovascular disease (including CHD and/or CHD risk equivalents) and/or
+             at least one additional cardiovascular risk factor.
+
+        Exclusion criteria:
+
+          -  Not on a stable dose of statin or other lipid modifying therapy for at least 4 weeks
+             prior to screening.
+
+          -  Triglycerides &gt;400 mg/dL.
+
+          -  Estimated glomerular filtration rate (eGFR) &lt;15 mL/min/1.73 m² according to the
+             Modification of Diet in Renal Disease (MDRD) equation.
+
+          -  Currently receiving or plans to receive renal replacement therapy (for example,
+             hemodialysis).
+
+          -  Change in weight of more than 5 kilograms within the prior 2 months.
+
+          -  Not on a stable dose/regimen of insulin or other antidiabetic drugs for the past 3
+             months or plans to intensify insulin regimen during the study.
+
+          -  Not treated with insulin for at least 6 months.
+
+          -  Plans to start new lipid modifying therapy or change dose of current lipid modifying
+             therapy during the study.
+
+          -  Body mass index (BMI) &gt;45 kg/m² or plans to undergo bariatric surgery, weight loss
+             program, or initiate weight loss drugs during the study
+
+          -  History of recent decompensation of diabetes within the prior 2 months (for example,
+             diabetic ketoacidosis).
+
+        The above information is not intended to contain all considerations relevant to a
+        patient's potential participation in a clinical trial.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Sciences &amp; Operations</last_name>
+    <role>Study Director</role>
+    <affiliation>Sanofi</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840020</name>
+      <address>
+        <city>Encino</city>
+        <state>California</state>
+        <zip>91436</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840002</name>
+      <address>
+        <city>Fresno</city>
+        <state>California</state>
+        <zip>93720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840029</name>
+      <address>
+        <city>Oakland</city>
+        <state>California</state>
+        <zip>94612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840027</name>
+      <address>
+        <city>Loveland</city>
+        <state>Colorado</state>
+        <zip>80538</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840026</name>
+      <address>
+        <city>Atlantis</city>
+        <state>Florida</state>
+        <zip>33462</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840006</name>
+      <address>
+        <city>Bradenton</city>
+        <state>Florida</state>
+        <zip>33180</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840023</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840028</name>
+      <address>
+        <city>Palm Habour</city>
+        <state>Florida</state>
+        <zip>34684</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840022</name>
+      <address>
+        <city>Ponte Verdra</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840021</name>
+      <address>
+        <city>Roswell</city>
+        <state>Georgia</state>
+        <zip>30076</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840007</name>
+      <address>
+        <city>Springfield</city>
+        <state>Illinois</state>
+        <zip>62704</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840011</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46260</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840015</name>
+      <address>
+        <city>Valparaiso</city>
+        <state>Indiana</state>
+        <zip>46383</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840010</name>
+      <address>
+        <city>Des Moines</city>
+        <state>Iowa</state>
+        <zip>50314</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840005</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840018</name>
+      <address>
+        <city>Auburn</city>
+        <state>Maine</state>
+        <zip>04210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840013</name>
+      <address>
+        <city>Hyattsville</city>
+        <state>Maryland</state>
+        <zip>20782</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840016</name>
+      <address>
+        <city>Rockville</city>
+        <state>Maryland</state>
+        <zip>20852</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840004</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55416</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840012</name>
+      <address>
+        <city>Jamaica</city>
+        <state>New York</state>
+        <zip>11432</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840014</name>
+      <address>
+        <city>Maumee</city>
+        <state>Ohio</state>
+        <zip>43537</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840009</name>
+      <address>
+        <city>Greer</city>
+        <state>South Carolina</state>
+        <zip>29651</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840024</name>
+      <address>
+        <city>Chattanooga</city>
+        <state>Tennessee</state>
+        <zip>37404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840001</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78756</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840003</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840019</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840025</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77090</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840017</name>
+      <address>
+        <city>Ogden</city>
+        <state>Utah</state>
+        <zip>84405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840008</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 040002</name>
+      <address>
+        <city>Innsbruck</city>
+        <zip>6020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 040005</name>
+      <address>
+        <city>Linz</city>
+        <zip>4021</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 040003</name>
+      <address>
+        <city>Salzburg</city>
+        <zip>5020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 040004</name>
+      <address>
+        <city>Salzburg</city>
+        <zip>5026</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 040001</name>
+      <address>
+        <city>Wien</city>
+        <zip>1160</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 056002</name>
+      <address>
+        <city>Edegem</city>
+        <zip>2650</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 056003</name>
+      <address>
+        <city>Haine-Saint-Paul</city>
+        <zip>7100</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 056001</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 250-008</name>
+      <address>
+        <city>Besancon</city>
+        <zip>25030</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 250-005</name>
+      <address>
+        <city>Corbeil Essonnes</city>
+        <zip>91100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 250-004</name>
+      <address>
+        <city>La Rochelle Cedex 1</city>
+        <zip>17019</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 250-003</name>
+      <address>
+        <city>Le Creusot</city>
+        <zip>71200</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 250-009</name>
+      <address>
+        <city>Mulhouse</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 250-002</name>
+      <address>
+        <city>Nantes cedex 01</city>
+        <zip>44093</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 250-007</name>
+      <address>
+        <city>Paris</city>
+        <zip>75018</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 250-006</name>
+      <address>
+        <city>Strasbourg Cedex 2</city>
+        <zip>67098</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 250-001</name>
+      <address>
+        <city>TOULOUSE Cedex 9</city>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 276015</name>
+      <address>
+        <city>Aschaffenburg</city>
+        <zip>63739</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 276002</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10115</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 276011</name>
+      <address>
+        <city>Dortmund</city>
+        <zip>44137</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 276019</name>
+      <address>
+        <city>Dresden</city>
+        <zip>01099</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 276014</name>
+      <address>
+        <city>Dresden</city>
+        <zip>01279</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 276009</name>
+      <address>
+        <city>Dresden</city>
+        <zip>01307</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 276021</name>
+      <address>
+        <city>Hamburg</city>
+        <zip>20246</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 276018</name>
+      <address>
+        <city>Hamburg</city>
+        <zip>22041</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 276005</name>
+      <address>
+        <city>Heidelberg</city>
+        <zip>69115</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 276013</name>
+      <address>
+        <city>Lüneburg</city>
+        <zip>21339</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 276022</name>
+      <address>
+        <city>Magdeburg</city>
+        <zip>39120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 276008</name>
+      <address>
+        <city>Neumünster</city>
+        <zip>24534</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 276017</name>
+      <address>
+        <city>Neuwied</city>
+        <zip>56564</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 276004</name>
+      <address>
+        <city>Oldenburg</city>
+        <zip>26133</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 276003</name>
+      <address>
+        <city>Pirna</city>
+        <zip>01796</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 276006</name>
+      <address>
+        <city>Riesa</city>
+        <zip>01587</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 276010</name>
+      <address>
+        <city>Saarlouis</city>
+        <zip>66740</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 276016</name>
+      <address>
+        <city>Sulzbach-Rosenberg</city>
+        <zip>92237</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 380004</name>
+      <address>
+        <city>Catania</city>
+        <zip>95122</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 380003</name>
+      <address>
+        <city>Catanzaro</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 380011</name>
+      <address>
+        <city>Como</city>
+        <zip>22100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 380006</name>
+      <address>
+        <city>Milano</city>
+        <zip>20132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 380007</name>
+      <address>
+        <city>Milano</city>
+        <zip>20162</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 380005</name>
+      <address>
+        <city>Moncalieri</city>
+        <zip>10024</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 380009</name>
+      <address>
+        <city>Napoli</city>
+        <zip>80138</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 380008</name>
+      <address>
+        <city>Padova</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 380002</name>
+      <address>
+        <city>Palermo</city>
+        <zip>90127</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 380001</name>
+      <address>
+        <city>Pisa</city>
+        <zip>56124</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 380010</name>
+      <address>
+        <city>Roma</city>
+        <zip>00133</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 380012</name>
+      <address>
+        <city>Verona</city>
+        <zip>37126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 528002</name>
+      <address>
+        <city>Apeldoorn</city>
+        <zip>7334 DZ</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 528005</name>
+      <address>
+        <city>Groningen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 528003</name>
+      <address>
+        <city>Hoogeveen</city>
+        <zip>7909AA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 528001</name>
+      <address>
+        <city>Rotterdam</city>
+        <zip>3045PM</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 528004</name>
+      <address>
+        <city>Utrecht</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 724007</name>
+      <address>
+        <city>Badalona</city>
+        <zip>08915</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 724001</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08025</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 724006</name>
+      <address>
+        <city>Ferrol</city>
+        <zip>15405</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 724013</name>
+      <address>
+        <city>Granada</city>
+        <zip>18003</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 724005</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 724004</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 724011</name>
+      <address>
+        <city>Majadahonda</city>
+        <zip>28222</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 724008</name>
+      <address>
+        <city>Málaga</city>
+        <zip>29010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 724014</name>
+      <address>
+        <city>Oviedo</city>
+        <zip>33006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 724009</name>
+      <address>
+        <city>Palma de Mallorca</city>
+        <zip>07198</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 724002</name>
+      <address>
+        <city>Pamplona</city>
+        <zip>31008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 724010</name>
+      <address>
+        <city>Sant Joan Despí</city>
+        <zip>08970</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 724012</name>
+      <address>
+        <city>Segovia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 724003</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41071</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 756001</name>
+      <address>
+        <city>Olten</city>
+        <zip>4600</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 756003</name>
+      <address>
+        <city>St. Gallen</city>
+        <zip>9016</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 826010</name>
+      <address>
+        <city>Airdrie</city>
+        <zip>ML60JS</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 826011</name>
+      <address>
+        <city>Bath</city>
+        <zip>BA13NG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 826009</name>
+      <address>
+        <city>Bournemouth</city>
+        <zip>BH77DW</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 826005</name>
+      <address>
+        <city>Bradford</city>
+        <zip>BD96RJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 826004</name>
+      <address>
+        <city>Bristol</city>
+        <zip>BS28HW</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 826001</name>
+      <address>
+        <city>Burton On Trent</city>
+        <zip>DE13 0RB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 826015</name>
+      <address>
+        <city>Durham</city>
+        <zip>DH15TW</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 826012</name>
+      <address>
+        <city>High Wycombe</city>
+        <zip>HP112TT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 826007</name>
+      <address>
+        <city>Manchester</city>
+        <zip>M239LT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 826006</name>
+      <address>
+        <city>Peterborough</city>
+        <zip>PE39QZ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 826003</name>
+      <address>
+        <city>Southampton</city>
+        <zip>SO303JB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 826008</name>
+      <address>
+        <city>Truro</city>
+        <zip>TR13LJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 826002</name>
+      <address>
+        <city>Welwyn Garden City</city>
+        <zip>AL74HQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>Spain</country>
+    <country>Switzerland</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 30, 2017</lastchanged_date>
+  <firstreceived_date>October 22, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Hypercholesterolemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Insulin, Globin Zinc</mesh_term>
+    <mesh_term>Insulin</mesh_term>
+    <mesh_term>Insulin Glargine</mesh_term>
+    <mesh_term>Hypoglycemic Agents</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+    <mesh_term>Hydroxymethylglutaryl-CoA Reductase Inhibitors</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

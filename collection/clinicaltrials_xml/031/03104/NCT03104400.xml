@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="189">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03104400</url>
+  </required_header>
+  <id_info>
+    <org_study_id>M15-572</org_study_id>
+    <secondary_id>2016-004130-24</secondary_id>
+    <nct_id>NCT03104400</nct_id>
+  </id_info>
+  <brief_title>A Study Comparing ABT-494 to Placebo and to Adalimumab in Participants With Psoriatic Arthritis Who Have an Inadequate Response to at Least One Non-Biologic Disease Modifying Anti-Rheumatic Drug</brief_title>
+  <acronym>SELECT - PsA 1</acronym>
+  <official_title>A Phase 3, Randomized, Double-Blind, Study Comparing ABT-494 to Placebo and to Adalimumab in Subjects With Active Psoriatic Arthritis Who Have a History of Inadequate Response to at Least One Non-Biologic Disease Modifying Anti-Rheumatic Drug (DMARD) - SELECT - PsA 1</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AbbVie</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AbbVie</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 3 multicenter study that includes two periods. Period 1 is designed to
+      compare the safety, tolerability, and efficacy of ABT-494 Dose A once daily (QD) and Dose B
+      QD versus placebo and versus adalimumab every other week (eow) in participants with
+      moderately to severely active Psoriatic Arthritis (PsA) and have an inadequate response to
+      non-biologic DMARDs (DMARD-IR). Period 1 is also designed to compare the efficacy of ABT-494
+      Dose A QD and Dose B QD versus placebo for the prevention of structural progression. Period
+      2 evaluates the safety, tolerability and efficacy of ABT-494 Dose A QD and Dose B QD in
+      participants with PsA who have completed Period 1.
+    </textblock>
+  </brief_summary>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date>April 2017</start_date>
+  <completion_date type="Anticipated">October 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 2019</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Care Provider, Investigator, Outcomes Assessor</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of participants achieving American College of Rheumatology (ACR) 20 response</measure>
+    <time_frame>Week 12</time_frame>
+    <description>Response defined as at least 20% reduction (improvement) compared with baseline in tender joint count (TJC), swollen joint count (SJC), and at least 3 of the 5 remaining ACR core set measures: patient's assessment of pain, patient's global assessment of disease activity (PtGA); physician's global assessment of disease activity (PhGA), Health Assessment Questionnaire - Disability Index (HAQ-DI), and high-sensitivity C-reactive protein (hsCRP).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in HAQ-DI</measure>
+    <time_frame>Week 12</time_frame>
+    <description>The HAQ DI is a patient-reported questionnaire. It includes the categories of dressing and grooming, arising, eating, walking, hygiene, reach, grip and common daily activities. It asks patients about the amount of difficulty they experience in these activities as well as the use of aids and/or devices.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants achieving a static Investigator Global Assessment (sIGA) of Psoriasis of 0 or 1 and at least a 2-point improvement from baseline</measure>
+    <time_frame>Week 16</time_frame>
+    <description>The sIGA is a 5 point score ranging from 0 to 4, based on the investigator's assessment of the average elevation, erythema, and scaling of all psoriatic lesions. The assessment is considered &quot;static&quot; which refers to the patients disease state at the time of the assessments, without comparison to any of the patient's previous disease states, whether at Baseline or at a previous visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Psoriasis Area Severity Index (PASI) 75 response (for participants with &gt;= 3% BSA psoriasis at baseline)</measure>
+    <time_frame>Week 16</time_frame>
+    <description>The percentage of participants with a greater than or equal to 75% reduction (improvement) in Psoriasis Area and Severity Index (PASI) score at Week 12. PASI is a composite measure of the level of erythema (redness of the skin), induration (hardening of the skin), and desquamation (peeling of the skin) on 4 sites (head, upper extremities, trunk, and lower extremities), each of which are rated on a 5-point scale from 0 (no symptoms) to 4 (very marked). The possible range for PASI score is 0 to 72, with the highest score representing complete erythroderma of the severest possible degree; a decrease in score indicates improvement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in modified PsA Sharp/van der Heijde Score (SHS)</measure>
+    <time_frame>Week 24</time_frame>
+    <description>This will be evaluated through centrally read xray images of bilateral hands and feet.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants achieving Minimal Disease Activity (MDA)</measure>
+    <time_frame>Week 24</time_frame>
+    <description>The proportion of subjects achieving MDA will be determined based on subjects fulfilling 5 of 7 outcome measures: TJC &lt;= 1; SJC &lt;= 1; PASI &lt;= 1 or BSA-Ps &lt;= 3%; Patient's Assessment of Pain NRS &lt;= 1.5; PtGA-Disease Activity NRS &lt;= 2.0; HAQ-DI score &lt;= 0.5; and tender entheseal points &lt;= 1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in Leeds Enthesitis Index (LEI)</measure>
+    <time_frame>Week 24</time_frame>
+    <description>LEI is an enthesitis measure developed specifically for PsA and assesses the presence or absence of tenderness at the following 3 bilateral enthesial sites: medial femoral condyles, lateral epicondyles of the humerus, and Achilles tendon insertions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in Leeds Dactylitis Index (LDI)</measure>
+    <time_frame>Week 24</time_frame>
+    <description>LDI assesses the presence or absence of dactylitis in all 20 of the subject's digits.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ACR 20 response rate (non-inferiority of ABT-494 vs adalimumab)</measure>
+    <time_frame>Week 12</time_frame>
+    <description>Response defined as at least 20% reduction (improvement) compared with baseline in tender joint count (TJC), swollen joint count (SJC), and at least 3 of the 5 remaining ACR core set measures: patient's assessment of pain, patient's global assessment of disease activity (PtGA); physician's global assessment of disease activity (PhGA), Health Assessment Questionnaire - Disability Index (HAQ-DI), and high-sensitivity C-reactive protein (hsCRP).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in Physical Component Summary (PCS) Score of the Short-Form 36 Health Survey - Version 2 (SF-36v2)</measure>
+    <time_frame>Week 12</time_frame>
+    <description>The SF-36v2 is a general health-related quality of life (HRQoL) instrument with extensive use in multiple disease states. The SF-36v2 instrument comprises a total of 36 items (questions) targeting a participant's functional health and well-being in 8 domains (physical functioning, role physical, bodily pain, general health, vitality, social functioning, role emotional, and mental health). Domain scores are aggregated into a PCS score (range = 0 to 100; a higher score indicates better mental function and well-being).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ACR 20 response rate (superiority of ABT-494 vs. adalimumab)</measure>
+    <time_frame>Week 12</time_frame>
+    <description>Response defined as at least 20% reduction (improvement) compared with baseline in tender joint count (TJC), swollen joint count (SJC), and at least 3 of the 5 remaining ACR core set measures: patient's assessment of pain, patient's global assessment of disease activity (PtGA); physician's global assessment of disease activity (PhGA), Health Assessment Questionnaire - Disability Index (HAQ-DI), and high-sensitivity C-reactive protein (hsCRP).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in Patient's Assessment of Pain NRS (superiority of ABT-494 vs. adalimumab)</measure>
+    <time_frame>Week 12</time_frame>
+    <description>Subject will complete the patient's assessment of pain on a numeric rating scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in HAQ-DI (superiority of ABT-494 vs. adalimumab)</measure>
+    <time_frame>Week 12</time_frame>
+    <description>The HAQ DI is a patient-reported questionnaire. It includes the categories of dressing and grooming, arising, eating, walking, hygiene, reach, grip and common daily activities. It asks patients about the amount of difficulty they experience in these activities as well as the use of aids and/or devices.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in FACIT-Fatigue Questionnaire</measure>
+    <time_frame>Week 12</time_frame>
+    <description>The FACIT-Fatigue questionnaire is a self-administered patient questionnaire that consists of 13 questions designed to measure the degree of fatigue experienced by participants in the previous 7 days. Participants respond to the questions on a scale from 'not at all' (0) to 'very much' (4). The scale score is computed by summing the item scores, after reversing those items that are worded in the negative direction. The FACIT-Fatigue subscale score ranges from 0 to 52, where higher scores represent less fatigue.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in Self-Assessment of Psoriasis Symptoms (SAPS) Questionnaire</measure>
+    <time_frame>Week 16</time_frame>
+    <description>The SAPS is an 11-item self-assessment of psoriasis symptoms that includes questions on: pain, itching, redness, scaling, flaking, bleeding, burning, stinging, tenderness, pain due to skin cracking, and joint pain.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ACR 50 response</measure>
+    <time_frame>Week 12</time_frame>
+    <description>Response defined as at least 50% reduction (improvement) compared with baseline in tender joint count (TJC), swollen joint count (SJC), and at least 3 of the 5 remaining ACR core set measures: patient's assessment of pain, patient's global assessment of disease activity (PtGA); physician's global assessment of disease activity (PhGA), Health Assessment Questionnaire - Disability Index (HAQ-DI), and high-sensitivity C-reactive protein (hsCRP).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ACR 70 response</measure>
+    <time_frame>Week 12</time_frame>
+    <description>Response defined as at least 70% reduction (improvement) compared with baseline in tender joint count (TJC), swollen joint count (SJC), and at least 3 of the 5 remaining ACR core set measures: patient's assessment of pain, patient's global assessment of disease activity (PtGA); physician's global assessment of disease activity (PhGA), Health Assessment Questionnaire - Disability Index (HAQ-DI), and high-sensitivity C-reactive protein (hsCRP).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ACR 20 response</measure>
+    <time_frame>Week 2</time_frame>
+    <description>Response defined as at least 20% reduction (improvement) compared with baseline in tender joint count (TJC), swollen joint count (SJC), and at least 3 of the 5 remaining ACR core set measures: patient's assessment of pain, patient's global assessment of disease activity (PtGA); physician's global assessment of disease activity (PhGA), Health Assessment Questionnaire - Disability Index (HAQ-DI), and high-sensitivity C-reactive protein (hsCRP).</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">1640</enrollment>
+  <condition>Psoriatic Arthritis</condition>
+  <arm_group>
+    <arm_group_label>ABT-494 Dose A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>It is administered once daily.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ABT-494 Dose B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>It is administered once daily.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Adalimumab</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>It is administered subcutaneously once every two weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo followed by ABT-494 Dose A</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>It is administered once daily.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo followed by ABT-494 Dose B</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>It is administered once daily.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ABT-494</intervention_name>
+    <description>Oral tablet</description>
+    <arm_group_label>ABT-494 Dose A</arm_group_label>
+    <arm_group_label>ABT-494 Dose B</arm_group_label>
+    <arm_group_label>Placebo followed by ABT-494 Dose A</arm_group_label>
+    <arm_group_label>Placebo followed by ABT-494 Dose B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo for ABT-494</intervention_name>
+    <description>Placebo oral tablet</description>
+    <arm_group_label>Adalimumab</arm_group_label>
+    <arm_group_label>Placebo followed by ABT-494 Dose A</arm_group_label>
+    <arm_group_label>Placebo followed by ABT-494 Dose B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Adalimumab</intervention_name>
+    <description>Adalimumab subcutaneous injection</description>
+    <arm_group_label>Adalimumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo for Adalimumab</intervention_name>
+    <description>Placebo subcutaneous injection</description>
+    <arm_group_label>ABT-494 Dose A</arm_group_label>
+    <arm_group_label>ABT-494 Dose B</arm_group_label>
+    <arm_group_label>Placebo followed by ABT-494 Dose A</arm_group_label>
+    <arm_group_label>Placebo followed by ABT-494 Dose B</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Clinical diagnosis of PsA with symptom onset at least 6 months prior to the Screening
+             Visit and fulfillment of the Classification Criteria for PsA (CASPAR) criteria.
+
+          -  Participant has active disease at Baseline defined as &gt;= 3 tender joints (based on 68
+             joint counts) and &gt;= 3 swollen joints (based on 66 joint counts) at Screening and
+             Baseline Visits.
+
+          -  Presence of either at Screening:
+
+               1. &gt;= 1 erosion on x-ray as determined by central imaging review or;
+
+               2. hs-CRP &gt; laboratory defined upper limit of normal (ULN).
+
+          -  Diagnosis of active plaque psoriasis or documented history of plaque psoriasis.
+
+          -  Participant has had an inadequate response (lack of efficacy after a minimum 12 week
+             duration of therapy) to previous or current treatment with at least 1 non-biologic
+             DMARD at maximally tolerated dose (MTX, SSZ, LEF, apremilast, bucillamine or
+             iguratimod), or participant has an intolerance to or contraindication for DMARDs as
+             defined by the investigator.
+
+          -  Participant who is on current treatment with concomitant non-biologic DMARDs at study
+             entry must be on &lt;= 2 non-biologic DMARDs (except the combination of MTX and
+             leflunomide). The following non-biologic DMARDs are allowed: MTX, sulfasalazine,
+             leflunomide, apremilast, HCQ , bucillamine or iguratimod, and have been ongoing for
+             &gt;= 12 weeks and at stable dose for &gt;= 4 weeks prior to the Baseline Visit. No other
+             DMARDs are permitted during the study.
+
+             i. Participants who need to discontinue DMARDs prior to the Baseline Visit to comply
+             with this inclusion criterion must follow the procedure specified below or at least
+             five times the mean terminal elimination half-life of a drug:
+
+               1. &gt;= 8 weeks for LEF if no elimination procedure was followed, or adhere to an
+                  elimination procedure (i.e., 11 days with cholestyramine, or 30 days washout
+                  with activated charcoal or as per local label);
+
+               2. &gt;= 4 weeks for all others.
+
+                  Exclusion Criteria:
+
+          -  Prior exposure to any Janus Kinase (JAK) inhibitor (including but not limited to
+             ruxolitinib, tofacitinib, baricitinib, and filgotinib).
+
+          -  Current treatment with &gt; 2 non-biologic DMARDs; or use of DMARDs other than
+             methotrexate, sulfasalazine, leflunomide, apremilast, hydroxychloroquine,
+             bucillamine, or iguratimod; or use of methotrexate in combination with leflunomide.
+
+          -  History of fibromyalgia, any arthritis with onset prior to age 17 years, or current
+             diagnosis of inflammatory joint disease other than PsA (including, but not limited to
+             gout, overlap connective tissue diseases, scleroderma, polymyositis, dermatomyositis,
+             systemic lupus erythermatosus). Prior history of reactive arthritis or axial
+             spondyloarthritis including ankylosing spondylitis and nonradiographic axial
+             spondyloarthritis is permitted if documentation of change in diagnosis to PsA or
+             additional diagnosis of PsA is made. Prior history of fibromyalgia is permitted if
+             documentation of change in diagnosis to PsA or documentation that the diagnosis of
+             fibromyalgia was made incorrectly.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>AbbVie Inc.</last_name>
+    <role>Study Director</role>
+    <affiliation>AbbVie</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>St. Jude Heritage /ID# 159980</name>
+      <address>
+        <city>Fullerton</city>
+        <state>California</state>
+        <zip>92835</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>C.V. Mehta MD, Medical Corporation /ID# 161216</name>
+      <address>
+        <city>Hemet</city>
+        <state>California</state>
+        <zip>92543</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access Research /ID# 160038</name>
+      <address>
+        <city>Huntington Beach</city>
+        <state>California</state>
+        <zip>92648</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Denver Arthritis Clinic, PC /ID# 159873</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Colorado Arthritis Associates /ID# 159847</name>
+      <address>
+        <city>Lakewood</city>
+        <state>Colorado</state>
+        <zip>80228</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>BayCare Medical Group, Inc. /ID# 159879</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Arthritis and Osteoporosis Associates of New Mexico /ID# 159994</name>
+      <address>
+        <city>Las Cruces</city>
+        <state>New Mexico</state>
+        <zip>88011</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Altoona Center for Clinical Research /ID# 159852</name>
+      <address>
+        <city>Duncansville</city>
+        <state>Pennsylvania</state>
+        <zip>16635</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ramesh C. Gupta, MD, Memphis, TN /ID# 160061</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38119</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SW Rheumatology Res. LLC /ID# 159993</name>
+      <address>
+        <city>Mesquite</city>
+        <state>Texas</state>
+        <zip>75150</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Seattle Rheumatology Associates /ID# 159890</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98144</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2017</verification_date>
+  <lastchanged_date>April 4, 2017</lastchanged_date>
+  <firstreceived_date>April 4, 2017</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Anti-inflammatory</keyword>
+  <keyword>Musculoskeletal disease</keyword>
+  <keyword>Psoriasis</keyword>
+  <keyword>Arthritis</keyword>
+  <keyword>Anti-Rheumatic</keyword>
+  <keyword>Joint disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Arthritis</mesh_term>
+    <mesh_term>Rheumatic Diseases</mesh_term>
+    <mesh_term>Arthritis, Psoriatic</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antirheumatic Agents</mesh_term>
+    <mesh_term>Adalimumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

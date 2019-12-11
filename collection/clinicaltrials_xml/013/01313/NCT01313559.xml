@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="137322">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01313559</url>
+  </required_header>
+  <id_info>
+    <org_study_id>11D.78</org_study_id>
+    <secondary_id>2010-52</secondary_id>
+    <nct_id>NCT01313559</nct_id>
+  </id_info>
+  <brief_title>Pasireotide (SOM230) With or Without Everolimus in Treating Patients With Hormone Resistant, Chemotherapy Naive Prostate Cancer</brief_title>
+  <official_title>An Open Label Randomized Phase II Study of SOM230 and Everolimus in Castrate-Resistant, Chemotherapy-Naïve Prostate Cancer Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Thomas Jefferson University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Thomas Jefferson University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open label randomized phase II study for prostate cancer patients who have
+      disease progression after hormonal therapy. SOM230 LAR (Pasireotide) binds to its receptor
+      of prostate cancer cells and can prevent them from growing. Everolimus works by targeting a
+      cell survival factor in prostate cancer. The combination of these drugs may work better for
+      the treatment of prostate cancer without toxic chemotherapy. Patients will receive either
+      SOM230 LAR (group A) or SOM230 LAR in combination with Everolimus (group B).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Prostate cancer cells typically have neuroendocrine (NE) differentiation features after they
+      become resistant to hormonal therapy. Somatostatin (SST - a peptide hormone) receptors
+      (SSTR) are usually expressed in a high level in these advanced prostate cancer cells. When
+      SSTR is activated pharmacologically by drugs similar to SST, prostate cancer cell growth is
+      inhibited. SOM230 is a new agent which can activate SSTR and block other key survival
+      molecules/pathways such as phosphatidylinositol 3-kinases (PI3K), mitogen-activated protein
+      (MAP) kinases (MAPK) signaling pathways. Thus SOM230 itself has anticancer activity for
+      prostate cancer.
+
+      It is also well known that hormonal refractory prostate cancer can grow in an environment of
+      very low male hormone level because of the activation of several non-androgen receptor
+      survival pathways. One key survival pathway is mediated by an important molecule called
+      mammalian target of rapamycin (mTOR). Drugs, such as Everolimus, have anticancer activity in
+      prostate cancer pre-clinically, but do not sustain its activity. The reason was that cancer
+      cells can up-regulate other survival pathways such as PI3K, MAPK, thus bypass mTOR.
+
+      It is hypothesized that SOM230 not only have anti-tumor effect in prostate cancer directly,
+      but also can block the up-regulated (feed-back loop), alternative PI3K or MAPK survival
+      pathways induced by mTOR inhibitors.
+
+      The goal of this study is to develop a new well tolerated therapy that can be offered to
+      prostate cancer patients prior to receiving chemotherapy.
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <start_date>June 2011</start_date>
+  <completion_date type="Anticipated">June 2018</completion_date>
+  <primary_completion_date type="Actual">June 2012</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression of Disease</measure>
+    <time_frame>Proportion of patients alive and progression free after 12 weeks of treatment</time_frame>
+    <description>Progression of disease is defined as disease progression by RECIST 1.1 criteria on CT scan (X-ray computed tomography), or appearance of &gt; 2 new bone lesions on bone scan, or prostate-specific antigen (PSA) progression by Prostate Cancer Clinical Trials Working Group (PCWG2) criteria or death from any cause.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>PSA response rate based on &gt; 50% decline from baseline PSA level</measure>
+    <time_frame>After 12 weeks of treatment</time_frame>
+    <description>Will be reported as medians with standard error</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Radiographic response rate (partial response or complete response by RECIST 1.1 criteria and no new bone metastases on bone scan)</measure>
+    <time_frame>After 12 weeks of treatment</time_frame>
+    <description>Reported as medians with standard error</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median progression free survival (PFS) based on RECIST 1.1 criteria</measure>
+    <time_frame>Assessed up to 30 days after completion of study treatment</time_frame>
+    <description>Reported as medians with standard error. Possible risk factors will be compared for survival with Kaplan-Meier estimates and log-rank tests.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Observed toxicities and dose modifications of SOM230 alone and in combination with everolimus assessed using the NCICTCAE version 4.0 grading of toxicities</measure>
+    <time_frame>Assessed up to 30 days after completion of study treatment</time_frame>
+    <description>Summarized using exact methods</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">64</enrollment>
+  <condition>Castrate Resistant Prostate Cancer</condition>
+  <condition>Chemotherapy Naive Prostate Cancer</condition>
+  <condition>Prostate Cancer</condition>
+  <arm_group>
+    <arm_group_label>Cohort A (pasireotide)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients receive pasireotide IM once every 4 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort B (pasireotide and everolimus)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive pasireotide as in cohort A and everolimus PO QD</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pasireotide</intervention_name>
+    <description>Given IM</description>
+    <arm_group_label>Cohort A (pasireotide)</arm_group_label>
+    <arm_group_label>Cohort B (pasireotide and everolimus)</arm_group_label>
+    <other_name>SOM230</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Everolimus</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Cohort B (pasireotide and everolimus)</arm_group_label>
+    <other_name>42-O-(2-hydroxy)ethyl rapamycin</other_name>
+    <other_name>Afinitor</other_name>
+    <other_name>RAD001</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Laboratory biomarker analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Cohort A (pasireotide)</arm_group_label>
+    <arm_group_label>Cohort B (pasireotide and everolimus)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age minimum: 18 years old
+
+          -  Histological confirmation of prostatic adenocarcinoma
+
+          -  PSA &gt; or = to 2 ng/ml
+
+          -  PSA progression (serially rises on two occasions each at least one week apart) OR
+             disease progression on imaging studies (CT scan or bone scan).
+
+          -  Minimally symptomatic - no symptoms attributed to prostate cancer greater than Grade
+             I based on NCI CTCAE Version 4.0 grading of toxicities
+
+          -  Discontinuation of all antiandrogen, ketoconazole and investigational drugs for at
+             least 4 weeks (6 weeks for bicalutamide) prior to study initiation
+
+          -  Maintain castrate levels of testosterone (&lt;50ng/dL)
+
+          -  Karnofsky Performance Status &gt; or = to 60%
+
+          -  Life expectancy &gt; 3 months
+
+          -  Adequate hematologic, renal, and liver function
+
+        Exclusion Criteria:
+
+          -  Currently active second malignancy other than non-melanoma skin cancers.
+
+          -  Clinically significant cardiovascular disease: EF &lt; 30%, NHYA Class III or greater
+             congestive heart failure, myocardial infarction/unstable angina within 6 months prior
+             to study enrollment, or significant ECG abnormalities such as QRS/QT prolongation
+             (see Section 5.3).
+
+          -  Progressive pulmonary disease, such as advanced COPD, pulmonary fibrosis, or
+             supplemental O2 requirement.
+
+          -  Known CNS disease, except for treated brain metastases.
+
+          -  Poorly controlled diabetes mellitus (HbA1c &gt; 7 %) or fasting blood glucose level &gt;126
+             mg/dL in non-diabetic patients or &gt; 189 mg/dL in diabetic patients (can be enrolled
+             after initiation or titration of anti-diabetic agent(s)).
+
+          -  Poorly controlled hypercholesterolemia (fasting serum cholesterol &gt;300 mg/dL) or
+             hypertriglyceridemia (&gt; 2.5 x ULN). Patients above either threshold can be included
+             after initiation of appropriate lipid lowering medication.
+
+          -  Current use of chronic steroids (equivalent of 20mg prednisone daily). Inhaled
+             steroids are acceptable.
+
+          -  Active gallbladder disease or hepatitis (AST or ALT &gt; 2.0, or bilirubin &gt; 1.5x ULN),
+             liver cirrhosis, or severe liver impairment (Child-Pugh class C). It is highly
+             recommended that patients positive for HBV-DNA or HBsAg are treated prophylactically
+             with an antiviral for 1-2 weeks prior to receiving study drug.
+
+          -  Serum creatinine &gt;1.5 upper limit of normal or on dialysis.
+
+          -  Prior use of a somatostatin analog or mTOR inhibitor for the treatment of PC.
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jianqing Lin, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Thomas Jefferson University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Yale Cancer Center</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Thomas Jefferson University</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.KimmelCancerCenter.org</url>
+    <description>Kimmel Cancer Center at Thomas Jefferson University, an NCI-Designated Cancer Center</description>
+  </link>
+  <verification_date>July 2015</verification_date>
+  <lastchanged_date>July 14, 2015</lastchanged_date>
+  <firstreceived_date>March 10, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Castrate Resistant</keyword>
+  <keyword>Chemotherapy Naive</keyword>
+  <keyword>Prostate Cancer</keyword>
+  <keyword>SOM230</keyword>
+  <keyword>Everolimus</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Everolimus</mesh_term>
+    <mesh_term>Sirolimus</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

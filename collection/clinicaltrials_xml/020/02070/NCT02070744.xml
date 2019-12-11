@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="79481">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02070744</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VX13-661-103</org_study_id>
+    <nct_id>NCT02070744</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate Safety and Efficacy of VX-661 in Combination With Ivacaftor in Subjects With Cystic Fibrosis, Homozygous for the F508del-CFTR Mutation With an Open-Label Expansion</brief_title>
+  <official_title>A Phase 2, Randomized, Multicenter, Double Blind, Placebo Controlled Study to Evaluate Safety, Efficacy, Pharmacokinetics, and Pharmacodynamics of VX-661 in Combination With Ivacaftor for 12 Weeks in Subjects With Cystic Fibrosis, Homozygous for the F508del CFTR Mutation With an Open-Label Extension</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vertex Pharmaceuticals Incorporated</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Vertex Pharmaceuticals Incorporated</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this study is to evaluate the safety and efficacy of VX-661in combination
+      with ivacaftor in subjects with cystic fibrosis (CF) who are homozygous for F508del CFTR
+      (cystic fibrosis transmembrane conductance regulator) mutation
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>April 2014</start_date>
+  <completion_date type="Actual">March 2016</completion_date>
+  <primary_completion_date type="Actual">February 2016</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety as determined by adverse events (AEs), physical examination, clinical laboratory values, standard digital electrocardiograms (ECGs), vital signs and pulse oximetry</measure>
+    <time_frame>baseline through Week 16</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Absolute change in percent predicted forced expiratory volume in 1 second (FEV1)</measure>
+    <time_frame>baseline through Week 16</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Relative change in percent predicted FEV1</measure>
+    <time_frame>from baseline through Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Absolute change in body weight</measure>
+    <time_frame>From baseline at Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Absolute change in body mass index (BMI)</measure>
+    <time_frame>From baseline at Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Absolute change in the respiratory domain of the Cystic Fibrosis Questionnaire-Revised (CFQ-R) Questionnaire-Revised (CFQ-R)</measure>
+    <time_frame>baseline through Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameters estimates of VX-661 and ivacaftor and their respective metabolites, derived from plasma concentration-time data</measure>
+    <time_frame>Day 1 through Week 16</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Absolute change in sweat chloride</measure>
+    <time_frame>from baseline through Week 12</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">40</enrollment>
+  <condition>Cystic Fibrosis</condition>
+  <arm_group>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>VX-661 + ivacaftor
+VX-661 placebo + ivacaftor placebo
+(every 12 hours [q12h] schedule)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>VX-661 + ivacaftor
+VX-661 placebo + ivacaftor placebo
+(once daily [qd] and q12h schedule)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>VX-661</intervention_name>
+    <arm_group_label>Group 2</arm_group_label>
+    <arm_group_label>Group 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ivacaftor</intervention_name>
+    <arm_group_label>Group 2</arm_group_label>
+    <arm_group_label>Group 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>VX-661 placebo</intervention_name>
+    <arm_group_label>Group 2</arm_group_label>
+    <arm_group_label>Group 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ivacaftor placebo</intervention_name>
+    <arm_group_label>Group 2</arm_group_label>
+    <arm_group_label>Group 1</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Homozygous for the F508del CFTR mutation
+
+          -  FEV1 ≥40% and ≤90% of predicted normal for age, sex, and height
+
+          -  Stable CF disease as judged by the investigator
+
+        Exclusion Criteria:
+
+          -  History of any comorbidity that, in the opinion of the investigator, might confound
+             the results of the study or pose an additional risk in administering study drug to
+             the subject
+
+          -  Pregnant and nursing females: Females of childbearing potential must have a negative
+             pregnancy test at screening and Day 1
+
+          -  Sexually active subjects of reproductive potential who are not willing to follow the
+             contraception requirements
+
+          -  The subject or a close relative of the subject is the investigator or sub
+             investigator, research assistant, pharmacist, study coordinator, or other staff
+             directly involved with the conduct of the study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Altamonte Springs</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Boise</city>
+        <state>Idaho</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Colchester</city>
+        <state>Vermont</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2016</verification_date>
+  <lastchanged_date>August 15, 2016</lastchanged_date>
+  <firstreceived_date>February 21, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>CF</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Fibrosis</mesh_term>
+    <mesh_term>Cystic Fibrosis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

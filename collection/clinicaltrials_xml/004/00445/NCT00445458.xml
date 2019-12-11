@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="203099">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00445458</url>
+  </required_header>
+  <id_info>
+    <org_study_id>3144A1-203</org_study_id>
+    <secondary_id>B1891014</secondary_id>
+    <nct_id>NCT00445458</nct_id>
+  </id_info>
+  <brief_title>A Phase 1/2 Study of HKI-272 (Neratinib) in Combination With Paclitaxel (Taxol) in Subjects With Solid Tumors and Breast Cancer</brief_title>
+  <official_title>A Phase 1/2 Study of HKI-272 in Combination With Paclitaxel in Subjects With Solid Tumors and Breast Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Puma Biotechnology, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Puma Biotechnology, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to learn whether it is safe and effective to administer HKI-272
+      (neratinib) in combination with paclitaxel in patients with breast cancer.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>September 2007</start_date>
+  <completion_date type="Anticipated">December 2017</completion_date>
+  <primary_completion_date type="Actual">May 2011</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with adverse events</measure>
+    <time_frame>At screening, then weekly (for HKI-272 + paclitaxel) or bimonthly (for HKI-272 alone)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Objective response rate</measure>
+    <time_frame>At screening and then every 2 months throughout the study</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Observed maximum concentration of HKI-272 (neratinib)</measure>
+    <time_frame>Prior to dosing on days 1 and 15 and 1, 2, 4, 6, 8, and 21-24 hourse after the dose on day 15</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time of maximum concentration of HKI-272 (neratinib)</measure>
+    <time_frame>Prior to dosing on days 1 and 15 and 1, 2, 4, 6, 8, and 21-24 hourse after the dose on day 15</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the plasma concentration versus time curve of HKI-272 (neratinib)</measure>
+    <time_frame>Prior to dosing on days 1 and 15 and 1, 2, 4, 6, 8, and 21-24 hourse after the dose on day 15</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">115</enrollment>
+  <condition>Advanced Breast Cancer</condition>
+  <condition>Advanced Malignant Solid Tumors</condition>
+  <condition>Breast Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>Part 1 - dose level 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects with solid tumors receiving HKI-272 (neratinib) in combination with paclitaxel</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1 - dose level 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects with solid tumors receiving HKI-272 (neratinib) in combination with paclitaxel</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2 - expanded MTD cohort, arm A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects with metastatic breast cancer who have not received more than 1 prior cytotoxic chemotherapy treatment regimen for metastatic disease who will receive HKI-272 (neratinib) in combination with paclitaxel</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2 - expanded MTD cohort, arm B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects with metastatic breast cancer who have not received more than 3 prior cytotoxic chemotherapy treatment regimen for metastatic disease who will receive HKI-272 (neratinib) in combination with paclitaxel</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>HKI-272</intervention_name>
+    <description>neratinib 160 mg daily by mouth</description>
+    <arm_group_label>Part 1 - dose level 1</arm_group_label>
+    <other_name>neratinib</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>HKI-272</intervention_name>
+    <description>neratinib 240 mg daily by mouth</description>
+    <arm_group_label>Part 1 - dose level 2</arm_group_label>
+    <arm_group_label>Part 2 - expanded MTD cohort, arm A</arm_group_label>
+    <arm_group_label>Part 2 - expanded MTD cohort, arm B</arm_group_label>
+    <other_name>neratinib</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Paclitaxel</intervention_name>
+    <description>paclitaxel 80 mg/m^2 weekly IV</description>
+    <arm_group_label>Part 1 - dose level 1</arm_group_label>
+    <arm_group_label>Part 1 - dose level 2</arm_group_label>
+    <arm_group_label>Part 2 - expanded MTD cohort, arm A</arm_group_label>
+    <arm_group_label>Part 2 - expanded MTD cohort, arm B</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Inclusion criteria for both parts of clinical trial:
+
+          -  Good performance status
+
+          -  Normal ejection fraction
+
+          -  Adequate cardiac, kidney, and liver function
+
+          -  Adequate blood counts
+
+          -  At least one measurable target lesion
+
+          -  Negative pregnancy test for female subjects
+
+        Inclusion Criteria for Part 1 Only:
+
+        - Pathologically confirmed solid tumor not curable with available standard therapy
+
+        Inclusion Criteria for Part 2 Only:
+
+          -  Pathologically confirmed breast cancer
+
+          -  HER2 positive tumor
+
+          -  Prior treatment with Herceptin
+
+        Exclusion Criteria:
+
+        Exclusion criteria for both parts of clinical trial:
+
+          -  Major surgery, radiotherapy, chemotherapy or investigational agents within two weeks
+             of treatment day 1
+
+          -  Subjects with bone or skin as the only site of disease
+
+          -  Active central nervous system metastases
+
+          -  Significant cardiac disease or dysfunction
+
+          -  Significant gastrointestinal disorder
+
+          -  Inability or unwillingness to swallow HKI-272 capsules
+
+          -  Prior exposure to HKI-272 or other HER2 targeted agents, except trastuzumab (Part 2
+             only). Prior lapatinib is permitted in arm B of part 2.
+
+          -  Treatment with a taxane within 3 months of treatment day 1
+
+          -  Grade 2 or greater motor or sensory neuropathy
+
+          -  Pregnant or breast feeding women
+
+          -  Known hypersensitivity to paclitaxel or Cremophor EL
+
+          -  Prior treatment with anthracyclines with cumulative dose of &gt;400 mg/m^2
+
+          -  Any other cancer within 5 years with the exception of contralateral breast cancer,
+             adequately treated cervical carcinoma in situ, or adequately treated basal or
+             squamous cell carcinoma of the skin
+
+        Exclusion Criteria for Part 2 Only:
+
+        - More than 1 (arm A) or 3 (arm B) prior cytotoxic chemotherapy regimen for metastatic
+        disease
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Puma</last_name>
+    <role>Study Director</role>
+    <affiliation>Biotechnology</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Chula Vista</city>
+        <state>California</state>
+        <zip>91911</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>La Mesa</city>
+        <state>California</state>
+        <zip>91942</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Oceanside</city>
+        <state>California</state>
+        <zip>92056</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Lansing</city>
+        <state>Michigan</state>
+        <zip>48912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>St. Joseph</city>
+        <state>Michigan</state>
+        <zip>49085</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Kortrijk</city>
+        <zip>8500</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Wilrijk</city>
+        <zip>2610</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 2M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100071</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100853</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>TianJin</city>
+        <state>Tianjin</state>
+        <zip>300060</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Tianjin</city>
+        <state>Tianjin</state>
+        <zip>300121</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Beijing</city>
+        <zip>100021</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Beijing</city>
+        <zip>100032</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Hong Kong</city>
+        <zip>0</zip>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Hong Kong</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Pokfulam</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Pune</city>
+        <state>Maharashtra</state>
+        <zip>411001</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Pune</city>
+        <state>Maharashtra</state>
+        <zip>411004</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Mumbai</city>
+        <state>Parel</state>
+        <zip>400012</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Jaipur</city>
+        <state>Rajasthan</state>
+        <zip>302004</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>120-752</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>138-736</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Krakow</city>
+        <zip>31-826</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Lublin</city>
+        <zip>20-090</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Dnipropetrovsk</city>
+        <zip>49102</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site</name>
+      <address>
+        <city>Lviv</city>
+        <zip>79031</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>China</country>
+    <country>Hong Kong</country>
+    <country>India</country>
+    <country>Korea, Republic of</country>
+    <country>Poland</country>
+    <country>Ukraine</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2016</verification_date>
+  <lastchanged_date>June 22, 2016</lastchanged_date>
+  <firstreceived_date>March 8, 2007</firstreceived_date>
+  <firstreceived_results_disposition_date>January 29, 2013</firstreceived_results_disposition_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>cancer</keyword>
+  <keyword>HKI-272</keyword>
+  <keyword>neratinib</keyword>
+  <keyword>paclitaxel</keyword>
+  <keyword>Taxol</keyword>
+  <keyword>breast cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Paclitaxel</mesh_term>
+    <mesh_term>Albumin-Bound Paclitaxel</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted, but a results disposition has been submitted -->
+</clinical_study>

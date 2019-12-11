@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="92534">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01900314</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HUM00053677</org_study_id>
+    <secondary_id>1R21MH098174-01A1</secondary_id>
+    <nct_id>NCT01900314</nct_id>
+  </id_info>
+  <brief_title>Imaging Biomarkers for TMS Treatment of Depression</brief_title>
+  <official_title>Imaging Biomarkers for TMS Treatment of Depression</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Michigan</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Neuronetics</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Michigan</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this research is to learn more about how rTMS works to reduce the symptoms of
+      depression. This information can be used to improve the effectiveness of the treatment. The
+      study will use functional magnetic resonance imaging (fMRI) to examine changes in brain
+      function after treatment with rTMS. fMRI is a safe and painless technique that allows
+      investigators to observe the brain &quot;at work.&quot; The investigators will use fMRI to see what
+      regions of the brain become active when you perform a concentration task and how that
+      activation is changed after rTMS.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>September 2013</start_date>
+  <completion_date type="Actual">April 2016</completion_date>
+  <primary_completion_date type="Actual">January 2016</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Double Blind (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in cerebral blood flow (CBF) as measured by functional Magnetic Resonance Imaging (fMRI).</measure>
+    <time_frame>baseline and 4 weeks</time_frame>
+    <description>Our primary hypothesis is that rTMS will increase cortical excitability, leading to more efficient cortex manifested as smaller CBF increases in left dorsolateral Prefrontal Cortex (dlPFC) during working memory activation. Our secondary hypotheses are that rTMS will increase resting CBF in the dlPFC and will induce plastic changes throughout a network of brain regions connected with the dlPFC, including the medial frontal cortex, a region associated with emotion regulation and known to exhibit aberrant function in major depression disorder(MDD).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Resting state functional connectivity</measure>
+    <time_frame>baseline and 4 weeks</time_frame>
+    <description>We will test the hypothesis that rTMS will change functional connectivity (fcMRI) between the dlPFC target and ventral networks before and after rTMS treatment.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Changes in depression symptoms</measure>
+    <time_frame>baseline and 4 weeks</time_frame>
+    <description>Primary: Changes in depressive symptoms as measured by the Montgomery-Asberg Depression Rating Scales (MADRS) Secondary: changes in depressive symptoms as measured by the 17-item Hamilton Rating Scale for Depression (HRSD33) and the self-rated Quick Inventory of Depressive Symptoms-Self Rated/40 questions(QIDS-SR40]).</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">40</enrollment>
+  <condition>Depression</condition>
+  <arm_group>
+    <arm_group_label>Active rTMS</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>20 active sessions, within a 4 week period, where subjects receive the same repetitive Transcranial Magnetic Stimulation (rTMS) treatment parameters as the FDA-approved device label (10 Hz) to a targeted area of the brain. After these sessions, a second fMRI will be completed then 5 additional tapering treatments of rTMS over a 2 week period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham rTMS</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>20 sham sessions, within a 4 week period, where subjects receive inactive treatments (0 Hz) of repetitive Transcranial Magnetic Stimulation (rTMS). After 20 sessions and completion of a second fMRI scan, patients in this group will then be unblinded and transitioned to the active arm and will receive a full course (25 sessions) of active rTMS over a 6 week period.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>repetitive Transcranial Magnetic Stimulation (rTMS)</intervention_name>
+    <description>20 active sessions, within a 4 week period, where subjects receive the same repetitive Transcranial Magnetic Stimulation (rTMS) treatment parameters as the sham arm.</description>
+    <arm_group_label>Active rTMS</arm_group_label>
+    <arm_group_label>Sham rTMS</arm_group_label>
+    <other_name>TMS</other_name>
+    <other_name>Neuronetics</other_name>
+    <other_name>NeuroStar</other_name>
+    <other_name>Sham treatment</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Primary diagnosis of major depressive disorder
+
+          -  Male and female subjects, ages 22-65
+
+          -  Have failed at least 1 antidepressant medication at adequate dose and duration
+
+          -  On stable antidepressant medication regimen for at least 4 weeks prior to TMS therapy
+
+        Exclusion Criteria:
+
+          -  Diagnosed with a psychotic, bipolar, obsessive-compulsive or post-traumatic stress
+             disorder
+
+          -  Active substance abuse, including alcohol
+
+          -  Medical and/or neurological condition that could affect your brain function or risk
+             of seizure, including a stroke, epilepsy, or a closed head injury;
+
+          -  No presence of an implanted device like a pacemaker/neurostimulator or metal in the
+             head or body;
+
+          -  Pregnant or trying to get pregnant
+
+          -  Failed to respond to an adequate course of electroconvulsive therapy (ECT)
+
+          -  Previous treatment with TMS
+
+          -  Current depressive episode longer than 5 years
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>22 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stephan F Taylor, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Michigan</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://umclinicalstudies.org/HUM00053677</url>
+    <description>U of M Clinical Studies</description>
+  </link>
+  <verification_date>May 2016</verification_date>
+  <lastchanged_date>May 10, 2016</lastchanged_date>
+  <firstreceived_date>July 11, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Michigan</investigator_affiliation>
+    <investigator_full_name>Stephan Taylor</investigator_full_name>
+    <investigator_title>Professor of Psychiatry</investigator_title>
+  </responsible_party>
+  <keyword>Major Depression</keyword>
+  <keyword>Major Depressive Disorder</keyword>
+  <keyword>TMS</keyword>
+  <keyword>rTMS</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

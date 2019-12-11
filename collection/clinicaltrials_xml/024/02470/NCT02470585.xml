@@ -1,0 +1,3117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="48826">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02470585</url>
+  </required_header>
+  <id_info>
+    <org_study_id>M13-694</org_study_id>
+    <secondary_id>2014‐005070‐11</secondary_id>
+    <nct_id>NCT02470585</nct_id>
+  </id_info>
+  <brief_title>Veliparib With Carboplatin and Paclitaxel and as Continuation Maintenance Therapy in Subjects With Newly Diagnosed Stage III or IV, High-grade Serous, Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer</brief_title>
+  <official_title>A Phase 3 Placebo-Controlled Study of Carboplatin/Paclitaxel With or Without Concurrent and Continuation Maintenance Veliparib (PARP Inhibitor) in Subjects With Previously Untreated Stages III or IV High-Grade Serous Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AbbVie</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Gynecologic Oncology Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Australia New Zealand Gynaecological Oncology Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>AbbVie</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The focus of this study is to evaluate the efficacy, safety, and tolerability of veliparib
+      in women with previously untreated, Stage III or IV, high-grade serous, epithelial ovarian,
+      fallopian tube, or primary peritoneal cancer.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>July 2015</start_date>
+  <completion_date type="Anticipated">July 2019</completion_date>
+  <primary_completion_date type="Anticipated">January 2019</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Investigator</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-Free survival (PFS)</measure>
+    <time_frame>Approximately 3 years from first dose of study drug</time_frame>
+    <description>Defined as the number of days from the date that the subject was randomized to the date the subject experiences an event of disease progression or to the date of death (all causes of mortality) if disease progression is not reached.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Approximately 6 years from first dose of study drug</time_frame>
+    <description>Time to death for a given subject will be defined as the number of days from the date that the subject was randomized to the date of the subject's death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Related Symptom (DRS) scores</measure>
+    <time_frame>Up to 2 years or disease progression from randomization, whichever is later</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">1100</enrollment>
+  <condition>Ovarian Cancer</condition>
+  <condition>Ovarian Neoplasm</condition>
+  <arm_group>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Carboplatin/paclitaxel plus placebo for six 21-day cycles followed by placebo maintenance therapy for up to 30 additional 21-day cycles</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Carboplatin/paclitaxel plus veliparib for six 21-day cycles followed by placebo maintenance therapy for up to 30 additional 21-day cycles</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Carboplatin/paclitaxel plus veliparib for six 21-day cycles followed by veliparib maintenance therapy for up to 30 additional 21-day cycles</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Capsule</description>
+    <arm_group_label>Arm 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Veliparib</intervention_name>
+    <description>Capsule</description>
+    <arm_group_label>Arm 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Veliparib</intervention_name>
+    <description>Capsule</description>
+    <arm_group_label>Arm 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carboplatin</intervention_name>
+    <description>Intravenous infusion</description>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_label>Arm 2</arm_group_label>
+    <arm_group_label>Arm 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Paclitaxel</intervention_name>
+    <description>Intravenous infusion</description>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_label>Arm 2</arm_group_label>
+    <arm_group_label>Arm 3</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Histologic diagnosis of International Federation of Gynecology and Obstetrics (FIGO)
+             Stage III or IV epithelial ovarian, fallopian tube, or primary peritoneal carcinoma,
+             with the appropriate tissue available for histologic evaluation.
+
+          2. High-grade serous adenocarcinoma
+
+          3. Willing to undergo testing for gBRCA.
+
+          4. Adequate hematologic, renal, and hepatic function.
+
+          5. Neuropathy (sensory and motor) less than or equal to Grade 1.
+
+          6. Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1, or 2.
+
+          7. Participants who undergo primary cytoreductive surgery must be entered between 1 and
+             12 weeks after surgery. Participants undergoing interval surgery must have a tumor
+             sample confirming the histological diagnosis prior to enrollment.
+
+          8. Participants with measurable disease or non-measurable disease are eligible.
+             Participants may or may not have cancer-related symptoms.
+
+          9. Participant has one of the following available for PD analyses including somatic BRCA
+             testing: Archived diagnostic formalin-fixed paraffin embedded (FFPE) tumor tissue; or
+             tumor tissue biopsy collected prior to Cycle 1 Day 1.
+
+        Exclusion Criteria:
+
+          1. Endometrioid adenocarcinoma, carcinosarcoma, undifferentiated carcinoma, mixed
+             epithelial adenocarcinoma, adenocarcinoma not otherwise specified, mucinous
+             adenocarcinoma, clear cell adenocarcinoma, low-grade serous adenocarcinoma, or
+             malignant Brenner's tumor.
+
+          2. Participants with synchronous primary endometrial cancer, or a past history of
+             endometrial cancer unless all of the following conditions are met: endometrial cancer
+             stage not greater than IA, no vascular or lymphatic invasion, no poorly
+             differentiated subtypes including serous, clear cell, or other FIGO grade 3 lesions.
+
+          3. Participants with any evidence of other invasive malignancy being present within the
+             last 3 years (with the exception of non-melanoma skin cancer). Participants are also
+             excluded if their previous cancer treatment contraindicates this protocol's therapy.
+
+          4. Received prior radiotherapy to any portion of the abdominal cavity or pelvis.
+
+          5. Received prior chemotherapy for any abdominal or pelvic tumor.
+
+          6. Clinically significant uncontrolled condition(s).
+
+          7. Known history of allergic reaction to Cremophor-paclitaxel, carboplatin,
+             Azo-Colourant Tartrazine (also known as FD&amp;C Yellow 5 or E102), Azo-Colourant Orange
+             Yellow-S (also known as FD&amp;C Yellow 6 or E110) or known contraindications to any
+             study supplied drug.
+
+          8. History or evidence upon physical examination of central nervous system (CNS)
+             disease, including primary brain tumor, any brain metastases, or history of
+             cerebrovascular accident (CVA, stroke), transient ischemic attack (TIA) within 6
+             months of Cycle 1 Day 1.
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Minh Dinh, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>AbbVie</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>AbbVie_Call Center</last_name>
+    <phone>847-283-8955</phone>
+    <email>abbvieclinicaltrials@abbvie.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Alabama-Birmingham /ID# 138087</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tennessee Valley Gynecologic Oncology /ID# 139548</name>
+      <address>
+        <city>Huntsville</city>
+        <state>Alabama</state>
+        <zip>35805</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA Mitchell Cancer Institute /ID# 138091</name>
+      <address>
+        <city>Mobile</city>
+        <state>Alabama</state>
+        <zip>36604</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Alaska Womens Cancer Care /ID# 138231</name>
+      <address>
+        <city>Anchorage</city>
+        <state>Alaska</state>
+        <zip>99508</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Arizona Cancer Center /ID# 138084</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Arizona Oncology Associates, PC - HOPE /ID# 142002</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Arizona Oncology Associates, PC - HOPE /ID# 143808</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Arizona Oncology Associates, PC - HOPE /ID# 143805</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85711</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Arizona Oncology Associates, PC - HOPE /ID# 143806</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85711</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Arizona Cancer Center /ID# 139495</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85724-5024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Arkansas for Medical Sciences /ID# 138253</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Contra Costa Oncology /ID# 143609</name>
+      <address>
+        <city>Concord</city>
+        <state>California</state>
+        <zip>94520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cypress Womens Cancer Treatment Center /ID# 143617</name>
+      <address>
+        <city>Concord</city>
+        <state>California</state>
+        <zip>94520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Diablo Valley Onc/Hematology Group /ID# 143616</name>
+      <address>
+        <city>Concord</city>
+        <state>California</state>
+        <zip>94520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>John Muir Medical Center /ID# 139618</name>
+      <address>
+        <city>Concord</city>
+        <state>California</state>
+        <zip>94520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UCSD Moores Cancer Center, US /ID# 140323</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92093-0698</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Long Beach Memorial Medical Center /ID# 147526</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente /ID# 141305</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90027</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA /Id# 138179</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Palo Alto Medical Foundation /ID# 139452</name>
+      <address>
+        <city>Mountain View</city>
+        <state>California</state>
+        <zip>94040</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Oncology Care Associates (MOCA) /ID# 139498</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, Irvine /ID# 139613</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, Davis Comprehensive Cancer Center /ID# 144439</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>California Pacific Medical Center (CPMC) /ID# 138177</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF Helen Diller Family Comprehensive Cancer Center /ID# 138178</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94158</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford Cancer Institute /ID# 139450</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente /ID# 142051</name>
+      <address>
+        <city>Vallejo</city>
+        <state>California</state>
+        <zip>94589</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente /ID# 142052</name>
+      <address>
+        <city>Vallejo</city>
+        <state>California</state>
+        <zip>94589</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente /ID# 142053</name>
+      <address>
+        <city>Vallejo</city>
+        <state>California</state>
+        <zip>94589</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Medical Center /ID# 139492</name>
+      <address>
+        <city>Vallejo</city>
+        <state>California</state>
+        <zip>94589</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Cancer Center /ID# 138016</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Colorado /ID# 139499</name>
+      <address>
+        <city>Lonetree</city>
+        <state>Colorado</state>
+        <zip>80124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hartford Healthcare /ID# 138184</name>
+      <address>
+        <city>New Britain</city>
+        <state>Connecticut</state>
+        <zip>06053</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yale New Haven Hospital /ID# 138056</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06520-8063</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miami Miller School of Medicine /ID# 139457</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Hospital Cancer Institute /ID# 138233</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sarasota Memorial Health Care System /ID# 138180</name>
+      <address>
+        <city>Sarasota</city>
+        <state>Florida</state>
+        <zip>34239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Women's Cancer Associates /ID# 140321</name>
+      <address>
+        <city>St. Petersburg</city>
+        <state>Florida</state>
+        <zip>33701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Moffitt Cancer Center and Research Institute /ID# 138061</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Augusta University /ID# 138085</name>
+      <address>
+        <city>Augusta</city>
+        <state>Georgia</state>
+        <zip>30912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>John B. Amos Cancer Center /ID# 138058</name>
+      <address>
+        <city>Columbus</city>
+        <state>Georgia</state>
+        <zip>31904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Northeast Georgia Medical Center /ID# 138182</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Georgia</state>
+        <zip>30501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Health University Medical Center /ID# 138019</name>
+      <address>
+        <city>Savannah</city>
+        <state>Georgia</state>
+        <zip>31404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Joseph's / Candler Health System, Inc. /ID# 138090</name>
+      <address>
+        <city>Savannah</city>
+        <state>Georgia</state>
+        <zip>31405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Queens Medical Center /ID# 141709</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96826</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Hawaii /ID# 140319</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96826</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University Medical Center /ID# 143491</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago Comprehensive Cancer Center at Silve /ID# 148686</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago Medical Center /ID# 139612</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>North Shore University Health System /ID# 139451</name>
+      <address>
+        <city>Evanston</city>
+        <state>Illinois</state>
+        <zip>60201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>North Shore University Health System /ID# 148682</name>
+      <address>
+        <city>Evanston</city>
+        <state>Illinois</state>
+        <zip>60201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>North Shore University Health System /ID# 148683</name>
+      <address>
+        <city>Evanston</city>
+        <state>Illinois</state>
+        <zip>60201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dr. Sudarshan K. Sharma, Hinsdale, IL /ID# 140326</name>
+      <address>
+        <city>Hinsdale</city>
+        <state>Illinois</state>
+        <zip>60521</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Advocate Lutheran General Hospital Oncology Specialists, S.C /ID# 139489</name>
+      <address>
+        <city>Park Ridge</city>
+        <state>Illinois</state>
+        <zip>60068</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Carle Cancer Center /ID# 139497</name>
+      <address>
+        <city>Urbana</city>
+        <state>Illinois</state>
+        <zip>61801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana Univ School of Med, Melvin and Bren Simon Cancer Ctr /ID# 139610</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Vincent Hospital and Health Care Center /ID# 139537</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46260</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>McFarland Clinic, PC /ID# 139455</name>
+      <address>
+        <city>Ames</city>
+        <state>Iowa</state>
+        <zip>50010-3014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Iowa Hospitals and Clinics /ID# 138082</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kansas Medical Center /ID# 140322</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Kansas</state>
+        <zip>66160</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Baptist Health Lexington /ID# 139542</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kentucky Medical Center /ID# 138060</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40536</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Norton Cancer Institute /ID# 139567</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40241</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Norton Cancer Institute /ID# 148680</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40241</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Norton Cancer Institute /ID# 148681</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40241</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Maine Medical Center /ID# 139544</name>
+      <address>
+        <city>Scarborough</city>
+        <state>Maine</state>
+        <zip>04074</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Greater Baltimore Medical Center (GBMC) /ID# 138049</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sinai Hospital of Baltimore, Inc. /ID# 141306</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Harry and Jeanette Weinberg Cancer Institute at Franklin Sq /ID# 138235</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21237</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Baystate Medical Center /ID# 139456</name>
+      <address>
+        <city>Springfield</city>
+        <state>Massachusetts</state>
+        <zip>01199</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UMass Memorial Medical Center /ID# 139458</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Karmanos Cancer Center, Wayne State University /ID# 139601</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Health System /ID# 139536</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Spectrum Health Medical Group /ID# 139546</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>William Beaumont Hospital /ID# 139550</name>
+      <address>
+        <city>Royal Oak</city>
+        <state>Michigan</state>
+        <zip>48073</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic /ID# 139565</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Metro Minnesota Community Oncology Research Consortium /ID# 139534</name>
+      <address>
+        <city>St. Louis Park</city>
+        <state>Minnesota</state>
+        <zip>55416</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Mississippi Medical Center /ID# 138243</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>369216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Dominic - Jackson Memorial Hospital /ID# 138241</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ellis Fischel Cancer Center /ID# 139571</name>
+      <address>
+        <city>Columbia</city>
+        <state>Missouri</state>
+        <zip>65212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ozarks /ID# 139538</name>
+      <address>
+        <city>Springfield</city>
+        <state>Missouri</state>
+        <zip>65804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ferrell-Duncan Clinic /ID# 143484</name>
+      <address>
+        <city>Springfield</city>
+        <state>Missouri</state>
+        <zip>65807</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine /ID# 138089</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nebraska Methodist Hospital /ID# 139600</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Womens Cancer Center of Nevada /ID# 138092</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89169</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Renown Regional Medical Center /ID# 138237</name>
+      <address>
+        <city>Reno</city>
+        <state>Nevada</state>
+        <zip>89502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dartmouth-Hitchcock Medical Center /ID# 139502</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <zip>03756-0001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MD Anderson Cancer Center at Cooper /ID# 139616</name>
+      <address>
+        <city>Camden</city>
+        <state>New Jersey</state>
+        <zip>08103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Cancer Center at Hackensack University Medical Center /ID# 143776</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Morristown Medical Center /ID# 138050</name>
+      <address>
+        <city>Morristown</city>
+        <state>New Jersey</state>
+        <zip>07962</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Southwest Gynecologic Oncology Associates /ID# 147097</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87131</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of New Mexico /ID# 144220</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87131</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Women's Cancer Care Associates, LLC /ID# 138234</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Medical Center, Moses Division /ID# 139585</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Downstate Medical Center, Univ Hosp Brooklyn /ID# 139533</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Roswell Park Cancer Institute /ID# 138052</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14263</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Northwell Health /ID# 139572</name>
+      <address>
+        <city>Lake Success</city>
+        <state>New York</state>
+        <zip>11042</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Icahn School of Medicine at Mount Sinai /ID# 139617</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University Medical Center /ID# 138252</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center (MSKCC) /ID# 138017</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center (MSKCC) /ID# 154464</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Upstate Medical Center /ID# 139513</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hope Womens Cancer Centers /ID# 139614</name>
+      <address>
+        <city>Asheville</city>
+        <state>North Carolina</state>
+        <zip>28806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of North Carolina at Chapel Hill /ID# 138547</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Carolinas Medical Center /ID# 139568</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Presbyterian Cancer Center /ID# 139590</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Duke Cancer Center /ID# 138048</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest University Health Sciences /ID# 139588</name>
+      <address>
+        <city>Winston Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Cincinnati /ID# 139619</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UHHS Chagrin Highlands /ID# 148687</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals Case Medical Center /ID# 139615</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Foundation /ID# 139501</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fairview Hospital /ID# 144403</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hillcrest Hospital /ID# 144404</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>OSU Gynecologic Oncology at Mill Run /ID# 138053</name>
+      <address>
+        <city>Colombus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Bing Cancer Center /ID# 148685</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Columbus NCORP /ID# 139587</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mid Ohio Oncology Hematology, Inc. /ID# 148684</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Womens Cancer Center /ID# 138062</name>
+      <address>
+        <city>Kettering</city>
+        <state>Ohio</state>
+        <zip>45429</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Oklahoma Health Sciences Center /ID# 138020</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Oklahoma Cancer Specialists and Research Institute, LLC /ID# 138059</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74146</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente, Northwest Region /ID# 138249</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97227-1191</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Willamette Valley Cancer Institute and Research Center /ID# 140318</name>
+      <address>
+        <city>Springfield</city>
+        <state>Oregon</state>
+        <zip>97477</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Abington Memorial Hospital /ID# 138086</name>
+      <address>
+        <city>Abington</city>
+        <state>Pennsylvania</state>
+        <zip>19001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Geisnger Medical Center /ID# 139566</name>
+      <address>
+        <city>Danville</city>
+        <state>Pennsylvania</state>
+        <zip>17822</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pennsylvania, School of Medicine /ID# 140079</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Thomas Jefferson University /ID# 138239</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fox Chase Cancer Center /ID# 149479</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Temple University Hospital /ID# 138242</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Temple University Hospital /ID# 151235</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Magee Womens Hospital of UPMC /ID# 138054</name>
+      <address>
+        <city>Pittsburg</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Reading Hospital /ID# 138057</name>
+      <address>
+        <city>West Reading</city>
+        <state>Pennsylvania</state>
+        <zip>19611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Women and Infants Hospital of Rhode Islan d /ID# 138083</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina /ID# 138181</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Spartanburg Medical Center /ID# 138183</name>
+      <address>
+        <city>Spartanburg</city>
+        <state>South Carolina</state>
+        <zip>29303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sanford Research/USD /ID# 139624</name>
+      <address>
+        <city>Sioux Falls</city>
+        <state>South Dakota</state>
+        <zip>57104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chattanoogas Program in Womens Oncology /ID# 139545</name>
+      <address>
+        <city>Chattanooga</city>
+        <state>Tennessee</state>
+        <zip>37403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology - South Austin /ID# 143818</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78731</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology-Austin Central /ID# 143817</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78731</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology-Bedford /ID# 143814</name>
+      <address>
+        <city>Bedford</city>
+        <state>Texas</state>
+        <zip>76022</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology /ID# 143809</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology /ID# 143812</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology-Fort Worth /ID# 143811</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Medical Branch at Galveston /ID# 138236</name>
+      <address>
+        <city>Galveston</city>
+        <state>Texas</state>
+        <zip>77555-0587</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Hermann Hospital /ID# 138238</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Methodist Hospital /ID# 138232</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology- The Woodlands, Gynecologic Oncology /ID# 142003</name>
+      <address>
+        <city>The Woodlands</city>
+        <state>Texas</state>
+        <zip>77380</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology, Longview Cancer Center /ID# 147728</name>
+      <address>
+        <city>Tyler</city>
+        <state>Texas</state>
+        <zip>75702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology-Tyler /ID# 143810</name>
+      <address>
+        <city>Tyler</city>
+        <state>Texas</state>
+        <zip>75702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Huntsman Cancer Institute /ID# 138250</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Vermont /ID# 138251</name>
+      <address>
+        <city>Burlington</city>
+        <state>Vermont</state>
+        <zip>05401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mid Atlantic Gynecologic Oncology and Pelvic Surgery /ID# 139547</name>
+      <address>
+        <city>Annandale</city>
+        <state>Virginia</state>
+        <zip>22003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia /ID# 138088</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Commonwealth University /ID# 139539</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23298</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Carilion Clinic Gynecological Oncology /ID# 139602</name>
+      <address>
+        <city>Roanoke</city>
+        <state>Virginia</state>
+        <zip>24016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Skagit Valley Medical Center /ID# 139586</name>
+      <address>
+        <city>Mount Vernon</city>
+        <state>Washington</state>
+        <zip>98274</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MultiCare Institute for Research and Innovation /ID# 143485</name>
+      <address>
+        <city>Tacoma</city>
+        <state>Washington</state>
+        <zip>98405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MultiCare Regional Cancer Center at Good Samaritan /ID# 149872</name>
+      <address>
+        <city>Tacoma</city>
+        <state>Washington</state>
+        <zip>98405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Vincent Hospital /ID# 139453</name>
+      <address>
+        <city>Green Bay</city>
+        <state>Wisconsin</state>
+        <zip>54301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Marshfield Clinic - Marshfield Center /ID# 139549</name>
+      <address>
+        <city>Marshfield</city>
+        <state>Wisconsin</state>
+        <zip>54449</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Froedtert and The Medical College of Wisconsin /ID# 139449</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IME - Instituto Medico Especializado /ID# 137442</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>C1426ANZ</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Oncologia e Investigacion Buenos Aires (COIBA) /ID# 137376</name>
+      <address>
+        <city>Provincia de Buenos Aires</city>
+        <zip>B1884BBF</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Oncologia de Rosario /ID# 137374</name>
+      <address>
+        <city>Rosario, Santa Fe</city>
+        <zip>S2000KZE</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Adelaide Hospital /ID# 150071</name>
+      <address>
+        <city>Adelaide</city>
+        <zip>5000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chris O'Brien Lifehouse /ID# 145298</name>
+      <address>
+        <city>Camperdown</city>
+        <zip>2050</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Coffs Harbour Health Campus /ID# 145132</name>
+      <address>
+        <city>Coffs Harbour</city>
+        <zip>2450</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Townsville Hospital and Health Services /ID# 149163</name>
+      <address>
+        <city>Douglas</city>
+        <zip>4814</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Monash Halth /ID# 145297</name>
+      <address>
+        <city>East Bentleigh</city>
+        <zip>3165</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Barwon Health, University Hospital of Geelong /ID# 147743</name>
+      <address>
+        <city>Geelong</city>
+        <zip>3220</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Central Coast Cancer Centre /ID# 145299</name>
+      <address>
+        <city>Gosford</city>
+        <zip>2250</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Brisbane and Womens Hospital /ID# 145135</name>
+      <address>
+        <city>Herston QLD</city>
+        <zip>4029</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. George Hospital /ID# 145138</name>
+      <address>
+        <city>Kogarah</city>
+        <zip>2217</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cabrini Health /ID# 145142</name>
+      <address>
+        <city>Malvern</city>
+        <zip>3144</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sir Charles Gairdner Hospital /ID# 145140</name>
+      <address>
+        <city>Nederlands, Perth</city>
+        <zip>6009</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Newcastle Private Hospital /ID# 145834</name>
+      <address>
+        <city>New Lambton Heights</city>
+        <zip>2305</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Womens Hospital /ID# 145136</name>
+      <address>
+        <city>Parkville</city>
+        <zip>3052</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Prince of Wales Hospital /ID# 145134</name>
+      <address>
+        <city>Randwick</city>
+        <zip>2031</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Icon Cancer Centre /ID# 148208</name>
+      <address>
+        <city>South Brisbane</city>
+        <zip>4101</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mater Health Hospital /ID# 145682</name>
+      <address>
+        <city>South Brisbane</city>
+        <zip>4101</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Western Health Sunshine Hospital /ID# 145296</name>
+      <address>
+        <city>St. Albans</city>
+        <zip>3021</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Northern Cancer Institute /ID# 145681</name>
+      <address>
+        <city>St. Leonards</city>
+        <zip>2065</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. John of God Subiaco Hospital /ID# 147742</name>
+      <address>
+        <city>Subiaco</city>
+        <zip>6008</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Calvary Mater Newcastle /ID# 145139</name>
+      <address>
+        <city>Waratah</city>
+        <zip>2298</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Westmead Hospital /ID# 145137</name>
+      <address>
+        <city>Westmead</city>
+        <zip>2145</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Southern Medical Day Care Center /ID# 145133</name>
+      <address>
+        <city>Wollongong</city>
+        <zip>2500</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Cancer de Barretos, Fundacao Pio XII /ID# 137121</name>
+      <address>
+        <city>Barretos</city>
+        <zip>14784-400</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital das Clinicas da Universidade Federal deMinas Gerais /ID# 137156</name>
+      <address>
+        <city>Belo Horizonte</city>
+        <zip>30130-100</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica de Neoplasias Litoral /ID# 137119</name>
+      <address>
+        <city>Itajai</city>
+        <zip>88301-220</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Sao Lucas da PUCRS /ID# 137157</name>
+      <address>
+        <city>Porto Alegre/RS</city>
+        <zip>90610-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Nacional de Cancer Jose Alencar Gomes da Silva /ID# 137155</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <zip>20220-410</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ICESP Instituto do Cancer do Estado de Sao Paulo /ID# 137118</name>
+      <address>
+        <city>Sao Paulo</city>
+        <zip>01246-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Pesquisa Center of Oncology /ID# 137120</name>
+      <address>
+        <city>Sao Paulo</city>
+        <zip>01317-001</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Herning Region Hospital /ID# 137260</name>
+      <address>
+        <city>Herning</city>
+        <zip>7400</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vejle Sygehus /ID# 137262</name>
+      <address>
+        <city>Vejle</city>
+        <zip>7100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Carmel Medical Center /ID# 137537</name>
+      <address>
+        <city>Haifa</city>
+        <zip>3436212</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rambam Health Care Campus /ID# 137434</name>
+      <address>
+        <city>Haifa</city>
+        <zip>3525406</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Shaare Zedek Medical Center /ID# 137435</name>
+      <address>
+        <city>Jerusalem</city>
+        <zip>91031-02</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Meir Medical Center /ID# 139397</name>
+      <address>
+        <city>Kfar Saba</city>
+        <zip>4428164</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Chaim Sheba Medical Center /ID# 137436</name>
+      <address>
+        <city>Ramat Gan</city>
+        <zip>5265601</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kaplan Medical Center /ID# 137536</name>
+      <address>
+        <city>Rehevot</city>
+        <zip>7610001</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NHO National Kyushu Cancer Center /ID# 149133</name>
+      <address>
+        <city>Fukuoka-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hyogo Cancer Center /ID# 148327</name>
+      <address>
+        <city>Hyogo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kansai Rosai Hospital /ID# 149237</name>
+      <address>
+        <city>Hyogo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Jikei University Kashiwa Hospital /ID# 149238</name>
+      <address>
+        <city>Kashiwa-shi, Chiba</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nippon Medical School Musashi Kosugi Hospital /ID# 148597</name>
+      <address>
+        <city>Kawasaki-shi, Kanagawa</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Marianna University School of Medicine Hospital /ID# 149327</name>
+      <address>
+        <city>Kawasaki-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kumamoto University Hospital /ID# 154169</name>
+      <address>
+        <city>Kumamoto-shi, Kumamoto</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NHO Kure Medical Center and Chugoku Cancer Center /ID# 148569</name>
+      <address>
+        <city>Kure-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kurume University Hospital /ID# 148697</name>
+      <address>
+        <city>Kurume-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Shikoku Cancer Center /ID# 148382</name>
+      <address>
+        <city>Matsuyama-shi, Ehime</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mie University Hospital /ID# 149169</name>
+      <address>
+        <city>Mie</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Iwate Medical University Hospital /ID# 147721</name>
+      <address>
+        <city>Morioka-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Shizuoka Cancer Center /ID# 147723</name>
+      <address>
+        <city>Nagaizumi-cho</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Aichi Cancer Center Hospital /ID# 148398</name>
+      <address>
+        <city>Nagoya-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Niigata University Medical and Dental Hospital /ID# 149488</name>
+      <address>
+        <city>Niigata</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kindai University Hospital /ID# 154947</name>
+      <address>
+        <city>Osaka sayama-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Osaka International Cancer Institute /ID# 150778</name>
+      <address>
+        <city>Osaka</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hokkaido University Hospital /ID# 148496</name>
+      <address>
+        <city>Sapporo-shi, Hokkaido</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Hokkaido Cancer Center /ID# 148570</name>
+      <address>
+        <city>Sapporo-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tohoku University Hospital /ID# 149818</name>
+      <address>
+        <city>Sendai-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Keio University Hospital /ID# 148326</name>
+      <address>
+        <city>Tokyo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Cancer Institute Hospital of JFCR /ID# 148436</name>
+      <address>
+        <city>Tokyo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Jikei University Hospital /ID# 148691</name>
+      <address>
+        <city>Tokyo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yamagata University Hospital /ID# 153646</name>
+      <address>
+        <city>Yamagata</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Center /ID# 139404</name>
+      <address>
+        <city>Gyeonggi-do</city>
+        <zip>410-769</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Korea University Anam Hospital /ID# 136908</name>
+      <address>
+        <city>Seoul</city>
+        <zip>02841</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital /ID# 136909</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03080</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Asan Medical Center /ID# 136836</name>
+      <address>
+        <city>Seoul</city>
+        <zip>05505</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gangnam Severance Hospital /ID# 136835</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06273</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Samsung Medical Center /ID# 136834</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06351</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Auckland City Hospital /ID# 145123</name>
+      <address>
+        <city>Auckland</city>
+        <zip>1023</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Canterbury District Health Board /ID# 145124</name>
+      <address>
+        <city>Christchurch</city>
+        <zip>8140</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Uniwersyteckie Centrum Kliniczne /ID# 138021</name>
+      <address>
+        <city>Gdansk</city>
+        <zip>80-402</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instytut im. M. Curie - Sklodowskiej, Oddzial w Krakowie /ID# 138106</name>
+      <address>
+        <city>Krakow</city>
+        <zip>31-115</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Szpital Specjalistyczny im. Swietej Rodziny SPZOZ /ID# 138107</name>
+      <address>
+        <city>Warsaw</city>
+        <zip>02-544</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Vall d'Hebron /ID# 137297</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinic of Barcelona /ID# 137300</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Catalan de Oncologia, L'Hospitalet de Llobregat /ID# 137298</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08907</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Clinico San Carlos /ID# 137402</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario 12 de Octubre /ID# 137299</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Madrid Sanchinarro /ID# 137414</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28050</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacion Instituto Valenciano Oncologico (FIVO) /ID# 137403</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ninewells Hospital /ID# 137967</name>
+      <address>
+        <city>Dundee</city>
+        <zip>DD1 9SY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Beatson West of Scotland Cancer Centre /ID# 137965</name>
+      <address>
+        <city>Glasgow</city>
+        <zip>G12 0YN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>James Paget University Hospital /ID# 137970</name>
+      <address>
+        <city>Great Yarmouth</city>
+        <zip>NR31 6LA</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hammersmith Hospital /ID# 137966</name>
+      <address>
+        <city>London</city>
+        <zip>W12 0HS</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Norfolk and Norwich University Hospitals NHS Trust /ID# 137969</name>
+      <address>
+        <city>Norwich, Norfolk</city>
+        <zip>NR4 7UY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Oxford University Hospitals NHS Trust /ID# 137973</name>
+      <address>
+        <city>Oxford</city>
+        <zip>OX3 7LJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Australia</country>
+    <country>Brazil</country>
+    <country>Denmark</country>
+    <country>Israel</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>New Zealand</country>
+    <country>Poland</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2017</verification_date>
+  <lastchanged_date>April 6, 2017</lastchanged_date>
+  <firstreceived_date>June 10, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Overall Survival</keyword>
+  <keyword>BRCA</keyword>
+  <keyword>Veliparib</keyword>
+  <keyword>Ovarian</keyword>
+  <keyword>Poly Adenosine Diphosphate (ADP) - Ribose Polymerase (PARP)</keyword>
+  <keyword>ABT-888</keyword>
+  <keyword>Paclitaxel</keyword>
+  <keyword>Carboplatin</keyword>
+  <keyword>Randomized</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Ovarian Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Paclitaxel</mesh_term>
+    <mesh_term>Veliparib</mesh_term>
+    <mesh_term>Albumin-Bound Paclitaxel</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="50887">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02443740</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B8001001</org_study_id>
+    <secondary_id>SAD</secondary_id>
+    <nct_id>NCT02443740</nct_id>
+  </id_info>
+  <brief_title>Safety, Tolerability and Pharmacokinetics of PF-05251749</brief_title>
+  <official_title>A Phase 1, Randomized, Double Blind, Placebo Controlled Study To Investigate The Safety, Tolerability, Pharmacokinetics And Relative Bioavailability Of Single Escalating Oral Doses Of Pf-05251749 In Healthy Adult Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pfizer</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a First in human (FIH) single ascending dose study to evaluate the safety,
+      tolerability and pharmacokinetics (PKs) of PF-05251749 following single oral doses in
+      healthy human subjects
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>May 2015</start_date>
+  <completion_date type="Actual">October 2015</completion_date>
+  <primary_completion_date type="Actual">October 2015</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Double Blind (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline in extrapyramidal Symptom Rating Scale (ESRS) for all periods</measure>
+    <time_frame>Day 0, Day 1 hr 2 and 6, Day 3 hr 48</time_frame>
+    <description>An objective measurement system to assess the extent of damage to the extrapyramidal system and the motor functions that it controls.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in Bond and Lader Visual Analogue Scales (BL-VAS) for all periods</measure>
+    <time_frame>Day 0, Day 1 hr 2, Day 3 hr 48</time_frame>
+    <description>The Bond-Lader Visual Analogue Scales of Mood and Alertness is a questionnaire of 16 bi-polar 10 cm analogue scales that derives three factor scores: Self-rated Alertness, Calmness and Contentment</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Observed Plasma Concentration (Cmax) after single dose for all periods</measure>
+    <time_frame>Day 1 hr 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 16, Day 2 hr 24 and 36, Day 3 hr 48</time_frame>
+    <description>Cmax after a single dose</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Curve From Time Zero to Last Quantifiable Concentration (AUClast) after single dose for all periods</measure>
+    <time_frame>Day 1 hr 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 16, Day 2 hr 24 and 36, Day 3 hr 48</time_frame>
+    <description>Area under the plasma concentration time-curve from zero to the last measured concentration (AUClast) after single dose</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Curve From Time Zero to Extrapolated Infinite Time [AUC (0 - inf)] after single dose for all periods</measure>
+    <time_frame>Day 1 hr 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 16, Day 2 hr 24 and 36, Day 3 hr 48</time_frame>
+    <description>AUC (0 - inf)= Area under the plasma concentration versus time curve (AUC) from time zero (pre-dose) to extrapolated infinite time (0 - inf). It is obtained from AUC (0 - t) plus AUC (t - inf) after single dose</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Reach Maximum Observed Plasma Concentration (Tmax) after single dose for all periods</measure>
+    <time_frame>Day 1 hr 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 16, Day 2 hr 24 and 36, Day 3 hr 48</time_frame>
+    <description>Tmax after single dose</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Decay Half-Life (t1/2) after single dose for all periods</measure>
+    <time_frame>Day 1 hr 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 16, Day 2 hr 24 and 36, Day 3 hr 48</time_frame>
+    <description>Plasma decay half-life is the time measured for the plasma concentration to decrease by one half after single dose</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Apparent Oral Clearance (CL/F) after single dose for all periods</measure>
+    <time_frame>Day 1 hr 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 16, Day 2 hr 24 and 36, Day 3 hr 48</time_frame>
+    <description>Clearance of a drug is a measure of the rate at which a drug is metabolized or eliminated by normal biological processes. Clearance obtained after oral dose (apparent oral clearance) is influenced by the fraction of the dose absorbed. Clearance was estimated from population pharmacokinetic (PK) modeling. Drug clearance is a quantitative measure of the rate at which a drug substance is removed from the blood after single dose</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Apparent Volume of Distribution (Vz/F) after single dose for all periods</measure>
+    <time_frame>Day 1 hr 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 16, Day 2 hr 24 and 36, Day 3 hr 48</time_frame>
+    <description>Volume of distribution is defined as the theoretical volume in which the total amount of drug would need to be uniformly distributed to produce the desired plasma concentration of a drug. Apparent volume of distribution after oral dose (Vz/F) is influenced by the fraction absorbed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Observed Cerebrospinal fluid (CSF) Concentration (Cmax) after single dose</measure>
+    <time_frame>Day 1 hr 1.5, 2.5, 4 and 8</time_frame>
+    <description>Cmax after a single dose</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Curve From Time Zero to Last Quantifiable Cerebrospinal fluid (CSF) Concentration (AUClast) after single dose</measure>
+    <time_frame>Day 1 hr 1.5, 2.5, 4 and 8</time_frame>
+    <description>Area under the Cerebrospinal fluid (CSF) concentration time-curve from zero to the last measured concentration (AUClast) after single dose</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Reach Maximum Observed Cerebrospinal fluid (CSF) Concentration (Tmax) after single dose</measure>
+    <time_frame>Day 1 hr 1.5, 2.5, 4 and 8</time_frame>
+    <description>Tmax after single dose</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">32</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Single Ascending Dose-1 (Part A)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single ascending doses of PF-05251749 administered to healthy volunteers in a cross over study design</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Single Ascending Dose-2 (Part A)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single ascending doses of PF-05251749 administered to healthy volunteers in a cross over study design</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Single Dose Cerebrospinal Fluid (Part B)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single maximum dose from Part A of PF-05251749 administered to healthy volunteers to assess the PK of PF-05251749 in CSF</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PF-05251749</intervention_name>
+    <description>Single ascending doses of PF-05251749 as extemporaneously prepared solution/suspension, once every 2 week in a cross over study: 3 mg, 30 mg, 200 mg, 800 mg and placebo</description>
+    <arm_group_label>Single Ascending Dose-1 (Part A)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PF-05251749</intervention_name>
+    <description>Single ascending doses of PF-05251749 as extemporaneously prepared solution/suspension, once every 2 week in a cross over study: 10 mg, 100 mg, 400 mg, and placebo</description>
+    <arm_group_label>Single Ascending Dose-2 (Part A)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PF-05251749</intervention_name>
+    <description>Single dose (Maximum Tolerated Dose) of PF-05251749 as extemporaneously prepared solution/suspension</description>
+    <arm_group_label>Single Dose Cerebrospinal Fluid (Part B)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        •Healthy male and/or female subjects of non-childbearing potential between the ages of 18
+        and 55 years, inclusive (Healthy is defined as no clinically relevant abnormalities
+        identified by a detailed medical history, full physical examination, including blood
+        pressure and pulse rate measurement, 12-lead ECG and clinical laboratory tests).
+
+        Female subjects of non-childbearing potential must meet at least one of the following
+        criteria:
+
+          1. Achieved postmenopausal status, defined as follows: cessation of regular menses for
+             at least 12 consecutive months with no alternative pathological or physiological
+             cause; and have a serum follicle-stimulating hormone (FSH) level confirming the
+             post-menopausal state;
+
+          2. Have undergone a documented hysterectomy and/or bilateral oophorectomy;
+
+          3. Have medically confirmed ovarian failure. All other female subjects (including
+             females with tubal ligations and females that do NOT have a documented hysterectomy,
+             bilateral oophorectomy and/or ovarian failure) will be considered to be of
+             childbearing potential.
+
+               -  Body Mass Index (BMI) of 17.5 to 30.5 kg/m2; and a total body weight &gt;50 kg (110
+                  lbs).
+
+               -  Evidence of a personally signed and dated informed consent document indicating
+                  that the subject has been informed of all pertinent aspects of the study.
+
+               -  Subjects who are willing and able to comply with scheduled visits, treatment
+                  plan, laboratory tests, and other study procedures.
+
+        Exclusion Criteria:
+
+          -  Evidence or history of clinically significant hematological, renal, endocrine,
+             pulmonary, gastrointestinal, cardiovascular, hepatic, psychiatric, neurologic, or
+             allergic disease (including drug allergies, but excluding untreated, asymptomatic,
+             seasonal allergies at time of dosing).
+
+          -  Treatment with an investigational drug within 30 days (or as determined by the local
+             requirement) or 5 half-lives preceding the first dose of study medication (whichever
+             is longer).
+
+          -  Screening supine blood pressure &gt;= 140 mm Hg (systolic) or &gt;=90 mm Hg (diastolic),
+             following at least 5 minutes of rest. If BP is &gt;=140 mm Hg (systolic) or &gt;=90 mm Hg
+             (diastolic), repeat per local standard operating procedures (SOP). If orthostatic
+             changes are present and deemed to be clinically significant by the investigator,
+             Subject can be excluded.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>New Haven Clinical Research Unit</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06511</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2015</verification_date>
+  <lastchanged_date>November 17, 2015</lastchanged_date>
+  <firstreceived_date>May 1, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>First in human</keyword>
+  <keyword>Single Ascending Dose Study</keyword>
+  <keyword>Safety and Tolerability</keyword>
+  <keyword>Pharmacokinetics</keyword>
+  <keyword>Plasma</keyword>
+  <keyword>Cerebrospinal Fluid</keyword>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

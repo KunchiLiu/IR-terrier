@@ -1,0 +1,2237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="64025">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02272413</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1302.5</org_study_id>
+    <secondary_id>2014-002161-30</secondary_id>
+    <nct_id>NCT02272413</nct_id>
+  </id_info>
+  <brief_title>Phase III Trial BI 695502 Plus Chemotherapy vs. Avastin® Plus Chemotherapy in Patients With Lung Cancer</brief_title>
+  <official_title>A Multicenter, Randomized, Double-blind Phase III Trial to Evaluate Efficacy and Safety of BI 695502 Plus Chemotherapy Versus Avastin® Plus Chemotherapy in Patients With Advanced Nonsquamous Non-Small Cell Lung Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boehringer Ingelheim</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Boehringer Ingelheim</source>
+  <brief_summary>
+    <textblock>
+      The objective of this phase III trial is to establish statistical equivalence in terms of
+      efficacy (best overall response rate [ORR], proportion of patients with complete response
+      [CR] plus partial response [PR]) until 18 weeks of first-line treatment with BI 695502 plus
+      chemotherapy versus Avastin® plus chemotherapy followed by maintenance monotherapy with
+      either BI 695502 or Avastin®.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>July 2015</start_date>
+  <completion_date type="Anticipated">March 2019</completion_date>
+  <primary_completion_date type="Anticipated">August 2017</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (masked roles unspecified)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Best overall Response rate (ORR) based on unconfirmed response assessment as assessed by central imaging review until 18 weeks after the start of treatment.</measure>
+    <time_frame>randomization until 18 weeks</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of patients with the especially selected adverse events for comparability assessment of BI 695502 and Avastin: Gastrointestinal perforations, Hypertension, Proteinuria, Pulmonary hemorrhage</measure>
+    <time_frame>randomization until end of Safety follow up</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of patients with the especially selected adverse events for comparability assessment of BI 695502 and Avastin: Other hemorrhages, Wound-healing complications/abscess/fistulas</measure>
+    <time_frame>randomization until end of Safety follow up</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS) defined as the time from randomization until disease progression as per investigator assessment or death.</measure>
+    <time_frame>randomization until disease progression or death</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS) defined as the time from randomization until death from any cause.</measure>
+    <time_frame>randomization until death</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with the especially selected adverse events (AEs) for comparability assessment of BI 695502 and Avastin®: Anaphylactic, Hypersensitivity, infusion-related reactions, arterial and venous thromboembolic events, febrile neutropenia</measure>
+    <time_frame>randomization until end of Safety follow up</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response defined as the time from first documented complete response (CR) plus partial response (PR) until time of progression as per investigator assessment.</measure>
+    <time_frame>from first documented CR or PR until time of progression</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">660</enrollment>
+  <condition>Carcinoma, Non-Small-Cell Lung</condition>
+  <arm_group>
+    <arm_group_label>BI 695502 + chemotherapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>BI 695502 plus carboplatin and paclitaxel</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Bevacizumab + chemotherapy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Bevacizumab plus carboplatin and paclitaxel</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Chemotherapy</intervention_name>
+    <arm_group_label>BI 695502 + chemotherapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BI 695502</intervention_name>
+    <arm_group_label>BI 695502 + chemotherapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>bevacizumab</intervention_name>
+    <arm_group_label>Bevacizumab + chemotherapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Chemotherapy</intervention_name>
+    <arm_group_label>Bevacizumab + chemotherapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:
+
+        Adult patients aged &gt;=18 years with histologically or cytologically confirmed advanced
+        nonsquamous non-small cell lung cancer (nsNSCLC). Mixed tumors should be categorized
+        according to the predominant histology.
+
+        Note: NSCLC should be predominantly nonsquamous. Recurrent or metastatic disease (Stage
+        IV) with an indication for therapy with paclitaxel + carboplatin + Avastin®.
+
+        Patients harboring tumors with unknown or without activating epidermal growth factor
+        receptor (EGFR) / anaplastic lymphoma receptor tyrosine kinase (ALK) mutation maybe
+        included provided chemotherapy is standard of care. At least one measurable lesion
+        according to Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 based on
+        independent central review.
+
+        Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 or 1.
+
+        Adequate hepatic, renal, and bone marrow function:
+
+        Life expectancy &gt; 6 months based on clinical judgment. Further inclusion criteria apply.
+
+        Exclusion criteria:
+
+        Prior therapy with monoclonal antibodies or small molecule inhibitors against Vascular
+        Endothelial Growth Factor (VEGF) or VEGF receptors, including Avastin®.
+
+        Prior systemic therapy for metastatic disease. Prior systemic anticancer therapy or
+        radiotherapy for locally advanced nsNSCLC if completed &lt;12 months prior to Screening.
+
+        Previous malignancy other than NSCLC in the last 5 years except for basal cell cancer of
+        the skin or pre-invasive cancer of the cervix.
+
+        Symptomatic brain metastasis. Diagnosis of small cell carcinoma of the lung, squamous cell
+        carcinoma of the lung, NSCLC not specified (NS) or NSCLC not otherwise specified(NOS).
+
+        Any unresolved toxicity &gt; Common Toxicity Criteria Grade 1 (except alopecia) from previous
+        anticancer therapy (including radiotherapy).
+
+        History or evidence of inherited bleeding diathesis or coagulopathy with the risk of
+        bleeding. Thrombotic or hemorrhagic event =&lt; 6 months prior to Screening. Further
+        exclusion criteria apply.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Boehringer Ingelheim</last_name>
+    <role>Study Chair</role>
+    <affiliation>Boehringer Ingelheim</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Boehringer Ingelheim Call Center</last_name>
+    <phone>1-800-243-0127</phone>
+    <email>clintriage.rdg@boehringer-ingelheim.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Anaheim</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Bakersfield</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Montebello</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Santa Maria</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Whittier</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Ashland</city>
+        <state>Kentucky</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Hagerstown</city>
+        <state>Maryland</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Owosso</city>
+        <state>Michigan</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Port Huron</city>
+        <state>Michigan</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>East Setauket</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Nyack</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Upland</city>
+        <state>Pennsylvania</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Berazategui</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Ciudad Autonoma Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>La Rioja</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Pilar</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Rosario</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Rosario</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Villa Luro</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Barretos</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Cachoeiro de Itapemirim</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Fortaleza</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Ijuí</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Itajaí</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Lajeado</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Passo Fundo</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Petrópolis</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Porto Alegre</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Porto Alegre</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Santo André</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Sorocaba</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>São Paulo</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Dobrich</city>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Pleven</city>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Plovdiv</city>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Ruse</city>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Shumen</city>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Sofia</city>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Varna</city>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Santiago</city>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Santiago</city>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Temuco</city>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Viña del Mar</city>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Dubrovnik</city>
+        <country>Croatia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Pula</city>
+        <country>Croatia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Slavonski Brod</city>
+        <country>Croatia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Zagreb</city>
+        <country>Croatia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Alexandria</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Cairo</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Cairo</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Mansoura</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Monofia</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Aschaffenburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Bad Nauheim</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Athens</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Crete</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Patras</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Thessaloniki</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Budapest</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Farkasgyepu</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Szolnok</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Szombathely</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Torokbalint</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Cremona</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Lugo (RA)</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Meldola (FC)</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Pisa</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Sassari</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Viterbo</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Amagasaki-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Bunkyo-ku</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Hidaka-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Hirakata-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Hitachi-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Iizuka-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Ikoma-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Itabashi-ku</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Itami-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Izumi-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Kagoshima-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Kasama-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Kiyose-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Kobe-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Marugame-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Matsusaka-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Minato-ku</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Miyazaki-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Nagakute-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Niigata-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Okazaki-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Osaka-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Ota-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Sagamihara-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Sakai-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Seto-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Takatsuki-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Toyoake-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Uji-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Yokohama-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Cheongju-si</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Hwasun-gun</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Incheon</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Suwon-si</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Kuala Lumpur</city>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Kuantan</city>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Melaka</city>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Pulau Pinang</city>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>El Salto</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Merida</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Monterrey</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Orizaba</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Queretaro</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Toluca</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Bacolod City</city>
+        <country>Philippines</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Cebu City</city>
+        <country>Philippines</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Manila</city>
+        <country>Philippines</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Quezon City</city>
+        <country>Philippines</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Jelenia Gora</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Lublin</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Tarnobrzeg</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Torun</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Warszawa</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Warszawa</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Coimbra</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Lisboa</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Porto</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Porto</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Santa Maria da Feira</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Vila Nova de Gaia</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Baia Mare</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Brasov</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Bucuresti</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Cluj Napoca</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Cluj-Napoca</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Onesti</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Ploiesti</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Timisoara</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Arkhangelsk</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Kazan</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Kursk</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Obninsk</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Omsk</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Pyatigorsk</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>St. Petersburg</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Belgrade</city>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Gornji Matejevac</city>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Kragujevac</city>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Sremska Kamenica</city>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Bloemfontein</city>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Cape Town</city>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Cape town</city>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>George</city>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Johannesburg</city>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Port Elizabeth</city>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Pretoria</city>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Badajoz</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>San Sebastian</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Santiago de Compostela</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Sevilla</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Hat Yai</city>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Muang</city>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Muang</city>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Antalya</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Battalgazi</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Diyarbakir</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Edirne</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Gaziantep</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Chernihiv</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Dnipropetrovsk</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Kharkiv</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Kherson</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Kirovohrad</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Kryvyi Rih, Dnipropetrovsk</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Kyiv</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Lutsk</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Lviv</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Poltava</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Sumy</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Ternopil</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Uzhgorod</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Vinnytsia</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Zhaporizhzhia</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Cheltenham</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Can Tho</city>
+        <country>Vietnam</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Hanoi</city>
+        <country>Vietnam</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Hue City</city>
+        <country>Vietnam</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Brazil</country>
+    <country>Bulgaria</country>
+    <country>Chile</country>
+    <country>Croatia</country>
+    <country>Egypt</country>
+    <country>Germany</country>
+    <country>Greece</country>
+    <country>Hungary</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Malaysia</country>
+    <country>Mexico</country>
+    <country>Philippines</country>
+    <country>Poland</country>
+    <country>Portugal</country>
+    <country>Romania</country>
+    <country>Russian Federation</country>
+    <country>Serbia</country>
+    <country>South Africa</country>
+    <country>Spain</country>
+    <country>Thailand</country>
+    <country>Turkey</country>
+    <country>Ukraine</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+    <country>Vietnam</country>
+  </location_countries>
+  <removed_countries>
+    <country>El Salvador</country>
+    <country>India</country>
+    <country>Indonesia</country>
+  </removed_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 31, 2017</lastchanged_date>
+  <firstreceived_date>October 21, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Bevacizumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

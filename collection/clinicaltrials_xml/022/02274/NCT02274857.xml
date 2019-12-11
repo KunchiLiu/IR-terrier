@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="63837">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02274857</url>
+  </required_header>
+  <id_info>
+    <org_study_id>REAFFIRM</org_study_id>
+    <nct_id>NCT02274857</nct_id>
+  </id_info>
+  <brief_title>Randomized Evaluation of Atrial Fibrillation Treatment With Focal Impulse and Rotor Modulation Guided Procedures</brief_title>
+  <acronym>REAFFIRM</acronym>
+  <official_title>Randomized Evaluation of Atrial Fibrillation Treatment With Focal Impulse and Rotor Modulation Guided Procedures (REAFFIRM)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Abbott Electrophysiology</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Abbott Electrophysiology</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study is a prospective, multicenter, randomized, single-blinded study to assess the
+      safety and effectiveness of FIRM procedures followed by conventional ablation including PVI
+      versus a standard PVI procedure for the treatment of persistent atrial fibrillation.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>October 2014</start_date>
+  <completion_date type="Anticipated">October 2018</completion_date>
+  <primary_completion_date type="Anticipated">October 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Freedom from serious adverse events related to the procedure</measure>
+    <time_frame>Post treatment through 12-month</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Single-procedure freedom from AF/AT recurrence at 3 month post index procedure.</measure>
+    <time_frame>3-month follow up</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Single-procedure freedom from AF/AT recurrence at 3 to 12 months post index procedure.</measure>
+    <time_frame>3-12 months post study treatment</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the acute effectiveness of FIRM-guided procedures in eliminating the source of arrhythmia as shown by: No evidence of the source in FIRMap post-op, OR Reduction of electrogram amplitude to &lt; 0.2mV</measure>
+    <time_frame>Immediately post procedure</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Life data (EQ-5D and AFEQT)</measure>
+    <time_frame>1 - 12 months post index procedure</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">350</enrollment>
+  <condition>Persistent Atrial Fibrillation</condition>
+  <arm_group>
+    <arm_group_label>Standard PVI Ablation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Standard catheter ablation including pulmonary vein isolation (PVI) procedure for the treatment of persistent AF.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FIRM-guided Procedure and PVI</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>FIRM-guided procedure followed by standard catheter ablation including PVI.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Standard PVI Ablation</intervention_name>
+    <description>Standard PVI procedure without FIRMap.</description>
+    <arm_group_label>Standard PVI Ablation</arm_group_label>
+    <other_name>Pulmonary vein isolation</other_name>
+    <other_name>Ablation</other_name>
+    <other_name>Arrhythmia</other_name>
+    <other_name>Persistent atrial fibrillation</other_name>
+    <other_name>Mapping</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>FIRM-Guided Procedure and PVI</intervention_name>
+    <description>FIRM-guided procedure followed by conventional ablation including PVI.</description>
+    <arm_group_label>FIRM-guided Procedure and PVI</arm_group_label>
+    <other_name>Pulmonary vein isolation</other_name>
+    <other_name>Ablation</other_name>
+    <other_name>Arrhythmia</other_name>
+    <other_name>Persistent atrial fibrillation</other_name>
+    <other_name>Mapping</other_name>
+    <other_name>FIRMap</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:
+
+          -  At least two (2) documented episodes of persistent atrial fibrillation during prior 3
+             months
+
+          -  Refractory, intolerant, or contraindicated to Class I or III anti-arrhythmic
+             medications
+
+          -  Left atrial diameter &lt; 6.0 cm
+
+        Key Exclusion Criteria:
+
+          -  Presence of structural heart disease
+
+          -  NYHA Class IV.
+
+          -  Ejection fraction &lt; 35%.
+
+          -  History of myocardial infarction (MI) within the past three months.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Johannes Brachmann, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Klinikum Coburg GmbH</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Andrea Quach</last_name>
+    <phone>650-681-2047</phone>
+    <email>andrea.quach@abbott.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Arizona Heart Rhythm Center</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Courtney Rothwell</last_name>
+      <phone>480-659-7583</phone>
+    </contact>
+    <investigator>
+      <last_name>Vijay Swarup, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hoag Memorial Hospital Presbyterian</name>
+      <address>
+        <city>Newport Beach</city>
+        <state>California</state>
+        <zip>92658</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michaela Toney</last_name>
+    </contact>
+    <investigator>
+      <last_name>Rajesh Banker, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Loyola University Medical Center</name>
+      <address>
+        <city>Maywood</city>
+        <state>Illinois</state>
+        <zip>60153</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jean Del Priore, RN</last_name>
+    </contact>
+    <investigator>
+      <last_name>David Wilber, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Loyola University Hospital</name>
+      <address>
+        <city>Maywood</city>
+        <state>Illinois</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jean Del Priore</last_name>
+    </contact>
+    <investigator>
+      <last_name>David Wilber, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University - Krannert Institute of Cardiology</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Susan Straka</last_name>
+    </contact>
+    <investigator>
+      <last_name>Gopi Dandamudi, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Vincent Hospital</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46260</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sara Simpkiss</last_name>
+    </contact>
+    <investigator>
+      <last_name>Jeffrey Olson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Johns Hopkins Hospital</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hiroshi Ashikaga, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Hiroshi Ashikaga, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Huge Calkins, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hackensack UMC</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jana Tancredi</last_name>
+    </contact>
+    <investigator>
+      <last_name>John Zimmerman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Weill Medical College at Cornell University</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rosa Chu</last_name>
+    </contact>
+    <investigator>
+      <last_name>Bruce Lerman, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Ohio State University</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jennifer Smith</last_name>
+    </contact>
+    <investigator>
+      <last_name>John Hummel, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Geisinger Wyoming Valley Medical Center</name>
+      <address>
+        <city>Wilkes-Barre</city>
+        <state>Pennsylvania</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michelle Zarko</last_name>
+    </contact>
+    <investigator>
+      <last_name>Pugazhendhi Vijayaraman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Herz- und Diabeteszentrum Bad Oeynhausen</name>
+      <address>
+        <city>Bad Oyenhausen</city>
+        <zip>32545</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Georg Nölker, Dr.med.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Unfallkrankenhaus Berlin</name>
+      <address>
+        <city>Berlin</city>
+        <zip>12683</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stefanie Geistert</last_name>
+      <phone>+49 3056813601</phone>
+    </contact>
+    <investigator>
+      <last_name>Boris Keweloh, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum Coburg GmbH</name>
+      <address>
+        <city>Coburg</city>
+        <zip>96450</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Johannes Brachmann, MD</last_name>
+      <phone>+49 95 6122 6348</phone>
+      <email>kardiologie@klinikum-coburg.de</email>
+    </contact>
+    <contact_backup>
+      <last_name>Michael Held, MD</last_name>
+      <phone>+49 95 6122 6348</phone>
+      <email>kardiologie@klinikum-coburg.de</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Zentrum für klinische Prüfungen in der Facharztzentrum Dresden-Neustadt GbR</name>
+      <address>
+        <city>Dresden</city>
+        <zip>01099</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Franziska Günther</last_name>
+      <phone>+49 35180640</phone>
+      <email>contact@praxisklinik-dresden.de</email>
+    </contact>
+    <investigator>
+      <last_name>Stefan Spitzer, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Städtisches Klinikum Karlsruhe gGmbH</name>
+      <address>
+        <city>Karlsruhe</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andrea Radzewitz</last_name>
+    </contact>
+    <investigator>
+      <last_name>Armin Luik, Dr.med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Leipzig Heart Institute GmbH</name>
+      <address>
+        <city>Leipzig</city>
+        <zip>04289</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniela Günther</last_name>
+    </contact>
+    <investigator>
+      <last_name>Philipp Sommer, Dr.med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kardiologische Gemeinschaftspraxis am Park Sanssouci</name>
+      <address>
+        <city>Potsdam</city>
+        <zip>14471</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Virginia Gärtner</last_name>
+    </contact>
+    <investigator>
+      <last_name>Gerhard Janssen, Dr.med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Erasmus Medical Center</name>
+      <address>
+        <city>Rotterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Petter Janse</last_name>
+    </contact>
+    <investigator>
+      <last_name>Tamas Szili-Torok, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+    <country>Netherlands</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2016</verification_date>
+  <lastchanged_date>August 23, 2016</lastchanged_date>
+  <firstreceived_date>October 22, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>FIRMap</keyword>
+  <keyword>Rotor</keyword>
+  <keyword>FIRM-guided procedure</keyword>
+  <keyword>REAFFIRM</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Atrial Fibrillation</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

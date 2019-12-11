@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="10849">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02965716</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2016-01698</org_study_id>
+    <secondary_id>NCI-2016-01698</secondary_id>
+    <secondary_id>S1607</secondary_id>
+    <secondary_id>S1607</secondary_id>
+    <secondary_id>S1607</secondary_id>
+    <secondary_id>U10CA180888</secondary_id>
+    <nct_id>NCT02965716</nct_id>
+  </id_info>
+  <brief_title>Talimogene Laherparepvec and Pembrolizumab in Treating Patients With Stage III-IV Melanoma</brief_title>
+  <official_title>A Phase II Study of Combining T-VEC (NSC-785349) and Pembrolizumab (NSC-776864) in Patients With Advanced Melanoma Who Have Progressed on Anti-PD1/L1 Based Therapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial studies how well talimogene laherparepvec and pembrolizumab work in
+      treating patients with stage III-IV melanoma. Biological therapies, such as talimogene
+      laherparepvec, use substances made from living organisms that may stimulate or suppress the
+      immune system in different ways and stop tumor cells from growing. Monoclonal antibodies,
+      such as pembrolizumab, may interfere with the ability of tumor cells to grow and spread.
+      Giving talimogene laherparepvec and pembrolizumab may work better in treating patients with
+      melanoma by shrinking the tumor.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To evaluate the durable response rate of treatment with talimogene laherparepvec (T-VEC)
+      in combination with pembrolizumab following progression on prior anti-PD-1 or anti-PD-L1
+      therapy alone or in combination with other agents different from T-VEC.
+
+      SECONDARY OBJECTIVES:
+
+      I. To estimate the objective response rate (confirmed and unconfirmed, complete and partial
+      responses) in the injected lesions.
+
+      II. To estimate the objective response rate (ORR) in the non-visceral, non-injected lesions.
+
+      III. To estimate the objective response rate (ORR) in the visceral lesions (Cohort A).
+
+      IV. To estimate the overall objective response rate (ORR). V. To estimate the median
+      progression-free survival (PFS). VI. To estimate the median overall survival (OS). VII. To
+      evaluate the toxicity of the regimen.
+
+      TERTIARY OBJECTIVES:
+
+      I. To evaluate whether adding T-VEC to PD1 blockade can increase T-cell infiltration into
+      tumors and whether change in T-cell infiltration is associated with response.
+
+      II. To evaluate whether adding T-VEC to PD1 blockade can increase T-cell receptor (TCR)
+      clonality in tumors and in peripheral blood and whether increased TCR clonality is
+      associated with response.
+
+      III. To evaluate whether intra-tumoral injection of T-VEC is associated with the tumor
+      immune microenvironment.
+
+      IV. To evaluate whether tumor mutational load and mutations in the IFN pathway is associated
+      with response to T-VEC plus pembrolizumab therapy in the anti-PD1/L1 therapy refractory
+      melanoma patients.
+
+      OUTLINE:
+
+      Patients receive talimogene laherparepvec intralesionally (IL) and pembrolizumab
+      intravenously (IV) over 30 minutes on day 1. Treatment repeats every 21 days for up to 18
+      courses in the absence of disease progression or unacceptable toxicity.
+
+      After completion of study treatment, patients are followed up every 6 months for up to 2
+      years and then annually for a total of 5 years.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date>August 2017</start_date>
+  <primary_completion_date type="Anticipated">July 2019</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Durable response rate (DRR) defined as complete response (CR) or partial response (PR) with no evidence of disease progression from the initial documentation of CR/PR assessed by RECIST 1.1 (Cohort A and B)</measure>
+    <time_frame>Up to 180 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>DRR (Cohort A and B)</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Will assess the association between durable response rate and CD8 T-cell infiltration in the injected tumors using a two-sample t-test to test for difference in mean quantitative CD8 expression between patients who have a durable response and patients who do not have a durable response. If the distributions are far from normal or subject to influential points, then instead of t-tests, robust, rank based or non-parametric alternatives such as the Wilcoxon test will be used. The analysis will be repeated to assess the association between durable response rate and CD8 T-cell infiltration in the n</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median OS (Cohort A and B)</measure>
+    <time_frame>Up to 6 months</time_frame>
+    <description>Will construct 95% Brookmeyer-Crowley confidence intervals.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median PFS (Cohort A and B)</measure>
+    <time_frame>From date of registration to date of first documentation of progression or symptomatic deterioration, or death due to any cause, assessed up to 6 months</time_frame>
+    <description>Will construct 95% Brookmeyer-Crowley confidence intervals.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ORR (Cohort B)</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Will be estimated in injected lesions, non-injected lesions, across all lesions and construct 95% confidence intervals for the estimated rates.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Response rate (complete and partial, confirmed and unconfirmed responses) assessed by RECIST1.1 (Cohort A)</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Will be estimated by three different methods. RECIST 1.1 will be applied, but with the following restrictions: 1) considering only the injected lesions as target lesions, 2) considering only the non-injected lesions as target lesions,3) considering only the visceral lesions as target lesions and 4) across all lesions. 95% confidence intervals will be constructed for the estimated rates.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change in increased T-cell infiltration (Cohort A and B)</measure>
+    <time_frame>Baseline to week 2</time_frame>
+    <description>Associated with higher DRR. The change in CD8 expression between week 2 and baseline will be computed and compared to the change in CD8 expression between durable responders and non-durable responders using a two-sample t-test at the two-sided 0.05 level.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in T-cell infiltration (Cohort A and B)</measure>
+    <time_frame>Baseline to week 2</time_frame>
+    <description>CD8 expression levels will be compared using a paired t-test. Among patients that progress, the analysis will be repeated to compare CD8 expression at progression to baseline with the understanding that there is potentially informative missingness in that patients who do not progress may have higher infiltration.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in TCR clonality levels assessed in peripheral blood (Cohort A)</measure>
+    <time_frame>Baseline to week 2</time_frame>
+    <description>Will compute the clonality metric as the normalized Shannon entropy for all patients at baseline and week 2. The change in clonality metric will be computed and compared between durable responders and non-durable responders using a two-sample t-test with significance determined at the two-sided alpha=0.05 level.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in TCR clonality within tumor assessed in peripheral blood (Cohort B)</measure>
+    <time_frame>Baseline to week 2</time_frame>
+    <description>Will test for difference in mean normalized Shannon entropy for all patients. The analysis will be repeated to compare TCR clonality at progression to baseline among patients who progress. To assess the hypothesis that TCR clonality is higher in patients who respond to the combination therapy, suggesting that the T-cells are targeting the tumor, the clonality metric will be computed as the normalized Shannon entropy for all patients at baseline and week 2. The change in clonality will be compared between durable responders and non-durable responders using a two-sample t-test with significance</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in tumor microenvironment following T-VEC (Cohort A and B)</measure>
+    <time_frame>Baseline to week 2</time_frame>
+    <description>Will examine the expression of approximately 10 candidate immune markers: PD-L1, PD-1, dendritic cell markers (CD80, CD86), immune suppressive cell markers (anti-FoxP3 for regulatory T cell [Treg], anti-CD68 antibody for macrophage, clone PG-M1, DAKO, anti-CD14 for monocyte, and CD15 for granulocytes). For each marker, a difference in expression will be tested between baseline and the 2 weeks using paired t-tests at the alpha = 0.005 level to accommodate multiple comparisons. The association between change in expression level of each marker (from baseline to 2 weeks) with response using a two-</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mutational load (Cohort A and B)</measure>
+    <time_frame>Baseline to week 2</time_frame>
+    <description>Will assess the association between overall mutational load at each time point, separately, and durable response rate. Logistic regression to regress response status on the mutation rates (at baseline or at week 2) and use a 1-df test to obtain a p-value for the association between durable response and mutation rate will be used.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>T-VEC effect on mutational load (Cohort A and B)</measure>
+    <time_frame>Baseline to week 2</time_frame>
+    <description>The per megabase mutation rate for each individual will be calculated. Then a paired t-test will be used to compare the mutation rate at 2 weeks to the mutation rate at baseline. To estimate the anticipated power, it is assumed that a paired t-test will be used (although the distribution of mutational load is highly skewed, the change in mutational load may be sufficiently well behaved).</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">64</enrollment>
+  <condition>Recurrent Melanoma</condition>
+  <condition>Stage III Skin Melanoma</condition>
+  <condition>Stage IIIA Skin Melanoma</condition>
+  <condition>Stage IIIB Skin Melanoma</condition>
+  <condition>Stage IIIC Skin Melanoma</condition>
+  <condition>Stage IV Skin Melanoma</condition>
+  <arm_group>
+    <arm_group_label>Treatment (talimogene laherparepvec, pembrolizumab)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive talimogene laherparepvec IL and pembrolizumab IV over 30 minutes on day 1. Treatment repeats every 21 days for up to 18 courses in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Laboratory Biomarker Analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Treatment (talimogene laherparepvec, pembrolizumab)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Pembrolizumab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (talimogene laherparepvec, pembrolizumab)</arm_group_label>
+    <other_name>Keytruda</other_name>
+    <other_name>Lambrolizumab</other_name>
+    <other_name>MK-3475</other_name>
+    <other_name>SCH 900475</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Talimogene Laherparepvec</intervention_name>
+    <description>Given IL</description>
+    <arm_group_label>Treatment (talimogene laherparepvec, pembrolizumab)</arm_group_label>
+    <other_name>ICP34.5-, ICP47-deleted Herpes Simplex Virus 1 (HSV-1) Incorporating the Human GM-CSF Gene</other_name>
+    <other_name>Imlygic</other_name>
+    <other_name>JS1 34.5-hGMCSF 47- pA-</other_name>
+    <other_name>T-VEC</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients must have pathologically confirmed Stage IV or unresectable Stage III
+             melanoma
+
+          -  Patients must have measurable disease per Response Evaluation Criteria in Solid
+             Tumors (RECIST) 1.1; all measurable lesions must be assessed within 28 days prior to
+             registration; non-measurable disease must be assessed within 42 days prior to
+             registration; all disease must be assessed and documented on the baseline tumor
+             assessment form (RECIST 1.1)
+
+          -  Cohort A: Patients must have at least one measurable visceral lesion (per RECIST
+             1.1); a visceral lesion is any solid organ except for skin, lymph node, and
+             musculoskeletal tissue; at least one of these visceral lesions must be measurable per
+             RECIST 1.1
+
+          -  Cohort B: Patients must not have any visceral lesions
+
+          -  Patients must, in the opinion of the treating physician, be candidates for
+             intralesional administration into cutaneous, subcutaneous, or nodal lesions; patients
+             must have at least 2 injectable lesions
+
+          -  Patients may have brain metastases if all lesions have been treated with stereotactic
+             radiation therapy, craniotomy, or gamma knife therapy with no evidence of progression
+             and have not required steroids for at least 14 days prior to registration
+
+          -  Patient must have had prior treatment with anti-PD-1 or anti-PD-L1 agents and have
+             documented disease progression on these agents prior to registration; anti-PD1/L1
+             based therapy must be the immediate previous line of treatment prior to registration
+
+          -  Patients must not have had surgery, chemotherapy, biologic therapy, hormonal therapy,
+             or radiation therapy within 14 days prior to registration; patients must not have had
+             an investigational agent or monoclonal antibodies, except anti-PD1/L1 antibodies,
+             within 28 days prior to registration; patients must have recovered from all side
+             effects from prior therapies prior to registration
+
+          -  Patients must not have received prior treatment with T-VEC or other oncolytic virus
+             agents
+
+          -  Patients must not have received any infectious disease vaccination within 7 days
+             prior to registration
+
+          -  Patients must not be planning to receive other biologic therapy, radiation therapy,
+             hormonal therapy, chemotherapy, surgery, or other therapy while on this protocol;
+             palliative radiation therapy or surgery can be considered for symptomatic non-target
+             lesions after discussions with the study team
+
+          -  Patients must have Zubrod performance status =&lt; 2
+
+          -  Absolute neutrophil count (ANC) &gt;= 1,500/mcL
+
+          -  Hemoglobin &gt;= 8 g/dL
+
+          -  Platelets &gt;= 100,000/mcL
+
+          -  Total bilirubin =&lt; 2.0 x institutional upper limit of normal (IULN) except patients
+             with documented Gilbert's syndrome
+
+          -  Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) both &lt; 3.0 x IULN
+
+          -  Serum creatinine &lt; 2.0 x IULN within 28 days prior to registration
+
+          -  International normalized ratio (INR) or prothrombin time (PT) =&lt; 2.0 x IULN if not
+             using anticoagulants within 28 days prior to registration; if using anticoagulants,
+             then the value must be within therapeutic range according to the condition for which
+             the patient is being treated within 28 days prior to registration
+
+          -  Activated partial thromboplastin time (aPTT) =&lt; 2.0 x IULN if not using
+             anticoagulants within 28 days prior to registration; if using anticoagulants, then
+             the value must be within therapeutic range according to the condition for which the
+             patient is being treated within 28 days prior to registration
+
+          -  Patients must have lactate dehydrogenase (LDH) obtained prior to registration
+
+          -  Patients must have complete physical examination and medical history obtained within
+             28 days prior to registration
+
+          -  Patients must not require use of systemic corticosteroid within 14 days prior to
+             registration or during protocol treatment; patients with preexisting severe
+             autoimmune disease requiring systemic corticosteroids or ongoing immunosuppression
+             are not eligible
+
+          -  Patients must not have known history of hepatitis B, hepatitis C, human
+             immunodeficiency virus (HIV)
+
+          -  Patients must not have history of (non-infectious) pneumonitis that required steroids
+             or current pneumonitis
+
+          -  Patients must not have an active infection requiring systemic therapy
+
+          -  Patients must not have active herpetic skin lesions or prior complications of
+             herpetic infection (e.g., herpetic keratitis or encephalitis) which requires
+             intermittent or chronic treatment with an anti-herpetic drug other than intermittent
+             topical use
+
+          -  Patients must not have organ allografts
+
+          -  Patients must not have an uncontrolled intercurrent illness including, but not
+             limited to, nonmalignant medical illnesses that are uncontrolled or whose control may
+             be jeopardized by the treatment with the study therapy, or psychiatric illness/social
+             situations which would limit compliance with study requirements
+
+          -  No other prior malignancy is allowed except for the following: adequately treated
+             basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated
+             stage I or II cancer from which the patient is currently in complete remission, or
+             any other cancer from which the patient has been disease free for two years
+
+          -  Patients must not be pregnant or nursing; women of reproductive potential must have a
+             negative serum pregnancy test within 7 days prior to registration; women/men of
+             reproductive potential must have agreed to use an effective contraceptive method
+             while on study and for 120 days after last study treatment; a woman is considered to
+             be of &quot;reproductive potential&quot; if she has had menses at any time in the preceding 12
+             consecutive months; in addition to routine contraceptive methods, &quot;effective
+             contraception&quot; also includes heterosexual celibacy and surgery intended to prevent
+             pregnancy (or with a side-effect of pregnancy prevention) defined as a hysterectomy,
+             bilateral oophorectomy or bilateral tubal ligation; however, if at any point a
+             previously celibate patient chooses to become heterosexually active during the time
+             period for use of contraceptive measures outlined in the protocol, he/she is
+             responsible for beginning contraceptive measures
+
+          -  Patients must be willing to submit blood and tissue specimens for translational
+             medicine
+
+          -  Patients must be offered the opportunity to participate in specimen banking for
+             future research
+
+          -  Patients must be informed of the investigational nature of this study and must sign
+             and give written informed consent in accordance with institutional and federal
+             guidelines
+
+          -  As a part of the Oncology Patient Enrollment Network (OPEN) registration process the
+             treating institution's identity is provided in order to ensure that the current
+             (within 365 days) date of institutional review board approval for this study has been
+             entered in the system
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Siwen Hu-Lieskovan</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Southwest Oncology Group</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>SWOG</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Siwen Hu-Lieskovan</last_name>
+      <phone>888-798-0719</phone>
+    </contact>
+    <investigator>
+      <last_name>Siwen Hu-Lieskovan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2016</verification_date>
+  <lastchanged_date>January 31, 2017</lastchanged_date>
+  <firstreceived_date>November 16, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Melanoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Pembrolizumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

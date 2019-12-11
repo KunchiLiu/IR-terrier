@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="23038">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02806869</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FDA_13-RFQ-1116088</org_study_id>
+    <secondary_id>HHSF223201310144C</secondary_id>
+    <nct_id>NCT02806869</nct_id>
+  </id_info>
+  <brief_title>Modernization of in vivo-in Vitro Oral Bioperformance Prediction and Assessment</brief_title>
+  <official_title>Modernization of in vivo-in Vitro Oral Bioperformance Prediction and Assessment: A Research Study to Evaluate the Performance of an Ibuprofen Oral Dosage Form in the Gastrointestinal Tract of Healthy Adult Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Michigan</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Food and Drug Administration (FDA)</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Michigan</source>
+  <brief_summary>
+    <textblock>
+      This is an in vivo study designed to acquire human gastrointestinal (GI) physiology data
+      from healthy subjects under fasting and fed conditions which are necessary for mechanistic
+      absorption model development. Up to 30 subjects will be enrolled into this study. Each
+      subject will be asked to complete two GI tube insertion procedures. Subjects will complete
+      this study twice under the same conditions of the GI tract, either fasting state or fed
+      state, in order to provide intra-subject variability. A minimum of 7 days will separate each
+      GI tube insertion procedure. The objectives of this study are, as follows: Objective #1: To
+      acquire human GI physiology data including GI motility, pH of GI fluids, and GI fluid volume
+      under fasting and fed conditions; Objective #2: To measure drug concentration and calculate
+      drug dissolution in the GI tract in vivo under fasting and fed conditions; Objective #3: To
+      monitor plasma drug concentration and evaluate pharmacokinetics of administered drug during
+      GI tube insertion studies under fasting and fed conditions. These in vivo results will be
+      used to validate in vitro dissolution methods and to support computational and mathematical
+      modeling efforts, in order to develop an oral drug product optimization process that may be
+      applied to future drugs to maximize oral drug safety and efficacy.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>January 2015</start_date>
+  <completion_date type="Anticipated">November 2017</completion_date>
+  <primary_completion_date type="Actual">November 2016</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Concentration of ibuprofen in plasma (ng/mL)</measure>
+    <time_frame>0, 10, 20, 30, and 45 min, then 1, 1.5, 2, 2.5, 3, 4, 5, 6, 7, 8, 12, and 28 hours after dose of ibuprofen</time_frame>
+    <description>specimen analysis using LC-MS/MS</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Concentration of ibuprofen in gastrointestinal fluid (ng/mL)</measure>
+    <time_frame>0, 15, 30, and 45 min, then 1, 1.5, 2, 2.5, 3, 4, 5, 6, and 7 hours after dose of ibuprofen</time_frame>
+    <description>specimen analysis using LC-MS/MS</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>pH of gastrointestinal fluid</measure>
+    <time_frame>0, 15, 30, and 45 min, then 1, 1.5, 2, 2.5, 3, 4, 5, 6, and 7 hours after dose of ibuprofen</time_frame>
+    <description>pH meter and pH electrode</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Gastrointestinal motility (pressure (mmHg) vs. time)</measure>
+    <time_frame>Measured continuously for up to 5 hours prior to dose of ibuprofen and then for 7 hours after dose of ibuprofen</time_frame>
+    <description>high resolution manometry</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">60</enrollment>
+  <condition>Human Gastrointestinal Physiology Data</condition>
+  <arm_group>
+    <arm_group_label>Arm #1 - Fasting State, 2 study visits</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of ibuprofen (800 mg tablet), Administered with 250 mL of water containing phenol red</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm #2 - Fed State, 2 study visits</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of ibuprofen (800 mg tablet), Administered with 250 mL of water containing phenol red</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Single dose of ibuprofen (800 mg tablet)</intervention_name>
+    <arm_group_label>Arm #1 - Fasting State, 2 study visits</arm_group_label>
+    <arm_group_label>Arm #2 - Fed State, 2 study visits</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Pulmocare, two 8.0 oz (236.6 mL) cans</intervention_name>
+    <arm_group_label>Arm #2 - Fed State, 2 study visits</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Adults age 18 to 55.
+
+          2. Male or female voluntarily able to give informed consent.
+
+        Exclusion Criteria:
+
+          1. Adults unable to consent for themselves or mentally incapacitated.
+
+          2. Prisoners.
+
+          3. Significant clinical illness within 3 weeks prior to Screening.
+
+          4. Use of concomitant medications within 2 weeks prior to receiving study drug,
+             including but not limited to prescription drugs, herbal and dietary supplements, over
+             the counter medications, and vitamins. Birth control is permitted.
+
+          5. Received an investigational drug within 60 days prior to receiving the study drug.
+
+          6. History of gastrointestinal surgery.
+
+          7. Surgery within the past 3 months.
+
+          8. History of allergy to ibuprofen or other non-steroidal anti-inflammatory drugs
+             (NSAIDs).
+
+          9. History of severe allergic diseases including drug allergies, with the exception of
+             seasonal allergies.
+
+         10. Any other factor, condition, or disease, including, but not limited to,
+             cardiovascular, renal, hepatic, or gastrointestinal disorders that may, in the
+             opinion of the Investigator, jeopardize the safety of the patient or impact the
+             validity of the study results.
+
+         11. History of drug addiction or alcohol abuse within the past 12 months.
+
+         12. Pregnant or lactating females.
+
+         13. Any clinically significant abnormal lab values during Screening.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Duxin Sun, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Michigan</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 20, 2017</lastchanged_date>
+  <firstreceived_date>May 13, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Michigan</investigator_affiliation>
+    <investigator_full_name>Duxin Sun</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Ibuprofen</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

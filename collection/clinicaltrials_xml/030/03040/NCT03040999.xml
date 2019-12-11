@@ -1,0 +1,3279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5065">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03040999</url>
+  </required_header>
+  <id_info>
+    <org_study_id>3475-412</org_study_id>
+    <secondary_id>2016-003934-25</secondary_id>
+    <secondary_id>MK-3475-412</secondary_id>
+    <nct_id>NCT03040999</nct_id>
+  </id_info>
+  <brief_title>Study of Pembrolizumab (MK-3475) or Placebo With Chemoradiation in Participants With Locally Advanced Head and Neck Squamous Cell Carcinoma (MK-3475-412/KEYNOTE-412)</brief_title>
+  <official_title>A Randomized Phase III Study of Pembrolizumab Given Concomitantly With Chemoradiation and as Maintenance Therapy Versus Chemoradiation Alone in Subjects With Locally Advanced Head and Neck Squamous Cell Carcinoma (KEYNOTE-412)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Merck Sharp &amp; Dohme Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Merck Sharp &amp; Dohme Corp.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine the efficacy and safety of pembrolizumab given
+      concomitantly with chemoradiation (CRT) and as maintenance therapy versus placebo plus CRT
+      in participants with locally advanced head and neck squamous cell carcinoma (LA HNSCC). The
+      primary hypothesis is that pembrolizumab in combination with CRT is superior to placebo in
+      combination with CRT with respect to event-free survival (EFS) per Response Evaluation
+      Criteria in Solid Tumors (RECIST) version 1.1 by blinded independent central review (BICR).
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 10, 2017</start_date>
+  <completion_date type="Anticipated">March 16, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 16, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Investigator</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Event-free Survival (EFS)</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>EFS is the time from the date of randomization to the date of first record of disease progression per Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST 1.1) by Blinded Independent Central Review (BICR) or death.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>OS is the time from randomization to death due to any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Adverse Events (AEs)</measure>
+    <time_frame>From time of first dose of study treatment until the end of follow-up (up to 5 years)</time_frame>
+    <description>Number of participants experiencing any sign, symptom, disease, or worsening of preexisting condition temporally associated with study therapy and irrespective of causality to study therapy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Discontinuations</measure>
+    <time_frame>From time of first dose of study treatment until the end of treatment (up to 1 year)</time_frame>
+    <description>Number of participants discontinuing study drug due to an AE</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Global Health Status/Quality of Life (GHS/QoL)</measure>
+    <time_frame>Prior to the first dose of study treatment (Baseline) and at the time of last follow-up (up to 5 years)</time_frame>
+    <description>Change from baseline in GHS/QoL using the European Organization for Research and Treatment of Cancer (EORTC) Quality of Life Core Questionnaire (EORTC QLQ-C30)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Swallowing, Speech, and Pain Symptoms</measure>
+    <time_frame>Prior to the first dose of study treatment (Baseline) and at the time of last follow-up (up to 5 years)</time_frame>
+    <description>Change from baseline in swallowing, speech, and pain symptoms using the EORTC Head and Neck Questionnaire (EORTC QLQ-H&amp;N35)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">780</enrollment>
+  <condition>Head and Neck Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>Pembrolizumab + Cisplatin + CRT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive a priming dose of pembrolizumab before initiation of CRT (either accelerated or standard fractionation radiotherapy regimen), followed by two cycles of pembrolizumab and cisplatin (3 cycles total) given during CRT. Participants also receive up to an additional 14 cycles of pembrolizumab alone as maintenance therapy for a total of 17 cycles of pembrolizumab.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo + Cisplatin + CRT</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants receive placebo before initiation of CRT (either accelerated or standard fractionation radiotherapy regimen), followed by two cycles of placebo and cisplatin (3 cycles total) given during CRT. Participants also receive up to an additional 14 cycles of placebo alone for a total of 17 cycles of placebo.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Pembrolizumab</intervention_name>
+    <description>Administered as an intravenous (IV) infusion every 3 weeks (Q3W)</description>
+    <arm_group_label>Pembrolizumab + Cisplatin + CRT</arm_group_label>
+    <other_name>KEYTRUDA®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Normal saline solution administered as an IV infusion Q3W</description>
+    <arm_group_label>Placebo + Cisplatin + CRT</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cisplatin</intervention_name>
+    <description>100 mg/m^2 administered as an IV infusion Q3W</description>
+    <arm_group_label>Pembrolizumab + Cisplatin + CRT</arm_group_label>
+    <arm_group_label>Placebo + Cisplatin + CRT</arm_group_label>
+    <other_name>Platinol®</other_name>
+    <other_name>Platinol®-AQ</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Accelerated Fractionation (AFX) Radiotherapy</intervention_name>
+    <description>70 Gray (Gy) given in 35 fractions over 6 weeks</description>
+    <arm_group_label>Pembrolizumab + Cisplatin + CRT</arm_group_label>
+    <arm_group_label>Placebo + Cisplatin + CRT</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Standard Fractionation (SFX) Radiotherapy</intervention_name>
+    <description>70 Gy given in 35 fractions over 7 weeks</description>
+    <arm_group_label>Pembrolizumab + Cisplatin + CRT</arm_group_label>
+    <arm_group_label>Placebo + Cisplatin + CRT</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Has a pathologically proven new diagnosis of oropharyngeal p16 positive,
+             oropharyngeal p16 negative, or larynx/hypopharynx/oral cavity (independent of p16)
+             squamous cell carcinoma. Participants with oral cavity tumors need to have
+             unresectable disease.
+
+          -  Has provided adequate tissue for Programmed Cell Death Receptor Ligand 1 (PD-L1)
+             biomarker analysis from a core or excisional biopsy
+
+          -  Has evaluable tumor burden (measurable and/or non-measurable tumor lesions) assessed
+             by computed tomography scan or magnetic resonance imaging, based on RECIST version
+             1.1
+
+          -  Is eligible for definitive CRT and not considered for primary surgery based on
+             investigator decision
+
+          -  Has Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 performed
+             within 10 days prior to receiving the first dose of study therapy
+
+          -  Female participants of childbearing potential must have a negative urine or serum
+             pregnancy test within 72 hours prior to receiving the first dose of study therapy
+
+          -  Female and male participants of reproductive potential must agree to use adequate
+             contraception throughout the study period and for up to 180 days after the last dose
+             of study therapy
+
+        Exclusion Criteria:
+
+          -  Is currently participating or has participated in a study with an investigational
+             agent or using an investigational device within 4 weeks of the first dose of study
+             therapy
+
+          -  Has received prior therapy with an anti-Programmed Cell Death Receptor 1 (PD-1),
+             anti-PD-L1, anti-Programmed Cell Death Receptor Ligand 2 (PD-L2) agent or with an
+             agent directed to another co-inhibitory T-cell receptor or has previously
+             participated in clinical studies with pembrolizumab
+
+          -  Has received a live vaccine within 30 days prior to the first dose of study therapy
+
+          -  Has cancer outside of the oropharynx, larynx, and hypopharynx or oral cavity, such as
+             nasopharyngeal, sinus, other para-nasal, or other unknown primary head and neck
+             cancer
+
+          -  Has had prior systemic therapy, targeted therapy, radiotherapy treatment or radical
+             surgery for head and neck cancer under study
+
+          -  Has not recovered from major surgery prior to starting study therapy
+
+          -  Has known active Hepatitis B or C
+
+          -  Has known history of Human Immunodeficiency Virus (HIV)
+
+          -  Has a diagnosis of immunodeficiency or is receiving systemic steroid therapy or any
+             other form of immunosuppressive therapy within 7 days prior to the first dose of
+             study therapy
+
+          -  Has a history of (non-infectious) pneumonitis that required steroids or current
+             pneumonitis
+
+          -  Has an active autoimmune disease that has required systemic treatment in the past 2
+             years. Replacement therapy is not considered a form of systemic treatment.
+
+          -  Has history of a diagnosed and/or treated hematologic or primary solid tumor
+             malignancy, unless in remission for at least 5 years prior to randomization
+
+          -  Has known active central nervous system (CNS) metastases and/or carcinomatous
+             meningitis
+
+          -  Has had previous allogeneic tissue/solid organ transplant
+
+          -  Has active infection requiring systemic therapy
+
+          -  Has a history of severe hypersensitivity reaction to pembrolizumab, cisplatin or
+             radiotherapy or their analogs
+
+          -  Is pregnant or breast feeding or expecting to conceive or father children throughout
+             the study period and for up to 180 days after the last dose of study therapy
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Merck Sharp &amp; Dohme Corp.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Toll Free Number</last_name>
+    <phone>1-888-577-8839</phone>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Ironwood Cancer &amp; Research Centers ( Site 0270)</name>
+      <address>
+        <city>Chandler</city>
+        <state>Arizona</state>
+        <zip>85224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>480-821-2838</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA Medical Center ( Site 0273)</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>310-825-6301</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of California San Francisco ( Site 0274)</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>415-353-9893</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF Comprehensive Cancer Center ( Site 0252)</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Joseph Heritage Healthcare ( Site 0254)</name>
+      <address>
+        <city>Santa Rosa</city>
+        <state>California</state>
+        <zip>95403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>707-521-3830</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Cancer Center ( Site 0265)</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Smilow Cancer Hospital at Yale New Haven ( Site 0256)</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>203-737-7636</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University Medical Center ( Site 0260)</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>312-942-3375</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University ( Site 0264)</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>317-627-7775</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>New England Cancer Specialists ( Site 0258)</name>
+      <address>
+        <city>Scarborough</city>
+        <state>Maine</state>
+        <zip>04074</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan Hospital and Health Systems ( Site 0267)</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>734-936-5281</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Barbara Ann Karmanos Cancer Institute ( Site 0272)</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>313-576-8778</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Hospital ( Site 0253)</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine ( Site 0250)</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nebraska Cancer Specialists ( Site 0271)</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center ( Site 0279)</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Rochester - James P. Wilmot Cancer Center ( Site 0255)</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14620</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>585-275-5307</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Duke Cancer Center ( Site 0275)</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Oncology Hematology Care, Inc. ( Site 8003)</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>513-751-2273</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ohio State University Medical Center Arthur G. James Cancer Hospital ( Site 0263)</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Willamette Valley Cancer Institute and Research Center ( Site 8000)</name>
+      <address>
+        <city>Springfield</city>
+        <state>Oregon</state>
+        <zip>97477</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>541-741-3451</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Luke's Cancer Center - Anderson ( Site 0251)</name>
+      <address>
+        <city>Easton</city>
+        <state>Pennsylvania</state>
+        <zip>18045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>484-526-3687</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh ( Site 0259)</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sanford Cancer Center Oncology Clinic ( Site 0268)</name>
+      <address>
+        <city>Sioux Falls</city>
+        <state>South Dakota</state>
+        <zip>57104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Joyce Cancer Clinic ( Site 0262)</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>615-936-8422</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology-Austin Central ( Site 8002)</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78731</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>512-427-9400</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology PA ( Site 8001)</name>
+      <address>
+        <city>Longview</city>
+        <state>Texas</state>
+        <zip>75601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>903-579-9800</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia Health System ( Site 0261)</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>434-924-7678</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Seattle Cancer Care Alliance/Univ of Washington Medical Center ( Site 0269)</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>206-288-2048</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Oncology Associates ( Site 0257)</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Care Northwest ( Site 0266)</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Aleman ( Site 1250)</name>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Italiano de Buenos Aires ( Site 1255)</name>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Oncologia Angel H. Roffo ( Site 1254)</name>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Medico Especializado Alexander Fleming ( Site 1251)</name>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Angel Cruz Padilla ( Site 1253)</name>
+      <address>
+        <city>San Miguel de Tucuman</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Investigaciones Clinicas - Clinica Viedma ( Site 1252)</name>
+      <address>
+        <city>Viedma</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Brisbane &amp; Women s Hospital ( Site 0302)</name>
+      <address>
+        <city>Herston</city>
+        <state>Queensland</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+61736468111</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Adelaide Hospital ( Site 0303)</name>
+      <address>
+        <city>Adelaide</city>
+        <state>South Australia</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+61882222023</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Peter MacCallum Cancer Centre ( Site 0300)</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+61396561749</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Western Sydney Local Health District ( Site 0304)</name>
+      <address>
+        <city>Blacktown</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+61298818421</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Liverpool Hospital ( Site 0301)</name>
+      <address>
+        <city>Sydney</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+61287389736</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Landeskrankenhaus Feldkirch ( Site 0604)</name>
+      <address>
+        <city>Feldkirch</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Landeskrankenhaus - Universitatsklinikum Graz ( Site 0601)</name>
+      <address>
+        <city>Graz</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+4331638513448</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Krankenhaus der Barmherzigen Schwestern Linz ( Site 0603)</name>
+      <address>
+        <city>Linz</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+4373276774828</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Landeskrankenhaus Salzburg ( Site 0600)</name>
+      <address>
+        <city>Salzburg</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+0043 5 7255 25800</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Allgemeines Krankenhaus der Stadt Wien ( Site 0602)</name>
+      <address>
+        <city>Vienna/Wien</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+4314040044240</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Landeskrankenhaus Wiener Neustadt ( Site 0605)</name>
+      <address>
+        <city>Wiener Neustadt</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cliniques Universitaires Saint Luc - Bruxelles ( Site 0651)</name>
+      <address>
+        <city>Bruxelles</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+3227649457</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Gent ( Site 0650)</name>
+      <address>
+        <city>Gent</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+3293322811</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Leuven Campus Gasthuisberg ( Site 0652)</name>
+      <address>
+        <city>Leuven</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+3216346903</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>C.H.U. Sart Tilman-Service d'Oncologie Medicale ( Site 0654)</name>
+      <address>
+        <city>Liege</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+3243667111</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique et Maternite Sainte-Elisabeth ( Site 0653)</name>
+      <address>
+        <city>Namur</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+3281720531</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Santa Izabel - Santa Casa de Misericordia da Bahia ( Site 0006)</name>
+      <address>
+        <city>Salvador</city>
+        <state>Bahia</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+555133203319</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Regional Integrado de Oncologia ( Site 0002)</name>
+      <address>
+        <city>Fortaleza</city>
+        <state>Ceara</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+558532865934</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto do Cancer do Ceara ( Site 0009)</name>
+      <address>
+        <city>Fortaleza</city>
+        <state>Ceara</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Liga Norte Riograndense Contra o Cancer ( Site 0005)</name>
+      <address>
+        <city>Natal</city>
+        <state>Rio Grande do Norte</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+558440095595</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Nossa Senhora da Conceicao ( Site 0001)</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande do Sul</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+555133572296</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica de Hematologia e Oncologia Viver Ltda ( Site 0007)</name>
+      <address>
+        <city>Santa Maria</city>
+        <state>Rio Grande do Sul</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacao Pio XII - Hospital de Cancer de Barretos ( Site 0003)</name>
+      <address>
+        <city>Barretos</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+551733216638</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Clinicas de Porto Alegre ( Site 0011)</name>
+      <address>
+        <city>Porto Alegre</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+555133598619</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital das Clinicas da FMUSP de Ribeirao Preto ( Site 0008)</name>
+      <address>
+        <city>Ribeirao Preto</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+551636022482</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>INCA Instituto Nacional do Cancer ( Site 0010)</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+552132076569</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto do Cancer de Sao Paulo - ICESP ( Site 0004)</name>
+      <address>
+        <city>Sao Paulo</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+551138932632</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Tom Baker Cancer Centre ( Site 0063)</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>H9H 4M7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>4035213093</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cross Cancer Institute ( Site 0064)</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>H9H 4M7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>7804328340</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>BCCA-Vancouver Cancer Centre ( Site 0056)</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>H9H 4M7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dr. Leon Richard Oncology Centre ( Site 0060)</name>
+      <address>
+        <city>Moncton</city>
+        <state>New Brunswick</state>
+        <zip>H9H 4M7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dr. H. Bliss Murphy Cancer Centre ( Site 0054)</name>
+      <address>
+        <city>St. John's</city>
+        <state>Newfoundland and Labrador</state>
+        <zip>H9H 4M7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>7097777805</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Juravinski Cancer Centre ( Site 0062)</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>H9H 4M7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>905387949567675</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kingston General Hospital ( Site 0058)</name>
+      <address>
+        <city>Kingston</city>
+        <state>Ontario</state>
+        <zip>H9H 4M7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>London Health Sciences Centre ( Site 0055)</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>H9H 4M7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>5196858640</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Thunder Bay Regional Health Sciences Centre ( Site 0059)</name>
+      <address>
+        <city>Thunder Bay</city>
+        <state>Ontario</state>
+        <zip>H9H 4M7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>8076847200</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Princess Margaret Cancer Centre ( Site 0051)</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>H9H 4M7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>4169462911</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sunnybrook Research Institute ( Site 0053)</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>H9H 4M7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>41648061004928</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHUM - Hopital Notre-Dame ( Site 0050)</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H9H 4M7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>McGill University Health Centre ( Site 0061)</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H9H 4M7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>514934193435800</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CIUSSS de l'Estrie - CHUS - Centre Hosp. Univ. Sherbrooke ( Site 0057)</name>
+      <address>
+        <city>Sherbrooke</city>
+        <state>Quebec</state>
+        <zip>H9H 4M7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>819346111014824</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinico Universidad de Chile ( Site 0103)</name>
+      <address>
+        <city>Santiago</city>
+        <state>Region Metropolitana</state>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Regional de Concepcion ( Site 0106)</name>
+      <address>
+        <city>Concepcion</city>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Cancer Nuestra Senora de la Esperanza ( Site 0102)</name>
+      <address>
+        <city>Santiago</city>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacion Arturo Lopez Perez FALP ( Site 0101)</name>
+      <address>
+        <city>Santiago</city>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Militar [Santiago, Chile] ( Site 0105)</name>
+      <address>
+        <city>Santiago</city>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Nacional del Cancer ( Site 0107)</name>
+      <address>
+        <city>Santiago</city>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Alemana de Temuco ( Site 0100)</name>
+      <address>
+        <city>Temuco</city>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Investigaciones Clinicas Vina del Mar ( Site 0104)</name>
+      <address>
+        <city>Vina Del Mar</city>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Oncomedica S.A. ( Site 0153)</name>
+      <address>
+        <city>Monteria</city>
+        <state>Cordoba</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+573205669416</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Oncologos del Occidente S.A. ( Site 0152)</name>
+      <address>
+        <city>Pereira</city>
+        <state>Risaralda</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacion Valle del Lili ( Site 0150)</name>
+      <address>
+        <city>Cali</city>
+        <state>Valle del Cauca</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+573148883972</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Investigacion Clinica del Country ( Site 0155)</name>
+      <address>
+        <city>Bogota</city>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+5715300470</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacion Santa Fe de Bogota ( Site 0154)</name>
+      <address>
+        <city>Bogota</city>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Medico Imbanaco de Cali S.A ( Site 0156)</name>
+      <address>
+        <city>Cali</city>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+572682100014091</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Pablo Tobon Uribe ( Site 0151)</name>
+      <address>
+        <city>Medellin</city>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+57444590008906</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Cancerologia IDC Las Americas ( Site 0157)</name>
+      <address>
+        <city>Medellin</city>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+573206912418</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Interni hematologicka a onkologicka klinika. FN Brno ( Site 0703)</name>
+      <address>
+        <city>Brno</city>
+        <zip>Prague 6</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+420532233642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fakultni Nemocnice Hradec Kralove ( Site 0705)</name>
+      <address>
+        <city>Hradec Kralove</city>
+        <zip>Prague 6</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+420495832176</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fakultni nemocnice Olomouc ( Site 0701)</name>
+      <address>
+        <city>Olomouc</city>
+        <zip>Prague 6</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+420588444288</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fakultni nemocnice Ostrava ( Site 0702)</name>
+      <address>
+        <city>Ostrava</city>
+        <zip>Prague 6</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+420597372124</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>2. LF UK a FN Motol ( Site 0704)</name>
+      <address>
+        <city>Praha 5</city>
+        <zip>Prague 6</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+420224434700</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Nemocnice Na Bulovce ( Site 0700)</name>
+      <address>
+        <city>Praha 8</city>
+        <zip>Prague 6</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+420266084516</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Sainte Catherine ( Site 0751)</name>
+      <address>
+        <city>Avignon</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Jean Bernard ( Site 0760)</name>
+      <address>
+        <city>Le Mans</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+33243297908</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Oscar Lambret ( Site 0753)</name>
+      <address>
+        <city>Lille</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique Francois Chenieux ( Site 0757)</name>
+      <address>
+        <city>Limoges</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+33555454800</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Regional du Cancer de Montpellier - ICM ( Site 0752)</name>
+      <address>
+        <city>Montpellier</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Antoine-Lacassagne ( Site 0755)</name>
+      <address>
+        <city>Nice</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Lyon Sud ( Site 0750)</name>
+      <address>
+        <city>Pierre Benite</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Eugene Marquis ( Site 0761)</name>
+      <address>
+        <city>Rennes</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+33299253226</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institut de Cancerologie de l Ouest Centre Rene Gauducheau ( Site 0756)</name>
+      <address>
+        <city>Saint Herblain</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+33240679976</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Claudius Regaud ( Site 0754)</name>
+      <address>
+        <city>Toulouse</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+33531155101</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institut De Cancerologie De Lorraine ( Site 0758)</name>
+      <address>
+        <city>Vandoeuvre les Nancy</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+33383598461</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Gustave Roussy ( Site 0759)</name>
+      <address>
+        <city>Villejuif</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+33142116532</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum der Universitaet Aachen (RWTH) ( Site 0806)</name>
+      <address>
+        <city>Aachen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum Chemnitz gGmbH ( Site 0812)</name>
+      <address>
+        <city>Chemnitz</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Erlangen ( Site 0801)</name>
+      <address>
+        <city>Erlangen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+499318533405</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SRH Waldklinikum Gera GmbH ( Site 0802)</name>
+      <address>
+        <city>Gera</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+493658282651</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Giessen ( Site 0808)</name>
+      <address>
+        <city>Giessen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitares Cancer Center Hamburg (UCCH) ( Site 0811)</name>
+      <address>
+        <city>Hamburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+4940741057122</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medizinische Hochschule Hannover ( Site 0807)</name>
+      <address>
+        <city>Hannover</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+495115322301</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Jena. ( Site 0805)</name>
+      <address>
+        <city>Jena</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Schleswig-Holstein-Campus Lübeck ( Site 0803)</name>
+      <address>
+        <city>Luebeck</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+4945150042000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsmedizin der Johannes Gutenberg-Universitaet Mainz ( Site 0800)</name>
+      <address>
+        <city>Mainz</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum der Universitat Munchen ( Site 0810)</name>
+      <address>
+        <city>Munchen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+4989440073768</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinik Ulm ( Site 0804)</name>
+      <address>
+        <city>Ulm</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+4973150059548</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Semmelweis Egyetem AOK ( Site 0855)</name>
+      <address>
+        <city>Budapest</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Uzsoki Utcai Korhaz ( Site 0852)</name>
+      <address>
+        <city>Budapest</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Debreceni Egyetem Klinikai Kozpont ( Site 0851)</name>
+      <address>
+        <city>Debrecen</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Somogy Megyei Kaposi Mor Oktato Korhaz ( Site 0854)</name>
+      <address>
+        <city>Kaposvar</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Szabolcs Szatmar Bereg Megyei Korhazak es Egyetemi Oktatokorhaz ( Site 0850)</name>
+      <address>
+        <city>Nyiregyhaza</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Szegedi Tudomanyegyetem AOK Ful-Orr-Gegeszeti Klinika ( Site 0853)</name>
+      <address>
+        <city>Szeged</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rambam MC ( Site 0903)</name>
+      <address>
+        <city>Haifa</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+972502061161</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hadassah Ein Karem Jerusalem ( Site 0902)</name>
+      <address>
+        <city>Jerusalem</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+972508946244</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rabin Medical Center ( Site 0904)</name>
+      <address>
+        <city>Petah Tikva</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+97239378101</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sheba MC ( Site 0901)</name>
+      <address>
+        <city>Ramat Gan</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+97235302513</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Tel Aviv Sourasky Medical Center ( Site 0900)</name>
+      <address>
+        <city>Tel Aviv</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+97527360734</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero Universitaria di Modena Policlinico ( Site 0954)</name>
+      <address>
+        <city>Modena</city>
+        <state>MO</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+0000000000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero Universitaria Careggi ( Site 0955)</name>
+      <address>
+        <city>Firenze</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+39552751835</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale dell'Angelo ( Site 0956)</name>
+      <address>
+        <city>Mestre</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+393473763089</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera San Paolo ( Site 0952)</name>
+      <address>
+        <city>Milano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+393204369893</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto Europeo di Oncologia ( Site 0953)</name>
+      <address>
+        <city>Milano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+390294379234</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto Nazionale Tumori ( Site 0950)</name>
+      <address>
+        <city>Milano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+390223902805</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Care and Research S.A. de C.V. ( Site 0204)</name>
+      <address>
+        <city>Milano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+529999490856</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto Nazionale Tumori IRCCS Fondazione Pascale ( Site 0951)</name>
+      <address>
+        <city>Napoli</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+390815903362</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Center Hospital East ( Site 0350)</name>
+      <address>
+        <city>Kashiwa</city>
+        <state>Chiba</state>
+        <zip>102-8667</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+0000008167</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hokkaido University Hospital ( Site 0351)</name>
+      <address>
+        <city>Sapporo</city>
+        <state>Hokkaido</state>
+        <zip>102-8667</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+81117161161</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hyogo Cancer Center ( Site 0354)</name>
+      <address>
+        <city>Akashi</city>
+        <state>Hyogo</state>
+        <zip>102-8667</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+81789291151</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Miyagi Cancer Center ( Site 0353)</name>
+      <address>
+        <city>Natori</city>
+        <state>Miyagi</state>
+        <zip>102-8667</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+81223843151</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hiroshima University Hospital ( Site 0352)</name>
+      <address>
+        <city>Hiroshima</city>
+        <zip>102-8667</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+8182257525200000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Osaka International Cancer Institute ( Site 0355)</name>
+      <address>
+        <city>Osaka</city>
+        <zip>102-8667</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+81669721181</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Hospital, Tokyo Medical And Dental University ( Site 0356)</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>102-8667</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+81358030489</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Chungbuk National University Hospital ( Site 0454)</name>
+      <address>
+        <city>Cheongju si</city>
+        <state>Chungcheongbuk do</state>
+        <zip>4130</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+82432696015</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Bundang Hospital ( Site 0453)</name>
+      <address>
+        <city>Seongnam-si</city>
+        <state>Gyeonggi-do</state>
+        <zip>4130</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+82317877037</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Chungnam National University Hospital ( Site 0455)</name>
+      <address>
+        <city>Daejeon</city>
+        <zip>4130</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+82422807157</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Samsung Medical Center ( Site 0450)</name>
+      <address>
+        <city>Seoul</city>
+        <zip>4130</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+82234103438</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital ( Site 0451)</name>
+      <address>
+        <city>Seoul</city>
+        <zip>4130</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Severance Hospital Yonsei University Health System ( Site 0452)</name>
+      <address>
+        <city>Seoul</city>
+        <zip>4130</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+82222288126</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Estatal de Cancerologia de Chihuahua ( Site 0202)</name>
+      <address>
+        <city>Chihuahua</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+526144106742</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Grupo Medico Camino SC ( Site 0203)</name>
+      <address>
+        <city>Ciudad de Mexico</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+5513204025</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Nacional de Cancerologia [Mexico City, Mexico] ( Site 0201)</name>
+      <address>
+        <city>Mexico City</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+525555734772</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Oncologico Potosino ( Site 0200)</name>
+      <address>
+        <city>San Luis Potosi</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+524441397700</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Noordwest Ziekenhuisgroep NWZ ( Site 1350)</name>
+      <address>
+        <city>Alkmaar</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+31725483326</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>VU Medisch Centrum ( Site 1352)</name>
+      <address>
+        <city>Amsterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+31204444295</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UMCG ( Site 1351)</name>
+      <address>
+        <city>Groningen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+31503616161</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MUMC ( Site 1353)</name>
+      <address>
+        <city>Maastricht</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+31433871019</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Erasmus University Medical Center ( Site 1354)</name>
+      <address>
+        <city>Rotterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+31107041505</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Elisabeth Ziekenhuis Tilburg ( Site 1355)</name>
+      <address>
+        <city>Tilburg</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Capital &amp; Coast District Health Board - Wellington Hospital ( Site 0400)</name>
+      <address>
+        <city>Wellington</city>
+        <state>Newtown</state>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+64278013077</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Beskidzkie Centrum Onkologii im. Jana Pawla II ( Site 1005)</name>
+      <address>
+        <city>Bielsko-Biala</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+48334984045</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Szpital Morski w Gdyni ( Site 1007)</name>
+      <address>
+        <city>Gdynia</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+48602788669</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centrum Onkologii, Instytut im. Marii Sklodowskiej-Curie ( Site 1010)</name>
+      <address>
+        <city>Gliwice</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+48602720957</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Przychodnia Lekarska Komed ( Site 1003)</name>
+      <address>
+        <city>Konin</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie ( Site 1008)</name>
+      <address>
+        <city>Krakow</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+48721295010</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Wojewodzki Szpital Specjalistyczny im. M. Kopernika w Lodzi ( Site 1006)</name>
+      <address>
+        <city>Lodz</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>SPZOZ MSW z Warminsko-Mazurskim Centrum Onkologii ( Site 1002)</name>
+      <address>
+        <city>Olsztyn</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+48895398524</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Opolskie Centrum Onkologii ( Site 1004)</name>
+      <address>
+        <city>Opole</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Szpital Kliniczny ( Site 1009)</name>
+      <address>
+        <city>Poznan</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centrum Onkologii-Instytut im. Marii Sklodowskiej-Curie ( Site 1000)</name>
+      <address>
+        <city>Warszawa</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+48225462208</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Dolnoslaskie Centrum Onkologii we Wroclawiu ( Site 1001)</name>
+      <address>
+        <city>Wroclaw</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+48504207560</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Puerto Rico Hematology Oncology Group ( Site 1302)</name>
+      <address>
+        <city>Bayamon</city>
+        <zip>00959</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ad-Vance Medical Research, LLC ( Site 1300)</name>
+      <address>
+        <city>Ponce</city>
+        <zip>00728</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacion de Investigacion de Diego ( Site 1301)</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00927</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>H.U. Vall de Hebron ( Site 1052)</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+34934894158</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Duran i Reynals ( Site 1053)</name>
+      <address>
+        <city>Hospitalet de Llobregat</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+34932607333</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinico San Carlos ( Site 1051)</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+34913303000x7979</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Doce de Octubre ( Site 1054)</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+34914692313</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Ramon y Cajal ( Site 1055)</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+34913368263</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Virgen de la Victoria ( Site 1056)</name>
+      <address>
+        <city>Malaga</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+34952270497</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Gral Universitario de Valencia ( Site 1050)</name>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+34963131800437635</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Chang Gung Medical Foundation - Kaohsiung ( Site 0501)</name>
+      <address>
+        <city>Kaohsiung</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+886773171233267</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>National Cheng Kung University Hospital ( Site 0503)</name>
+      <address>
+        <city>Tainan</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+886623535354559</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MacKay Memorial Hospital ( Site 0505)</name>
+      <address>
+        <city>Taipei</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+886225433535</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>National Taiwan University Hospital ( Site 0500)</name>
+      <address>
+        <city>Taipei</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+88622312345667510</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Taipei Veterans General Hospital ( Site 0504)</name>
+      <address>
+        <city>Taipei</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+8862287121212612</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Linkou Chang Gung Memorial Hospital ( Site 0502)</name>
+      <address>
+        <city>Taoyuan</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+886975368112</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Basken Uni. Adana Dr.Turgut Noyan Uygulama ve Arastirma Merkezi ( Site 1103)</name>
+      <address>
+        <city>Adana</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+905353067506</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Dr. Abdurrahman Yurtaslan Ankara Onkoloji EAH ( Site 1107)</name>
+      <address>
+        <city>Ankara</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hacettepe Universitesi Tip Fakultesi ( Site 1102)</name>
+      <address>
+        <city>Ankara</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+905427212606</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>YBU Ataturk Egitim ve Arastirma Hastanesi ( Site 1108)</name>
+      <address>
+        <city>Ankara</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+905555306271</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Istanbul Universitesi Istanbul Tip Fakultesi ( Site 1100)</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+905327236113</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medipol Hastanesi ( Site 1104)</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+905325280486</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Park Izmir Hastanesi ( Site 1109)</name>
+      <address>
+        <city>Izmir</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+905052642353</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kocaeli Universitesi Tip Fakultesi ( Site 1106)</name>
+      <address>
+        <city>Kocaeli</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+905327650185</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Inonu Universitesi Tip Fakultesi ( Site 1101)</name>
+      <address>
+        <city>Malatya</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+905326441884</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Namik Kemal Universitesi Tip Fakultesi ( Site 1105)</name>
+      <address>
+        <city>Tekirdag</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>MI Kryvyi Rih Oncology Dispensary of Dnipropetrovsk Regional Council ( Site 1150)</name>
+      <address>
+        <city>Kryviy Rih</city>
+        <state>Dnipropetrovsk region</state>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Center Cyber Clinic of Spizhenko ( Site 1152)</name>
+      <address>
+        <city>Kapitanovka</city>
+        <state>Kyiv region</state>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dnipropetrovsk City Multidiscipline Clinical Hosp.4 of DRC ( Site 1151)</name>
+      <address>
+        <city>Dnipropetrovsk</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ivano-Frankivsk Regional Oncology Clinical Dispensary ( Site 1156)</name>
+      <address>
+        <city>Ivano Frankivsk</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ivano-Frankivsk regional clinical hospital ( Site 1164)</name>
+      <address>
+        <city>Ivano-Frankivsk</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Grigoriev Institute for medical Radiology NAMS ( Site 1159)</name>
+      <address>
+        <city>Kharkiv</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>PP PPC Acinus Medical and Diagnostic Centre ( Site 1161)</name>
+      <address>
+        <city>Kirovograd</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinic of Otolaryngology Institute n.a. O.O. Kolomychenko of the NAMSU ( Site 1165)</name>
+      <address>
+        <city>Kyiv</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kyiv City Clinical Oncology Center ( Site 1157)</name>
+      <address>
+        <city>Kyiv</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kyiv City Clinical Oncology Center ( Site 1162)</name>
+      <address>
+        <city>Kyiv</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Institute of the MoH of Ukraine ( Site 1155)</name>
+      <address>
+        <city>Kyiv</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>MI Odessa Regional Oncological Centre ( Site 1160)</name>
+      <address>
+        <city>Odesa</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Zaporizhzhya regional clinical oncology center ( Site 1154)</name>
+      <address>
+        <city>Zaporizhzhya</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Norfolk &amp; Norwich University Hospital NHS Foundation Trust ( Site 1206)</name>
+      <address>
+        <city>Norwich</city>
+        <state>Norfolk</state>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+441603287671</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital of North Staffordshire ( Site 1202)</name>
+      <address>
+        <city>Stoke on Trent</city>
+        <state>Staffordshire</state>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+441782672586</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ipswich Hospital ( Site 1207)</name>
+      <address>
+        <city>Ipswich</city>
+        <state>Suffolk</state>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+441473702994</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Imperial Healthcare NHS Trust Charing Cross Hospital ( Site 1204)</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+442033111742</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St Bartholomew s Hospital ( Site 1205)</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+442034655237</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Royal Marsden Foundation Trust ( Site 1200)</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+442078118311</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Lancashire Teaching Hospitals NHS Foundation Trust ( Site 1208)</name>
+      <address>
+        <city>Preston</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+441772524892</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Southampton NHS Foundation Trust ( Site 1203)</name>
+      <address>
+        <city>Southampton</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+442381205057</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Marsden NHS Foundation Trust ( Site 1201)</name>
+      <address>
+        <city>Sutton</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+442078118311</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Australia</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Brazil</country>
+    <country>Canada</country>
+    <country>Chile</country>
+    <country>Colombia</country>
+    <country>Czech Republic</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Hungary</country>
+    <country>Israel</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Mexico</country>
+    <country>Netherlands</country>
+    <country>New Zealand</country>
+    <country>Poland</country>
+    <country>Puerto Rico</country>
+    <country>Spain</country>
+    <country>Taiwan</country>
+    <country>Turkey</country>
+    <country>Ukraine</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2017</verification_date>
+  <lastchanged_date>April 5, 2017</lastchanged_date>
+  <firstreceived_date>February 1, 2017</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Head and Neck Squamous Cell Carcinoma</keyword>
+  <keyword>Programmed Cell Death Receptor 1 (PD-1)</keyword>
+  <keyword>Programmed Cell Death Receptor Ligand 1 (PD-L1)</keyword>
+  <keyword>Programmed Cell Death Receptor Ligand 2 (PD-L2)</keyword>
+  <keyword>PD1</keyword>
+  <keyword>PD-1</keyword>
+  <keyword>PDL1</keyword>
+  <keyword>PD-L1</keyword>
+  <keyword>PDL2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Squamous Cell</mesh_term>
+    <mesh_term>Head and Neck Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Pembrolizumab</mesh_term>
+    <mesh_term>Cisplatin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

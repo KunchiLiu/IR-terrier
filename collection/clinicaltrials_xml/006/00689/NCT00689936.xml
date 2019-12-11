@@ -1,0 +1,3457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="184670">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00689936</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CC-5013-MM-020</org_study_id>
+    <secondary_id>2007-004823-39</secondary_id>
+    <nct_id>NCT00689936</nct_id>
+  </id_info>
+  <brief_title>Study to Determine Efficacy and Safety of Lenalidomide Plus Low-dose Dexamethasone Versus Melphalan, Prednisone, Thalidomide in Patients With Previously Untreated Multiple Myeloma</brief_title>
+  <acronym>FIRST</acronym>
+  <official_title>A Phase III, Randomized, Open-label, 3-arm Study to Determine the Efficacy and Safety of Lenalidomide(REVLIMID) Plus Low-dose Dexamethasone When Given Until Progressive Disease or for 18 Four-week Cycles Versus the Combination of Melphalan, Prednisone, and Thalidomide Given for 12 Six-week Cycles in Patients With Previously Untreated Multiple Myeloma Who Are Either 65 Years of Age or Older or Not Candidates for Stem Cell Transplantation.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Celgene Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Celgene Corporation</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to compare the safety and efficacy of Lenalidomide plus low
+      dose dexamethasone to that of the combination of melphalan, prednisone and thalidomide.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      CC-5013-MM020/IFM 07-01 is a Phase III, multicenter, randomized, open-label, 3-arm study
+      that will compare the efficacy and safety of two Lenalidomide plus low-dose dexamethasone
+      regimens given for two different durations of time (i.e., until progressive disease [PD] or
+      for up to a maximum of 18 four-week cycles) to that of MPT given for a maximum of 12
+      six-week cycles.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 2008</start_date>
+  <completion_date type="Actual">July 2016</completion_date>
+  <primary_completion_date type="Actual">July 2016</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>Up to 436 weeks</time_frame>
+    <description>Time from randomization to the first documentation of disease progression.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Up to 436 weeks</time_frame>
+    <description>Time from randomization to death due to any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Response (complete response [CR], very good partial response [VGPR], partial response [PR], and overall response [CR + VGPR + PR])</measure>
+    <time_frame>Cycle 2 day 1 to Study Discontinuation,; Up to 430 weeks</time_frame>
+    <description>Response is defined according to the International Myeloma Working Group (IMWG) Response Criteria (Durie, 2006).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response</measure>
+    <time_frame>Cycle 2 day 1 to Study Discontinuation: Up to 430 weeks</time_frame>
+    <description>Duration of response for subjects last known to be alive with no progression after a CR or VGPR or PR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to response</measure>
+    <time_frame>Up to 436 weeks</time_frame>
+    <description>The time to myeloma response is defined as the time from randomization to the time the response criteria for CR or VGPR or PR are first met.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety (adverse events [type, frequency, and severity of AEs, and relationship of AEs to study drug], laboratory abnormalities, and hospitalizations)</measure>
+    <time_frame>Up to 436 weeks and within 28 days after the last dose of the last study drug received.</time_frame>
+    <description>Number of patients with adverse events and relationship of adverse events to study drug, laboratory abnormalities, and hospitalizations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to treatment failure (TTF)</measure>
+    <time_frame>to 436 weeks</time_frame>
+    <description>Time to treatment failure (TTF) will be calculated as the time between the randomization and discontinuation of study treatment for any reason</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to second-line anti-myeloma treatment</measure>
+    <time_frame>Up to 436 weeks</time_frame>
+    <description>Time to second-line anti-myeloma therapy is defined as time from randomization to the start of another non-protocol anti-myeloma therapy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Best response achieved to second-line anti-myeloma treatment</measure>
+    <time_frame>Up to 436 weeks</time_frame>
+    <description>Best response achieved to second-line anti-myeloma therapy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Relationship of cytogenetic findings in the malignant myeloma clone at baseline to clinical outcomes</measure>
+    <time_frame>Up to 436 weeks</time_frame>
+    <description>Subgroup analysis for each clinical endpoint above.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EORTC-QLQ-C-30 Quality of life (QOL) Questionaire</measure>
+    <time_frame>Up to 436 weeks</time_frame>
+    <description>The European Organization for Research and Treatment of Cancer QOL Questionnaire for Patients with Cancer (EORTC QLQ-C30) is a 30-item oncology-specific questionnaire. It is a questionnaire developed to assess the quality of life of cancer patients. The EORTC QLQ-C30 is a core generic questionnaire designed for use in a wide range of cancer patient populations associated with different disease specific modules which includes the Multiple Myeloma modules : EORTC QLQ-MY20</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>QLQ-MY20 Quality of Life Questionnaire</measure>
+    <time_frame>Up to 436 weeks</time_frame>
+    <description>The QLQ for Patients with Multiple Myeloma (QLQ-MY20) Module is a 20-item Multiple Myeloma specific questionnaire. It has to be used in conjunction with the EORTC QLQ-C30 for assessing health-related quality of life in patients with multiple myeloma.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EQ-5D Quality of Life Questionnaire</measure>
+    <time_frame>Up to 436 weeks</time_frame>
+    <description>The descriptive system EQ-5D is a generic questionnaire consisting of 3 levels within each of the 5 domains. It's is a standardized instrument for use as a measure of health outcome and provides a simple descriptive profile and a single index value for health status.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacoeconomic / clinical benefit</measure>
+    <time_frame>Up to 436 weeks</time_frame>
+    <description>Pharmacoeconomic data will be analyzed to characterize usage of health services, concomitant medication use, and onset of co-morbidities (e.g., treatment emergent adverse events, lab abnormalities) in the three study arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess improvement in renal function</measure>
+    <time_frame>Up to 436 weeks</time_frame>
+    <description>The CRAB (hyperCalcemia, Renal failure, Anemia and Bone) criteria will be assessed for subjects with available data for improvement of renal function from baseline by observing improvement in creatinine clearance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess improvement in hematological function</measure>
+    <time_frame>Up to 436 weeks</time_frame>
+    <description>The CRAB (hyperCalcemia, Renal failure, Anemia and Bone) criteria will be assessed for subjects with available data for improvement of hematological function from baseline by observing improvements of bone marrow function.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess improvement of infection rate</measure>
+    <time_frame>Up to 436 weeks</time_frame>
+    <description>The CRAB (hyperCalcemia, Renal failure, Anemia and Bone) criteria will be assessed for subjects with available data for improvement of infection rate by observing historical data and compare it to data within clinical database.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">1623</enrollment>
+  <condition>Multiple Myeloma</condition>
+  <arm_group>
+    <arm_group_label>Lenalidomide / Dexamethasone until disease progression</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Lenalidomide plus low-dose dexamethasone given until disease progression</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lenalidomide / Dexamethasone for 18 cycles</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Lenalidomide plus low-dose dexamethasone given for 18 four-week cycles</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Melphalan, Prednisone, and Thalidomide (MPT) for 12 cycles</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Combination of Melphalan, Prednisone and Thalidomide given for 12 six-week cycles</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lenalidomide and low-dose dexamethasone</intervention_name>
+    <description>Lenalidomide - oral, 2.5mg, 5mg, 10mg, 15mg 20mg, or 25 mg capsules ,given either days 1-21 of each 28 day cycles or given every other day for 21 days until documentation of PD.
+Dexamethasone - oral 4mg tablets for a total dose of 20mg or 40 mg given days 1,8,15 and 22 of each 28 day cycle up to disease progression</description>
+    <arm_group_label>Lenalidomide / Dexamethasone until disease progression</arm_group_label>
+    <other_name>Revlamid</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lenalidomide plus low-dose dexamethasone given for 18 four-week cycles</intervention_name>
+    <description>lenalidomide - oral, 2.5mg, 5mg, 10mg, 15mg, 20 mg or 25 mg capsules given on days 1-21 of each 28 day cycle or every other day for 21 days for 18 cycles.
+Dexamethasone - oral 4mg tablets for a total dose of 20mg or 40 mg given days 1,8,15 and 22 of each 28 day cycle for 18 cycles</description>
+    <arm_group_label>Lenalidomide / Dexamethasone for 18 cycles</arm_group_label>
+    <other_name>revlidmid</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Melphalan, Prednisone and Thalidomide</intervention_name>
+    <description>Melphalan - oral, 2mg tablets dosed at either 0.25mg/kg, 0.125 mg/kg, 0.20mg/kg or 0.10mg/kg on days 1-4 of each 42 day cycle up to 12 cycles Prednisone - oral, 5mg, 10mg, 20 mg and 50 mg tablets dosed at 2mg/kg daily days 1-4 of each 42 day cycle for up to 12 cycles Thalidomide - oral, 50mg, 100mg and 200 mg capsules dosed at either 100mg or 200 mg daily on days 1-41 of each 42 day cycle for up to 12 cycles</description>
+    <arm_group_label>Melphalan, Prednisone, and Thalidomide (MPT) for 12 cycles</arm_group_label>
+    <other_name>Prednisone</other_name>
+    <other_name>Thalomid</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Must understand and voluntarily sign informed consent form
+
+          2. Age ≥ 18 years at the time of signing consent
+
+          3. Previously untreated, symptomatic multiple myeloma as defined by the 3 criteria
+             below:
+
+               -  MM diagnostic criteria (all 3 required):
+
+               -  Monoclonal plasma cells in the bone marrow ≥10% and/or presence of a
+                  biopsy-proven plasmacytoma
+
+               -  Monoclonal protein present in the serum and/or urine
+
+               -  Myeloma-related organ dysfunction (at least one of the following) [C] Calcium
+                  elevation in the blood (serum calcium &gt;10.5 mg/dl or upper limit of normal) [R]
+                  Renal insufficiency (serum creatinine &gt;2 mg/dl) [A] Anemia (hemoglobin &lt;10 g/dl
+                  or 2 g &lt; laboratory normal) [B] Lytic bone lesions or osteoporosis
+
+             AND have measurable disease by protein electrophoresis analyses as defined by the
+             following:
+
+               -  IgG multiple myeloma: Serum monoclonal paraprotein (M-protein) level ≥ 1.0 g/dl
+                  or urine M-protein level ≥ 200 mg/24 hours
+
+               -  IgA multiple myeloma: Serum M-protein level ≥ 0.5 g/dl or urine M-protein level
+                  ≥ 200 mg/24 hours
+
+               -  IgM multiple myeloma (IgM M-protein plus lytic bone disease documented by
+                  skeletal survey plain films): Serum M-protein level ≥ 1.0 g/dl or urine
+                  M-protein level ≥ 200mg/24hours
+
+               -  IgD multiple myeloma: Serum M-protein level ≥ 0.05 g/dl or urine M-protein level
+                  ≥ 200 mg/24 hours
+
+               -  Light chain multiple myeloma: Serum M-protein level ≥ 1.0 g/dl or urine
+                  M-protein level ≥ 200 mg/24 hours
+
+             AND are at least 65 years of age or older or, if younger than 65 years of age, are
+             not candidates for stem cell transplantation because:
+
+               -  The patient declines to undergo stem cell transplantation or
+
+               -  Stem cell transplantation is not available to the patient due to cost or other
+                  reasons
+
+          4. ECOG performance status of 0, 1, or 2
+
+          5. Able to adhere to the study visit schedule and other protocol requirements
+
+          6. Females of child-bearing potential (FCBP)^2:
+
+               1. Must agree to undergo two medically supervised pregnancy tests prior to starting
+                  study therapy with either Rd or MPT. The first pregnancy test will be performed
+                  within 10-14 days prior to the start of Rd or MPT and the second pregnancy test
+                  will be performed within 24 hours prior to the start of Rd or MPT. She must also
+                  agree to ongoing pregnancy testing during the course of the study and after the
+                  end of study therapy. This applies even if the patient practices complete and
+                  continued sexual abstinence.
+
+               2. Must commit to either continued abstinence from heterosexual intercourse (which
+                  must be reviewed on a monthly basis) or agree to use and be able to comply with
+                  effective contraception without interruption, 28 days prior to starting study
+                  drug, during the study therapy (including during periods of dose interruptions),
+                  and for 28 days after discontinuation of study therapy.
+
+          7. Male Patients:
+
+               1. Must agree to use a condom during sexual contact with a FCBP, even if they have
+                  had a vasectomy, throughout study drug therapy, during any dose interruption and
+                  after cessation of study therapy.
+
+               2. Must agree to not donate semen during study drug therapy and for a period after
+                  end of study drug therapy.
+
+               3. Must practice complete abstinence or agree to use a condom during sexual contact
+                  with a pregnant female or a female of childbearing potential while participating
+                  in the study, during dose interruptions and for at least 28 days following study
+                  drug discontinuation, even if he has undergone a successful vasectomy.
+
+          8. All patients must:
+
+               1. Have an understanding that the study drug could have a potential teratogenic
+                  risk.
+
+               2. Agree to abstain from donating blood while taking study drug therapy and
+                  following discontinuation of study drug therapy.
+
+               3. Agree not to share study medication with another person. All FCBP and male
+                  patients must be counseled about pregnancy precautions and risks of fetal
+                  exposure.
+
+        Exclusion Criteria:
+
+          1. Previous treatment with anti-myeloma therapy (does not include radiotherapy,
+             bisphosphonates, or a single short course of steroid [i.e., less than or equal to the
+             equivalent of dexamethasone 40 mg/day for 4 days; such a short course of steroid
+             treatment must not have been given within 14 days of randomization]).
+
+          2. Any serious medical condition that places the patient at an unacceptable risk if he
+             or she participates in this study. Examples of such a medical condition are, but are
+             not limited to, patient with unstable cardiac disease as defined by: Cardiac events
+             such as MI within the past 6 months, NYHA heart failure class III-IV, uncontrolled
+             atrial fibrillation or hypertension; patients with conditions requiring chronic
+             steroid or immunosuppressive treatment, such as rheumatoid arthritis, multiple
+             sclerosis and lupus, that likely need additional steroid or immunosuppressive
+             treatments in addition to the study treatment.
+
+          3. Pregnant or lactating females.
+
+          4. Any of the following laboratory abnormalities:
+
+               -  Absolute neutrophil count (ANC) &lt; 1,000/µL (1.0 x 109/L)
+
+               -  Untransfused platelet count &lt; 50,000 cells/µL (50 x 10^9/L)
+
+               -  Serum SGOT/AST or SGPT/ALT &gt; 3.0 x upper limit of normal (ULN)
+
+          5. Renal failure requiring hemodialysis or peritoneal dialysis.
+
+          6. Prior history of malignancies, other than multiple myeloma, unless the patient has
+             been free of the disease for ≥ 3 years. Exceptions include the following:
+
+               -  Basal cell carcinoma of the skin
+
+               -  Squamous cell carcinoma of the skin
+
+               -  Carcinoma in situ of the cervix
+
+               -  Carcinoma in situ of the breast
+
+               -  Incidental histological finding of prostate cancer (TNM stage of T1a or T1b)
+
+          7. Patients who are unable or unwilling to undergo antithrombotic therapy.
+
+          8. Peripheral neuropathy of &gt; grade 2 severity.
+
+          9. Known HIV positivity or active infectious hepatitis, type A, B, or C. Primary AL
+             (immunoglobulin light chain) amyloidosis and myeloma complicated by amyloidosis.
+
+               -  1 A variety of other types of end organ dysfunctions can occasionally occur and
+                  lead to a need for therapy. Such dysfunction is sufficient to support
+                  classification as myeloma if proven to be myeloma-related.
+
+               -  2 A FCBP is a sexually mature woman who: 1) has not undergone a hysterectomy or
+                  bilateral oophorectomy or 2) has not been naturally postmenopausal (i.e.,
+                  amenorrhea following cancer therapy does not rule out childbearing potential)
+                  for at least 24 consecutive months (i.e., has had menses at any time in the
+                  preceding 24 consecutive months).
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Christian Jacques, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Celgene Corporation</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of AL Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cedar Sinai Medical Center Dept of Medicine</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, San Francisco- California</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University Stanford</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gainesville Heme Oncology Associates</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baptist Cancer Institute</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Integrated Community Oncology Network</name>
+      <address>
+        <city>Orange Park</city>
+        <state>Florida</state>
+        <zip>32073</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gulf Coast Oncology</name>
+      <address>
+        <city>St. Petersburg</city>
+        <state>Florida</state>
+        <zip>33705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Palm Beach Cancer Institute, LLC</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Southern Illinois Hematology Oncology</name>
+      <address>
+        <city>Centralia</city>
+        <state>Illinois</state>
+        <zip>62801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Orchard Healthcare Research, Inc.</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>John H Stroger Hospital of Cook County</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ingalls Cancer Institute</name>
+      <address>
+        <city>Harvey</city>
+        <state>Illinois</state>
+        <zip>60426-3558</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center of Kansas</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Maine Center for Cancer Medicine Blood Disorders</name>
+      <address>
+        <city>Scarborough</city>
+        <state>Maine</state>
+        <zip>04074</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Cancer and Blood Disorders</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic Cancer Center</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Billings Clinic</name>
+      <address>
+        <city>Billings</city>
+        <state>Montana</state>
+        <zip>59107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Arena Oncology Associates, PC</name>
+      <address>
+        <city>Lake Success</city>
+        <state>New York</state>
+        <zip>11042</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dakota Cancer Institute</name>
+      <address>
+        <city>Fargo</city>
+        <state>North Dakota</state>
+        <zip>58103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gabrail Cancer Center Research</name>
+      <address>
+        <city>Canton</city>
+        <state>Ohio</state>
+        <zip>44718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals of Cleveland</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Northwest Oncology Hematology</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97227</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Luke's Hospital and Health Network</name>
+      <address>
+        <city>Allentown</city>
+        <state>Pennsylvania</state>
+        <zip>18104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Cancer Center</name>
+      <address>
+        <city>Collierville</city>
+        <state>Tennessee</state>
+        <zip>38017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Tennessee Cancer Institute</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Medical Branch</name>
+      <address>
+        <city>Galveston</city>
+        <state>Texas</state>
+        <zip>77555-0561</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Swedish Cancer Institute</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fred Hutchinson Cancer Center</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Adelaide Hospital</name>
+      <address>
+        <city>Adelaide</city>
+        <state>South Australia</state>
+        <zip>5000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Peter MacCallum Cancer Centre Divsion of Haematology Medical Oncology</name>
+      <address>
+        <city>E. Melbourne</city>
+        <state>Victoria</state>
+        <zip>3002</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Western Hospital</name>
+      <address>
+        <city>Footscray</city>
+        <state>Victoria</state>
+        <zip>3011</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Frankston Hospital</name>
+      <address>
+        <city>Frankston</city>
+        <state>Victoria</state>
+        <zip>3199</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Flinders Medical Centre</name>
+      <address>
+        <city>Bedford Park</city>
+        <zip>5042</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Geelong Hospital</name>
+      <address>
+        <city>Geelong</city>
+        <zip>3220</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gosford Hospital</name>
+      <address>
+        <city>Gosford</city>
+        <zip>2250</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Brisbane and Women's Hospital</name>
+      <address>
+        <city>Herston</city>
+        <zip>4029</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cabrini Hospital</name>
+      <address>
+        <city>Malvern</city>
+        <zip>3144</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Royal Melbourne Hospital</name>
+      <address>
+        <city>Parkville</city>
+        <zip>3050</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Perth Hospital</name>
+      <address>
+        <city>Perth</city>
+        <zip>6000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gold Coast Hospital</name>
+      <address>
+        <city>Southport</city>
+        <zip>4215</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal North Shore Hospital</name>
+      <address>
+        <city>St Leonards</city>
+        <zip>2065</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Westmead Hospital</name>
+      <address>
+        <city>Wentworthville</city>
+        <zip>2145</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Border Medical Oncology</name>
+      <address>
+        <city>Wodonga</city>
+        <zip>3690</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wollongong Hospital</name>
+      <address>
+        <city>Wollongong</city>
+        <zip>2500</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Princess Alexandra Hospital</name>
+      <address>
+        <city>Woolloongabba</city>
+        <zip>4102</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Leoben</name>
+      <address>
+        <city>Leoben</city>
+        <zip>8700</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital of Barmherzige Schwestern Linz</name>
+      <address>
+        <city>Linz</city>
+        <zip>4010</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital of Elisabethinen Linz</name>
+      <address>
+        <city>Linz</city>
+        <zip>4010</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>General Hospital Linz</name>
+      <address>
+        <city>Linz</city>
+        <zip>4021</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MM-015. Salzburger Landkliniken, St. Johanns-Spital, Universitätsklinik fur Innere Medizin III</name>
+      <address>
+        <city>Salzburg</city>
+        <zip>5020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital St. Polten</name>
+      <address>
+        <city>St. Pölten</city>
+        <zip>3100</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital of the Barmherzigen Bruder Vienna</name>
+      <address>
+        <city>Vienna</city>
+        <zip>1020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MM-015.Wihelminenspital</name>
+      <address>
+        <city>Vienna</city>
+        <zip>1160</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MM-015. Medizinische Universität Wien</name>
+      <address>
+        <city>Vienna</city>
+        <zip>A-1090</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Wels</name>
+      <address>
+        <city>Wels</city>
+        <zip>4600</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Wiener Neustadt</name>
+      <address>
+        <city>Wiener Neustadt</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ZNA Stuivenberg Centrumziekenhuis</name>
+      <address>
+        <city>Antwerpen</city>
+        <zip>2069</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Les Cliniques du Sud Luxembourg</name>
+      <address>
+        <city>Arlon</city>
+        <zip>6700</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AZ St-Jan Brugge Oostende AV</name>
+      <address>
+        <city>Brugge</city>
+        <zip>8000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Erasme</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1070</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AZ-VUB</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1090</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jules Bordet Institut</name>
+      <address>
+        <city>Brussel</city>
+        <zip>1000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cliniques Universitaires St-Luc</name>
+      <address>
+        <city>Bruxelles</city>
+        <zip>1200</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitair Ziekenhuis Antwerpen</name>
+      <address>
+        <city>Edegem</city>
+        <zip>2650</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Gent</name>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Virga Jesse Ziekenhuis</name>
+      <address>
+        <city>Hasselt</city>
+        <zip>3500</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitair Ziekenhuis Leuven, Campus Gasthuisberg</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>H. Hartziekenhuis Roeselare-Menen vzw campus Wilgenstraat</name>
+      <address>
+        <city>Roeselare</city>
+        <zip>8800</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cliniques Universitaires UCL de Mont-Godine</name>
+      <address>
+        <city>Yvoir</city>
+        <zip>5530</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Calgary</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N 2T9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cross Cancer Institute</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T6G 1Z2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Burnaby Hospital Regional Cancer Center</name>
+      <address>
+        <city>Burnaby</city>
+        <state>British Columbia</state>
+        <zip>V5G 2X6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>British Columbia Cancer Agency</name>
+      <address>
+        <city>Kelowna</city>
+        <state>British Columbia</state>
+        <zip>V1Y 5L3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Columbian Hospital</name>
+      <address>
+        <city>New Westminster</city>
+        <state>British Columbia</state>
+        <zip>V3M 1X4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>BC Cancer Agency - Fraser Valley Centre</name>
+      <address>
+        <city>Surrey</city>
+        <state>British Columbia</state>
+        <zip>V3V 1Z2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Leukemia/BMT Program of BCDiv of Hem, Vancouver Gen Hosp</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V5Z 1M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vancouver Island Cancer Center</name>
+      <address>
+        <city>Victoria</city>
+        <state>British Columbia</state>
+        <zip>V8R 6V5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint John Regional Hospital</name>
+      <address>
+        <city>Saint John</city>
+        <state>New Brunswick</state>
+        <zip>E2L 3L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Queen Elizabeth II Health Sciences Center</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <zip>B3H2Y9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Juravinski Cancer Centre</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>L8V 5C2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>London Health Science Centre</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>N6A 4G5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ottawa Hospital</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1H 8L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Odette Cancer Centre</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M4N 3M5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Princess Margaret Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 2M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Charles LeMoyne</name>
+      <address>
+        <city>Greenfield Park</city>
+        <state>Quebec</state>
+        <zip>J4V 2H1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital de la Cite-de-la-Sante</name>
+      <address>
+        <city>Laval</city>
+        <state>Quebec</state>
+        <zip>H7M 3L9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hotel-Dieu de Levis</name>
+      <address>
+        <city>Levis</city>
+        <state>Quebec</state>
+        <zip>G5V 3Z1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital du Sacre-Coeur de Montreal</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>G4H 1C5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Maisonneuve - Rosemont</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H1T 2M4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHUM- Hopital Notre-Dame</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H2L4M1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>McGill University</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H2W 1S6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sir Mortimer B. Davis - Jewish Genl</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H3T 1E2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHUQ - Hotel-Dieu de QuebecHematology - Oncology</name>
+      <address>
+        <city>Quebec</city>
+        <zip>G1R 2J6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chaoyang Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <zip>100020</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Peking University People's Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <zip>100044</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>West China Hospital of Sichuan University</name>
+      <address>
+        <city>Chengdu</city>
+        <zip>610041</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ruijin Hospital Shanghai Jiaotong University</name>
+      <address>
+        <city>Shanghai</city>
+        <zip>200025</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blood Disease Hospital, Chinese Academy of Medical Science and Peking Union Medical College</name>
+      <address>
+        <city>Tianjin</city>
+        <zip>300041</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique Claude BernardOncologie</name>
+      <address>
+        <city>Albi</city>
+        <zip>81000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Sud</name>
+      <address>
+        <city>Amiens</city>
+        <zip>80054</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU Hopital du bocage</name>
+      <address>
+        <city>Angers cedex 01</city>
+        <zip>49033</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH Argenteuil Victor Dupouy</name>
+      <address>
+        <city>Argenteuil</city>
+        <zip>95100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier de la cote basque</name>
+      <address>
+        <city>Bayonne</city>
+        <zip>64109</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH</name>
+      <address>
+        <city>Beauvais</city>
+        <zip>60000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier</name>
+      <address>
+        <city>Blois cedex</city>
+        <zip>41016</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Avicenne</name>
+      <address>
+        <city>Bobigny Cedex</city>
+        <zip>93009</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Bergonie Centre Regional de Lutte Contre Le Cancer de Bordeaux Et Sud Ouest</name>
+      <address>
+        <city>Bordeaux</city>
+        <zip>33076</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Polyclinique Bordeaux Nord Aquitaine</name>
+      <address>
+        <city>Bordeaux</city>
+        <zip>33300</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH Jacques Coeur</name>
+      <address>
+        <city>Bouges</city>
+        <zip>18000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital de Fleyriat</name>
+      <address>
+        <city>Bourg en Bresse cedex</city>
+        <zip>01012</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Augustin Morvan</name>
+      <address>
+        <city>Brest cedex</city>
+        <zip>29609</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Francois Baclesse</name>
+      <address>
+        <city>Caen cedex 5</city>
+        <zip>14076</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU</name>
+      <address>
+        <city>Caen</city>
+        <zip>14033</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH</name>
+      <address>
+        <city>Cannes Cedex</city>
+        <zip>06401</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH Rene Dubois</name>
+      <address>
+        <city>Cergy-Pontoise</city>
+        <zip>95303</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier William Morey</name>
+      <address>
+        <city>Chalon/Saone cedex</city>
+        <zip>71321</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital dinstruction des armees Percy</name>
+      <address>
+        <city>Clamart Cedex</city>
+        <zip>92141</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Antoine Beclere</name>
+      <address>
+        <city>Clamart</city>
+        <zip>92141</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chu Estaing</name>
+      <address>
+        <city>Clermont Ferrand</city>
+        <zip>63000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH Louis Pasteur</name>
+      <address>
+        <city>Colmar cedex</city>
+        <zip>68024</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Henri Mondor</name>
+      <address>
+        <city>Creteil</city>
+        <zip>94010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU Hopital du bocage</name>
+      <address>
+        <city>Dijon</city>
+        <zip>21034</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier General</name>
+      <address>
+        <city>Dunkerque</city>
+        <zip>59385</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU</name>
+      <address>
+        <city>Grenoble cedex 09</city>
+        <zip>38043</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Prive de Cancerologie</name>
+      <address>
+        <city>Grenoble</city>
+        <zip>38034</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Departemental</name>
+      <address>
+        <city>La Roche -Sur-Yon cedex 9</city>
+        <zip>85925</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH</name>
+      <address>
+        <city>Le Chesnay Cedex</city>
+        <zip>78157</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital J MonodRhumato Nord</name>
+      <address>
+        <city>Le Havre</city>
+        <zip>76000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kremlin Bicetre</name>
+      <address>
+        <city>Le Kremlin bicetre CDX</city>
+        <zip>942975</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier</name>
+      <address>
+        <city>Le Mans cedex</city>
+        <zip>72037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Jean Bernard</name>
+      <address>
+        <city>Le Mans</city>
+        <zip>72000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU-Hopital Claude Huriez</name>
+      <address>
+        <city>Lille cedex</city>
+        <zip>59037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GH de Institut Catholique St Vincent</name>
+      <address>
+        <city>Lille</city>
+        <zip>59000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Hôpital Dupuytren</name>
+      <address>
+        <city>Limoges Cedex 1</city>
+        <zip>87042</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Hopital Edouard Herriot</name>
+      <address>
+        <city>Lyon cedex</city>
+        <zip>69437</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Leon Berard</name>
+      <address>
+        <city>Lyon</city>
+        <zip>69008</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier de Valence</name>
+      <address>
+        <city>Lyon</city>
+        <zip>69495</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Paoli-Calmettes</name>
+      <address>
+        <city>Marseille Cedex 9</city>
+        <zip>13009</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital de Mercy</name>
+      <address>
+        <city>METZ cedex 3</city>
+        <zip>57085</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Sainte Blandine</name>
+      <address>
+        <city>Metz</city>
+        <zip>57000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique Pont de chaume Oncologie et Radiotherapie</name>
+      <address>
+        <city>Montauban cedex</city>
+        <zip>82017</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Montpellier - Hôpital Lapeyronie</name>
+      <address>
+        <city>Montpellier Cedex 5</city>
+        <zip>34295</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Emile Muller</name>
+      <address>
+        <city>Mulhouse</city>
+        <zip>68000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU - Hotel Dieu</name>
+      <address>
+        <city>Nantes</city>
+        <zip>44035</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Antoine Lacassagne Oncologie medicale et Hematologie</name>
+      <address>
+        <city>Nice cedex 1</city>
+        <zip>06050</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital de lArchet 1</name>
+      <address>
+        <city>Nice cedex 3</city>
+        <zip>06202</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH La Source</name>
+      <address>
+        <city>Orleans</city>
+        <zip>45000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Hotel Dieu</name>
+      <address>
+        <city>Paris cedex 04</city>
+        <zip>75181</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Cochin</name>
+      <address>
+        <city>Paris Cedex 14</city>
+        <zip>75679</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Saint Louis</name>
+      <address>
+        <city>Paris</city>
+        <zip>75010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Necker</name>
+      <address>
+        <city>Paris</city>
+        <zip>75015</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Hôpital St-Antoine</name>
+      <address>
+        <city>Paris</city>
+        <zip>75571</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU - Hopital du Haut Leveque</name>
+      <address>
+        <city>Pessac</city>
+        <zip>33604</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CU CHU Clemenceau</name>
+      <address>
+        <city>Poitiers cedex</city>
+        <zip>86021</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital R. Debre</name>
+      <address>
+        <city>Reims cedex</city>
+        <zip>51032</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Reims - Hôpital Maison Blanche</name>
+      <address>
+        <city>Reims</city>
+        <zip>51100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU Hopital sud Medecine Interne</name>
+      <address>
+        <city>Rennes cedex 02</city>
+        <zip>35056</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU Hôpital de Pontchaillou</name>
+      <address>
+        <city>Rennes Cedex</city>
+        <zip>35033</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre hospitalier de Roanne Oncologie Medicale</name>
+      <address>
+        <city>Roanne</city>
+        <zip>42328</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier de la Region d'Annecy</name>
+      <address>
+        <city>Rodez</city>
+        <zip>12027</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHG Rodez</name>
+      <address>
+        <city>Rodez</city>
+        <zip>12027</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Henri Becquerel</name>
+      <address>
+        <city>Rouen cedex</city>
+        <zip>76038</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Rene Huguenin</name>
+      <address>
+        <city>Saint Cloud</city>
+        <zip>92210</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut de Cancerologie de Loire</name>
+      <address>
+        <city>St Priest en Jarez</city>
+        <zip>42270</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Yves Le Foll</name>
+      <address>
+        <city>St-Brieuc cedex 1</city>
+        <zip>22027</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU Hôpital de Hautepierre</name>
+      <address>
+        <city>Strasbourg</city>
+        <zip>67098</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU Hopital Purpan</name>
+      <address>
+        <city>Toulouse cedex 9</city>
+        <zip>TSA 40031-31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU Hopital Bretonneau</name>
+      <address>
+        <city>Tours cedex</city>
+        <zip>37044</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU Hopital Trousseau</name>
+      <address>
+        <city>Tours</city>
+        <zip>37044</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier</name>
+      <address>
+        <city>Valence</city>
+        <zip>26953</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Sce Hématologie</name>
+      <address>
+        <city>Valenciennes</city>
+        <zip>59322</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU Hôpitaux de Brabois</name>
+      <address>
+        <city>Vandoeuvre cedex</city>
+        <zip>54511</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH P. Chubert</name>
+      <address>
+        <city>Vannes cedex</city>
+        <zip>56017</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Gustave Roussy</name>
+      <address>
+        <city>Villejuif</city>
+        <zip>94805</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medizinische Kinik und Poliklinik I</name>
+      <address>
+        <city>Dresden</city>
+        <zip>D-01307</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Dusseldorf Klinik fuer Haematologie</name>
+      <address>
+        <city>Dusseldorf</city>
+        <zip>40225</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsklinikum Essen-</name>
+      <address>
+        <city>Essen</city>
+        <zip>45122</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Staedtische Kliniken Frankfurt am Main Hochst</name>
+      <address>
+        <city>Frankfurt am Main</city>
+        <zip>65929</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsklinikum Giessen</name>
+      <address>
+        <city>Giessen</city>
+        <zip>35385</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ernst-Moritz-Arndt-Universität Greifswald</name>
+      <address>
+        <city>Greifswald</city>
+        <zip>17487</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Askepios Klinik St. Georg</name>
+      <address>
+        <city>Hamburg</city>
+        <zip>20099</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsklinikum Jena</name>
+      <address>
+        <city>Jena</city>
+        <zip>07740</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medizinische Klinik und Poliklinik II</name>
+      <address>
+        <city>Leipzig</city>
+        <zip>04103</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsklinikum schleswig-Holstein</name>
+      <address>
+        <city>Lübeck</city>
+        <zip>23538</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Poliklinik A</name>
+      <address>
+        <city>Muenster</city>
+        <zip>48129</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum der Johann-Wolfgang-Goethe-Universtat</name>
+      <address>
+        <city>München</city>
+        <zip>81377</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medizinische Klinik III Klinikum der Universität München-Großhadern</name>
+      <address>
+        <city>München</city>
+        <zip>81377</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medizinische Fakultat der Universitat Rostock</name>
+      <address>
+        <city>Rostock</city>
+        <zip>18057</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zentrum F. Innere Medizin II Robert- Bosch-Krankenhaus GmBH</name>
+      <address>
+        <city>Stuttgart</city>
+        <zip>D -70376</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medizinische Klinik - Abteilung II</name>
+      <address>
+        <city>Tübingen</city>
+        <zip>72076</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Klinik fur Innere Medizin III</name>
+      <address>
+        <city>Ulm</city>
+        <zip>89081</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alexandra Hospital, University of Athens</name>
+      <address>
+        <city>Athens</city>
+        <zip>11528</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Attiko Hospital of Athens</name>
+      <address>
+        <city>Athens</city>
+        <zip>124</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Evangelismos Hospital of Athens</name>
+      <address>
+        <city>Athens</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Athens</name>
+      <address>
+        <city>Athens</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Metaxa Hospital Peiraias</name>
+      <address>
+        <city>Piraeus</city>
+        <zip>18537</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Theagenio Anticancer Hospital of Thessaloniki</name>
+      <address>
+        <city>Thessaloniki</city>
+        <zip>540 07</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Adelaide and Meath Hospital</name>
+      <address>
+        <city>Dublin</city>
+        <zip>24</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mater Misercordiae Hospital</name>
+      <address>
+        <city>Dublin</city>
+        <zip>7</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Galway</name>
+      <address>
+        <city>Galway</city>
+        <zip>ST46QG</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico S. Orsola</name>
+      <address>
+        <city>Bologna</city>
+        <zip>40138</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oncologia Medica, Università della Magna Grecia</name>
+      <address>
+        <city>Catanzaro</city>
+        <zip>88100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Ematologica, A.O.U. San Martino di Genova</name>
+      <address>
+        <city>Genova</city>
+        <zip>16132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ematologia ed Immunologia, Azienda Ospedaliera &quot;Vito Fazzi&quot; di Lecce</name>
+      <address>
+        <city>Lecce</city>
+        <zip>73100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Unità Operativa di Oncoematologia, Ospedale di Matera</name>
+      <address>
+        <city>Matera</city>
+        <zip>75100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>U.O. di Ematologia e Trapianto di Midollo Osseo</name>
+      <address>
+        <city>Milano</city>
+        <zip>20132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto Europeo di Oncologia - IEO</name>
+      <address>
+        <city>Milano</city>
+        <zip>20141</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Presidio Ospedaliero A. Perrino</name>
+      <address>
+        <city>Milano</city>
+        <zip>20141</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico di Modena</name>
+      <address>
+        <city>Modena</city>
+        <zip>41100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oncoematologia, Istituto Nazionale Tumori Fondazione G. Pascale</name>
+      <address>
+        <city>Napoli</city>
+        <zip>80131</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Casa di Cura La Maddalena, Divisione di Ematologia</name>
+      <address>
+        <city>Palermo</city>
+        <zip>90146</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico San Matteo Universita Di Pavia</name>
+      <address>
+        <city>Pavia 2</city>
+        <zip>27100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Civile</name>
+      <address>
+        <city>Piacenza</city>
+        <zip>29100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>A.O. Universitaria Ospedale S.Chiara Dip.Oncologia, Div. Ematologia</name>
+      <address>
+        <city>Pisa</city>
+        <zip>56126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Arcispedale Santa Maria Nuova</name>
+      <address>
+        <city>Reggio Emilia</city>
+        <zip>42100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto Nazionale Tumori Regina Elena, Struttura Complessa Ematologia ed Unita di Cellule Staminali</name>
+      <address>
+        <city>Roma</city>
+        <zip>00144</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Policlinico Umberto I, Universita La Sapienzadi Roma</name>
+      <address>
+        <city>Rome</city>
+        <zip>00161</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Molinette</name>
+      <address>
+        <city>Torino</city>
+        <zip>10126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hallym University Sacred Heart Hospital</name>
+      <address>
+        <city>Anyang</city>
+        <zip>431-070</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Inje University Busan Paik Hospital</name>
+      <address>
+        <city>Busan</city>
+        <zip>614-735</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Daegu Catholic University Medical Center 3056-6</name>
+      <address>
+        <city>Daegu</city>
+        <zip>705-718</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chungnam National University Hospital</name>
+      <address>
+        <city>Daejon</city>
+        <zip>301-721</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Center</name>
+      <address>
+        <city>Gyeonggi-do</city>
+        <zip>410-769</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hwasun Chonnam National University Hospital</name>
+      <address>
+        <city>Hwasun-goon</city>
+        <zip>519-803</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gachon University Gil Hospital</name>
+      <address>
+        <city>Incheon</city>
+        <zip>405-760</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chonbuk National University Hospital 42</name>
+      <address>
+        <city>Jeonju</city>
+        <zip>561-712</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Bundang Hospital</name>
+      <address>
+        <city>Seongnam</city>
+        <zip>463-707</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Severance Hospital</name>
+      <address>
+        <city>Seongsanno</city>
+        <zip>120-752</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>110-744</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Samsung Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>135-710</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Catholic University of Korea Seoul - Saint Mary's Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>137-701</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Asan Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>138-736</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ewha Womans University Mokdong Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>158-710</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Auckland City Hospital</name>
+      <address>
+        <city>Auckland</city>
+        <zip>1023</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Christchurch Hospital</name>
+      <address>
+        <city>Christchurch</city>
+        <zip>8011</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wellington Hospital</name>
+      <address>
+        <city>Newtown</city>
+        <zip>6021</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Sao Marcos</name>
+      <address>
+        <city>Braga</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospitais da Universidade de Coimbra</name>
+      <address>
+        <city>Coimbra</city>
+        <zip>3000-075</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Portugues de Oncologia de Lisboa</name>
+      <address>
+        <city>Lisboa</city>
+        <zip>1099-023</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Santa Maria</name>
+      <address>
+        <city>Lisboa</city>
+        <zip>1649-035</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Português de Oncologia Porto</name>
+      <address>
+        <city>Porto</city>
+        <zip>4200-072</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Santo Antonio- Porto</name>
+      <address>
+        <city>Porto</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Germans Trias i Pujol</name>
+      <address>
+        <city>Badalona (Barcelona)</city>
+        <zip>8916</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de la Santa Creu i Sant Pau</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08025</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Catalan de Oncologia-Hospital Duran</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08907</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Reina Sofia</name>
+      <address>
+        <city>Cordoba</city>
+        <zip>14004</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Donosti</name>
+      <address>
+        <city>Donostia</city>
+        <zip>20014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Univ. Josep Trueta</name>
+      <address>
+        <city>Girona</city>
+        <zip>17007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinico San Carlos</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital 12 de Octubre</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario La Paz</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Universitario Morales Messeguer</name>
+      <address>
+        <city>Murcia</city>
+        <zip>30008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinico Virgen de la Victoria</name>
+      <address>
+        <city>Málaga</city>
+        <zip>29010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Son Llatzer</name>
+      <address>
+        <city>Palma de Mallorca</city>
+        <zip>7198</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Universitaria de Navarra,</name>
+      <address>
+        <city>Pamplona</city>
+        <zip>31008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Sant Pau</name>
+      <address>
+        <city>Reus</city>
+        <zip>43201</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universtario Marques de Valdecilla</name>
+      <address>
+        <city>Santander</city>
+        <zip>39008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinico Santiago de Compostela</name>
+      <address>
+        <city>Santiago de Compostela</city>
+        <zip>15706</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hosptial La Fe</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinico Universitario de Valencia</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinico Universitario Lozano Blesa</name>
+      <address>
+        <city>Zaragoza</city>
+        <zip>50009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Miguel Servet</name>
+      <address>
+        <city>Zaragoza</city>
+        <zip>50009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Linkoping University Hospital</name>
+      <address>
+        <city>Linkoping</city>
+        <zip>SE 581 85</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Karolinska University HospitalSolna</name>
+      <address>
+        <city>Stockholm</city>
+        <zip>SE 17176</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Görans Hospital</name>
+      <address>
+        <city>Stockholm</city>
+        <zip>SE- 11281</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Karolinska University Hospital Huddinge</name>
+      <address>
+        <city>Stockholm</city>
+        <zip>SE-14186</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Abteilung Onkologie Haematologie des Kantonsspitals Aarau</name>
+      <address>
+        <city>Aarau</city>
+        <zip>5001</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UniversitatsSpital Basel</name>
+      <address>
+        <city>Basel</city>
+        <zip>4031</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Inselsspital Bern</name>
+      <address>
+        <city>Berne</city>
+        <zip>3010</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kantonsspital Graubunden</name>
+      <address>
+        <city>Chur</city>
+        <zip>7000</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire Vaudois CHUV</name>
+      <address>
+        <city>Lausanne</city>
+        <zip>1011</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kantonsspital Munsterlingen</name>
+      <address>
+        <city>Münsterlingen (TG)</city>
+        <zip>8596</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kantonsspital Winterthur</name>
+      <address>
+        <city>Winterthur</city>
+        <zip>8400</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chang Gung Medical Foundation, Linkou Memorial Hospital</name>
+      <address>
+        <city>Kuei Shan Taoyuan County</city>
+        <zip>33305</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chang Gung Medical Foundation, Kaohsiung Memorial Hospital</name>
+      <address>
+        <city>Niao-Sung Hsiang Kaohsiung County</city>
+        <zip>83301</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>China Medical University Hospital</name>
+      <address>
+        <city>Taichung City</city>
+        <zip>40447</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Veteran General Hospital - Taipei</name>
+      <address>
+        <city>Taipei</city>
+        <zip>11217</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Taiwan University Hospital</name>
+      <address>
+        <city>Tapei</city>
+        <zip>10002</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gwynedd Hospital</name>
+      <address>
+        <city>Bangor</city>
+        <zip>LL57 2PW</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal United Hospital</name>
+      <address>
+        <city>Bath</city>
+        <zip>BA1 3NG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Belfast City Hospital Haematology Department</name>
+      <address>
+        <city>Belfast Northern Ireland</city>
+        <zip>BT9 7AB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Birminghman QE</name>
+      <address>
+        <city>Birmingham West Midlands</city>
+        <zip>B15 2TH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Bournemouth Hosp</name>
+      <address>
+        <city>Bournemouth Dorset</city>
+        <zip>BH7 7DW</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bristol Haematology and Oncology Centre</name>
+      <address>
+        <city>Bristol</city>
+        <zip>BS2 8ED</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Addenbrooke's Hospital</name>
+      <address>
+        <city>Cambridge</city>
+        <zip>CB2 2QQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital of Wales - Cardiff</name>
+      <address>
+        <city>Cardiff</city>
+        <zip>CF14 4XW</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Beatson West of Scotland Centre</name>
+      <address>
+        <city>Glasgow</city>
+        <zip>G12 0YN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dept of Haematology St Bartholomews Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>EC1A 7BE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Guy's and St Thomas' Hospital - London</name>
+      <address>
+        <city>London</city>
+        <zip>SE1 9RT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Free Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>W12 0HS</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Churchhill Hospital</name>
+      <address>
+        <city>Oxford</city>
+        <zip>OX3 7LI</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Derriford Hospital</name>
+      <address>
+        <city>Plymouth Crownhill Devon</city>
+        <zip>PL6 8DH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Hallamshire Hospital Sheffield Teaching Hospitals NHS Trust</name>
+      <address>
+        <city>Sheffield</city>
+        <zip>S10 2JF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pinderfields General Hospital</name>
+      <address>
+        <city>West Yorkshire</city>
+        <zip>WF1 4DG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New Cross Hospital- Wolverhampton</name>
+      <address>
+        <city>Wolverhampton</city>
+        <zip>WV10 OPQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>China</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Greece</country>
+    <country>Ireland</country>
+    <country>Italy</country>
+    <country>Korea, Republic of</country>
+    <country>New Zealand</country>
+    <country>Portugal</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>Switzerland</country>
+    <country>Taiwan</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Dimopoulos MA, Cheung MC, Roussel M, Liu T, Gamberi B, Kolb B, Derigs HG, Eom H, Belhadj K, Lenain P, Van der Jagt R, Rigaudeau S, Dib M, Hall R, Jardel H, Jaccard A, Tosikyan A, Karlin L, Bensinger W, Schots R, Leupin N, Chen G, Marek J, Ervin-Haynes A, Facon T. Impact of renal impairment on outcomes with lenalidomide and dexamethasone treatment in the FIRST trial, a randomized, open-label phase 3 trial in transplant-ineligible patients with multiple myeloma. Haematologica. 2016 Mar;101(3):363-70. doi: 10.3324/haematol.2015.133629. Epub 2015 Dec 11.</citation>
+    <PMID>26659916</PMID>
+  </reference>
+  <reference>
+    <citation>Hulin C, Belch A, Shustik C, Petrucci MT, Dührsen U, Lu J, Song K, Rodon P, Pégourié B, Garderet L, Hunter H, Azais I, Eek R, Gisslinger H, Macro M, Dakhil S, Goncalves C, LeBlanc R, Romeril K, Royer B, Doyen C, Leleu X, Offner F, Leupin N, Houck V, Chen G, Ervin-Haynes A, Dimopoulos MA, Facon T. Updated Outcomes and Impact of Age With Lenalidomide and Low-Dose Dexamethasone or Melphalan, Prednisone, and Thalidomide in the Randomized, Phase III FIRST Trial. J Clin Oncol. 2016 Jun 20. pii: JCO667295. [Epub ahead of print]</citation>
+    <PMID>27325857</PMID>
+  </reference>
+  <reference>
+    <citation>Delforge M, Minuk L, Eisenmann JC, Arnulf B, Canepa L, Fragasso A, Leyvraz S, Langer C, Ezaydi Y, Vogl DT, Giraldo-Castellano P, Yoon SS, Zarnitsky C, Escoffre-Barbe M, Lemieux B, Song K, Bahlis NJ, Guo S, Monzini MS, Ervin-Haynes A, Houck V, Facon T. Health-related quality-of-life in patients with newly diagnosed multiple myeloma in the FIRST trial: lenalidomide plus low-dose dexamethasone versus melphalan, prednisone, thalidomide. Haematologica. 2015 Jun;100(6):826-33. doi: 10.3324/haematol.2014.120121.</citation>
+    <PMID>25769541</PMID>
+  </reference>
+  <reference>
+    <citation>Benboubker L, Dimopoulos MA, Dispenzieri A, Catalano J, Belch AR, Cavo M, Pinto A, Weisel K, Ludwig H, Bahlis N, Banos A, Tiab M, Delforge M, Cavenagh J, Geraldes C, Lee JJ, Chen C, Oriol A, de la Rubia J, Qiu L, White DJ, Binder D, Anderson K, Fermand JP, Moreau P, Attal M, Knight R, Chen G, Van Oostendorp J, Jacques C, Ervin-Haynes A, Avet-Loiseau H, Hulin C, Facon T; FIRST Trial Team.. Lenalidomide and dexamethasone in transplant-ineligible patients with myeloma. N Engl J Med. 2014 Sep 4;371(10):906-17. doi: 10.1056/NEJMoa1402551.</citation>
+    <PMID>25184863</PMID>
+  </reference>
+  <verification_date>October 2016</verification_date>
+  <lastchanged_date>October 28, 2016</lastchanged_date>
+  <firstreceived_date>June 2, 2008</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>newly diagnosed multiple myeloma</keyword>
+  <keyword>Lenalidomide</keyword>
+  <keyword>Revlimid</keyword>
+  <keyword>phase III</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Multiple Myeloma</mesh_term>
+    <mesh_term>Neoplasms, Plasma Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Dexamethasone acetate</mesh_term>
+    <mesh_term>Dexamethasone</mesh_term>
+    <mesh_term>Prednisone</mesh_term>
+    <mesh_term>Dexamethasone 21-phosphate</mesh_term>
+    <mesh_term>Lenalidomide</mesh_term>
+    <mesh_term>Thalidomide</mesh_term>
+    <mesh_term>Melphalan</mesh_term>
+    <mesh_term>BB 1101</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="12774">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02940626</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ASN100-201</org_study_id>
+    <secondary_id>2016-002146-23</secondary_id>
+    <nct_id>NCT02940626</nct_id>
+  </id_info>
+  <brief_title>Prevention of S. Aureus Pneumonia Study in Heavily Colonized, Mechanically Ventilated Subjects</brief_title>
+  <official_title>A Phase 2, Randomized, Double-Blind, Placebo-Controlled Study to Determine the Safety and Efficacy of a Single Dose of ASN100 for the Prevention of Staphylococcus Aureus Pneumonia in Heavily Colonized, Mechanically Ventilated Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Arsanis, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Arsanis, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is the prevention of Staphylococcus aureus pneumonia in
+      mechanically ventilated subjects heavily colonized with S. aureus. Staphylococcus aureus is
+      a human pathogenic bacterium that causes severe infections, including pneumonia and sepsis.
+      Hospital-acquired bacterial pneumonia (HABP) caused by S. aureus, including
+      ventilator-associated bacterial pneumonia (VABP) in mechanically ventilated subjects, is a
+      significant public health threat despite efforts to optimize antibiotic treatment. ASN100 is
+      an investigational monoclonal antibody product that targets the toxins produced by S. aureus
+      to protect subjects from developing S. aureus pneumonia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a double-blind, randomized, single-dose, placebo-controlled study of ASN100 for the
+      prevention of S. aureus pneumonia in mechanically ventilated subjects who are heavily
+      colonized with S. aureus. This will be a global study conducted at approximately 65 sites to
+      assess the safety, tolerability, and efficacy of ASN100.
+
+      Eligible subjects who meet all of the inclusion criteria and none of the exclusion criteria
+      will be screened by semi-quantitative culture of an endotracheal aspirate (ETA) to identify
+      those who are heavily colonized with S. aureus (3+ to 4+). Upon determination of
+      eligibility, subjects will be randomized in a 1:1 ratio to 1 of 2 treatment groups, ASN100
+      or placebo.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>November 2016</start_date>
+  <completion_date type="Anticipated">June 2018</completion_date>
+  <primary_completion_date type="Anticipated">April 2018</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Participant, Care Provider, Investigator, Outcomes Assessor</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Efficacy of a single intravenous (IV) dose of ASN100 as measured by clinical symptoms of pneumonia</measure>
+    <time_frame>Incidence of S. aureus pneumonia through Day 22</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Safety of intravenous (IV) doses of ASN100 as measured by adverse events and clinical laboratory parameters</measure>
+    <time_frame>through Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of mechanical ventilation</measure>
+    <time_frame>21 days</time_frame>
+    <description>Duration of mechanical ventilation during the first 21 days post-randomization for subjects in the Modified Intent-to-Treat (MITT), Intent-to-Treat (ITT), and Per Protocol (PP) populations</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of ICU stay</measure>
+    <time_frame>21 days</time_frame>
+    <description>Length of ICU stay during the first 21 days post-randomization for subjects in the MITT, ITT, PP populations</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>28-day all-cause mortality</measure>
+    <time_frame>28 days</time_frame>
+    <description>28-day all-cause mortality in the MITT population</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum ASN-1 and ASN-2 Maximum serum concentration (Cmax)</measure>
+    <time_frame>through Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum ASN-1 and ASN-2 Time to maximum serum concentration (Tmax)</measure>
+    <time_frame>through Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum ASN-1 and ASN-2 Area under the serum concentration-time curve</measure>
+    <time_frame>through Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum ASN-1 and ASN-2 Terminal elimination half-life (t1/2)</measure>
+    <time_frame>through Day 90</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">354</enrollment>
+  <condition>Pneumonia, Ventilator-associated</condition>
+  <condition>Pneumonia, Staphylococcal</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo administered as 2 separate intravenous (IV) infusions</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ASN100</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>ASN100 administered as 2 separate intravenous (IV) infusions</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ASN100</intervention_name>
+    <description>monoclonal antibody combination of ASN-1 and ASN-2</description>
+    <arm_group_label>ASN100</arm_group_label>
+    <other_name>ASN-1 and ASN-2</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subject is currently hospitalized and is mechanical ventilated endotracheally.
+
+        Exclusion Criteria:
+
+          -  Subject has a chest X-ray or thoracic computed tomography (CT) scan consistent with
+             diagnosis of pneumonia
+
+          -  Traumatic chest injury with paradoxical breathing or congestive cardiac failure with
+             bilateral infiltrates
+
+          -  Known heavy colonization or infection with a Gram-negative organism
+
+          -  Neutropenia
+
+          -  Severe non-pulmonary source of infection.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Arsanis, Inc</last_name>
+    <role>Study Director</role>
+    <affiliation>Arsanis, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lori Muir, CCRA</last_name>
+    <phone>781-819-5704</phone>
+    <email>lori.muir@arsanis.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ed Campanaro, BSN, MSHS</last_name>
+    <phone>781-819-5961</phone>
+    <email>ed.campanaro@arsanis.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Hazard</city>
+        <state>Kentucky</state>
+        <zip>41701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Burlington</city>
+        <state>Massachusetts</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15240</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Praha 10</city>
+        <zip>100 34</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Budapest</city>
+        <zip>H-1134</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Białystok</city>
+        <zip>15-950</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>28025</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>8035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>8036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>8221</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Tarragona</city>
+        <zip>43005</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46026</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Czech Republic</country>
+    <country>Hungary</country>
+    <country>Poland</country>
+    <country>Spain</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 31, 2017</lastchanged_date>
+  <firstreceived_date>October 17, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Pneumonia</keyword>
+  <keyword>S. aureus</keyword>
+  <keyword>Mechanically ventilated</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Pneumonia, Ventilator-Associated</mesh_term>
+    <mesh_term>Pneumonia, Staphylococcal</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

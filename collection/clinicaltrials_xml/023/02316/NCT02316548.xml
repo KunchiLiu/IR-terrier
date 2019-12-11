@@ -1,0 +1,1375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="60637">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02316548</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NRG-GU001</org_study_id>
+    <secondary_id>NCI-2014-02061</secondary_id>
+    <secondary_id>NRG-GU001</secondary_id>
+    <secondary_id>NRG-GU001</secondary_id>
+    <secondary_id>U10CA180868</secondary_id>
+    <nct_id>NCT02316548</nct_id>
+  </id_info>
+  <brief_title>Surgery With or Without Postoperative Intensity Modulated Radiation Therapy in Treating Patients With Urothelial Bladder Cancer</brief_title>
+  <official_title>Randomized Phase II Trial of Postoperative Adjuvant IMRT Following Cystectomy for pT3/T4 Urothelial Bladder Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NRG Oncology</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>NRG Oncology</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This randomized phase II trial studies the side effects and how well postoperative intensity
+      modulated radiotherapy works after surgery in treating patients with urothelial bladder
+      cancer. Radiation therapy uses high energy x-rays to kill tumor cells left behind in the
+      pelvis after surgery. It is not yet known whether surgery followed by radiotherapy is more
+      effective than surgery alone in treating patients with urothelial bladder cancer.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVE:
+
+      I. To evaluate the ability of postcystectomy adjuvant radiotherapy to safely reduce pelvic
+      tumor recurrence, defined as pelvic recurrence-free survival.
+
+      SECONDARY OBJECTIVES:
+
+      I. Evaluate increase in disease-free survival. II. Evaluate toxicity of adjuvant pelvic
+      radiotherapy.
+
+      OUTLINE: Patients are randomized to 1 of 2 treatment arms. Patients are stratified by
+      neoadjuvant preoperative or postoperative adjuvant chemotherapy.
+
+      ARM I: No radiotherapy.
+
+      ARM II: Patients undergo radiotherapy (IMRT) 1.8 Gy, 5 days a week over 6 weeks for a total
+      of 28 treatments and 50.4 Gy, in the absence of disease progression or unacceptable
+      toxicity. IMRT starts within 14 days of registration if no postoperative adjuvant
+      chemotherapy, otherwise within 14 days of the completion of the chemotherapy.
+
+      After completion of study treatment, patients are followed up at 6 weeks, every 3 months for
+      1 year, every 4 months for 1 year, every 6 months for 3 years, and then annually for 5
+      years.
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Trial will not meet CTEP Early Phase Trial Slow Accrual Guidelines
+  </why_stopped>
+  <start_date type="Actual">February 2015</start_date>
+  <completion_date type="Actual">February 1, 2017</completion_date>
+  <primary_completion_date type="Actual">February 1, 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pelvic recurrence-free survival (PRFS)</measure>
+    <time_frame>From randomization to 12 months</time_frame>
+    <description>PRFS is defined as time free of pelvic recurrence or death, with patients who experience distant metastasis censored at the time of occurrence. Pelvic recurrence is specifically defined as soft tissue and /or lymph node tumor recurrence in the pelvis anywhere between the L5-S1 disc space superiorly and the pelvic floor inferiorly. This will be determined on the basis of pelvic imaging (CT or MRI scan demonstrating soft tissue or nodal recurrence at least 1cm in linear dimension) or urethroscopy. Biopsy is not required.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Disease free survival (DFS)</measure>
+    <time_frame>Up to 10 years</time_frame>
+    <description>Disease free survival (DFS) is defined as the first occurrence of either: pelvic failure, distant metastasis, or death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of acute radiation bowel toxicity, scored using the Common Terminology Criteria for Adverse Events (CTCAE) version (v)4.0</measure>
+    <time_frame>From of the start of radiotherapy up to 90 days</time_frame>
+    <description>Bowel toxicity will be evaluated using the CTCAE version 4.0</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of late radiation bowel toxicity, scored using the CTCAE v4.0</measure>
+    <time_frame>From 91 days from the start of radiotherapy up to 10 years</time_frame>
+    <description>Bowel toxicity will be evaluated using the CTCAE version 4.0</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">14</enrollment>
+  <condition>Stage III Bladder Cancer</condition>
+  <condition>Stage IV Bladder Cancer</condition>
+  <arm_group>
+    <arm_group_label>Arm I (No radiation)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients do not receive radiation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II (Post-op Adjuvant IMRT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive Intensity-Modulated Radiation Therapy (IMRT).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>No radiation</intervention_name>
+    <description>No radiation is received by the patient.</description>
+    <arm_group_label>Arm I (No radiation)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Intensity-Modulated Radiation Therapy</intervention_name>
+    <description>Undergo radiotherapy (IMRT)</description>
+    <arm_group_label>Arm II (Post-op Adjuvant IMRT)</arm_group_label>
+    <other_name>IMRT</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Initial histological diagnosis of muscle invasive urothelial carcinoma within 180
+             days prior to registration
+
+          -  Patients must have undergone a radical cystectomy with ileal conduit for urothelial
+             bladder carcinoma within 49 days prior to registration; final cystectomy pathology
+             must be either pure urothelial carcinoma or dominant urothelial carcinoma with
+             admixture of other histologies excluding small cell variants
+
+               -  Neoadjuvant (preoperative) or adjuvant (postoperative) chemotherapy for the
+                  bladder cancer is permitted; however, all patients who will receive adjuvant
+                  chemotherapy must be registered within 49 days after completing cystectomy
+                  regardless of whether adjuvant chemotherapy has started. Patients who will be
+                  receiving adjuvant (postoperative) chemotherapy will be randomized within 21
+                  days of completing chemotherapy
+
+          -  Patients with the following TNM stages are eligible:
+
+               -  pT3apN0; pN1; pN2 provided less than 10 nodes dissected and/or positive surgical
+                  margins
+
+               -  pT3bpN0; pN1; pN2
+
+               -  pT4apN0; pN1; pN2
+
+               -  pT4bpN0; pN1; pN2
+
+          -  Appropriate stage for study entry based on the following diagnostic workup:
+
+               -  History/physical examination =&lt; 45 days prior to registration;
+
+               -  Computed tomography (CT) or magnetic resonance imaging (MRI) or positron
+                  emission tomography (PET)-CT that includes the chest, abdomen and pelvis should
+                  be performed for initial radiological staging. This may be performed pre- or
+                  post-surgery =&lt; 90 days prior to registration except in patients getting
+                  postoperative adjuvant chemotherapy, who will require CT, MRI or PET-CT
+                  including the chest and abdomen and pelvis no more than 30 days prior to
+                  registration; imaging performed postoperatively should show no evidence of
+                  residual disease
+
+          -  Age &gt;=18
+
+          -  Zubrod performance status 0-2 =&lt; 45 days prior to registration
+
+          -  Absolute neutrophil count (ANC) &gt;= 1,500 cells/mm^3
+
+          -  Platelets &gt;= 100,000 cells/mm^3
+
+          -  Hemoglobin &gt;= 8.0 g/dl (NOTE: the use of transfusion or other intervention to achieve
+             hemoglobin [Hgb] &gt;= 8.0 g/dl is acceptable)
+
+          -  The patient must provide study-specific informed consent prior to study entry
+
+        Exclusion Criteria:
+
+          -  Definitive clinical or radiologic evidence of metastatic disease; pN3 disease is not
+             allowed
+
+          -  Any type of orthotopic neobladder creation (new bladder placed in same location as
+             the old bladder)
+
+          -  Prior invasive solid tumor or hematological malignancy (except non-melanomatous skin
+             cancer and incidentally discovered prostate cancer at time of cystoprostatectomy)
+             unless disease free for a minimum of 3 years
+
+          -  Prior chemotherapy for other malignancy; neoadjuvant pre-cystectomy chemotherapy is
+             permitted
+
+          -  Prior radiotherapy to the pelvis
+
+          -  Patients with a history of inflammatory bowel disease
+
+          -  Patients who have required any treatment (medical or surgical) for bowel obstruction
+             prior to diagnosis of bladder cancer or who have required surgical treatment for
+             bowel obstruction after the cystectomy
+
+          -  Severe, active co-morbidity defined as follows:
+
+               -  Unstable angina and/or congestive heart failure requiring hospitalization within
+                  the last 6 months
+
+               -  Transmural myocardial infarction within the last 6 months
+
+               -  Acute bacterial or fungal infection requiring intravenous antibiotics at the
+                  time of registration
+
+               -  Severe hepatic disease, defined as a diagnosis of Child-Pugh class B or C
+                  hepatic disease
+
+               -  Human immunodeficiency virus (HIV) positive with cluster of differentiation
+                  (CD)4 count &lt; 200 cells/microliter. Note that patients who are HIV positive are
+                  eligible, provided they are under treatment with highly active antiretroviral
+                  therapy (HAART) and have a CD4 count &gt;= 200 cells/microliter within 30 days
+                  prior to registration. Note also that HIV testing is not required for
+                  eligibility for this protocol
+
+               -  Other major medical illness which requires hospitalization or precludes study
+                  therapy at the time of registration
+
+          -  Women who are breast feeding
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Libni Eapen</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NRG Oncology</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Marin General Hospital</name>
+      <address>
+        <city>Greenbrae</city>
+        <state>California</state>
+        <zip>94904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Los Angeles County-USC Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>USC / Norris Comprehensive Cancer Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford Cancer Institute</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California Davis Comprehensive Cancer Center</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Cancer Center - Anschutz Cancer Pavilion</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Hospital Colorado Springs</name>
+      <address>
+        <city>Colorado Springs</city>
+        <state>Colorado</state>
+        <zip>80909</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Christiana Care Health System-Christiana Hospital</name>
+      <address>
+        <city>Newark</city>
+        <state>Delaware</state>
+        <zip>19718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Moffitt Cancer Center</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University Hospital Midtown</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University/Winship Cancer Institute</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Joseph's Hospital of Atlanta</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30342</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lewis Cancer and Research Pavilion at Saint Joseph's/Candler</name>
+      <address>
+        <city>Savannah</city>
+        <state>Georgia</state>
+        <zip>31405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Luke's Mountain States Tumor Institute</name>
+      <address>
+        <city>Boise</city>
+        <state>Idaho</state>
+        <zip>83712</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Luke's Mountain States Tumor Institute - Fruitland</name>
+      <address>
+        <city>Fruitland</city>
+        <state>Idaho</state>
+        <zip>83619</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Luke's Mountain States Tumor Institute - Meridian</name>
+      <address>
+        <city>Meridian</city>
+        <state>Idaho</state>
+        <zip>83642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Luke's Mountain States Tumor Institute - Nampa</name>
+      <address>
+        <city>Nampa</city>
+        <state>Idaho</state>
+        <zip>83686</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Luke's Mountain States Tumor Institute-Twin Falls</name>
+      <address>
+        <city>Twin Falls</city>
+        <state>Idaho</state>
+        <zip>83301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago Comprehensive Cancer Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Decatur Memorial Hospital</name>
+      <address>
+        <city>Decatur</city>
+        <state>Illinois</state>
+        <zip>62526</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Loyola University Medical Center</name>
+      <address>
+        <city>Maywood</city>
+        <state>Illinois</state>
+        <zip>60153</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>OSF Saint Francis Radiation Oncology at Pekin Cancer Treatment Center</name>
+      <address>
+        <city>Pekin</city>
+        <state>Illinois</state>
+        <zip>61554</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>OSF Saint Francis Radiation Oncology at Peoria Cancer Center</name>
+      <address>
+        <city>Peoria</city>
+        <state>Illinois</state>
+        <zip>61615</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>OSF Saint Francis Medical Center</name>
+      <address>
+        <city>Peoria</city>
+        <state>Illinois</state>
+        <zip>61637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Medical Center</name>
+      <address>
+        <city>Springfield</city>
+        <state>Illinois</state>
+        <zip>62781</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Carle Cancer Center</name>
+      <address>
+        <city>Urbana</city>
+        <state>Illinois</state>
+        <zip>61801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Radiation Oncology Associates PC</name>
+      <address>
+        <city>Fort Wayne</city>
+        <state>Indiana</state>
+        <zip>46804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Parkview Hospital Randallia</name>
+      <address>
+        <city>Fort Wayne</city>
+        <state>Indiana</state>
+        <zip>46805</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>IU Health Goshen Center for Cancer Care</name>
+      <address>
+        <city>Goshen</city>
+        <state>Indiana</state>
+        <zip>46526</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Hospital of South Bend</name>
+      <address>
+        <city>South Bend</city>
+        <state>Indiana</state>
+        <zip>46601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>McFarland Clinic PC-William R Bliss Cancer Center</name>
+      <address>
+        <city>Ames</city>
+        <state>Iowa</state>
+        <zip>50010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lawrence Memorial Hospital</name>
+      <address>
+        <city>Lawrence</city>
+        <state>Kansas</state>
+        <zip>66044</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Via Christi Regional Medical Center</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67214</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Norton Hospital Pavilion and Medical Campus</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jewish Hospital Medical Center Northeast</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40245</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Maine Medical Center- Scarborough Campus</name>
+      <address>
+        <city>Scarborough</city>
+        <state>Maine</state>
+        <zip>04074</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital Cancer Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lahey Hospital and Medical Center</name>
+      <address>
+        <city>Burlington</city>
+        <state>Massachusetts</state>
+        <zip>01805</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Joseph Mercy Hospital</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48106-0995</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>21st Century Oncology-Clarkston</name>
+      <address>
+        <city>Clarkston</city>
+        <state>Michigan</state>
+        <zip>48346</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>21st Century Oncology-Farmington Hills</name>
+      <address>
+        <city>Farmington Hills</city>
+        <state>Michigan</state>
+        <zip>48334</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Mary Mercy Hospital</name>
+      <address>
+        <city>Livonia</city>
+        <state>Michigan</state>
+        <zip>48154</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>William Beaumont Hospital-Royal Oak</name>
+      <address>
+        <city>Royal Oak</city>
+        <state>Michigan</state>
+        <zip>48073</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>21st Century Oncology-Troy</name>
+      <address>
+        <city>Troy</city>
+        <state>Michigan</state>
+        <zip>48098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>William Beaumont Hospital - Troy</name>
+      <address>
+        <city>Troy</city>
+        <state>Michigan</state>
+        <zip>48098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regions Hospital</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Mississippi Medical Center</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Barnes-Jewish West County Hospital</name>
+      <address>
+        <city>Creve Coeur</city>
+        <state>Missouri</state>
+        <zip>63141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Missouri Baptist Medical Center</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63131</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Siteman Cancer Center - Saint Peters</name>
+      <address>
+        <city>Saint Peters</city>
+        <state>Missouri</state>
+        <zip>63376</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nebraska Methodist Hospital</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dartmouth Hitchcock Medical Center</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <zip>03756</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Virtua Memorial</name>
+      <address>
+        <city>Mount Holly</city>
+        <state>New Jersey</state>
+        <zip>08060</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Robert Wood Johnson University Hospital Somerset</name>
+      <address>
+        <city>Somerville</city>
+        <state>New Jersey</state>
+        <zip>08876</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of New Mexico Cancer Center</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Roswell Park Cancer Institute</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14263</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stony Brook University Medical Center</name>
+      <address>
+        <city>Stony Brook</city>
+        <state>New York</state>
+        <zip>11794</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dickstein Cancer Treatment Center</name>
+      <address>
+        <city>White Plains</city>
+        <state>New York</state>
+        <zip>10601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Oklahoma Health Sciences Center</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bay Area Hospital</name>
+      <address>
+        <city>Coos Bay</city>
+        <state>Oregon</state>
+        <zip>97420</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NRG Oncology</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pennsylvania/Abramson Cancer Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Reading Hospital</name>
+      <address>
+        <city>West Reading</city>
+        <state>Pennsylvania</state>
+        <zip>19611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Greenville Health System Cancer Institute-Faris</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Francis Cancer Center</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Greenville Health System Cancer Institute-Eastside</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29615</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Greenville Health System Cancer Institute-Greer</name>
+      <address>
+        <city>Greer</city>
+        <state>South Carolina</state>
+        <zip>29650</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Greenville Health System Cancer Institute-Seneca</name>
+      <address>
+        <city>Seneca</city>
+        <state>South Carolina</state>
+        <zip>29672</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spartanburg Medical Center</name>
+      <address>
+        <city>Spartanburg</city>
+        <state>South Carolina</state>
+        <zip>29303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Greenville Health System Cancer Institute-Spartanburg</name>
+      <address>
+        <city>Spartanburg</city>
+        <state>South Carolina</state>
+        <zip>29307</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University/Ingram Cancer Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UT Southwestern/Simmons Cancer Center-Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Logan Regional Hospital</name>
+      <address>
+        <city>Logan</city>
+        <state>Utah</state>
+        <zip>84321</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Intermountain Medical Center</name>
+      <address>
+        <city>Murray</city>
+        <state>Utah</state>
+        <zip>84157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>McKay-Dee Hospital Center</name>
+      <address>
+        <city>Ogden</city>
+        <state>Utah</state>
+        <zip>84403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Utah Cancer Specialists-Salt Lake City</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Huntsman Cancer Institute/University of Utah</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Norris Cotton Cancer Center-North</name>
+      <address>
+        <city>Saint Johnsbury</city>
+        <state>Vermont</state>
+        <zip>05819</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Seattle Cancer Care Alliance</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington Medical Center</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>West Virginia University Healthcare</name>
+      <address>
+        <city>Morgantown</city>
+        <state>West Virginia</state>
+        <zip>26506</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Aurora BayCare Medical Center</name>
+      <address>
+        <city>Green Bay</city>
+        <state>Wisconsin</state>
+        <zip>54311-6519</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Wisconsin Hospital and Clinics</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Aurora Saint Luke's Medical Center</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Froedtert and the Medical College of Wisconsin</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Aurora Sinai Medical Center</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vince Lombardi Cancer Clinic - Oshkosh</name>
+      <address>
+        <city>Oshkosh</city>
+        <state>Wisconsin</state>
+        <zip>54904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Aurora Medical Center in Summit</name>
+      <address>
+        <city>Summit</city>
+        <state>Wisconsin</state>
+        <zip>53066</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vince Lombardi Cancer Clinic</name>
+      <address>
+        <city>Two Rivers</city>
+        <state>Wisconsin</state>
+        <zip>54241</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Aurora West Allis Medical Center</name>
+      <address>
+        <city>West Allis</city>
+        <state>Wisconsin</state>
+        <zip>53227</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tom Baker Cancer Centre</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N 4N2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>London Regional Cancer Program</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>N6A 4L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ottawa Hospital and Cancer Center-General Campus</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1H 8L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Odette Cancer Centre- Sunnybrook Health Sciences Centre</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M4N 3M5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHUM - Hopital Notre-Dame</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H2L 4M1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Allan Blair Cancer Centre</name>
+      <address>
+        <city>Regina</city>
+        <state>Saskatchewan</state>
+        <zip>S4T 7T1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saskatoon Cancer Centre</name>
+      <address>
+        <city>Saskatoon</city>
+        <state>Saskatchewan</state>
+        <zip>S7N 4H4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rabin Medical Center</name>
+      <address>
+        <city>Petach Tikva</city>
+        <zip>49100</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>Israel</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2017</verification_date>
+  <lastchanged_date>February 2, 2017</lastchanged_date>
+  <firstreceived_date>December 10, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Urinary Bladder Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

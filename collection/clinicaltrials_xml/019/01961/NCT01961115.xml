@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="87876">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01961115</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CITN-04</org_study_id>
+    <secondary_id>NCI-2013-01605</secondary_id>
+    <secondary_id>CITN-04</secondary_id>
+    <secondary_id>CITN-04</secondary_id>
+    <secondary_id>U01CA154967</secondary_id>
+    <nct_id>NCT01961115</nct_id>
+  </id_info>
+  <brief_title>Epacadostat and Vaccine Therapy in Treating Patients With Stage III-IV Melanoma</brief_title>
+  <official_title>A Phase II Pilot Trial of an Indoleamine 2,3, Dioxygenase-1 (IDO1) Inhibitor (INCB024360) Plus a Multipeptide Melanoma Vaccine (MELITAC 12.1) in Patients With Advanced Melanoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fred Hutchinson Cancer Research Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Incyte Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Virginia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fred Hutchinson Cancer Research Center</source>
+  <brief_summary>
+    <textblock>
+      This pilot phase II trial studies how well epacadostat and vaccine therapy work in treating
+      patients with stage III-IV melanoma. Epacadostat may stop the growth of tumor cells by
+      blocking some of the enzymes needed for cell growth. Vaccines made from peptides and
+      antigens may help the body build an effective immune response to kill tumor cells. Giving
+      epacadostat with vaccine therapy may be an effective treatment for advanced melanoma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To determine the extent to which a regimen of INCB024360 (epacadostat) that normalizes
+      serum kynurenine (Kyn)/ tryptophan (Trp) ratios alters the tumor microenvironment of
+      melanoma, including determining the number and character of tumor-infiltrating lymphocytes
+      as determined by examination of serial biopsies with immunohistochemistry (IHC) and gene
+      signatures.
+
+      II. To determine the extent to which continued INCB024360 treatment plus the addition of the
+      multipeptide melanoma vaccine, MELITAC 12.1 (MELITAC 12.1 peptide vaccine), further alters
+      the tumor microenvironment of melanoma, including determining the number and character of
+      tumor-infiltrating lymphocytes as determined by serial biopsies evaluating IHC and gene
+      signatures.
+
+      SECONDARY OBJECTIVES:
+
+      I. To determine whether a regimen of INCB024360 that normalizes serum Kyn/Trp ratios plus
+      MELITAC 12.1 vaccine changes the level or character of the vaccine-induced clusters of
+      differentiation (CD) 8+ and CD4+ T-cell immune responses as measured in peripheral blood, as
+      compared to prior published experience.
+
+      II. To evaluate the extent to which INCB024360 plus MELITAC 12.1 vaccine alters the number
+      and character of peripheral blood mononuclear cell (PBMC) populations, including T and
+      natural killer (NK) cells, as evaluated by multiparameter flow cytometry.
+
+      III. To evaluate the extent to which INCB024360 plus MELITAC 12.1 vaccine alters the PBMC
+      transcriptome.
+
+      IV. To assess the safety and tolerability of INCB024360 plus MELITAC 12.1 vaccine.
+
+      V. To obtain preliminary data on the tumor response rate of INCB024360 plus MELITAC 12.1
+      vaccine by objective response rate (ORR), time to tumor progression, and overall survival.
+
+      VI. To associate any observed changes with the expression of IDO1 protein by IHC in tumor or
+      tumor-infiltrating cells.
+
+      OUTLINE:
+
+      Patients receive epacadostat orally (PO) twice daily (BID) on days 1-98 and receive MELITAC
+      12.1 peptide vaccine intradermally (ID)/subcutaneously (SC) on days 21, 28, 35, 56, 77, and
+      98. Treatment with epacadostat may repeat every 98 days for up to 3 additional courses in
+      the absence of disease progression or unacceptable toxicity.
+
+      After completion of study treatment, patients are followed up for 1 year.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">September 13, 2013</start_date>
+  <primary_completion_date type="Actual">September 15, 2016</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in the concentration and number of CD8+ cells infiltrating tumor by IHC</measure>
+    <time_frame>Baseline to up to 16 weeks</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in PBMC transcriptome</measure>
+    <time_frame>Baseline to up to 16 weeks</time_frame>
+    <description>Analysis of PBMC gene signature. This may be compared to immunologic response, tumor biopsy data and clinical response.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the number and character of PBMC populations, including T and NK cells, as evaluated by multiparameter flow cytometry</measure>
+    <time_frame>Baseline to up to 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in expression of IDO1 protein by IHC in tumor or tumor-infiltrating cells</measure>
+    <time_frame>Baseline up to 16 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the level or character of the vaccine-induced CD8+ and CD4+ specific T-cell immune responses by IFN-gamma ELISPOT</measure>
+    <time_frame>Baseline to up to 16 weeks</time_frame>
+    <description>Assessment of immunologic response will be based on a fold-increase measure from baseline as well as using a positivity threshold.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events using the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0</measure>
+    <time_frame>Up to 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall response rate using the RECIST or Immune-Related Response Criteria (irRC)</measure>
+    <time_frame>Up to 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>From the time measurement criteria are met for complete response or partial response until the first date that recurrent and progressive disease is objectively documented, assessed up to 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to tumor progression using RECIST or irRC</measure>
+    <time_frame>Up to 1 year</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Mucosal Melanoma</condition>
+  <condition>Recurrent Melanoma</condition>
+  <condition>Recurrent Uveal Melanoma</condition>
+  <condition>Stage IIIA Skin Melanoma</condition>
+  <condition>Stage IIIA Uveal Melanoma</condition>
+  <condition>Stage IIIB Skin Melanoma</condition>
+  <condition>Stage IIIB Uveal Melanoma</condition>
+  <condition>Stage IIIC Skin Melanoma</condition>
+  <condition>Stage IIIC Uveal Melanoma</condition>
+  <condition>Stage IV Skin Melanoma</condition>
+  <condition>Stage IV Uveal Melanoma</condition>
+  <arm_group>
+    <arm_group_label>Treatment (epacadostat, MELITAC 12.1)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive epacadostat PO BID on days 1-98 and receive MELITAC 12.1 peptide vaccine ID/SC on days 21, 28, 35, 56, 77, and 98 for up to 3 additional courses in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Epacadostat</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Treatment (epacadostat, MELITAC 12.1)</arm_group_label>
+    <other_name>INCB 024360</other_name>
+    <other_name>INCB024360</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Laboratory Biomarker Analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Treatment (epacadostat, MELITAC 12.1)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>MELITAC 12.1 Peptide Vaccine</intervention_name>
+    <description>Given ID/SC</description>
+    <arm_group_label>Treatment (epacadostat, MELITAC 12.1)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients must have malignant melanoma validated by histology or cytology; patients
+             may have had primary cutaneous, mucosal, or ocular melanoma or metastasis from an
+             unknown primary site
+
+               -  NOTE: patients must have measurable disease, defined as at least 1 lesion that
+                  can be accurately measured in at least 1 dimension (longest diameter to be
+                  recorded for non-nodal lesions and short axis for nodal lesions) as &gt;= 20 mm
+                  with conventional chest x-ray or as &gt;= 10 mm with spiral computed tomography
+                  (CT) scan, magnetic resonance imaging (MRI), or calipers by clinical exam
+
+          -  Unresectable stage III or IV validated by clinical criteria (including recurrent
+             melanoma), or patients with multiple skin/soft tissue metastases of melanoma that may
+             be resectable but are judged to have a future recurrence risk exceeding 70% (e.g.,
+             large adenopathy, distant skin metastases or multiple in-transit melanoma
+             metastases); tumor deemed amenable to biopsy (excisional, incisional, or core, with
+             at least 100 mm^3 tumor volume per biopsy date) and fine-needle aspiration (FNA)
+             biopsy
+
+               -  NOTE: optimally, patients will have tumor approachable for three serial biopsies
+                  during the trial; for patients with only one or two tumors approachable for
+                  biopsy, available tumor blocks from prior biopsies can serve as the pretreatment
+                  sample, but only if formalin-fixed tumor tissue is available and adequate to
+                  provide at least 20 unstained slides with sufficient tumor for analysis
+
+               -  NOTE: patients with unresectable advanced stage III or IV melanoma (including
+                  recurrent melanoma) are only eligible if they have failed at least one other
+                  first-line systemic therapy (other than adjuvant therapy); exceptions to this
+                  requirement are those patients who have refused and/or are ineligible for other
+                  systemic therapies
+
+               -  NOTE: v-raf murine sarcoma viral oncogene homolog B inhibitor (BRAFi) should be
+                  considered for all 'unresectable&quot; or metastatic melanoma with BRAFV600E
+                  mutation; for low burden in-transit disease patients may enter trial without
+                  prior systemic therapy
+
+                    -  Stage IV no evidence of disease (NED) is excluded by this criterion
+
+          -  Patients may have had prior systemic therapy without constraint on the number of
+             prior treatment regimens except:
+
+               -  Patients may not have had &gt; 450 mg/m^2 doxorubicin
+
+               -  Patients may not have had &gt; 3000 centigray (cGy) to fields encompassing the
+                  entire pelvis
+
+          -  Patients must not be on any other systemic therapy within the following intervals
+             before study enrollment:
+
+               -  1 week after stereotactic radiosurgery of the brain or comparable technology
+
+               -  4 weeks after cytotoxic chemotherapy or external beam radiation therapy
+
+               -  6 weeks after chemotherapy regimens including BCNU (carmustine) or mitomycin C
+
+               -  Patients who experience melanoma progression (by Response Evaluation Criteria in
+                  Solid Tumors [RECIST] 1.1 criteria) while on or after treatment with programmed
+                  cell death 1 (PD-1) or PD ligand-1 (PDL-1) antibody may enroll on this study
+
+                    -  NOTE: Patients must be off PD-1/PDL- antibody for at least 2 weeks to
+                       assess for delayed toxicity before being enrolled and receiving INCB024360;
+                       patients who are enrolled 2 weeks and up to 6 weeks after the last dose of
+                       PD-/PDL-1 antibody will enroll in cohort B and receive 100 mg BID of
+                       INCB024360; patients enrolled beyond the 6 week period after failing
+                       anti-PD-1/PDL-1 will be enrolled in cohort A; cohort A patients will
+                       receive 300 mg BID of INCB024360; patients must not have active grade 2
+                       autoimmune toxicities attributed to these antibodies at study entry
+
+               -  8 weeks after ipilimumab, other cytotoxic T-lymphocyte-associated protein 4
+                  (CTLA-4) antibody or other immunologically active antibody
+
+                    -  NOTE: Patients receiving prior CTLA-4, anti-PD1 antibody or other
+                       immunologic therapy must show evidence of normal pituitary function at
+                       baseline and must not have active grade 2 autoimmune toxicities attributed
+                       to these antibodies at study entry
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status 0-1 (Karnofsky &gt;= 70%)
+
+          -  Life expectancy of at least 6 months
+
+          -  Leukocytes &gt;= 3,000/mcL
+
+          -  Absolute neutrophil count &gt;= 1,500/mcL
+
+          -  Platelets &gt;= 75,000/mcL
+
+          -  Hemoglobin &gt; 9 g/dL
+
+          -  Total bilirubin &lt; 1.5 x institutional upper limit of normal (bilirubin &lt; 3 ×
+             institutional upper limit of normal for Gilbert's syndrome)
+
+          -  Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase
+             [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT])
+             up to 2.5 times upper limit normal (ULN)
+
+          -  Creatinine &lt; 1.5 x institutional upper limit of normal OR
+
+          -  Creatinine clearance &gt;= 60 mL/min/1.73 m^2 for patients with creatinine levels above
+             institutional normal
+
+          -  Prothrombin time (PT), international normalized ratio (INR) =&lt; 1.5 x institutional
+             ULN unless patient is therapeutically anticoagulated; if on anticoagulants, PT/INR
+             need to be within appropriate anticoagulation limits for the clinical indication;
+             patients who are receiving anticoagulants may participate in the trial if their
+             anticoagulation can be stopped safely for several days at the time of each biopsy
+
+          -  Thyroid-stimulating hormone (TSH) up to 4 times ULN if thyroxine (T4) is normal
+
+          -  T4 within normal limits; if abnormal and patient is receiving thyroid replacement
+             therapy, the thyroid medication may be adjusted and the T4 may be re-tested
+
+          -  Patients must express human leukocyte antigen (HLA) -A1+, -A2+, or -A3+ (80% of
+             patients)
+
+          -  Lactate dehydrogenase (LDH) &lt; 5 × upper limits of normal
+
+               -  (NOTE: these criteria will select against patients with bulky disease and will
+                  select for patients with less disease and earlier disease)
+
+          -  Participants must not have had prior autoimmune disorders requiring cytotoxic or
+             immunosuppressive therapy, or autoimmune disorders with visceral involvement;
+             participants must not have an active or inactive autoimmune disorders (e.g.,
+             rheumatoid arthritis, moderate or severe psoriasis, multiple sclerosis, inflammatory
+             bowel disease, etc.); participants who are receiving therapy for an autoimmune or
+             inflammatory disease requiring these therapies are also excluded
+
+          -  The following will not be exclusionary:
+
+               -  Resolved ipilimumab associated inflammatory disease
+
+               -  The presence of laboratory evidence of autoimmune disease (e.g., positive
+                  antinuclear antibody [ANA] titer) without associated symptoms
+
+               -  Subjects with vitiligo, thyroiditis, or atopic dermatitis, but otherwise not
+                  meeting this criterion may be enrolled; individual cases can be discussed with
+                  the sponsor
+
+          -  Not likely curable with surgery alone
+
+          -  Not currently receiving therapy
+
+          -  Females of childbearing potential must have a negative pregnancy test within 48 hours
+             before initiating protocol therapy
+
+               -  NOTE: women of child-bearing potential and men must agree to use adequate
+                  contraception (hormonal or barrier method of birth control or abstinence) before
+                  study entry and for the duration of study participation; should a woman become
+                  pregnant or suspect she is pregnant while she or her partner is participating in
+                  this study, she should inform her treating physician immediately; men treated or
+                  enrolled on this protocol must also agree to use adequate contraception before
+                  the study, for the duration of study participation, and 4 months after
+                  completing INCB024360 and MELITAC 12.1 administration
+
+               -  NOTE: subjects are considered not of child bearing potential if they are
+                  surgically sterile, have undergone a hysterectomy, bilateral tubal ligation, or
+                  bilateral oophorectomy, or are postmenopausal; menopause is the age associated
+                  with complete cessation of menstrual cycles and menses, and implies the loss of
+                  reproductive potential; by a practical definition, the term assumes menopause
+                  after 1 year without menses with an appropriate clinical profile at the
+                  appropriate age
+
+          -  Ability to understand and willingness to sign a written informed consent document
+
+        Exclusion Criteria:
+
+          -  Patients who have had cytotoxic chemotherapy, radiotherapy, interferon (IFN),
+             immunosuppressive therapy, or steroids within 4 weeks (6 weeks for nitrosoureas or
+             mitomycin C) before entering the study or those who have not recovered from adverse
+             events (AEs) due to agents administered more than 4 weeks earlier
+
+          -  Ipilimumab or other immunologically active therapy within 8 weeks of enrollment;
+             NOTE: patients who experience melanoma progression (by RECIST 1.1 criteria) while on
+             or after treatment with PD-1 or PDL-1 antibody may enroll on this study
+
+          -  Active immunosuppressive therapy, including concurrent systemic immunosuppressive
+             therapy or steroid therapy with more than 7 consecutive days of steroids within the
+             prior 4 weeks
+
+               -  The use of prednisone or equivalent &lt; 0.125 mg/kg/day (absolute maximum of 10
+                  mg/day) as replacement therapy is permitted
+
+               -  Inhaled corticosteroids are permitted
+
+          -  Cardiovascular disease that meets one of the following: congestive heart failure (New
+             York Heart Association class III or IV), active angina pectoris, or recent myocardial
+             infarction or acute coronary syndrome (within the last 6 months)
+
+          -  History of peripheral vascular disease (PVD) that has required surgical or
+             percutaneous intervention or documented PVD that requires medical management with
+             medications such as acetylsalicylic acid (ASA) + clopidogrel; patients with diabetes
+             that is not well controlled are excluded from participation; not well controlled is
+             defined as a hemoglobin (Hgb) A1C of greater than 7.5%
+
+          -  Current or history of systemic autoimmune disease requiring systemic therapy,
+             including significant autoimmunity associated with prior ipilimumab therapy or
+             therapy with antibodies to PD-1 or PD-L1
+
+          -  Cirrhosis, chronic hepatitis C virus positivity, or chronic hepatitis B infection;
+             subjects who may not tolerate immune-mediated hepatitis due to compromised hepatic
+             reserve also excluded from participation including: subjects with extensive liver
+             metastasis (as judged by the investigator); subjects who drink more than two standard
+             alcoholic beverages per day on a regular basis; subjects who consume more than 2
+             grams of acetaminophen per day on a regular basis
+
+               -  A positive hepatitis B serology indicative of previous immunization (i.e.,
+                  hepatitis B surface antibody [HBsAb]-positive and hepatitis B core antibody
+                  [HBcAb]-negative), or a fully resolved acute hepatitis B infection is not an
+                  exclusion criterion
+
+          -  Patients who are receiving any other investigational agents for melanoma
+
+          -  Patients who have had a grade one or grade two gastrointestinal adverse event during
+             or after receiving anti-CTLA-4, anti-PD1 or anti-PD, without a colonoscopy verifying
+             complete resolution of the adverse event
+
+          -  Patients who have experienced bowel perforation, neurologic involvement, Guillain
+             Barré syndrome, Myasthenia Gravis, Steven Johnson syndrome and other intractable
+             events or grade 4 non-laboratory toxicity
+
+          -  Uncontrolled intercurrent illness including, but not limited to, ongoing or active
+             infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac
+             arrhythmia, or psychiatric illness/social situations that would limit compliance with
+             study requirements
+
+          -  Pregnancy, nursing, or unwilling to take adequate birth control during therapy
+
+               -  NOTE: pregnant women are excluded from this study; breastfeeding should be
+                  discontinued if the mother is treated with INCB024360 and MELITAC 12.1
+
+          -  Known human immunodeficiency virus (HIV) or other history of immunodeficiency
+             disorder
+
+               -  NOTE: HIV-positive patients taking combination antiretroviral therapy are
+                  ineligible
+
+          -  Extensive active brain disease, including symptomatic brain metastases or the
+             presence of leptomeningeal disease
+
+               -  Patients with brain metastasis, after definitive therapy with surgery or
+                  stereotactic radiation and stable off steroids for &gt; 4 weeks, are eligible
+
+          -  Any malignancy that has not been in complete remission for at least 3 years
+
+               -  NOTE: patients with cured basal or squamous cell skin cancer are not excluded;
+                  patients with a history of excised in situ cancers, including breast, cervical,
+                  colon, superficial bladder, prostate or other body system are not excluded;
+                  study entry will be allowed at the discretion of the Principal Investigator
+
+               -  NOTE: recurrence of the in situ cancer or tumor at the time of study entry would
+                  be exclusionary
+
+          -  Monoamine oxidase (MAO) inhibitor use within the past 3 weeks or prior evidence of
+             serotonin syndrome
+
+          -  History of allergic reactions attributed to compounds of similar chemical or biologic
+             composition to INCB024360, MELITAC 12.1, or other vaccine components
+
+          -  Prior organ allograft or allogeneic transplantation, if the transplanted tissue is
+             still in place
+
+          -  Medical or psychiatric illness that would, in the opinion of the investigator,
+             preclude participation in the study or the ability of patients to provide informed
+             consent for themselves
+
+          -  History of pulmonary disease such as emphysema or chronic obstructive pulmonary
+             disease (COPD), (forced expiratory volume in one second [FEV1] &gt; 60% of predicted for
+             height and age); pulmonary function tests (PFTs) are required in patients with
+             prolonged smoking history or symptoms of respiratory dysfunction
+
+          -  Use of any UDP glucuronosyltransferase 1 family, polypeptide A9 (UGT1A9) inhibitor
+             including: acitretin, amitriptyline, androsterone, cyclosporine, dasatinib,
+             diclofenac, diflunisal, efavirenz, erlotinib, estradiol (17-beta), flutamide,
+             geftinib, gemfibrozil, glycyrrhetinic acid, glycyrrhizin, imatinib, imipramine,
+             ketoconazole, lineoleic acid, mefenamic acid, mycophenolic acid, niflumic acid,
+             nilotinib, phenobarbital, phenylbutazone, phenytoin, probenecid propofol, quinidine,
+             ritonavir, Sorafenib, sulfinpyrazone, valproic acid and verapamil from screening
+             through follow-up period
+
+          -  Low-dose Coumadin (1 mg) is acceptable; however, doses that increase INR are not
+             permitted; if an alternative to Coumadin-based anticoagulants cannot be used, the INR
+             should be monitored weekly after initiation of therapy and upon discontinuation of
+             INCB024360, until INR normalization
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Craig Slingluff</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Cancer Immunotherapy Trials Network</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Emory University/Winship Cancer Institute</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University Medical Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Foundation</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia Cancer Center</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2017</verification_date>
+  <lastchanged_date>January 18, 2017</lastchanged_date>
+  <firstreceived_date>October 8, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Melanoma</mesh_term>
+    <mesh_term>Uveal Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

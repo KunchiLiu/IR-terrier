@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="107794">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01701037</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VICC MEL 1263</org_study_id>
+    <secondary_id>NCI-2012-01699</secondary_id>
+    <nct_id>NCT01701037</nct_id>
+  </id_info>
+  <brief_title>Dabrafenib Alone and in Combination With Trametinib Before Surgery in Treating Patients With Locally or Regionally Advanced Melanoma That Can Be Removed By Surgery</brief_title>
+  <official_title>Biomarkers of Response and Resistance to Sequential B-RAF and MEK Targeted Therapy in a Pre-Surgical Model of Advanced, Operable Melanoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vanderbilt-Ingram Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Comprehensive Cancer Network</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Vanderbilt-Ingram Cancer Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial studies how well giving dabrafenib alone and in combination with
+      trametinib before surgery works in treating patients with advanced melanoma that can be
+      removed by surgery. Studying samples of tumor tissue in the laboratory from patients
+      receiving dabrafenib and trametinib may help doctors learn more about the effects of these
+      drugs on cells and help identify biomarkers that determine which patients will respond to
+      these drugs best.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To identify markers of intrinsic resistance to v-Raf murine sarcoma viral oncogene
+      homolog B1 (B-RAF) targeted therapy in B-RAF mutation-positive melanoma.
+
+      SECONDARY OBJECTIVES:
+
+      I. To determine if intrinsic resistance can be reversed by mitogen activated protein kinase
+      (MEK) targeted therapy and to identify biomarkers that correlate with this response.
+
+      II. To evaluate the feasibility of pre-surgical targeted therapy and serial tumor biopsies
+      in patients with advanced, operable melanoma to determine if this model can be used to
+      evaluate novel combinations of molecular targeted therapy in the future.
+
+      TERTIARY OBJECTIVES:
+
+      I. To determine if pre-surgical B-RAF and MEK targeted therapy is active and well tolerated
+      in patients with advanced, operable melanoma. These findings may be used to support clinical
+      trials in un-resectable, B-RAF mutation-positive melanoma.
+
+      OUTLINE:
+
+      Patients receive dabrafenib orally (PO) twice daily (BID) on days 1-28 adding trametinib on
+      days 15-28 followed by surgery on days 28-30. Treatment continues until the day prior to
+      surgery in the absence of unacceptable toxicity.
+
+      After completion of study treatment, patients are followed up for 3 months.
+    </textblock>
+  </detailed_description>
+  <overall_status>Unknown status</overall_status>
+  <last_known_status>Recruiting</last_known_status>
+  <start_date>January 2013</start_date>
+  <completion_date type="Anticipated">December 2014</completion_date>
+  <primary_completion_date type="Anticipated">October 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical tumor response, in terms of change (greater than 30% reduction in tumor volume by RECIST criteria) and association with biomarker expression</measure>
+    <time_frame>Baseline and day 14</time_frame>
+    <description>Tumor response summarized in frequency tables and incidence compared using the chi-square or Fisher's exact test. Biomarker expression summarized using minimum, 25th, 50th (median), 75th, and maximum values. Spearman (nonparametric) correlation statistic used to assess strength of association between biomarker expression and tumor volume between any two time points. Logistic regression used to assess the association between biomarker expression and patient response by RECIST criteria. 95% confidence intervals will be calculated for all point estimates.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in incremental clinical tumor response (greater than 30% tumor volume reduction by RECIST criteria) in participants with intrinsic resistance to B-RAF targeted therapy</measure>
+    <time_frame>Day 14 and day 28</time_frame>
+    <description>Tumor response summarized in frequency tables and incidence compared using the chi-square or Fisher's exact test. Biomarker expression summarized using minimum, 25th, 50th (median), 75th, and maximum values. Spearman (nonparametric) correlation statistic used to assess strength of association between biomarker expression and tumor volume between any two time points. Logistic regression used to assess the association between biomarker expression and patient response by RECIST criteria. 95% confidence intervals will be calculated for all point estimates.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with worst grade toxicities by grade according to National Cancer Institute (NCI) CTCAE version 4.0</measure>
+    <time_frame>Up to 3 months</time_frame>
+    <description>Events will be summarized by frequency and proportion of total subjects, by system organ class and preferred term.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median number of the investigational agent taken per patient</measure>
+    <time_frame>Up to 3 months</time_frame>
+    <description>Participants that receive all planned doses of the investigational agent. this outcome measure is captured by completion of a pill diary used by the patient to record pills taken.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of patients completing second and third (surgical) biopsies</measure>
+    <time_frame>Up to 3 months</time_frame>
+    <description>Biopsies will be assessed whether or not tissue is acquired at specified time points. Tissue is obtained through core, punch, incisional or excisional biopsy or surgical resection, based upon the clinical situation. Standard operating procedures for biopsies, sample preparation and analysis have been defined.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of biopsies with adequate tissue for biomarker analysis</measure>
+    <time_frame>Up to 3 months</time_frame>
+    <description>Measured by the percent of tumor necrosis on hematoxylin and eosin stains; RNA gel electrophoresis, percent of adequate tissue for immunohistochemical stains in tissue microarray and cyTOF analysis.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Recurrent Melanoma</condition>
+  <condition>Stage IIB Melanoma (Locally Advanced)</condition>
+  <condition>Stage IIC Melanoma (Locally Advanced)</condition>
+  <condition>Stage IIIA Melanoma</condition>
+  <condition>Stage IIIB Melanoma</condition>
+  <condition>Stage IIIC Melanoma</condition>
+  <condition>Stage IV Melanoma (Limited, Resectable)</condition>
+  <arm_group>
+    <arm_group_label>Basic science (dabrafenib, trametinib)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive dabrafenib PO BID on days 1-28 adding trametinib on days 15-28 followed by surgery on days 28-30. Treatment continues in the absence of unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>dabrafenib</intervention_name>
+    <description>150 mg given PO</description>
+    <arm_group_label>Basic science (dabrafenib, trametinib)</arm_group_label>
+    <other_name>BRAF inhibitor GSK2118436</other_name>
+    <other_name>GSK2118436</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>trametinib</intervention_name>
+    <description>2 mg given PO</description>
+    <arm_group_label>Basic science (dabrafenib, trametinib)</arm_group_label>
+    <other_name>GSK1120212</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>laboratory biomarker analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Basic science (dabrafenib, trametinib)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Signed written informed consent
+
+          -  Patients with locally-or regionally advanced melanoma being considered for resection
+             of the lesion(s) for local-regional control and potential cure
+
+               -  Patients with limited, resectable metastatic disease (three or fewer lesions)
+                  are eligible if surgical resection is considered to be the best therapeutic
+                  option
+
+               -  Patients with AJCC clinical stage IIb-IV disease at initial diagnosis, or
+                  patients with melanoma of any stage with advanced local or regional recurrence,
+                  with or without limited resectable metastatic disease, would be eligible
+
+          -  B-RAF V-600 mutation positive by snapshot molecular analysis
+
+               -  Individuals with B-RAF V-600 mutations other than V600E are eligible
+
+          -  Measurable disease, i.e. presenting with at least one measurable lesion per Response
+             Evaluation Criteria in Solid tumors (RECIST) 1.1
+
+          -  All prior treatment related toxicities must be Common Terminology Criteria for
+             Adverse Events (CTCAE) (Version 4.0) =&lt; Grade 1 at the time of enrollment
+
+          -  Adequate baseline organ function defined by the criteria below:
+
+               -  Absolute Neutrophil Count (ANC) &gt;= 1.5 X 10^9/L
+
+               -  Platelet Count &gt;= 60 X 10^9/L
+
+               -  Hemoglobin &gt;= 9 g/dl
+
+               -  Creatinine =&lt; 2 mg/dl
+
+               -  Aspartate aminotransferase (AST) =&lt; 100 U/L
+
+               -  Alanine aminotransferase (ALT) =&lt; 100 U/L
+
+               -  Alkaline Phosphatase =&lt; 380 U/L
+
+               -  Total Bilirubin =&lt; 2.0 mg/dl
+
+          -  Women of childbearing potential must have a negative serum pregnancy test within 14
+             days of first dose of study treatment and agree to use effective contraception during
+             the study and for 7 days following the last dose of study treatment
+
+          -  Men with a female partner of childbearing potential must have either had a prior
+             vasectomy or agree to use effective contraception from 1 day prior to administration
+             of the first dose of study treatment until 7 days after the last dose of study
+             treatment
+
+        Exclusion Criteria:
+
+          -  ECOG Performance Status &gt; 2
+
+          -  Lactating female
+
+          -  Any serious and/or unstable pre-existing medical, psychiatric disorder, or other
+             conditions that could interfere with subject's safety, obtaining informed consent or
+             compliance to the study procedures
+
+          -  Any serious medical condition that would render the patient unable to undergo
+             surgical resection or would limit life expectancy to less than 1 year
+
+          -  Any prohibited medication
+
+          -  Administration of an investigational drug within 30 days or 5 half-lives, whichever
+             is longer, preceding the first dose of study treatment
+
+          -  A known immediate or delayed hypersensitivity reaction or idiosyncrasy to drugs
+             chemically related to GSK-2118436 (dabrafenib) or GSK-1120212 (trametinib) or
+             excipient that contraindicates their participation
+
+          -  Patients with a history of severe cardiovascular disease as defined:
+
+               -  Symptomatic or uncontrolled cardiac arrhythmias
+
+               -  Treatment refractory hypertension, defined as a systolic blood pressure &gt; 160mm
+                  Hg and/or diastolic &gt; 100 mmHg which cannot be controlled by antihypertensive
+                  therapy.
+
+               -  Current ≥ NYHA Class II congestive heart failure
+
+               -  History of myocardial infarction or unstable angina within 6 months prior to
+                  study entry.
+
+               -  History of stroke or TIA within 6 months prior to study entry
+
+               -  QTc ≥ 480 msec
+
+               -  Cardiac valvular disease ≥ grade 2
+
+          -  Patients with a known history of glucose-6-phosphate dehydrogenase (G6PD) deficiency.
+
+          -  Patients with a history of interstitial lung disease or interstitial pneumonitis
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mark Kelley</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Vanderbilt-Ingram Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>VICC Clinical Trials Information Program</last_name>
+    <phone>800-811-8480</phone>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Vanderbilt-Ingram Cancer Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232-6838</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>VICC Clinical Trials Information Program</last_name>
+      <phone>800-811-8480</phone>
+    </contact>
+    <investigator>
+      <last_name>Mark C. Kelley</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.vicc.org/ct/</url>
+    <description>Vanderbilt-Ingram Cancer Center, Find a Clinical Trial</description>
+  </link>
+  <verification_date>March 2013</verification_date>
+  <lastchanged_date>March 29, 2013</lastchanged_date>
+  <firstreceived_date>September 21, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Vanderbilt-Ingram Cancer Center</investigator_affiliation>
+    <investigator_full_name>Mark Kelley, MD</investigator_full_name>
+    <investigator_title>Chief, Division of Surgical Oncology and Endocrine Surgery; Associate Professor of Surgery; Surgical Oncologist</investigator_title>
+  </responsible_party>
+  <keyword>Melanoma, B-RAF, biomarkers, targeted therapy, resistance</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Melanoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Trametinib</mesh_term>
+    <mesh_term>Dabrafenib</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

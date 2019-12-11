@@ -1,0 +1,14 @@
+<DOC>
+	<DOC>NCT02930915</DOC>
+	<brief_summary>This study investigates the feasibility of using 3D-Printing to manufacture masks used to immobilize patients undergoing radiotherapy treatment for tumors affecting the head and neck.</brief_summary>
+	<brief_title>Acquisition of 3D Facial Geometry of Patients' Scheduled for Radiotherapy Treatment</brief_title>
+	<detailed_description>The current types of masks that are used in radiotherapy treatment sessions for those patients who have head-and-neck cancer are 'made to measure' and the methods currently employed to make them are invasive and in some cases patients' have found this to be particularly unpleasant. Their experience motivates research into less invasive and potentially more accurate techniques for their manufacture. To effectively develop an automatic manufacturing pipeline, and to assess the accuracy of the approach we need access to CT data from a cohort of patients for which we also have an accurate (ground truth) 3D facial model. Such a model can be acquired in a few minutes using a hand-held laser scanner.</detailed_description>
+	<mesh_term>Head and Neck Neoplasms</mesh_term>
+	<criteria>Have a Headandneck cancer Receiving radiotherapy treatments (CT images) Children (age less than 18)</criteria>
+	<gender>All</gender>
+	<minimum_age>18 Years</minimum_age>
+	<maximum_age>69 Years</maximum_age>
+	<verification_date>October 2016</verification_date>
+	<keyword>Head and Neck Cancer</keyword>
+	<keyword>Radiotherapy</keyword>
+</DOC>

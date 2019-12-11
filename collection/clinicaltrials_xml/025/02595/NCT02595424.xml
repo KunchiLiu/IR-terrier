@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="39250">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02595424</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EA2142</org_study_id>
+    <secondary_id>NCI-2015-00547</secondary_id>
+    <secondary_id>NCI-2015-00505</secondary_id>
+    <secondary_id>EA2142</secondary_id>
+    <secondary_id>EA2142</secondary_id>
+    <secondary_id>U10CA180820</secondary_id>
+    <nct_id>NCT02595424</nct_id>
+  </id_info>
+  <brief_title>Cisplatin and Etoposide or Temozolomide and Capecitabine in Treating Patients With Neuroendocrine Carcinoma of the Gastrointestinal Tract or Pancreas That Is Metastatic or Cannot Be Removed by Surgery</brief_title>
+  <official_title>Randomized Phase II Study of Cisplatin and Etoposide Versus Temozolomide and Capecitabine in Patients With Advanced G3 Non-small Cell Gastroenteropancreatic Neuroendocrine Carcinomas</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ECOG-ACRIN Cancer Research Group</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Eastern Cooperative Oncology Group</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This randomized phase II trial studies how well temozolomide and capecitabine work compared
+      to standard treatment with cisplatin and etoposide in treating patients with neuroendocrine
+      carcinoma of the gastrointestinal tract or pancreas that has spread to other parts of the
+      body (metastatic) or cannot be removed by surgery. Drugs used in chemotherapy, such as
+      temozolomide, capecitabine, cisplatin, and etoposide, work in different ways to stop the
+      growth of tumor cells, either by killing the cells, by stopping them from dividing, or by
+      stopping them from spreading. Certain types of neuroendocrine carcinomas may respond better
+      to treatments other than the current standard treatment of cisplatin and etoposide. It is
+      not yet known whether temozolomide and capecitabine may work better than cisplatin and
+      etoposide in treating patients with this type of neuroendocrine carcinoma, called non-small
+      cell neuroendocrine carcinoma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To assess the progression free survival (PFS) of cisplatin and etoposide versus the PFS
+      of temozolomide and capecitabine in patients with advanced G3 non-small cell
+      gastroenteropancreatic neuroendocrine carcinomas.
+
+      SECONDARY OBJECTIVES:
+
+      I. To assess the response rate (RR) of cisplatin and etoposide versus the RR of temozolomide
+      and capecitabine in patients with advanced G3 non-small cell gastroenteropancreatic
+      neuroendocrine carcinomas.
+
+      II. To assess the overall survival (OS) of cisplatin and etoposide versus the OS of
+      temozolomide and capecitabine in patients with advanced G3 non-small cell
+      gastroenteropancreatic neuroendocrine carcinomas.
+
+      III. To evaluate the toxicities associated with the combination of temozolomide and
+      capecitabine and the combination of cisplatin and etoposide, respectively, in patients with
+      advanced G3 non-small cell gastroenteropancreatic neuroendocrine carcinomas.
+
+      TERTIARY OBJECTIVES:
+
+      I. To assess the impact of each treatment regimen on PFS, RR and OS based on marker of
+      proliferation Ki-67 (Ki-67) index in patients with advanced G3 non-small cell
+      gastroenteropancreatic neuroendocrine carcinomas. (Laboratory) II. To assess the prognostic
+      significance of well differentiated versus poorly differentiated non-small cell
+      gastroenteropancreatic neuroendocrine tumors in relationship to survival and response to
+      treatment. (Laboratory) III. To assess the agreement in marker of proliferation Ki-67
+      (Ki-67) status between that reported by institutional pathologist and that reported by
+      central pathology review. (Laboratory)
+
+      OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+      ARM A: Patients receive capecitabine orally (PO) twice daily (BID) on days 1-14 and
+      temozolomide PO once daily (QD) on days 10-14. Courses repeat every 28 days in the absence
+      of disease progression or unacceptable toxicity.
+
+      ARM B: Patients receive cisplatin intravenously (IV) over approximately 30 minutes and
+      etoposide IV over approximately 60 minutes on days 1-3. Courses repeat every 21 days in the
+      absence of disease progression or unacceptable toxicity.
+
+      After completion of study treatment, patients are followed up for 5 years.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>November 2015</start_date>
+  <primary_completion_date type="Anticipated">January 2018</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>PFS</measure>
+    <time_frame>Time from randomization to documented progression or death without progression, assessed up to 1 year</time_frame>
+    <description>Kaplan-Meier estimates will be used for time-to-event distribution. PFS by arm will be compared using one-sided stratified log-rank tests. Stratified Cox's proportional hazards models will be used to estimate hazard ratios.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of toxicity, graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0</measure>
+    <time_frame>Up to 30 days after last dose of protocol therapy</time_frame>
+    <description>90% confidence intervals will be provided.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>OS</measure>
+    <time_frame>Time from randomization to death from any cause, assessed up to 5 years</time_frame>
+    <description>Kaplan-Meier estimates will be used for time-to-event distribution. OS by arm will be compared using one-sided stratified log-rank tests. Stratified Cox's proportional hazards models will be used to estimate hazard ratios.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Response rate (complete response or partial response) by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Analyzed using a Fisher's exact test at a one-sided significance level of 0.10.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Optimal cutoff value in Ki-67 that defines patients with prolonged OS</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Receiver operating characteristics analysis will be performed to first determine the optimal cutoff value in Ki-67 that defines patients with prolonged OS. For the series of Ki-67 values observed in the data, Youden's index will be calculated and with the highest index the threshold that minimizes the false positive and false negative rates for best detecting prolonged OS will be identified. Optimal cutoff values of Ki-67 with respect to response to temozolomide and capecitabine, positive octreotide scans, and negative PET scans will also be determined in a similar manner.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">126</enrollment>
+  <condition>Colorectal Large Cell Neuroendocrine Carcinoma</condition>
+  <condition>Esophageal Large Cell Neuroendocrine Carcinoma</condition>
+  <condition>Gallbladder Large Cell Neuroendocrine Carcinoma</condition>
+  <condition>Gastric Large Cell Neuroendocrine Carcinoma</condition>
+  <condition>Pancreatic Large Cell Neuroendocrine Carcinoma</condition>
+  <condition>Small Intestinal Large Cell Neuroendocrine Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Arm A (capecitabine, temozolomide)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive capecitabine PO BID on days 1-14 and temozolomide PO QD on days 10-14. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B (cisplatin, etoposide)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients receive cisplatin IV over approximately 30 minutes and etoposide IV over approximately 60 minutes on days 1-3. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Capecitabine</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Arm A (capecitabine, temozolomide)</arm_group_label>
+    <other_name>Ro 09-1978/000</other_name>
+    <other_name>Xeloda</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cisplatin</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Arm B (cisplatin, etoposide)</arm_group_label>
+    <other_name>Abiplatin</other_name>
+    <other_name>Blastolem</other_name>
+    <other_name>Briplatin</other_name>
+    <other_name>CDDP</other_name>
+    <other_name>Cis-diammine-dichloroplatinum</other_name>
+    <other_name>Cis-diamminedichloridoplatinum</other_name>
+    <other_name>Cis-diamminedichloro Platinum (II)</other_name>
+    <other_name>Cis-diamminedichloroplatinum</other_name>
+    <other_name>Cis-dichloroammine Platinum (II)</other_name>
+    <other_name>Cis-platinous Diamine Dichloride</other_name>
+    <other_name>Cis-platinum</other_name>
+    <other_name>Cis-platinum II</other_name>
+    <other_name>Cis-platinum II Diamine Dichloride</other_name>
+    <other_name>Cismaplat</other_name>
+    <other_name>Cisplatina</other_name>
+    <other_name>Cisplatinum</other_name>
+    <other_name>Cisplatyl</other_name>
+    <other_name>Citoplatino</other_name>
+    <other_name>Citosin</other_name>
+    <other_name>Cysplatyna</other_name>
+    <other_name>DDP</other_name>
+    <other_name>Lederplatin</other_name>
+    <other_name>Metaplatin</other_name>
+    <other_name>Neoplatin</other_name>
+    <other_name>Peyrone's Chloride</other_name>
+    <other_name>Peyrone's Salt</other_name>
+    <other_name>Placis</other_name>
+    <other_name>Plastistil</other_name>
+    <other_name>Platamine</other_name>
+    <other_name>Platiblastin</other_name>
+    <other_name>Platiblastin-S</other_name>
+    <other_name>Platinex</other_name>
+    <other_name>Platinol</other_name>
+    <other_name>Platinol- AQ</other_name>
+    <other_name>Platinol-AQ</other_name>
+    <other_name>Platinol-AQ VHA Plus</other_name>
+    <other_name>Platinoxan</other_name>
+    <other_name>Platinum</other_name>
+    <other_name>Platinum Diamminodichloride</other_name>
+    <other_name>Platiran</other_name>
+    <other_name>Platistin</other_name>
+    <other_name>Platosin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Etoposide</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Arm B (cisplatin, etoposide)</arm_group_label>
+    <other_name>Demethyl Epipodophyllotoxin Ethylidine Glucoside</other_name>
+    <other_name>EPEG</other_name>
+    <other_name>Lastet</other_name>
+    <other_name>Toposar</other_name>
+    <other_name>Vepesid</other_name>
+    <other_name>VP 16-213</other_name>
+    <other_name>VP-16</other_name>
+    <other_name>VP-16-213</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Laboratory Biomarker Analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Arm A (capecitabine, temozolomide)</arm_group_label>
+    <arm_group_label>Arm B (cisplatin, etoposide)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Temozolomide</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Arm A (capecitabine, temozolomide)</arm_group_label>
+    <other_name>CCRG-81045</other_name>
+    <other_name>Imidazo[5,1-d]-1,2,3,5-tetrazine-8-carboxamide, 3, 4-dihydro-3-methyl-4-oxo-</other_name>
+    <other_name>M &amp; B 39831</other_name>
+    <other_name>M and B 39831</other_name>
+    <other_name>Methazolastone</other_name>
+    <other_name>RP-46161</other_name>
+    <other_name>SCH 52365</other_name>
+    <other_name>Temodal</other_name>
+    <other_name>Temodar</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients must have a locally advanced and unresectable or metastatic
+             gastroenteropancreatic neuroendocrine carcinoma of the gastrointestinal (GI) tract
+
+          -  Patients must have pathologically/histologically confirmed tumor of non-small cell
+             histology
+
+          -  Patients must have a Ki-67 proliferative index of 20-100%
+
+          -  Patients must have evidence of at least 10 mitotic figures per 10 high powered fields
+
+          -  Patients must have tissue available for central pathology review
+
+          -  Patients must have measurable disease by Response Evaluation Criteria in Solid Tumors
+             (RECIST) 1.1 criteria; baseline measurements and evaluations of all sites of disease
+             must be obtained within 4 weeks prior to randomization and must be acquired by
+             multiphasic computed tomography (CT) or contrast magnetic resonance imaging (MRI)
+
+               -  NOTE: PET-CT scans are allowed provided the CT portion is of the same diagnostic
+                  quality, with IV contrast
+
+          -  Patients may not have had any prior treatment for this malignancy
+
+          -  Patients may not have received any of the protocol agents within 5 years prior to
+             randomization
+
+          -  Any prior surgeries must have been completed at least 4 weeks prior to randomization
+
+          -  Patients must have an Eastern Cooperative Oncology Group (ECOG) performance status of
+             0-2
+
+          -  Patients may not be receiving any other investigational agents while on study
+             treatment
+
+          -  Patients may not be receiving Coumadin while on treatment; other anticoagulants are
+             allowed
+
+          -  Leukocytes &gt;= 3,000/mm^3
+
+          -  Absolute neutrophil count &gt;= 1,500/mm^3
+
+          -  Hemoglobin &gt;= 9 g/dL
+
+          -  Platelets &gt;= 100,000/mm^3
+
+          -  Total bilirubin =&lt; institutional upper limit of normal (ULN) or =&lt; 1.5 X
+             institutional ULN (if the patient has liver metastases)
+
+          -  Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase
+             [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT])
+             =&lt; 2.5 X institutional ULN or (=&lt; 5 X institutional ULN if the patient has liver
+             metastases)
+
+          -  Serum creatinine =&lt; 1.5 X institutional ULN
+
+          -  Patients must have a life expectancy of &gt;= 12 weeks as determined clinically by the
+             treating physician
+
+          -  Patients with brain metastases (either remote or current) or presence of
+             carcinomatous meningitis are not eligible
+
+          -  Patients with known dihydropyrimidine dehydrogenase (DPD) deficiency will be excluded
+
+          -  Patients must NOT have active or uncontrolled infection, symptomatic heart failure,
+             unstable angina pectoris, cardiac arrhythmia or a serious psychiatric illness/social
+             situation that would limit compliance with study requirements
+
+          -  Patients with impaired decision making capacity may participate in the study if a
+             legal authorized representative is available to consent
+
+          -  Patients must NOT have a history of allergic reactions attributed to compounds of
+             similar chemical or biochemical composition to cisplatin, etoposide, temozolomide or
+             capecitabine
+
+          -  Patients must NOT have absorption issues that would limit the ability to absorb study
+             agents
+
+          -  Patients with a history of the following within =&lt; 12 months of study entry are not
+             eligible:
+
+               -  Arterial thromboembolic events
+
+               -  Unstable angina
+
+               -  Myocardial Infarction
+
+          -  Patients with symptomatic peripheral vascular disease are not eligible
+
+          -  Patients must NOT have previous or concurrent malignancy; exceptions are made for
+             patients who meet any of the following conditions:
+
+               -  Non-melanoma skin cancer, in situ cervical cancer, superficial bladder cancer,
+                  or breast cancer in situ OR
+
+               -  Prior malignancy completely excised or removed and patient has been continuously
+                  disease free for &gt; 5 years OR
+
+               -  Prior malignancy cured by non-surgical modalities and patient has been
+                  continuously disease free for &gt; 5 years
+
+          -  Women must not be pregnant or breast-feeding due to potential harm to the fetus from
+             cisplatin, etoposide, temozolomide and/or capecitabine
+
+               -  All females of childbearing potential must have a blood test or urine study
+                  within 2 weeks prior to randomization to rule out pregnancy
+
+               -  A female of childbearing potential is any woman, regardless of sexual
+                  orientation or whether they have undergone tubal ligation, who meets the
+                  following criteria: 1) has not undergone a hysterectomy or bilateral
+                  oophorectomy; or 2) has not been naturally postmenopausal for at least 24
+                  consecutive months (i.e., has had menses at any time in the preceding 24
+                  consecutive months)
+
+          -  Women of childbearing potential and sexually active males must be strongly advised to
+             use an accepted and effective method of contraception or to abstain from sexual
+             intercourse for the duration of their participation in the study
+
+          -  Patients must be able to swallow pills
+
+          -  Patients must be able to tolerate CT or magnetic resonance (MR) imaging including
+             contrast agents as required for the treatment and the protocol
+
+          -  Patients who are known to have human immunodeficiency virus (HIV) or are on
+             combination antiretroviral therapy are ineligible
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jennifer Eads</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>ECOG-ACRIN Cancer Research Group</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>ECOG-ACRIN Cancer Research Group</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jennifer R. Eads</last_name>
+      <phone>216-844-6031</phone>
+      <email>jennifer.eads@uhhospitals.org</email>
+    </contact>
+    <investigator>
+      <last_name>Jennifer R. Eads</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2016</verification_date>
+  <lastchanged_date>January 5, 2016</lastchanged_date>
+  <firstreceived_date>November 2, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Neuroendocrine</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Etoposide phosphate</mesh_term>
+    <mesh_term>Temozolomide</mesh_term>
+    <mesh_term>Cisplatin</mesh_term>
+    <mesh_term>Capecitabine</mesh_term>
+    <mesh_term>Etoposide</mesh_term>
+    <mesh_term>Dacarbazine</mesh_term>
+    <mesh_term>Podophyllotoxin</mesh_term>
+    <mesh_term>Succinylcholine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

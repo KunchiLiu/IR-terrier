@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1612">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03085888</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GRAIL-002</org_study_id>
+    <nct_id>NCT03085888</nct_id>
+  </id_info>
+  <brief_title>The STRIVE Study: Breast Cancer Screening Cohort</brief_title>
+  <official_title>The STRIVE Study: Breast Cancer Screening Cohort for Training and Validation of the GRAIL Test</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GRAIL, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GRAIL, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      GRAIL is using high-intensity sequencing of circulating cell-free nucleic acids (cfNAs) to
+      develop blood tests to detect cancer early. The purpose of this study is to train and
+      validate an assay to detect invasive breast cancer in patients undergoing mammography.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Detection of early stage cancer may be possible through analysis of circulating cell-free
+      nucleic acids (cfNAs) shed into the blood by tumors. GRAIL is using high-intensity
+      sequencing (based on broad genomic coverage and deep sequencing) of cfNAs, combined with
+      machine learning, to develop blood tests to detect cancer early. The purpose of this
+      prospective, multi-center, observational cohort study is to train and validate an assay for
+      the early detection of breast cancer. The study will collect blood samples from participants
+      within 28 days of their screening mammogram. For participants who receive a cancer diagnosis
+      during the study, tissue samples will be collected.
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">February 28, 2017</start_date>
+  <completion_date type="Anticipated">May 2025</completion_date>
+  <primary_completion_date type="Anticipated">July 2019</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>5 Years</target_duration>
+  <primary_outcome>
+    <measure>Diagnosis of invasive breast cancer among women undergoing mammography</measure>
+    <time_frame>30 Months Estimated</time_frame>
+    <description>Clinically annotated plasma samples from participants will undergo high-intensity sequencing to characterize cfNA profiles.</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">120000</enrollment>
+  <condition>Invasive Breast Cancer</condition>
+  <condition>Neoplasm, Breast</condition>
+  <condition>Cancer, Breast</condition>
+  <arm_group>
+    <arm_group_label>Prospective Cohort</arm_group_label>
+    <description>This is a prospectively enrolling cohort study with a pre-specified molecular analysis plan. A stratified case-cohort design will be employed to select cancer cases and non-cancer subjects who will be assayed. All cases of cancer (breast and non-breast cancer) will be selected. A random subset of the overall study cohort will also be selected.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        This study seeks to enroll 120,000 women receiving screening mammography and associated
+        medical care from participating study centers.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Patient has an appointment for screening mammography, as referred or recommended by a
+             health care provider.
+
+          2. Screening mammogram is received at same facility within 28 days of blood draw (i.e.
+             blood may be drawn up to 28 days before or 28 days after the screening mammogram).
+
+          3. Provides informed consent in English or Spanish. Understands the protocol and its
+             requirements, risks, and discomforts.
+
+          4. Provides consent to participate in long-term follow-up, such as contact via study
+             portal, mail, or phone, for further self-reported information regarding cancer
+             diagnoses, change to health plan or residential status, or request for additional
+             blood draws and linkage to state state cancer registries and administrative
+             databases.
+
+        Exclusion Criteria:
+
+          1. Inability on the part of the patient to understand the informed consent or be
+             compliant with the protocol.
+
+          2. Breast biopsy to evaluate abnormal breast imaging results has occurred prior to a
+             planned research blood draw.
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Brian Allen, MS</last_name>
+    <role>Study Director</role>
+    <affiliation>GRAIL, Inc.</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Anne-Renee Hartman, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>GRAIL, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Sutter Health California Pacific Medical Center</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic - Minnesota</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>32224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 24, 2017</lastchanged_date>
+  <firstreceived_date>January 17, 2017</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cancer Screening</keyword>
+  <keyword>Next Generation Sequencing</keyword>
+  <keyword>Circulating cell-free nucleic acid</keyword>
+  <keyword>Circulating cell-free tumor DNA</keyword>
+  <keyword>Deep sequencing</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

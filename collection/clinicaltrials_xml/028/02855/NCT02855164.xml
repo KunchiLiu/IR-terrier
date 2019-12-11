@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="19336">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02855164</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CLJN452A2202</org_study_id>
+    <secondary_id>2015-005215-33</secondary_id>
+    <nct_id>NCT02855164</nct_id>
+  </id_info>
+  <brief_title>Safety, Tolerability and Efficacy Study of 12 Weeks LJN452 Treatment in NASH Patients</brief_title>
+  <acronym>FLIGHT-FXR</acronym>
+  <official_title>A Randomized, Double-blind, Placebo Controlled, 2-part, Adaptive Design, Multicenter 12-week Study to Assess Safety, Tolerability and Efficacy of LJN452 in Patients With Non-alcoholic Steatohepatitis (NASH)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novartis</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the study is to assess the effects of different doses of LJN452 with respect
+      to safety, tolerability, and on markers of liver inflammation in patients with NASH
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 1, 2016</start_date>
+  <completion_date type="Anticipated">November 28, 2017</completion_date>
+  <primary_completion_date type="Anticipated">November 28, 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Care Provider, Investigator</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Adverse event profile of different doses of LJN452 in patients with NASH</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Occurrence of Serious Adverse Event (SAE), Adverse Event (AE) resulting in treatment discontinuation and/or dose reductions, and AE of special interest, from baseline to week 12</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Transaminase levels</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>To determine the dose relationship of LJN42 on markers of hepatic inflammation in NASH (ALT and AST)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in % of fat in the liver assessed using MRI</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>To determine the dose-response relationship of LJN452 on liver fat content by changes in quantitative MRI</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in weight</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>To determine the effect of different doses of LJN452 on weight, after 12 weeks of treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in biomarker FGF19</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>To determine the dose-response relationship of LJN452 on FGF19 over time, a marker of FXR target engagement in the gut.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline on on markers of liver fibrosis</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>To determine the dose-response relationship of LJN452 on markers of liver fibrosis commonly available such as Fibroscan®, enhanced liver fibrosis panel (ELF), and fibrosis biomarker test (originally known as Fibrotest®/ FibroSure®)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline on gamma-glutamyl transferase (GGT)</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>To determine the dose-response relationship of LJN452 on GGT, a marker of cholestasis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline on fasting lipid profile</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>To determine the effect of LJN452 on fasting lipid profile</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determine Ctrough of LJN452</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>To determine the ctrough of LJN452</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Itch based on a visual analog scale (VAS) rating scale</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>The score (distance from left) on the VAS will be recorded by the patient marking with a line. The distance marked will be converted to a score between 0 and 10</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in BMI</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>To determine the effect of different doses of LJN452 on BMI, after 12 weeks of treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in waist-to-hip (WTH) ratio</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>To determine the effect of different doses of LJN452 on waist-to-hip (WTH) ratio after 12 weeks of treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in biomarker C4</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>To determine the dose-response relationship of LJN452 on C4, a marker of hepatic target engagement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determine C2h of LJN452</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>To determine the pharmacokinetics (PK) of LJN452.</description>
+  </secondary_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>Non-alcoholic Steatohepatitis</condition>
+  <arm_group>
+    <arm_group_label>Part A - Arm A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>LJN452 - dose 1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part A - Arm B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>LJN452 - dose 2</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part A - Arm C</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>LJN452 - dose 3</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part A - Arm D</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>LJN452 - dose 4</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part A - Arm E</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B - Arm F</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>LJN452 - dose to be determined</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B - Arm G</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>LJN452 - dose to be determined</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B - Arm H</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>LJN452</intervention_name>
+    <description>Comparison of different doses of drug</description>
+    <arm_group_label>Part A - Arm A</arm_group_label>
+    <arm_group_label>Part A - Arm B</arm_group_label>
+    <arm_group_label>Part A - Arm C</arm_group_label>
+    <arm_group_label>Part A - Arm D</arm_group_label>
+    <arm_group_label>Part B - Arm F</arm_group_label>
+    <arm_group_label>Part B - Arm G</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Comparator</description>
+    <arm_group_label>Part A - Arm E</arm_group_label>
+    <arm_group_label>Part B - Arm H</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  male/female patients, 18 years or older
+
+          -  written informed consent
+
+          -  presence of NASH by histological evidence (liver biopsy) and elevated alanine
+             aminotransferase (ALT) OR phenotypic diagnosis based on elevated ALT, BMI and
+             diagnosis of Type 2 diabetes mellitus (DM)
+
+          -  Liver fat equal to or higher than 10% by MRI
+
+        Exclusion Criteria:
+
+          -  previous exposure to OCA
+
+          -  patients taking prohibited medications
+
+          -  pregnant or nursing (lactating) women
+
+          -  current or history of significant alcohol consumption for a period of more than 3
+             consecutive months within 1 year prior to screening
+
+          -  uncontrolled diabetes mellitus
+
+          -  presence of cirrhosis
+
+          -  hepatic decompensation or severe liver impairment
+
+          -  previous diagnosis of other forms of chronic liver disease
+
+          -  patients with contraindications to MRI imaging
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <phone>1-888-669-6682</phone>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <phone>+41613241111</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Coronado</city>
+        <state>California</state>
+        <zip>92118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32256</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Catonsville</city>
+        <state>Maryland</state>
+        <zip>21228</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>022215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01655</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68198-2000</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75208-2312</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Fitzroy</city>
+        <state>Victoria</state>
+        <zip>3065</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Graz</city>
+        <zip>8036</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Salzburg</city>
+        <zip>5020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Wien</city>
+        <zip>1090</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bruxelles</city>
+        <zip>1070</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V5Z 1J4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 2C4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Hamburg</city>
+        <zip>20246</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Hannover</city>
+        <zip>30625</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Leipzig</city>
+        <zip>04103</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Würzburg</city>
+        <zip>97080</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bergamo</city>
+        <state>BG</state>
+        <zip>24128</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bologna</city>
+        <zip>40138</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Seoul</city>
+        <state>Korea</state>
+        <zip>05505</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Seoul</city>
+        <state>Korea</state>
+        <zip>120-752</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03080</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Rotterdam</city>
+        <zip>3015 CE</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Utrecht</city>
+        <zip>3508 GA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Singapore</city>
+        <zip>169608</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Banska Bystrica</city>
+        <zip>97517</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bratislava</city>
+        <zip>82606</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bratislava</city>
+        <zip>83104</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Nitra</city>
+        <zip>949 01</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Barcelona</city>
+        <state>Cataluña</state>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28034</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Kaoshiung</city>
+        <zip>80756</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Lin-Kou</city>
+        <zip>33305</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Taipei</city>
+        <zip>10002</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Taipei</city>
+        <zip>112</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>Germany</country>
+    <country>Italy</country>
+    <country>Korea, Republic of</country>
+    <country>Netherlands</country>
+    <country>Singapore</country>
+    <country>Slovakia</country>
+    <country>Spain</country>
+    <country>Taiwan</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2017</verification_date>
+  <lastchanged_date>February 13, 2017</lastchanged_date>
+  <firstreceived_date>July 20, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>LJN452</keyword>
+  <keyword>non-alcoholic steatohepatitis</keyword>
+  <keyword>NASH</keyword>
+  <keyword>phase 2</keyword>
+  <keyword>adaptive design</keyword>
+  <keyword>randomized</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Fatty Liver</mesh_term>
+    <mesh_term>Non-alcoholic Fatty Liver Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

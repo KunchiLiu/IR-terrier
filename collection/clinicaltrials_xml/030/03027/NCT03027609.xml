@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="6095">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03027609</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AR-105-002</org_study_id>
+    <nct_id>NCT03027609</nct_id>
+  </id_info>
+  <brief_title>Aerucin® in P. Aeruginosa Pneumonia</brief_title>
+  <official_title>Placebo-controlled, Double-blind, Randomized Study of Aerucin® as Adjunct Therapy to Antibiotics in the Treatment of P. Aeruginosa Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Aridis Pharmaceuticals, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Aridis Pharmaceuticals, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Prospective, double-blind, randomized assessment of the efficacy, safety and pharmacokinetic
+      of Aerucin® as adjunct treatment (in addition to standard of care antibiotics) for pneumonia
+      caused by P. aeruginosa.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2017</start_date>
+  <completion_date type="Anticipated">June 2018</completion_date>
+  <primary_completion_date type="Anticipated">June 2018</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Care Provider, Investigator, Outcomes Assessor</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical Cure: treatment success, treatment failure</measure>
+    <time_frame>4, 7, 14, 21 and 28 days following dosing</time_frame>
+    <description>Clinical cure as adjudicated by committee</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mortality, all cause</measure>
+    <time_frame>28 days following dosing</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Microbiological outcome: eradicated, not eradicated</measure>
+    <time_frame>28 days following dosing</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health Economic assessments: time ventilated, time in ICU, time in hospital</measure>
+    <time_frame>28 days following dosing</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety - adverse events</measure>
+    <time_frame>28 days following dosing</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety - immunogenicity</measure>
+    <time_frame>28 days following dosing</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic: Aerucin blood level</measure>
+    <time_frame>28 days following dosing</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">108</enrollment>
+  <condition>Pseudomonas Aeruginosa Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>aerubumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>One intravenous infusion of Aerucin 20mg/'kg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matching placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>aerubumab</intervention_name>
+    <description>monoclonal antibody</description>
+    <arm_group_label>aerubumab</arm_group_label>
+    <other_name>AR-105</other_name>
+    <other_name>Aerucin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>placebo</intervention_name>
+    <description>matching placebo</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  informed consent
+
+          -  ≥18 years of age
+
+          -  pneumonia due to P aeruginosa
+
+          -  intubated
+
+          -  APACHE II score between 10 and 35
+
+        Exclusion Criteria (main criteria):
+
+          -  being moribund
+
+          -  effective antibiotic therapy ≥48 hours
+
+          -  immunocompromised
+
+          -  underlying pulmonary disease that may preclude the assessment of a therapeutic
+             response
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>January 2017</verification_date>
+  <lastchanged_date>January 18, 2017</lastchanged_date>
+  <firstreceived_date>January 17, 2017</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Pseudomonas aeruginosa</keyword>
+  <keyword>pneumonia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Pseudomonas Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

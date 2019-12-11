@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="12625">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02942576</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DSE-EDO-01-16-EU</org_study_id>
+    <secondary_id>2016-002683-14</secondary_id>
+    <nct_id>NCT02942576</nct_id>
+  </id_info>
+  <brief_title>Edoxaban Treatment Versus Vitamin K Antagonist (VKA) in Patients With Atrial Fibrillation (AF) Undergoing Catheter Ablation</brief_title>
+  <acronym>ELIMINATE-AF</acronym>
+  <official_title>A Prospective, Randomized, Open-Label, Blinded Endpoint Evaluation (PROBE) Parallel Group Study Comparing Edoxaban vs. VKA in Subjects Undergoing Catheter Ablation of Non-valvular Atrial Fibrillation (ELIMINATE-AF)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Daiichi Sankyo Europe, GmbH</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Daiichi Sankyo Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      There are insufficient data on the safety and efficacy of edoxaban therapy in subjects with
+      AF following catheter ablation. This phase 3b study is designed to evaluate the safety and
+      to explore the efficacy of an edoxaban-based antithrombotic regimen versus a VKA-based
+      antithrombotic regimen in subjects with AF following catheter ablation. Bleeding is a
+      central safety outcome in cardiovascular clinical trials, especially for antithrombotic
+      strategies and invasive procedures.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date>March 2017</start_date>
+  <completion_date type="Anticipated">November 2018</completion_date>
+  <primary_completion_date type="Anticipated">November 2018</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants who experienced composite of all-cause death, stroke and major bleeding defined by the International Society on Thrombosis and Hemostasis (ISTH)</measure>
+    <time_frame>Day 1 to Day 90</time_frame>
+    <description>To compare descriptively the incidence of the composite of all-cause death, stroke (ischemic, hemorrhagic, or undetermined) and major bleeding (International Society on Thrombosis and Hemostasis [ISTH] definition) in the edoxaban group against the vitamin K antagonist (VKA) group in subjects undergoing catheter ablation of atrial fibrillation (AF)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants who experienced major bleeding according to the ISTH definition</measure>
+    <time_frame>Day 1 to Day 90</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who experienced composite of all-cause death, stroke and major bleeding according to ISTH and alternate definitions</measure>
+    <time_frame>Day 1 to Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who experienced the composite of stroke, systemic embolic events (SEE), and cardiovascular (CV) mortality</measure>
+    <time_frame>Day 1 to Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who experienced the composite of stroke, SEE, and all-cause mortality</measure>
+    <time_frame>Day 1 to Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who experienced the composite of stroke, and transient ischemic attack (TIA)</measure>
+    <time_frame>Day 1 to Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who experienced stroke</measure>
+    <time_frame>Day 1 to Day 90</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">560</enrollment>
+  <condition>Atrial Fibrillation</condition>
+  <arm_group>
+    <arm_group_label>Edoxaban-based regimen</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Edoxaban-based regimen for 21 days pre- and 90 days post-ablation period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>VKA-based regimen</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>VKA-based regimen for 21 days pre- and 90 days post-ablation period (control regimen)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Edoxaban</intervention_name>
+    <description>Edoxaban 60 mg once-daily or 30 mg once-daily in selected subjects.</description>
+    <arm_group_label>Edoxaban-based regimen</arm_group_label>
+    <other_name>Lixiana</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>VKA-Based Regimen</intervention_name>
+    <description>Dosed at International Normalised Ratio (INR) levels, which is a test of how long it takes for blood to clot. Standard of Care treatment in Canada, Italy, Poland, Hungary, Czech Republic, UK, Taiwan and Korea.</description>
+    <arm_group_label>VKA-based regimen</arm_group_label>
+    <other_name>Warfarin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>VKA-Based Regimen</intervention_name>
+    <description>Dosed at INR levels. Standard of Care treatment in Germany, Belgium, and the Netherlands.</description>
+    <arm_group_label>VKA-based regimen</arm_group_label>
+    <other_name>Phenprogamma</other_name>
+    <other_name>Phenprocoumon</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>VKA-Based Regimen</intervention_name>
+    <description>Dosed at INR levels. Standard of Care treatment in France.</description>
+    <arm_group_label>VKA-based regimen</arm_group_label>
+    <other_name>Previscan</other_name>
+    <other_name>Fluindione</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>VKA-Based Regimen</intervention_name>
+    <description>Dosed at INR levels. Standard of Care treatment in Spain.</description>
+    <arm_group_label>VKA-based regimen</arm_group_label>
+    <other_name>Sintrom</other_name>
+    <other_name>Acenocoumarol</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Male or female at least 18 years of age with documented history of paroxysmal
+             (lasting ≤7 days), persistent (lasting &gt;7 days but ≤12 months) or long-standing
+             [long-lasting] persistent (&gt;12 months) non-valvular AF. Duration of AF can be
+             confirmed by any electrical tracing or a recording in the subject's medical records
+             (e.g., medical chart, hospital discharge summary).
+
+          -  Subject is eligible and is scheduled for either radio frequency (RF) or cryoballoon
+             catheter ablation (both first and repeated procedure included).
+
+          -  Signed informed consent form (ICF).
+
+        Exclusion Criteria:
+
+          -  AF considered to be of a transient or reversible nature (such as in myocarditis,
+             post-surgery, ionic disturbances, thyrotoxicosis, pneumonia, severe anemia etc.).
+
+          -  Subject post stroke, or with a systemic thromboembolic event within the past 6 months
+             prior to randomization.
+
+          -  Subject has a thrombus in the left atrial appendage (LAA), left atrium (LA), left
+             ventricle (LV), or aorta, or an intracardial mass.
+
+          -  Subject had a myocardial infarction (MI) within the 2 months prior to randomization
+             or coronary artery bypass graft (CABG) surgery within 3 months prior to the
+             randomization.
+
+          -  Subject has signs of bleeding, history of clinically-relevant bleeding according to
+             ISTH, or conditions associated with high risk of bleeding
+
+          -  Subjects with any contraindication for anticoagulant agents.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Iris Wittmann</last_name>
+    <phone>+49 2208 5019 345</phone>
+    <email>Iris.Wittmann@chiltern.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Dmytro Kobyshcha</last_name>
+    <phone>38 067 466 9434</phone>
+    <email>Dmytro.Kobyshcha@chiltern.com</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>Giugliano RP, Ruff CT, Braunwald E, Murphy SA, Wiviott SD, Halperin JL, Waldo AL, Ezekowitz MD, Weitz JI, Špinar J, Ruzyllo W, Ruda M, Koretsune Y, Betcher J, Shi M, Grip LT, Patel SP, Patel I, Hanyok JJ, Mercuri M, Antman EM; ENGAGE AF-TIMI 48 Investigators.. Edoxaban versus warfarin in patients with atrial fibrillation. N Engl J Med. 2013 Nov 28;369(22):2093-104. doi: 10.1056/NEJMoa1310907. Epub 2013 Nov 19.</citation>
+    <PMID>24251359</PMID>
+  </reference>
+  <reference>
+    <citation>Kirchhof P, Benussi S, Kotecha D, Ahlsson A, Atar D, Casadei B, Castella M, Diener HC, Heidbuchel H, Hendriks J, Hindricks G, Manolis AS, Oldgren J, Popescu BA, Schotten U, Van Putte B, Vardas P, Agewall S, Camm J, Baron Esquivias G, Budts W, Carerj S, Casselman F, Coca A, De Caterina R, Deftereos S, Dobrev D, Ferro JM, Filippatos G, Fitzsimons D, Gorenek B, Guenoun M, Hohnloser SH, Kolh P, Lip GY, Manolis A, McMurray J, Ponikowski P, Rosenhek R, Ruschitzka F, Savelieva I, Sharma S, Suwalski P, Tamargo JL, Taylor CJ, Van Gelder IC, Voors AA, Windecker S, Zamorano JL, Zeppenfeld K. 2016 ESC Guidelines for the management of atrial fibrillation developed in collaboration with EACTS. Europace. 2016 Nov;18(11):1609-1678. Epub 2016 Aug 27.</citation>
+    <PMID>27567465</PMID>
+  </reference>
+  <reference>
+    <citation>Crawford T, Oral H. Current status and outcomes of catheter ablation for atrial fibrillation. Heart Rhythm. 2009 Dec;6(12 Suppl):S12-7. doi: 10.1016/j.hrthm.2009.07.026. Epub 2009 Oct 23. Review.</citation>
+    <PMID>19864188</PMID>
+  </reference>
+  <reference>
+    <citation>Hussein AA, Martin DO, Saliba W, Patel D, Karim S, Batal O, Banna M, Williams-Andrews M, Sherman M, Kanj M, Bhargava M, Dresing T, Callahan T, Tchou P, Di Biase L, Beheiry S, Lindsay B, Natale A, Wazni O. Radiofrequency ablation of atrial fibrillation under therapeutic international normalized ratio: a safe and efficacious periprocedural anticoagulation strategy. Heart Rhythm. 2009 Oct;6(10):1425-9. doi: 10.1016/j.hrthm.2009.07.007. Epub 2009 Jul 10.</citation>
+    <PMID>19968920</PMID>
+  </reference>
+  <reference>
+    <citation>Cappato R, Marchlinski FE, Hohnloser SH, Naccarelli GV, Xiang J, Wilber DJ, Ma CS, Hess S, Wells DS, Juang G, Vijgen J, Hügl BJ, Balasubramaniam R, De Chillou C, Davies DW, Fields LE, Natale A; VENTURE-AF Investigators.. Uninterrupted rivaroxaban vs. uninterrupted vitamin K antagonists for catheter ablation in non-valvular atrial fibrillation. Eur Heart J. 2015 Jul 21;36(28):1805-11. doi: 10.1093/eurheartj/ehv177. Epub 2015 May 14.</citation>
+    <PMID>25975659</PMID>
+  </reference>
+  <reference>
+    <citation>Chen J, Todd DM, Hocini M, Larsen TB, Bongiorni MG, Blomström-Lundqvist C; Scientific Initiative Committee, European Heart Rhythm Association.. Current periprocedural management of ablation for atrial fibrillation in Europe: results of the European Heart Rhythm Association survey. Europace. 2014 Mar;16(3):378-81. doi: 10.1093/europace/euu043.</citation>
+    <PMID>24569891</PMID>
+  </reference>
+  <reference>
+    <citation>Hokusai-VTE Investigators., Büller HR, Décousus H, Grosso MA, Mercuri M, Middeldorp S, Prins MH, Raskob GE, Schellong SM, Schwocho L, Segers A, Shi M, Verhamme P, Wells P. Edoxaban versus warfarin for the treatment of symptomatic venous thromboembolism. N Engl J Med. 2013 Oct 10;369(15):1406-15. doi: 10.1056/NEJMoa1306638. Epub 2013 Aug 31. Erratum in: N Engl J Med. 2014 Jan 23;370(4):390.</citation>
+    <PMID>23991658</PMID>
+  </reference>
+  <reference>
+    <citation>Cappato R, Calkins H, Chen SA, Davies W, Iesaka Y, Kalman J, Kim YH, Klein G, Natale A, Packer D, Skanes A, Ambrogi F, Biganzoli E. Updated worldwide survey on the methods, efficacy, and safety of catheter ablation for human atrial fibrillation. Circ Arrhythm Electrophysiol. 2010 Feb;3(1):32-8. doi: 10.1161/CIRCEP.109.859116. Epub 2009 Dec 7.</citation>
+    <PMID>19995881</PMID>
+  </reference>
+  <verification_date>October 2016</verification_date>
+  <lastchanged_date>October 21, 2016</lastchanged_date>
+  <firstreceived_date>October 21, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Atrial Fibrillation</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Edoxaban</mesh_term>
+    <mesh_term>Phenprocoumon</mesh_term>
+    <mesh_term>Acenocoumarol</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

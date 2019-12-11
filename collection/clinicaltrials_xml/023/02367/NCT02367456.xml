@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="56739">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02367456</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B1371012</org_study_id>
+    <secondary_id>2014-001345-24</secondary_id>
+    <nct_id>NCT02367456</nct_id>
+  </id_info>
+  <brief_title>A Combination Study of PF-04449913 (Glasdegib) and Azacitidine In 1st Line MDS, AML and CMML Patients</brief_title>
+  <official_title>A Randomized, Double-blind Phase 1b/2 Study Of Pf-04449913 (Glasdegib) In Combination With Azacitidine In Patients With Previously Untreated Intermediate-2 Or High-risk Myelodysplastic Syndrome, Acute Myeloid Leukemia With 20-30% Blasts And Multi-lineage Dysplasia, Or Chronic Myelomonocytic Leukemia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pfizer</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This multi center randomized (1:1), double blind, placebo controlled Phase 1b/2 study is
+      designed to compare the safety, efficacy, pharmacokinetics (PK), and pharmacodynamics (PD)
+      of PF 04449913 or placebo when combined with azacitidine in patients with previously
+      untreated Intermediate 2 or High Risk Myelodysplastic Syndrome (MDS), Acute Myeloid Leukemia
+      (AML) with 20-30% blasts and multi lineage dysplasia, and Chronic Myelomonocytic Leukemia
+      (CMML). This clinical study includes two components: (a) a Phase 1b safety lead in and (b) a
+      randomized Phase 2.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 2015</start_date>
+  <completion_date type="Anticipated">November 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 2019</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Care Provider, Investigator, Outcomes Assessor</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>RR (hematology)</measure>
+    <time_frame>All cycles up until 30 months from randomization</time_frame>
+    <description>Response rate (percentage of patients achieving CR + PR) as defined by modified IWG criteria (2006) (Phase 2)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>RR(Hematology)</measure>
+    <time_frame>All Cycles up until 30 months from randomization</time_frame>
+    <description>Response Rate - (Percentage of Participants achieving CR + PR) as defined by modified IWG criteria (2006)(Phase 1)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hematologic Improvement</measure>
+    <time_frame>All cycles up until 30 months from randomization</time_frame>
+    <description>Hematologic Improvement, as defined by modified IWG (2006) (Phase 1).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Marrow Complete Response (mCR)</measure>
+    <time_frame>All cycles up until 30 months from randomization</time_frame>
+    <description>Marrow Complete Response, as defined by modified IWG (2006) (Phase 1).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cytogenetic Response</measure>
+    <time_frame>All cycles up until 30 months from randomization</time_frame>
+    <description>Cytogenic Response as defined by modified IWG (2006) (Phase 1).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Transfusion Independence</measure>
+    <time_frame>All cycles up until 30 months from randomization</time_frame>
+    <description>Proportion of patients becoming transfusion independent on study in patients who were transfusion dependent at the time of study entry (Phase 1).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stable Disease</measure>
+    <time_frame>All cycles up until 30 months from randomization</time_frame>
+    <description>Stable Disease as defined by modified IWG (2006) (Phase 1).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>QTc interval</measure>
+    <time_frame>Cycle 1 through Cycle 6 and End of Treatment up until 30 months from randomization</time_frame>
+    <description>QTc interval corrected using Fridericia's Formula (msec) (Phase 1)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC for PF-04449913</measure>
+    <time_frame>0. .25, .5, 1, 2, 4, 6, and 24 hours post-dose</time_frame>
+    <description>Area under the Concentration-Time Curve (ng*h/mL) (Phase 1).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmax for PF-04449913</measure>
+    <time_frame>0, .25, .5, 1, 2, 4, 6, and 24 hours post-dose</time_frame>
+    <description>Maximum Observed Plasma Concentration (ng/mL) (Phase 1).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tmax for PF-04449913</measure>
+    <time_frame>0, .25, .5, 1, 2, 4, 6, and 24 hours post-dose</time_frame>
+    <description>Time to Reach Maximum Observed Plasma Concentration (hrs) (Phase 1).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC for Azacitidine</measure>
+    <time_frame>0, .25, .5, 1, 2, and 6 hours post-dose</time_frame>
+    <description>Area under the Concentration-Time Curve (ng*h/mL) (Phase 1).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmax for Azacitidine</measure>
+    <time_frame>0, .25, .5, 1, 2, and 6 hours post-dose</time_frame>
+    <description>Maximum Observed Plasma Concentration (ng/mL) (Phase 1).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tmax for Azacitidine</measure>
+    <time_frame>0, .25, .5, 1, 2 and 6 hours post-dose</time_frame>
+    <description>Time to Reach Maximum Observed Plasma Concentration (hrs) (Phase 1).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Hematologic Improvement (HI)</measure>
+    <time_frame>All cycles until disease progression or up until 30 months from randomization</time_frame>
+    <description>Duration of HI defined as time from start of first documented HI to first documented disease progression or relapse after HI or death due to any cause, whichever occurs first (Phase 2).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Best Response or any hematologic improvement</measure>
+    <time_frame>All cycles up until 30 months from randomization</time_frame>
+    <description>Time from randomization to achieving best response CR, PR or any HI. (Phase 2 only).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Survival: Probability of Participant Survival</measure>
+    <time_frame>12, 18 and 24 months</time_frame>
+    <description>Probability of survival at 12, 18 and 24 months after randomization (Phase 2).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hematologic Improvement</measure>
+    <time_frame>All cycles up until 30 months from randomization</time_frame>
+    <description>Hematologic Improvement, as defined by modified IWG (2006) (Phase 2).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Transfusion independence</measure>
+    <time_frame>All cycles up until 30 months from randomization</time_frame>
+    <description>Proportion of patients becoming transfusion independent on study in patients who were transfusion dependent at the time of study entry (Phase 2).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>QTc interval</measure>
+    <time_frame>Cycle 1 through Cycle 6 and End of Treatment up until 30 months from randomization</time_frame>
+    <description>QTc interval corrected using Fridericia's Formula (msec) (Phase 2)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Marrow Complete Response (mCR)</measure>
+    <time_frame>All cycles up until 30 months from randomization</time_frame>
+    <description>Marrow Complete Response, as defined by modified IWG (2006) (Phase 2).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cytogenic Response</measure>
+    <time_frame>All cycles up until 30 months from randomization</time_frame>
+    <description>Cytogenic Response as defined by modified IWG (2006) (Phase 2).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stable Disease</measure>
+    <time_frame>All cycles up until 30 months from randomization</time_frame>
+    <description>Stable Disease as defined by modified IWG (2006) (Phase 2).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response</measure>
+    <time_frame>All cycles until progression or up until 30 months from randomization</time_frame>
+    <description>Duration of response (DR) defined as time from start of first documented disease response [Complete Response (CR) or Partial Response (PR)] to first documented disease progression or death due to any cause, whichever occurs first (Phase 2).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to First Response or any hematologic improvement</measure>
+    <time_frame>All cycles up until 30 months from randomization</time_frame>
+    <description>Time from randomization to first achieving CR, PR or HI (Phase 2).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to reaching &gt;30% bone marrow blasts</measure>
+    <time_frame>All cycles up until 30 months from randomization</time_frame>
+    <description>From Randomization to first reaching &gt;30% bone marrow blasts (Phase 2).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ctrough</measure>
+    <time_frame>Cycle 1 Day 15 and Cycle 2 Day 1</time_frame>
+    <description>Minimum Observed Plasma Trough Concentration (ng/mL)(Phase 2).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Randomization till death up until 30 months from randomization</time_frame>
+    <description>Overall survival was the duration from enrollment to death. For participants who are alive, overall survival was censored at the last contact (Phase 2).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Event Free Survival</measure>
+    <time_frame>All Cycles up until 30 months from randomization</time_frame>
+    <description>Time from Randomization to first documentation of bone marrow blasts &gt;30% or death for any reason whichever occurs first (Phase 2).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EQ-5D</measure>
+    <time_frame>Baseline and Every Cycle up until 30 months from randomization</time_frame>
+    <description>Change From Baseline in Euro Quality of Life - Health State Profile Utility, Visual Analog Scale (VAS), and Dimension Health State EuroQol Score at Every Cycle (Phase 2).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EORTC-QLQ-C30</measure>
+    <time_frame>Baseline and Every Cycle up until 30 months from randomization</time_frame>
+    <description>European Organization of Research and the Treatment of Cancer- Quality of Life Core Questionnaire (Phase 2)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">170</enrollment>
+  <condition>Myelodysplastic Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Arm A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>PF-04449913 (Glasdegib) 100 mg + Azacitidine 75 mg/m2</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>PF-04449913 (Glasdegib) Placebo 100 mg + Azacitidine 75 mg/m2</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PF-04449913 (Glasdegib)</intervention_name>
+    <description>Daily dose of PF-04449913 100mg tablet in a continuous regimen of 28 day cycles</description>
+    <arm_group_label>Arm A</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Azacitidine</intervention_name>
+    <description>75mg/m2 on Days 1-7 of a 28 day cycle or on Days 1-5, 8-9 of a 28 day cycle</description>
+    <arm_group_label>Arm A</arm_group_label>
+    <arm_group_label>Arm B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PF-04449913 (Glasdegib) Placebo</intervention_name>
+    <description>Daily dose of the Placebo for PF-04449913 100 mg tablet in a continuous regimen of 28 day cycles.</description>
+    <arm_group_label>Arm B</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Patient must meet all the following inclusion criteria to be eligible for enrollment into
+        the study:
+
+          1. Morphologically confirmed diagnosis of one of the following:
+
+               1. MDS according to the WHO 2008 classification and bone marrow blasts &gt; or = 5%
+
+               2. AML with 20-30 % BM blasts and multi lineage dysplasia, according to WHO 2008
+                  classification and WBC &lt; 20x109/L
+
+               3. CMML according to the WHO 2008 classification (Appendix 1) and BM blasts between
+                  10% 19% and WBC &lt; 13x109/L
+
+          2. MDS patients must have Intermediate 2 (1.5 to 2.0 points) or High Risk (≥2.5 points)
+             disease according to the International Prognostic Scoring System 1997 (IPSS).
+
+          3. MDS patients must have normal levels of vitamin B12 within the institutional range of
+             normal as determined within 28 days of study entry.
+
+          4. AML patients with 20- 30% BM blasts and multi lineage dysplasia, must have stable
+             blast counts per Investigator's judgment.
+
+          5. Clinical indication for treatment with azacitidine for MDS, AML or CMML.
+
+        Exclusion Criteria:
+
+        Patients with any of the following may not be included in the study:
+
+          1. Patients with AML who are candidates for standard induction chemotherapy as first
+             line treatment.
+
+          2. Therapy related (secondary to radiation or chemotherapy) MDS or AML.
+
+          3. Prior hypomethylating agents or cytotoxic chemotherapy for MDS, AML or CMML (prior
+             immunosuppressive therapy and hydroxyurea are permitted provided that treatment is
+             stopped within 8 and 2 weeks from study entry, respectively).
+
+          4. Previous hematopoietic stem cell transplant.
+
+          5. Prior treatment with a licensed or experimental smoothened inhibitor (SMOi) and/or
+             hypomethylating agent (HMA).
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <phone>1-800-718-1021</phone>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham the Kirklin Clinic</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35249-6909</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Drug Shipment Address: University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35249</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>For Drug Shipment: UC San Diego Moores Cancer Center - Investigational Drug Services</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92037-0845</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UC San Diego Medical Center - La Jolla</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UC San Diego Moores Cancer Center</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UC San Diego Medical Center - Hillcrest</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Smilow Cancer Center at Yale New Haven Hospital</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sidney Kimmel Comprehensive Cancer Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21231-2410</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Einstein Center for Cancer</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Medical Center</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Stony Brook University</name>
+      <address>
+        <city>Stony Brook</city>
+        <state>New York</state>
+        <zip>11794-7007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Stony Brook Medicine</name>
+      <address>
+        <city>Stony Brook</city>
+        <state>New York</state>
+        <zip>11794-8151</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Stony Brook University, The Cancer Center</name>
+      <address>
+        <city>Stony Brook</city>
+        <state>New York</state>
+        <zip>11794-9447</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Stony Brook Medicine Division of Hematology/Oncology</name>
+      <address>
+        <city>Stony Brook</city>
+        <state>New York</state>
+        <zip>11794</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Stony Brook University</name>
+      <address>
+        <city>Stony Brook</city>
+        <state>New York</state>
+        <zip>11794</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Henry-Joyce Cancer Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt-Ingram Cancer Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Huntsman Cancer Hospital</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Huntsman Cancer Institute-University of Utah</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ZNA Stuivenberg</name>
+      <address>
+        <city>Antwerpen</city>
+        <zip>2060</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tom Baker Cancer Centre</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N 4N2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kaye Edmonton Clinic</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T6G 1Z1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Alberta Hospital</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T6G 2B7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Office of Lori Rackel</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T6G 2V2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kings College Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>SE5 9RS</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Taiwan</country>
+  </removed_countries>
+  <link>
+    <url>https://trialinfoemail.pfizer.com/pages/landing.aspx?StudyID=B1371012&amp;StudyName=A%20STUDY%20OF%20PF%2004449913%20IN%20COMBINATION%20WITH%20AZACITIDINE%20IN%20PATIENTS%20WITH%20PREVIOUSLY%20UNTREATED%20INTERMEDIATE%202%20OR%20HIGH%20RISK%20MYELODYSPLASTIC</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>April 2017</verification_date>
+  <lastchanged_date>April 4, 2017</lastchanged_date>
+  <firstreceived_date>February 13, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>MDS</keyword>
+  <keyword>AML</keyword>
+  <keyword>CMML</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Syndrome</mesh_term>
+    <mesh_term>Myelodysplastic Syndromes</mesh_term>
+    <mesh_term>Preleukemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Azacitidine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

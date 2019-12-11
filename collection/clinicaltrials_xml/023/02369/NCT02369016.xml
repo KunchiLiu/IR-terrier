@@ -1,0 +1,1487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="56620">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02369016</url>
+  </required_header>
+  <id_info>
+    <org_study_id>17322</org_study_id>
+    <secondary_id>2014-000925-19</secondary_id>
+    <nct_id>NCT02369016</nct_id>
+  </id_info>
+  <brief_title>Phase III Copanlisib in Rituximab-refractory iNHL</brief_title>
+  <acronym>CHRONOS-2</acronym>
+  <official_title>A Randomized, Double-blind Phase III Study of Copanlisib Versus Placebo in Patients With Rituximab-refractory Indolent Non-Hodgkin's Lymphoma (iNHL) - CHRONOS-2</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bayer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bayer</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Assess the efficacy and safety of copanlisib monotherapy
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Double blind copanlisib vs placebo with unblinding after centrally assessed progression and
+      option to cross over to copanlisib for patients who progressed on placebo.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 22, 2015</start_date>
+  <completion_date type="Anticipated">October 31, 2019</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2019</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Care Provider, Investigator, Outcomes Assessor</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression Free Survival</measure>
+    <time_frame>Up to 3 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to deterioration in disease - related symptoms</measure>
+    <time_frame>Up to 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with adverse events as a measure of safety and tolerability</measure>
+    <time_frame>Up to 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective tumor response rate (ORR)</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>assessed in all patients up to the time of analysis of PFS. ORR is defined as the proportion of patients who have a best response rating over the whole duration of the study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DOR)</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>defined as the time (in days) from first observed tumor response (CR, VGPR, PR or MR) until PD or death from any cause, whichever is earlier.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complete response rate (CRR)</measure>
+    <time_frame>Up to 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to progression (TTP)</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>defined as the time (in days) from randomization to PD or death related to PD, whichever is earlier.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>defined as the time (in days) from randomization until death from any cause. OS of patients alive at the time of analysis will be censored at the last date they were known to be alive</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to improvement in DRS-P</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>measured by the FLymSI-18 questionnaire, will be evaluated for patients with a baseline DRS-P score of 30 points or less (i.e. patients who still have room for improvement in symptoms)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">189</enrollment>
+  <condition>Lymphoma, Non-Hodgkin</condition>
+  <arm_group>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>60 mg of experimental drug in solution administered intravenously on Days 1, 8 and 15 of each 28-day treatment cycle</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>placebo solution administered intravenously on Days 1, 8 and 15 of each 28-day treatment cycle</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BAY No. 80 6946</intervention_name>
+    <description>60 mg of experimental drug in solution administered intravenously on Days 1, 8 and 15 of each 28-day treatment cycle</description>
+    <arm_group_label>Arm 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>placebo solution administered intravenously on Days 1, 8 and 15 of each 28-day treatment cycle</description>
+    <arm_group_label>Arm 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histologically confirmed diagnosis of indolent B-cell NHL, with histological subtype
+             limited to the following:
+
+               -  Follicular lymphoma (FL) grade 1-2-3a.
+
+               -  Small lymphocytic lymphoma (SLL) with absolute lymphocyte count &lt; 5 x 109/L at
+                  the time of diagnosis and at study entry.
+
+               -  Lymphoplasmacytoid lymphoma/Waldenström macroglobulinemia (LPL/WM).
+
+               -  Marginal zone lymphoma (MZL) (splenic, nodal, or extra-nodal).
+
+          -  Patients must have received two or more prior lines of treatment. A previous regimen
+             is defined as one of the following: at least two months of single-agent therapy, at
+             least two consecutive cycles of polychemotherapy, autologous transplant,
+             radioimmunotherapy.
+
+          -  Prior therapy must include rituximab and alkylating agents. Prior exposure to
+             idelalisib or other PI3K (Phosphatidylinositol 3-kinase) inhibitors is acceptable
+             (except to copanlisib) provided that there is no resistance.
+
+          -  Patients must be refractory to the last rituximab-based treatment, defined as no
+             response or response lasting &lt; 6 months after completion of treatment. Time interval
+             to assess refractoriness will be calculated between the end date (last day) of the
+             last rituximab-containing regimen and the day of diagnosis confirmation of the
+             subsequent relapse.
+
+          -  Patients must have at least one bi-dimensionally measurable lesion (which has not
+             been previously irradiated) according to the Recommendations for Initial Evaluation,
+             Staging, and Response Assessment of Hodgkin and Non-Hodgkin Lymphoma: The Lugano
+             Classification.
+
+          -  Patients affected by WM (Waldenström macroglobulinemia), who do not have at least one
+             bi-dimensionally measurable lesion in the baseline radiologic assessment, must have
+             measurable disease, defined as presence of immunoglobulin M (IgM) paraprotein with a
+             minimum IgM level ≥ 2 x upper limit of normal (ULN) and positive immunofixation test.
+
+        Exclusion Criteria:
+
+          -  Histologically confirmed diagnosis of FL grade 3b. Chronic lymphocytic leukemia
+             (CLL).
+
+        Transformed disease (assessed by investigator):
+
+          -  histological confirmation of transformation, or
+
+          -  clinical and laboratory signs: rapid disease progression, high standardized uptake
+             value (SUV) (&gt; 12) by positron emission tomography (PET) at baseline if PET scans are
+             performed (optional).
+
+               -  Previous or concurrent cancer that is distinct in primary site or histology from
+                  indolent B-cell NHL within 5 years before start of study treatment except for
+                  curatively treated cervical cancer in situ, non-melanoma skin cancer and
+                  superficial bladder tumors [Ta (non-invasive tumor), Tis (carcinoma in situ) and
+                  T1 (tumor invades lamina propria)]
+
+               -  Bulky disease - Lymph nodes or tumor mass (except spleen) &gt;= 7cm LD (longest
+                  diameter)
+
+               -  Known lymphomatous involvement of the central nervous system.
+
+               -  Uncontrolled arterial hypertension despite optimal medical management (per
+                  investigator's assessment).
+
+               -  Type I or II diabetes mellitus with HbA1c &gt; 8.5% at Screening.
+
+               -  Known history of human immunodeficiency virus (HIV) infection.
+
+               -  Positive cytomegalovirus (CMV) PCR test at baseline.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bayer Study Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Bayer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Bayer Clinical Trials Contact</last_name>
+    <email>clinical-trials-contact@bayer.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <address>
+        <city>Whittier</city>
+        <state>California</state>
+        <zip>90602</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic - Rochester</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Somerville</city>
+        <state>New Jersey</state>
+        <zip>08876</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Goldsboro</city>
+        <state>North Carolina</state>
+        <zip>27534</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gabrail Cancer Center</name>
+      <address>
+        <city>Canton</city>
+        <state>Ohio</state>
+        <zip>44718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Canton</city>
+        <state>Ohio</state>
+        <zip>44718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bend</city>
+        <state>Oregon</state>
+        <zip>97701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Watertown</city>
+        <state>South Dakota</state>
+        <zip>57201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Resistencia</city>
+        <state>Chaco</state>
+        <zip>3500</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Buenos Aires</city>
+        <state>Ciudad Auton. de Buenos Aires</state>
+        <zip>C1431FWO</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Ciudad Auton. de Buenos Aires</city>
+        <zip>C1114AAN</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Córdoba</city>
+        <zip>X5000JHQ</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Landeskrankenhaus Rankweil</name>
+      <address>
+        <city>Rankweil</city>
+        <state>Vorarlberg</state>
+        <zip>6830</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Innsbruck</city>
+        <zip>6020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Linz</city>
+        <zip>4020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Wien</city>
+        <zip>1130</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lesnoy</city>
+        <zip>223040</zip>
+        <country>Belarus</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Minsk</city>
+        <zip>220013</zip>
+        <country>Belarus</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Belo Horizonte</city>
+        <state>Minas Gerais</state>
+        <zip>30130100</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Ijuí</city>
+        <state>Rio Grande do Sul</state>
+        <zip>98700-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Passo Fundo</city>
+        <state>Rio Grande do Sul</state>
+        <zip>99010-260</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande do Sul</state>
+        <zip>90880-480</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Jaú</city>
+        <state>Sao Paulo</state>
+        <zip>17210-120</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>São Paulo</city>
+        <state>Sao Paulo</state>
+        <zip>01236-030</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>São Paulo</city>
+        <state>Sao Paulo</state>
+        <zip>08270-070</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Rio de Janeiro</city>
+        <zip>22793-080</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Sao Paulo</city>
+        <zip>05651-901</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Sao Paulo</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UMHAT &quot;Sveti Georgi&quot;</name>
+      <address>
+        <city>Plovdiv</city>
+        <zip>4002</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Temuco</city>
+        <state>Araucanía</state>
+        <zip>4810469</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínico de la Pontificia Univ. Católica de Chile</name>
+      <address>
+        <city>Santiago</city>
+        <zip>833-0024</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Santiago</city>
+        <zip>8380456</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Santiago</city>
+        <zip>8420383</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510060</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Harbin</city>
+        <state>Heilongjiang</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <zip>210009</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Suzhou</city>
+        <state>Jiangsu</state>
+        <zip>215006</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hangzhou</city>
+        <state>Zhejiang</state>
+        <zip>310003</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Beijing</city>
+        <zip>100021</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Beijing</city>
+        <zip>100142</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Shanghai</city>
+        <zip>200025</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Shanghai</city>
+        <zip>200032</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tianjin</city>
+        <zip>300121</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Medellin</city>
+        <state>Antioquia</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Montería</city>
+        <state>Córdoba</state>
+        <zip>0</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Medellín</city>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>France</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Saint-denis Cedex</city>
+        <zip>97405</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>University General Hospital of Athens &quot;ATTIKON&quot;</name>
+      <address>
+        <city>Haidari</city>
+        <state>Attica</state>
+        <zip>12462</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Athens</city>
+        <zip>106 76</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Laiko General Hospital of Athens</name>
+      <address>
+        <city>Athens</city>
+        <zip>11527</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Piraeus</city>
+        <zip>18 537</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Prince of Wales Hospital</name>
+      <address>
+        <city>Shatin</city>
+        <state>New Territories</state>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Queen Mary Hospital</name>
+      <address>
+        <city>Hong Kong</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Dublin</city>
+        <zip>7</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Beaumont Hospital</name>
+      <address>
+        <city>Dublin</city>
+        <zip>9</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Milano</city>
+        <state>Lombardia</state>
+        <zip>20089</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Università di Bologna - Alma Mater Studiorum</name>
+      <address>
+        <city>Bologna</city>
+        <zip>40138</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>A.O.U. Careggi</name>
+      <address>
+        <city>Firenze</city>
+        <zip>50141</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IRCCS A.O.U. San Martino - IST Ist. Nazionale Ricerca Cancro</name>
+      <address>
+        <city>Genova</city>
+        <zip>16132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Policlinico Umberto I</name>
+      <address>
+        <city>Roma</city>
+        <zip>00161</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chonbuk National University Hospital</name>
+      <address>
+        <city>Jeollabuk-do</city>
+        <zip>561-712</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chonnam National University Hwasun Hospital</name>
+      <address>
+        <city>Jeollanam-do</city>
+        <zip>519-763</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>110-744</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Severance Hospital, Yonsei University College of Medicine</name>
+      <address>
+        <city>Seoul</city>
+        <zip>120-752</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Samsung Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>135-710</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Asan Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>138-736</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kaunas</city>
+        <zip>LT-50009</zip>
+        <country>Lithuania</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Vilnius</city>
+        <zip>LT-08661</zip>
+        <country>Lithuania</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>México, D. F.</city>
+        <state>Distrito Federal</state>
+        <zip>06726</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Morelia</city>
+        <state>Michoacán</state>
+        <zip>58260</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario &quot;José Eleuterio González&quot;</name>
+      <address>
+        <city>Monterrey</city>
+        <state>Nuevo Leon</state>
+        <zip>64460</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Oaxaca Site Management Organization S.C.</name>
+      <address>
+        <city>Oaxaca</city>
+        <zip>68000</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Bay of Plenty Clinical School</name>
+      <address>
+        <city>Tauranga</city>
+        <zip>3112</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Gdynia</city>
+        <zip>81-519</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lublin</city>
+        <zip>20-090</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Olsztyn</city>
+        <zip>10-228</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Almada</city>
+        <zip>2801-951</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Porto</city>
+        <zip>4200- 319</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Porto</city>
+        <zip>4200-072</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Vila Nova de Gaia</city>
+        <zip>4434-502</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Arkhangelsk</city>
+        <zip>163045</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Chelyabinsk</city>
+        <zip>454048</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Engels</city>
+        <zip>413115</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Republican Clinical Oncology Dispensary</name>
+      <address>
+        <city>Kazan</city>
+        <zip>420029</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kemerovo Regional Clinical Hospital</name>
+      <address>
+        <city>Kemerovo</city>
+        <zip>650066</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Krasnoyarsk</city>
+        <zip>660133</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Moscow</city>
+        <zip>123182</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Moscow</city>
+        <zip>129128</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Nizhny Novgorod</city>
+        <zip>603126</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Oncological Dispensary of Omsk Region</name>
+      <address>
+        <city>Omsk</city>
+        <zip>644013</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Orel</city>
+        <zip>302028</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regional Oncology Dispensary</name>
+      <address>
+        <city>Penza</city>
+        <zip>440071</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Petrozavodsk</city>
+        <zip>185019</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>St. Petersburg</city>
+        <zip>197022</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>St. Petersburg</city>
+        <zip>197758</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tula</city>
+        <zip>300053</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regional Clinical Oncology Dispensary #1</name>
+      <address>
+        <city>Volgograd</city>
+        <zip>400138</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Dammam</city>
+        <zip>P.O Box 15215-Dammam</zip>
+        <country>Saudi Arabia</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Jeddah</city>
+        <zip>P.O Box 80215-Jeddah</zip>
+        <country>Saudi Arabia</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Makkah</city>
+        <zip>P.O BOX 57657-MAKKAH</zip>
+        <country>Saudi Arabia</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Centre</name>
+      <address>
+        <city>Singapore</city>
+        <zip>169610</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wits Clinical Research Chris Hani Baragwanath Hospital</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng</state>
+        <zip>2013</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Albert Alberts Stem Cell Transplant Research Centre</name>
+      <address>
+        <city>Pretoria</city>
+        <state>Gauteng</state>
+        <zip>0044</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Oncology Centre of Rosebank</name>
+      <address>
+        <city>Saxonwold</city>
+        <state>Gauteng</state>
+        <zip>2196</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GVI Oncology George</name>
+      <address>
+        <city>George</city>
+        <zip>3530</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>South Africa</city>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kaohsiung</city>
+        <zip>833</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tainan</city>
+        <zip>70428</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Taiwan University Hospital</name>
+      <address>
+        <city>Taipei</city>
+        <zip>10016</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Taipei Veterans General Hospital</name>
+      <address>
+        <city>Taipei</city>
+        <zip>11217</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bangkok</city>
+        <zip>10400</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Denizli</city>
+        <zip>20070</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Istanbul</city>
+        <zip>34390</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Khmel nytsky</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Institute of Blood Pathology and Transfusion medicine</name>
+      <address>
+        <city>Lviv</city>
+        <zip>79044</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Austria</country>
+    <country>Belarus</country>
+    <country>Brazil</country>
+    <country>Bulgaria</country>
+    <country>Chile</country>
+    <country>China</country>
+    <country>Colombia</country>
+    <country>France</country>
+    <country>Greece</country>
+    <country>Hong Kong</country>
+    <country>Ireland</country>
+    <country>Italy</country>
+    <country>Korea, Republic of</country>
+    <country>Lithuania</country>
+    <country>Mexico</country>
+    <country>New Zealand</country>
+    <country>Poland</country>
+    <country>Portugal</country>
+    <country>Russian Federation</country>
+    <country>Saudi Arabia</country>
+    <country>Singapore</country>
+    <country>South Africa</country>
+    <country>Taiwan</country>
+    <country>Thailand</country>
+    <country>Turkey</country>
+    <country>Ukraine</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.fda.gov/cder/drug/DrugSafety/DrugIndex.htm</url>
+    <description>Click here and search for drug information provided by the FDA.</description>
+  </link>
+  <link>
+    <url>http://www.fda.gov/medwatch/safety.htm</url>
+    <description>Click here and search for information on any recalls, market or product safety alerts by the FDA which might have occurred with this product.</description>
+  </link>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 23, 2017</lastchanged_date>
+  <firstreceived_date>February 17, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>indolent Non-Hodgkin lymphoma</keyword>
+  <keyword>rituximab-refractory</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Pharmaceutical Solutions</mesh_term>
+    <mesh_term>Rituximab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="174512">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00824044</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2008-P-000838</org_study_id>
+    <nct_id>NCT00824044</nct_id>
+  </id_info>
+  <brief_title>Quantitative Electroencephalogram (QEEG) Predictors of Response to Psychotherapy Versus Antidepressant Treatment in Depression</brief_title>
+  <official_title>QEEG Predictors of Response for Psychotherapy Compared to Pharmacotherapy in Depression</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Alliance for Research on Schizophrenia and Depression</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this research study is to find out if a test can predict whether someone with
+      depression will get better with treatment. We also want to find out whether there are
+      changes in the brains of depressed patients having different types of treatment (drug
+      therapy vs. talk therapy). We hope that a test called QEEG (Quantitative
+      Electroencephalogram) can tell us if a treatment is going to work, even before the person
+      starts to feel better.
+
+      Hypothesis 1: Response to treatment will correlate with changes in QEEG metrics.
+
+      Hypothesis 2: QEEG parameters, different from those that predict response to
+      pharmacotherapy, will be associated with response to CBT.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To our knowledge, QEEG has not been studied in the prediction of response to CBT, an
+      important and widely used non-pharmacologic approach to treating depression. Establishing
+      QEEG technology as a predictor of response to CBT could help to guide treatment selection
+      for individual patients. It is probable that certain patient populations are more likely to
+      respond to either psychotherapeutic or psychopharmacological interventions, while others may
+      benefit from a combination of treatment modalities. This study will provide preliminary
+      information about the utility of QEEG as a predictor of response in psychotherapy and will
+      furnish the knowledge base of QEEG changes related to clinical variables, providing pilot
+      data for a study in a larger sample. We have hypothesized that clinical response will
+      correlate with changes in QEEG metrics from beginning to two weeks after treatment, and that
+      QEEG parameters, different from those that predict response to pharmacotherapy, will be
+      associated with response to CBT.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 2008</start_date>
+  <completion_date type="Actual">March 2011</completion_date>
+  <primary_completion_date type="Actual">March 2011</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Single Blind (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Hamilton Depression Rating Scale (HAM-D-17) Scores</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>The Hamilton Depression Rating Scale is a clinician-rated scale used to rate depression severity. The maximum score is a 50 and the minimum score is a 0, where higher scores indicate greater severity. Scores from 14 to 18 indicate moderately severe depression.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>QEEG Metrics (ATR, EEG Bispectrum, Cordance Estimates)</measure>
+    <time_frame>12 weeks</time_frame>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">33</enrollment>
+  <condition>Major Depressive Disorder</condition>
+  <arm_group>
+    <arm_group_label>Cognitive Behavioral Therapy (CBT)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Escitalopram</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Cognitive Behavioral Therapy (CBT)</intervention_name>
+    <description>The CBT group will receive weekly 50-minute individual sessions over the course of 12 weeks conducted by experienced therapists who are trained in manual based CBT.</description>
+    <arm_group_label>Cognitive Behavioral Therapy (CBT)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Escitalopram</intervention_name>
+    <description>The medication group will receive open label treatment of escitalopram, 10-20 mg/day, flexible dose, for 12 weeks, and will be seen every two weeks by a study physician.</description>
+    <arm_group_label>Escitalopram</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Quantitative electroencephalogram (QEEG)</intervention_name>
+    <description>The QEEG will be administered 5 times during the study (week 0, 1, 2, 8 and endpoint) allowing us to assess whether there are any correlations between QEEG patterns and changes in clinical functioning.</description>
+    <arm_group_label>Cognitive Behavioral Therapy (CBT)</arm_group_label>
+    <arm_group_label>Escitalopram</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subjects will be adults, ages 18 to 75 years.
+
+          -  Written informed consent
+
+          -  MDD, current according to the fourth version of the Diagnostic and Statistical Manual
+             for Mental Disorders (DSM-IV)
+
+          -  17-item Hamilton Depression Rating Scale (HAM-D-17) score of &gt; 14 at baseline.
+
+          -  Subjects who are not currently taking any antidepressant or other psychotropic
+             medications and who have been free of these medications for 4 weeks prior to
+             screening visit.
+
+        Exclusion Criteria:
+
+          -  Women who are pregnant, lactating, or planning a pregnancy during the study.
+
+          -  Women of child bearing potential who are not using a medically accepted means of
+             contraception (to include oral contraceptive or implant, condom, diaphragm,
+             spermicide, intrauterine device, tubal ligation, or a partner with vasectomy).
+
+          -  Any uncontrolled psychiatric disorder.
+
+          -  Current use of psychotropic medications.
+
+          -  Psychotic features in the current episode or a history of psychotic features.
+
+          -  Alcohol or substance abuse or dependence within the past three months.
+
+          -  History of head trauma or seizure disorder.
+
+          -  History of intolerance of the study medication.
+
+          -  Failure to respond to escitalopram up to 20 mg for at least 6 weeks.
+
+          -  Failure to respond to 2 or more adequate antidepressant trials (6 weeks or longer on
+             a therapeutic dose, equivalent to fluoxetine 40mg) in the current episode.
+
+          -  Currently enrolled in other depression-focused psychotherapy and unwilling to cease
+             treatment.
+
+          -  Subjects who, per clinical judgment, are not appropriate candidates for CBT or SSRIs.
+
+          -  History or current diagnosis of the following DSM-IV psychiatric illness: organic
+             mental disorder, schizophrenia, schizoaffective disorder, delusional disorder,
+             psychotic disorders not otherwise specified, bipolar disorder, patients with mood
+             congruent or mood incongruent psychotic features, patients with substance dependence
+             disorders, including alcohol, active within the last 3 months.
+
+          -  Serious suicide or homicide risk, as assessed by the evaluating clinician or a score
+             of 4 on the third item of the HAM-D.
+
+          -  Serious or unstable medical illness, including cardiovascular, hepatic, renal,
+             respiratory, endocrine, neurologic or hematologic disease
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Amy Farabaugh, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Massachusetts General Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2012</verification_date>
+  <lastchanged_date>December 5, 2012</lastchanged_date>
+  <firstreceived_date>January 14, 2009</firstreceived_date>
+  <firstreceived_results_date>December 5, 2012</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>Amy Farabaugh, PhD</investigator_full_name>
+    <investigator_title>Staff psychologist</investigator_title>
+  </responsible_party>
+  <keyword>Major Depressive Disorder (MDD)</keyword>
+  <keyword>Cognitive Behavioral Therapy (CBT)</keyword>
+  <keyword>Escitalopram</keyword>
+  <keyword>Quantitative EEG (QEEG)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Depressive Disorder, Major</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Citalopram</mesh_term>
+    <mesh_term>Dexetimide</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>The first patient was screened on January 6, 2009, and the last patient was screened on October 26, 2010. The study was completed at the Depression Clinical and Research Program at Massachusetts General Hospital.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Cognitive Behavioral Therapy (CBT)</title>
+        </group>
+        <group group_id="P2">
+          <title>Escitalopram</title>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="23"/>
+                <participants group_id="P2" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="14"/>
+                <participants group_id="P2" count="10"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+                <participants group_id="P2" count="6"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Cognitive Behavioral Therapy (CBT)</title>
+        </group>
+        <group group_id="B2">
+          <title>Escitalopram</title>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="23"/>
+            <count group_id="B2" value="16"/>
+            <count group_id="B3" value="39"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <description>Age at screen was not available for 2 participants.</description>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>&lt;=18 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Between 18 and 65 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="33"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>&gt;=65 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="44.8" spread="14.2"/>
+                    <measurement group_id="B2" value="43.3" spread="15.5"/>
+                    <measurement group_id="B3" value="43.9" spread="14.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Gender</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Female</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Male</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="39"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Hamilton Depression Rating Scale (HAM-D-17) Scores</title>
+        <description>The Hamilton Depression Rating Scale is a clinician-rated scale used to rate depression severity. The maximum score is a 50 and the minimum score is a 0, where higher scores indicate greater severity. Scores from 14 to 18 indicate moderately severe depression.</description>
+        <time_frame>12 weeks</time_frame>
+        <population>The number of participants for analysis was based on the number of participants who completed treatment (12 weeks of CBT or medication)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Cognitive Behavioral Therapy (CBT)</title>
+            <description>Patients receive twelve weekly 50-minute individual sessions of cognitive-behavioral therapy over the course of twelve weeks. Scores on the HAM-D-17 at Week 12 are the primary outcome measure.</description>
+          </group>
+          <group group_id="O2">
+            <title>Escitalopram</title>
+            <description>Patients received 10-20 mg/day of flexible-dose open-label escitalopram for 12 weeks. Scores on the HAM-D-17 at Week 12 are the primary outcome measure.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Hamilton Depression Rating Scale (HAM-D-17) Scores</title>
+          <description>The Hamilton Depression Rating Scale is a clinician-rated scale used to rate depression severity. The maximum score is a 50 and the minimum score is a 0, where higher scores indicate greater severity. Scores from 14 to 18 indicate moderately severe depression.</description>
+          <population>The number of participants for analysis was based on the number of participants who completed treatment (12 weeks of CBT or medication)</population>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+                <count group_id="O2" value="9"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10.64" spread="6.44"/>
+                    <measurement group_id="O2" value="13.78" spread="9.40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>QEEG Metrics (ATR, EEG Bispectrum, Cordance Estimates)</title>
+        <time_frame>12 weeks</time_frame>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <group_list>
+        <group group_id="E1">
+          <title>Cognitive Behavioral Therapy (CBT)</title>
+        </group>
+        <group group_id="E2">
+          <title>Escitalopram</title>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <description>2/16 participants reported nausea</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>diarrhea</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>vomiting</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <description>4/16 participants reported experiencing headaches.</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" events="5" subjects_affected="4" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>insomnia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>dry mouth</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>migraines</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>sedation</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>sweatiness</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>sleepiness</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" events="3" subjects_affected="2" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>fidgetiness</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>knee aching</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>shoulder pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>syncopal episode</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>irregular menses</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>upper respiratory infection</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="23"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Amy Farabaugh</name_or_title>
+      <organization>Massachusetts General Hospital</organization>
+      <phone>617-726-1629</phone>
+      <email>afarabaugh@partners.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>

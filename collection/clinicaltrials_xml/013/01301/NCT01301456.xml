@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="138240">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01301456</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B1111002</org_study_id>
+    <nct_id>NCT01301456</nct_id>
+  </id_info>
+  <brief_title>Single-Dose And Multiple-Dose Safety And Tolerability Study Of PF-04856883 In Type 2 Diabetic Adult Females</brief_title>
+  <official_title>A Phase 1, Double-Blind, Placebo-Controlled, Randomized, Parallel Group Study To Assess The Safety, Tolerability, Pharmacokinetics, And Pharmacodynamics Of PF-04856883 In Adult Female Subjects With Type 2 Diabetes Mellitus</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pfizer</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study is to evaluate the safety and tolerability of
+      PF-04856883 (CVX-096) in adult female subjects with Type 2 diabetes mellitus on high dose of
+      metformin.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2011</start_date>
+  <completion_date type="Actual">April 2012</completion_date>
+  <primary_completion_date type="Actual">December 2011</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with adverse events (Stage 1 and Stage 2)</measure>
+    <time_frame>4 weeks for Stage 1; 7 weeks for Stage 2</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with abnormal physical examinations (Stage 1 and Stage 2)</measure>
+    <time_frame>4 weeks for Stage 1; 7 weeks for Stage 2</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with abnormal 12-lead electrocardiograms (Stage 1 and Stage 2)</measure>
+    <time_frame>4 weeks for Stage 1; 7 weeks for Stage 2</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with abnormal vital signs (Stage 1 and Stage 2)</measure>
+    <time_frame>4 weeks for Stage 1; 7 weeks for Stage 2</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with abnormal safety laboratory measurements (Stage 1 and Stage 2)</measure>
+    <time_frame>4 weeks for Stage 1; 7 weeks for Stage 2</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maximum observed plasma concentration (Cmax) of PF-04856883 (Stage 1)</measure>
+    <time_frame>Days 1, 2, 3, 4, 6, 8, 15, 22, 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum observed plasma concentration (Cmax) of PF-04856883 (Stage 2)</measure>
+    <time_frame>Days 1, 2, 3, 4, 6, 8, 22, 23, 24, 25, 27, 29, 36, 43, 50</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to reach maximum observed plasma concentration (Tmax) of PF-04856883 (Stage 1)</measure>
+    <time_frame>Days 1, 2, 3, 4, 6, 8, 15, 22, 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to reach maximum observed plasma concentration (Tmax) of PF-04856883 (Stage 2)</measure>
+    <time_frame>Days 1, 2, 3, 4, 6, 8, 22, 23, 24, 25, 27, 29, 36, 43, 50</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the concentration-time curve extrapolated to infinity (AUC0-inf) of PF-04856883 (Stage 1)</measure>
+    <time_frame>Days 1, 2, 3, 4, 6, 8, 15, 22, 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the concentration-time curve extrapolated to tau (AUC0-tau) of PF-04856883 (Stage 2)</measure>
+    <time_frame>Days 1, 2, 3, 4, 6, 8, 22, 23, 24, 25, 27, 29, 36, 43, 50</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clearance (CL/F) of PF-04856883 (Stage 1)</measure>
+    <time_frame>Days 1, 2, 3, 4, 6, 8, 15, 22, 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clearance (CL/F) of PF-04856883 (Stage 2)</measure>
+    <time_frame>Days 1, 2, 3, 4, 6, 8, 22, 23, 24, 25, 27, 29, 36, 43, 50</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Volume of distribution (Vz/F) of PF-04856883 (Stage 1)</measure>
+    <time_frame>Days 1, 2, 3, 4, 6, 8, 15, 22, 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Volume of distribution (Vz/F) of PF-04856883 (Stage 2)</measure>
+    <time_frame>Days 1, 2, 3, 4, 6, 8, 22, 23, 24, 25, 27, 29, 36, 43, 50</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Terminal elimination half-life (t1/2) of PF-04856883 (Stage 1)</measure>
+    <time_frame>Days 1, 2, 3, 4, 6, 8, 15, 22, 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Terminal elimination half-life (t1/2) of PF-04856883 (Stage 2)</measure>
+    <time_frame>Days 1, 2, 3, 4, 6, 8, 22, 23, 24, 25, 27, 29, 36, 43, 50</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in postprandial glucose area under the concentration-time curve (AUC) after mixed meal tolerance test (Stage 1)</measure>
+    <time_frame>Baseline, Day 3, Day 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in postprandial glucose area under the concentration-time curve (AUC) after mixed meal tolerance test (Stage 2)</measure>
+    <time_frame>Baseline, Day 3, Day 15, Day 24, Day 29, Day 50</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in insulin area under the concentration-time curve (AUC) after mixed meal tolerance test (Stage 1)</measure>
+    <time_frame>Baseline, Day 3, Day 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in insulin area under the concentration-time curve (AUC) after mixed meal tolerance test (Stage 2)</measure>
+    <time_frame>Baseline, Day 3, Day 15, Day 24, Day 29, Day 50</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in C-peptide area under the concentration-time curve (AUC) after mixed meal tolerance test (Stage 1)</measure>
+    <time_frame>Baseline, Day 3, Day 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in C-peptide area under the concentration-time curve (AUC) after mixed meal tolerance test (Stage 2)</measure>
+    <time_frame>Baseline, Day 3, Day 15, Day 24, Day 29, Day 50</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in fasting plasma glucose (Stage 1)</measure>
+    <time_frame>Baseline, Days 1, 2, 3, 4, 6, 8, 15, 22, 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in fasting plasma glucose (Stage 2)</measure>
+    <time_frame>Baseline, Days 1, 2, 3, 4, 6, 8, 15, 22, 23, 24, 25, 27, 28, 29, 30, 36, 43, 50</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in 24 hour glucose profile (Stage 2)</measure>
+    <time_frame>Baseline, Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in hemoglobin A1c (Stage 2)</measure>
+    <time_frame>Baseline, Day 29, Day 50</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in fructosamine (Stage 1)</measure>
+    <time_frame>Baseline, Day 8, Day 15, Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in fructosamine (Stage 2)</measure>
+    <time_frame>Baseline, Day 8, Day 15, Day 22, Day 29, Day 50</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in 1,5-anhydroglucitol (Stage 1)</measure>
+    <time_frame>Baseline, Day 8, Day 15, Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in 1,5-anhydroglucitol (Stage 2)</measure>
+    <time_frame>Baseline, Day 8, Day 15, Day 22, Day 29, Day 50</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with anti-PF-04856883 antibodies (Stage 1)</measure>
+    <time_frame>Baseline up to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with anti-PF-04856883 antibodies (Stage 2)</measure>
+    <time_frame>Baseline up to Day 50</time_frame>
+  </secondary_outcome>
+  <number_of_arms>13</number_of_arms>
+  <enrollment type="Actual">84</enrollment>
+  <condition>Diabetes Mellitus</condition>
+  <condition>Diabetes Mellitus, Type 2</condition>
+  <condition>Glucose Metabolism Disorders</condition>
+  <condition>Metabolic Diseases</condition>
+  <condition>Endocrine System Diseases</condition>
+  <arm_group>
+    <arm_group_label>Treatment Arm 1 (Stage 1A)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Arm 2 (Stage 1A)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Arm 3 (Stage 1A)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Arm 4 (Stage 1A)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Arm 5 (Stage 1B)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Arm 6 (Stage 1B)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Arm 7 (Stage 1B)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Arm 8 (Stage 1B)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Arm 9 (Stage 2)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Arm 10 (Stage 2)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Arm 11 (Stage 2)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Arm 12 (Stage 2)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Arm 13 (Stage 2)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Single subcutaneous injection of placebo</description>
+    <arm_group_label>Treatment Arm 1 (Stage 1A)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>PF-04856883</intervention_name>
+    <description>Single subcutaneous injection of PF-04856883</description>
+    <arm_group_label>Treatment Arm 2 (Stage 1A)</arm_group_label>
+    <other_name>CVX-096</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>PF-04856883</intervention_name>
+    <description>Single subcutaneous injection of PF-04856883</description>
+    <arm_group_label>Treatment Arm 3 (Stage 1A)</arm_group_label>
+    <other_name>CVX-096</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>PF-04856883</intervention_name>
+    <description>Single subcutaneous injection of PF-04856883</description>
+    <arm_group_label>Treatment Arm 4 (Stage 1A)</arm_group_label>
+    <other_name>CVX-096</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Single subcutaneous injection of placebo</description>
+    <arm_group_label>Treatment Arm 5 (Stage 1B)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>PF-04856883</intervention_name>
+    <description>Single subcutaneous injection of PF-04856883</description>
+    <arm_group_label>Treatment Arm 6 (Stage 1B)</arm_group_label>
+    <other_name>CVX-096</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>PF-04856883</intervention_name>
+    <description>Single subcutaneous injection of PF-04856883</description>
+    <arm_group_label>Treatment Arm 7 (Stage 1B)</arm_group_label>
+    <other_name>CVX-096</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>PF-04856883</intervention_name>
+    <description>Single subcutaneous injection of PF-04856883</description>
+    <arm_group_label>Treatment Arm 8 (Stage 1B)</arm_group_label>
+    <other_name>CVX-096</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Multiple weekly subcutaneous injections of placebo for 3 weeks</description>
+    <arm_group_label>Treatment Arm 9 (Stage 2)</arm_group_label>
+    <other_name>CVX-096</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>PF-04856883</intervention_name>
+    <description>Multiple weekly subcutaneous injections of PF-04856883 for 3 weeks</description>
+    <arm_group_label>Treatment Arm 10 (Stage 2)</arm_group_label>
+    <other_name>CVX-096</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>PF-04856883</intervention_name>
+    <description>Multiple weekly subcutaneous injections of PF-04856883 for 3 weeks</description>
+    <arm_group_label>Treatment Arm 11 (Stage 2)</arm_group_label>
+    <other_name>CVX-096</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>PF-04856883</intervention_name>
+    <description>Multiple weekly subcutaneous injections of PF-04856883 for 3 weeks</description>
+    <arm_group_label>Treatment Arm 12 (Stage 2)</arm_group_label>
+    <other_name>CVX-096</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>PF-04856883</intervention_name>
+    <description>Multiple weekly subcutaneous injections of PF-04856883 for 3 weeks</description>
+    <arm_group_label>Treatment Arm 13 (Stage 2)</arm_group_label>
+    <other_name>CVX-096</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  History of Type 2 diabetes and currently being treated with high dose metformin
+
+          -  BMI between 22.0 and 40.0 kg/m2
+
+          -  HbA1c between 7.0-10.0%
+
+          -  Fasting C-peptide &gt;1.21 ng/mL
+
+        Exclusion Criteria:
+
+          -  History of clinically significant chronic conditions other than Type 2 diabetes not
+             well controlled by either diet or medications
+
+          -  Treatment with anti-diabetic therapies other than metformin
+
+          -  History of allergic or anaphylactic reaction to any therapeutic or diagnostic
+             monoclonal antibody
+
+          -  Males or women of childbearing potential
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Chula Vista</city>
+        <state>California</state>
+        <zip>91911</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33169</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Miramar</city>
+        <state>Florida</state>
+        <zip>33025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68154</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19139</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://trialinfoemail.pfizer.com/pages/landing.aspx?StudyID=B1111002&amp;StudyName=Single-Dose%20And%20Multiple-Dose%20Safety%20And%20Tolerability%20Study%20Of%20PF-04856883%20In%20Type%202%20Diabetic%20Adult%20Females%20</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>May 2012</verification_date>
+  <lastchanged_date>May 15, 2012</lastchanged_date>
+  <firstreceived_date>February 9, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Phase 1</keyword>
+  <keyword>Type 2 Diabetes</keyword>
+  <keyword>CVX-096</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+    <mesh_term>Metabolic Diseases</mesh_term>
+    <mesh_term>Glucose Metabolism Disorders</mesh_term>
+    <mesh_term>Endocrine System Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

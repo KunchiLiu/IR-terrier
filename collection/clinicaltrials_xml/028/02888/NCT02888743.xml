@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="16757">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02888743</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2016-01325</org_study_id>
+    <secondary_id>NCI-2016-01325</secondary_id>
+    <secondary_id>10021</secondary_id>
+    <secondary_id>10021</secondary_id>
+    <secondary_id>P30CA006516</secondary_id>
+    <secondary_id>UM1CA186709</secondary_id>
+    <nct_id>NCT02888743</nct_id>
+  </id_info>
+  <brief_title>Durvalumab and Tremelimumab With or Without High or Low-Dose Radiation Therapy in Treating Patients With Metastatic Colorectal or Non-small Cell Lung Cancer</brief_title>
+  <official_title>A Phase 2 Study of Durvalumab and Tremelimumab Alone or in Combination With High or Low-Dose Radiation in Metastatic Colorectal and NSCLC</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial studies the side effects of durvalumab and tremelimumab and to see how
+      well they work with or without high or low-dose radiation therapy in treating patients with
+      colorectal or non-small cell lung cancer that has spread to other parts of the body.
+      Monoclonal antibodies, such as durvalumab and tremelimumab, may interfere with the ability
+      of tumor cells to grow and spread. Radiation therapy uses high energy x-rays to kill tumor
+      cells and shrink tumors. Giving durvalumab and tremelimumab with radiation therapy may work
+      better in treating patients with colorectal or non-small cell lung cancer.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To assess safety and tolerability of combined checkpoint blockade with durvalumab and
+      tremelimumab alone or with high or low-dose radiation in non-small cell lung cancer (NSCLC)
+      (NSCLC Cohort) II. To compare the overall response (excluding the irradiated lesion[s])
+      between combined checkpoint blockade with durvalumab and tremelimumab alone or combined
+      checkpoint blockade with low or high dose radiation. (NSCLC Cohort) III. To assess safety
+      and tolerability of combined checkpoint blockade with durvalumab and tremelimumab with high
+      or low-dose radiation. (Colorectal Cohort) IV. To determine the overall response rate
+      (excluding the irradiated lesion[s]) with combined checkpoint blockade with durvalumab and
+      tremelimumab with either low or high dose radiation. (Colorectal Cohort)
+
+      SECONDARY OBJECTIVES:
+
+      I. To estimate median progression-free survival and overall survival. (NSCLC Cohort) II. To
+      determine local control within the irradiated field(s) and abscopal response rates. (NSCLC
+      Cohort) III. To evaluate associations between PD-L1 expression as well as levels of
+      infiltrating CD3+, CD8+ T-cells and overall response. (NSCLC Cohort) IV. To explore changes
+      in PD-L1 expression, circulating T-cell populations, T-cell infiltration, ribonucleic acid
+      (RNA) expression, spatial relationship of immune markers, and mutational burden as a result
+      of low or high dose radiation. (NSCLC Cohort) V. To estimate median progression-free
+      survival and overall survival. (Colorectal Cohort) VI. To determine local control within the
+      irradiated field and abscopal response rates. (Colorectal Cohort) VII. To evaluate
+      associations between PD-L1 expression as well as levels of infiltrating CD3+ CD8+ T-cells
+      and overall response. (Colorectal Cohort) VIII. To evaluate changes between PD-L1 expression
+      as well as levels of infiltrating CD3+, CD8+ T-cells induced by targeted low or high dose
+      radiation. (Colorectal Cohort) IX. To explore changes in circulating T-cell populations,
+      T-cell infiltration, RNA expression, spatial relationship of immune markers, and mutational
+      burden as a result of low or high dose radiation.
+
+      OUTLINE: Patients with NSCLC are randomized to Arm A, B, or C. Patients with colorectal
+      cancer are randomized to Arm B or C.
+
+      COHORT 1: Patients with NSCLC are randomized to 1 of 3 arms.
+
+      ARM A: Patients receive tremelimumab intravenously (IV) and durvalumab IV over 60 minutes
+      every 4 weeks for up to 16 weeks in the absence of disease progression or unacceptable
+      toxicity. Patients then receive durvalumab IV over 60 minutes 4 weeks after last combination
+      dose for up to 9 additional doses.
+
+      ARM B: Patients receive tremelimumab and durvalumab and as in Arm A. Beginning at week 2,
+      patients receive high dose radiation therapy once per day (QD) over 10 days for up to 3
+      fractions.
+
+      ARM C: Patients receive tremelimumab and durvalumab and as in Arm A. Beginning at week 2,
+      patients receive low dose radiation therapy every 6 hours twice per day (BID) on weeks 2, 6,
+      10 and 14.
+
+      After completion of study treatment, patients are followed for up to 12 weeks.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date>April 2017</start_date>
+  <primary_completion_date type="Anticipated">June 2019</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall response rate as determined by RECIST 1.1</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>The proportion of patients with response (complete response or partial response according to RECIST) will be compared for each pair-wise comparison of radiotherapy (RT)-containing therapy and control using chi- squared tests. The difference between the proportions responding will be presented with a 90% confidence interval. For colorectal cancer, response rates within each two-stage design will be calculated and presented with 90% confidence intervals estimated using the method of Atkinson and Brown, which allows for the two-stage design.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events assessed by Common Terminology Criteria for Adverse Events version 4.0</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Safety data will be summarized for each treatment arm within each cohort. The proportions of subjects with grade-3 or higher adverse events will be presented with exact binomial confidence intervals.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Local control rate and abscopal response rates</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>The proportions of patients with local control within the irradiated field will be reported within each RT treatment arm and presented with 90% exact binomial confidence intervals. Similar presentations will be used for abscopal response rates. For cohort sizes of 30 (cohort 2) and 40 patients (cohort 1), the confidence intervals will be no wider than 0.32 and 0.28, respectively.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response per immune-related response criteria</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Will be presented with 90% exact binomial confidence intervals. For cohort sizes of 30 (cohort 2) and 40 patients (cohort 1), the confidence intervals will be no wider than 0.32 and 0.28, respectively. For cohort 1, the pairwise comparisons of irORR between RT and the control arm will be conducted using chi-squared tests.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>From time of randomization to death from any cause, assessed up to 2 years</time_frame>
+    <description>Distributions will be summarized using the Kaplan-Meier method. Median times for each therapy arm will be accompanied by 90% confidence intervals based on log(-log(endpoint)) methodology. For cohort 1, the pairwise comparisons between the durvalumab/tremelimumab alone and durvalumab/tremelimumab with RT arms will be conducted using log-rank tests.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prognostic effect of PD-L1 expression</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Clinical response will be compared according to PD-L1 expression using Fisher's exact tests.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prognostic effect of T-cell infiltration</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Clinical response will be compared according to infiltration using Fisher's exact tests.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>From date of randomization until objective disease progression or death, whichever occurs first, assessed up to 2 years</time_frame>
+    <description>Distributions will be summarized using the Kaplan-Meier method. Median times for each therapy arm will be accompanied by 90% confidence intervals based on log(-log(endpoint)) methodology. For cohort 1, the pairwise comparisons between the durvalumab/tremelimumab alone and durvalumab/tremelimumab with RT arms will be conducted using log-rank tests.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">180</enrollment>
+  <condition>Recurrent Colorectal Carcinoma</condition>
+  <condition>Recurrent Non-Small Cell Lung Carcinoma</condition>
+  <condition>Stage IV Non-Small Cell Lung Cancer</condition>
+  <condition>Stage IVA Colorectal Cancer</condition>
+  <condition>Stage IVB Colorectal Cancer</condition>
+  <arm_group>
+    <arm_group_label>Arm A (tremelimumab, durvalumab)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive tremelimumab IV and durvalumab IV over 60 minutes every 4 weeks for up to 16 weeks in the absence of disease progression or unacceptable toxicity. Patients then receive durvalumab IV over 60 minutes 4 weeks after last combination dose for up to 9 additional doses.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B (tremelimumab, Durvalumab, RT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive tremelimumab and durvalumab and as in Arm A. Beginning at week 2, patients receive high dose radiation therapy QD over 10 days for up to 3 fractions.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm C (tremelimumab, durvalumab, and RT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive tremelimumab and durvalumab and as in Arm A. Beginning at week 2, patients receive low dose radiation therapy every 6 hours BID on weeks 2, 6, 10 and 14.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Durvalumab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Arm A (tremelimumab, durvalumab)</arm_group_label>
+    <arm_group_label>Arm B (tremelimumab, Durvalumab, RT)</arm_group_label>
+    <arm_group_label>Arm C (tremelimumab, durvalumab, and RT)</arm_group_label>
+    <other_name>Immunoglobulin G1, Anti-(Human Protein B7-H1) (Human Monoclonal MEDI4736 Heavy Chain), Disulfide with Human Monoclonal MEDI4736 Kappa-chain, Dimer</other_name>
+    <other_name>MEDI-4736</other_name>
+    <other_name>MEDI4736</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Laboratory Biomarker Analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Arm A (tremelimumab, durvalumab)</arm_group_label>
+    <arm_group_label>Arm B (tremelimumab, Durvalumab, RT)</arm_group_label>
+    <arm_group_label>Arm C (tremelimumab, durvalumab, and RT)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Radiation Therapy</intervention_name>
+    <description>Undergo radiation therapy</description>
+    <arm_group_label>Arm B (tremelimumab, Durvalumab, RT)</arm_group_label>
+    <arm_group_label>Arm C (tremelimumab, durvalumab, and RT)</arm_group_label>
+    <other_name>Cancer Radiotherapy</other_name>
+    <other_name>Irradiate</other_name>
+    <other_name>Irradiated</other_name>
+    <other_name>Irradiation</other_name>
+    <other_name>RADIATION</other_name>
+    <other_name>Radiotherapeutics</other_name>
+    <other_name>Radiotherapy</other_name>
+    <other_name>RT</other_name>
+    <other_name>Therapy, Radiation</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Tremelimumab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Arm A (tremelimumab, durvalumab)</arm_group_label>
+    <arm_group_label>Arm B (tremelimumab, Durvalumab, RT)</arm_group_label>
+    <arm_group_label>Arm C (tremelimumab, durvalumab, and RT)</arm_group_label>
+    <other_name>Anti-CTLA4 Human Monoclonal Antibody CP-675,206</other_name>
+    <other_name>CP-675</other_name>
+    <other_name>CP-675,206</other_name>
+    <other_name>CP-675206</other_name>
+    <other_name>Ticilimumab</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients must have histologically or cytologically confirmed non-small cell lung
+             cancer (cohort 1) or colorectal cancer (cohort 2)
+
+          -  Patients must have measurable disease, defined as at least one lesion that can be
+             accurately measured in at least one dimension (longest diameter to be recorded for
+             non-nodal lesions and short axis for nodal lesions) as &gt;= 20 mm (&gt;= 2 cm) with
+             conventional techniques or as &gt;= 10 mm (&gt;= 1 cm) with spiral computed tomography (CT)
+             scan, magnetic resonance imaging (MRI), or calipers by clinical exam
+
+          -  Patients in both cohorts must have progressive disease following prior therapy;
+             specifically:
+
+               -  Cohort 1 (NSCLC): Patients must have evidence of radiologic or clinical disease
+                  progression during previous treatment with systemic PD-1 directed therapy, or
+                  have stable disease on prior PD-1 therapy (at least 6 doses) and/or have been
+                  deemed not to derive clinical benefit from PD-1 directed treatment; PD-1
+                  directed treatment includes treatment with antibodies targeting the PD-1
+                  receptor such as pembrolizumab or nivolumab, as well as PD-L1 targeted
+                  antibodies such as durvalumab; these agents may have been administered as part
+                  of a clinical trial
+
+               -  Cohort 2 (colorectal cancer): Patients must have progressed on first-line
+                  chemotherapy
+
+          -  At least 21 days must have elapsed from prior therapy (chemotherapy or radiation)
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status =&lt; 1 (Karnofsky &gt;= 60%)
+
+          -  Patients must have normal organ and marrow function independent of transfusion for at
+             least 7 days prior to screening and independent of growth factor support for at least
+             14 days prior to screening
+
+          -  Hemoglobin (Hgb) &gt;= 9 g/dl
+
+          -  Absolute neutrophil count &gt;= 1,500/mcL
+
+          -  Platelets &gt;= 100,000/mcL
+
+          -  Total bilirubin =&lt; 1.5 x normal institutional limits; this will not apply to patients
+             with confirmed Gilbert's syndrome (persistent or recurrent hyperbilirubinemia
+             [predominantly unconjugated bilirubin] in the absence of evidence of hemolysis or
+             hepatic pathology), who will be allowed in consultation with their physician
+
+          -  Aspartate aminotransferase (AST) (serum glutamic-oxaloacetic transaminase [SGOT])/
+             alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) = &lt; 2.5
+             x institutional upper limit of normal; for patients with hepatic metastases, ALT and
+             AST =&lt; 5 x ULT
+
+          -  Creatinine within normal institutional limits OR
+
+          -  Creatinine clearance &gt;= 60 mL/min/1.73 m^2 for patients with creatinine levels above
+             institutional normal
+
+          -  Patients must have at least one lesion that has not previously been irradiated (and
+             is not within a previously radiated field) and for which palliative radiation is
+             potentially indicated and could be safely delivered at the radiation doses specified
+             in this protocol; this lesion must not be the only measurable lesion so that it is
+             still possible to determine the response rate outside of the radiation treatment
+             field; this lesion must not be within the central nervous system (CNS) (brain or
+             spinal cord) or requiring urgent or emergent palliative radiation given the timing of
+             radiation specified on this protocol; furthermore, this lesion:
+
+               -  For cohort 1 (NSCLC cohort) - the lesion to be irradiated must be in the bone,
+                  lung, lymph nodes of the neck, adrenal gland or liver
+
+               -  For cohort 2 (colorectal cohort) - the lesion to be irradiated must be in the
+                  liver
+
+          -  Evidence of post-menopausal status or negative urinary or serum pregnancy test for
+             female pre-menopausal patients is required; women will be considered post-menopausal
+             if they have been amenorrheic for 12 months without an alternative medical cause; the
+             following age-specific requirements apply:
+
+               -  Women &lt; 50 years of age would be considered post-menopausal if they have been
+                  amenorrheic for 12 months or more following cessation of exogenous hormonal
+                  treatments and if they have luteinizing hormone and follicle stimulating hormone
+                  levels in the post-menopausal range for the institution
+
+               -  Women &gt;= 50 years of age would be considered post-menopausal if they have been
+                  amenorrheic for 12 months or more following cessation of all exogenous hormonal
+                  treatments, had radiation-induced oophorectomy with last menses &gt; 1 year ago,
+                  had chemotherapy-induced menopause with &gt; 1 year interval since last menses, or
+                  underwent surgical sterilization (bilateral oophorectomy or hysterectomy)
+
+          -  Women of child bearing potential and men must agree to use adequate contraception
+             (hormonal or barrier method of birth control; abstinence) prior to study entry and
+             for the duration of study participation and 180 days after the last dose of therapy
+
+          -  Should a woman become pregnant or suspect she is pregnant while she or her partner is
+             participating in this study, she should inform her treating physician immediately;
+             men treated or enrolled on this protocol must also agree to use adequate
+             contraception prior to the study, for the duration of study participation, and 4
+             months after completion of durvalumab and tremelimumab administration
+
+          -  Ability to understand and the willingness to sign a written informed consent document
+
+          -  Cohort 1 (NSCLC cohort)
+
+               -  Ability to undergo a fresh tumor biopsy for the purpose of screening for this
+                  clinical trial (including able and willing to give valid written consent) to
+                  ability or to provide an available archival tumor sample taken less than 3
+                  months prior to study enrollment (and not obtained prior to progression on a
+                  PD-1/PD-L1 inhibitor) if a fresh tumor biopsy is not feasible with an acceptable
+                  clinical risk; tumor lesions used for fresh biopsies should be the same lesions
+                  to be irradiated when possible and should not be the same lesions used as RECIST
+                  target lesions, unless there are no other lesions accessible
+
+          -  Cohort 2 (colorectal cohort)
+
+               -  Ability to undergo a fresh tumor biopsy for the purpose of screening for this
+                  clinical trial (including able and willing to give valid written consent) to
+                  ability or to provide an available archival tumor sample taken less than 3
+                  months prior to study enrollment if a fresh tumor biopsy is not feasible with an
+                  acceptable clinical risk; tumor lesions used for fresh biopsies should be the
+                  same lesions to be irradiated when possible and should not be the same lesions
+                  used as Response Evaluation Criteria in Solid Tumors (RECIST) target lesions,
+                  unless there are no other lesions accessible
+
+               -  Microbiology Susceptibility Subcategory (MSS) tumor as documented by either:
+
+                    -  Immunohistochemistry (IHC) testing that does not suggest loss of MLH-1,
+                       MSH-2, PMS2 or MSH6
+
+                    -  Polymerase chain reaction (PCR) testing that does not suggest
+                       microsatellite instability (MSI)
+
+        Exclusion Criteria:
+
+          -  Patients who have had chemotherapy or radiotherapy within 3 weeks (6 weeks for
+             nitrosoureas or mitomycin C) prior to entering the study
+
+          -  Patients who have not recovered from adverse events due to prior anti-cancer therapy
+             (i.e., have residual toxicities &gt; grade 1)
+
+          -  Patients who are receiving any other investigational agents
+
+          -  Patients with untreated brain metastases, spinal cord compression, or leptomeningeal
+             carcinomatosis should be excluded from this clinical trial because of their poor
+             prognosis, because of symptoms that may arise from inflammatory reactions, and
+             because they often develop progressive neurologic dysfunction that would confound the
+             evaluation of neurologic and other adverse events. Patients with brain metastases or
+             spinal cord compression previously treated by radiation and/or surgery are allowed if
+             local treatment was &gt; 30 days ago, most recent MRI demonstrates stability or decrease
+             in size of all lesions, and the patient has no current neurologic symptoms related to
+             the metastases and treatment and no requirement for corticosteroids related to the
+             prior treatment
+
+          -  History of allergic reactions attributed to compounds of similar chemical or biologic
+             composition to tremelimumab and durvalumab or previous toxicity attributed to
+             durvalumab or other PD-1 or PD-L1 directed therapy that led to drug discontinuation
+
+          -  Prior exposure to immune-mediated therapy, except for anti-PD-1 or anti-PD-L1 therapy
+             in NSCLC patients; this includes anti-CTLA-4, anti-PD-1, anti-PD-L1, or anti-PD-L2
+             antibodies, excluding therapeutic anticancer vaccines; exposure to other
+             investigational agents may be permitted after discussion with the study principle
+             investigator (PI)
+
+          -  Uncontrolled intercurrent illness including, but not limited to, ongoing or active
+             infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac
+             arrhythmia, or psychiatric illness/social situations that would limit compliance with
+             study requirements
+
+          -  Pregnant women are excluded from this study because durvalumab, tremelimumab are
+             immune checkpoint inhibitors with the potential for teratogenic or abortifacient
+             effects, as is radiation therapy; because there is an unknown but potential risk for
+             adverse events in nursing infants secondary to treatment of the mother with
+             durvalumab, tremelimumab and radiation, breastfeeding should be discontinued if the
+             mother is treated with durvalumab, tremelimumab and radiation
+
+          -  Human immunodeficiency virus (HIV)-positive patients are ineligible due to the risks
+             associated with immune checkpoint blockade; appropriate studies will be undertaken in
+             patients receiving combination antiretroviral therapy when indicated
+
+          -  Any concurrent chemotherapy, immune therapy, biologic, hormonal therapy for cancer
+             treatment
+
+          -  Current or prior use of immunosuppressive medication within 14 days before the first
+             dose of their assigned IP; the following are exceptions to this criterion:
+
+               -  Intranasal, inhaled, topical steroids, or local steroid injections (eg,
+                  intra-articular injection)
+
+               -  Systemic corticosteroids at physiologic doses not to exceed 10 mg/day of
+                  prednisone or its equivalent
+
+               -  Steroids as pre-medication for hypersensitivity reactions (eg, CT scan
+                  pre-medication)
+
+          -  History of allogeneic organ transplantation
+
+          -  Active or prior documented autoimmune or inflammatory disorders (including
+             inflammatory bowel disease, diverticulitis with the exception of a prior episode that
+             has resolved or diverticulosis, celiac disease, or other serious gastrointestinal
+             [GI] chronic conditions associated with diarrhea; systemic lupus erythematosus;
+             Wegener syndrome [granulomatosis with polyangiitis]; myasthenia gravis; Graves'
+             disease; rheumatoid arthritis; hypophysitis; uveitis, etc.) within the past 3 years
+             prior to the start of treatment; the following are exceptions to this criterion:
+
+               -  Patients with vitiligo or alopecia
+
+               -  Patients with hypothyroidism (eg, following Hashimoto syndrome) stable on
+                  hormone replacement or psoriasis not requiring systemic treatment
+
+          -  History of another primary malignancy except for
+
+               -  Malignancy treated with curative intent and with no known active disease &gt;= 5
+                  years before the first dose of study drug and of low potential risk for
+                  recurrence
+
+               -  Adequately treated non-melanoma skin cancer or lentigo maligna without evidence
+                  of disease
+
+               -  Adequately treated carcinoma in situ without evidence of disease (eg, cervical
+                  cancer in situ)
+
+          -  Mean QT interval corrected for heart rate (QTc) &gt;= 470 ms calculated from 3
+             electrocardiograms (ECGs) using Fridericia's Correction
+
+          -  History of active primary immunodeficiency
+
+          -  Known history of previous clinical diagnosis of tuberculosis
+
+          -  Active infection including hepatitis B, hepatitis C, or human immunodeficiency virus
+             (HIV)
+
+          -  Receipt of live, attenuated vaccine within 30 days prior to the first dose of
+             investigational treatment; Note: patients, if enrolled, should not receive live
+             vaccine during the study and up to 30 days after the last dose of investigational
+             treatment
+
+          -  Any condition that, in the opinion of the investigator, would interfere with
+             evaluation of the investigational treatment or interpretation of patient safety or
+             study results
+
+          -  Cohort 1 (NSCLC cohort)
+
+               -  Eligibility for Food and Drug Administration (FDA)-approved agents targeting the
+                  EGFR or ALK pathway; exceptions to this requirement may be considered on a
+                  case-by-case basis by the principal investigator if the patient was previously
+                  treated with another targeted agent
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jonathan Schoenfeld</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Dana-Farber - Harvard Cancer Center LAO</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Dana-Farber - Harvard Cancer Center LAO</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jonathan D. Schoenfeld</last_name>
+      <phone>877-442-3324</phone>
+      <email>jdschoenfeld@partners.org</email>
+    </contact>
+    <investigator>
+      <last_name>Jonathan D. Schoenfeld</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2017</verification_date>
+  <lastchanged_date>February 6, 2017</lastchanged_date>
+  <firstreceived_date>August 31, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+    <mesh_term>Colorectal Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Immunoglobulin G</mesh_term>
+    <mesh_term>Tremelimumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

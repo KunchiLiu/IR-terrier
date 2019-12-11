@@ -1,0 +1,2594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="30708">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02706951</url>
+  </required_header>
+  <id_info>
+    <org_study_id>M15-555</org_study_id>
+    <secondary_id>2015-003376-75</secondary_id>
+    <nct_id>NCT02706951</nct_id>
+  </id_info>
+  <brief_title>A Study Comparing ABT-494 Monotherapy to Methotrexate (MTX) Monotherapy in Subjects With Rheumatoid Arthritis (RA) Who Have an Inadequate Response to MTX (SELECT-MONOTHERAPY)</brief_title>
+  <official_title>A Phase 3, Randomized, Double-Blind Study Comparing ABT-494 Monotherapy to Methotrexate (MTX) in Subjects With Moderately to Severely Active Rheumatoid Arthritis With Inadequate Response to MTX</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AbbVie</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AbbVie</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized, double-blind study comparing ABT-494 monotherapy to Methotrexate (MTX)
+      monotherapy in subjects with moderately to severely active rheumatoid arthritis who have had
+      an inadequate response to methotrexate treatment.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>March 2016</start_date>
+  <completion_date type="Anticipated">August 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 2017</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Participant, Care Provider, Investigator, Outcomes Assessor</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of participants achieving American College of Rheumatologist (ACR) 20 response</measure>
+    <time_frame>At week 14</time_frame>
+    <description>ACR criteria measure improvements in tender and swollen joint counts, patient assessments of pain, global disease activity and physical function, physician global assessment of disease activity and acute phase reactant.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Low Disease Activity (LDA) based on Disease Activity Score (DAS) 28 (CRP)</measure>
+    <time_frame>At week 14</time_frame>
+    <description>Proportion of participants achieving low disease activity as defined by a clinical response DAS28[CRP] less than or equal to 3.2. The DAS28 is a validated index of rheumatoid arthritis disease activity. Scores on the DAS28 range from 0 to 10. A DAS28 score greater than 5.1 indicates high disease activity, a DAS28 score less than or equal to 3.2 indicates low disease activity, and a DAS28 score less than 2.6 indicates clinical remission.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in DAS 28 (CRP)</measure>
+    <time_frame>From week 0 to week 14</time_frame>
+    <description>The DAS28 is a validated index of rheumatoid arthritis disease activity. Scores on the DAS28 range from 0 to 10.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Heath Assessment Questionnaire and Disability Index (HAQ-DI)</measure>
+    <time_frame>From week 0 to week 14</time_frame>
+    <description>HAQ-DI is a participant questionnaire with questions regarding the participant's illness and how it affects their daily life activities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ACR50 response rate</measure>
+    <time_frame>At week 14</time_frame>
+    <description>ACR criteria measure improvements in tender and swollen joint counts, patient assessments of pain, global disease activity and physical function, physician global assessment of disease activity and acute phase reactant.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ACR70 response rate</measure>
+    <time_frame>At week 14</time_frame>
+    <description>ACR criteria measure improvements in tender and swollen joint counts, patient assessments of pain, global disease activity and physical function, physician global assessment of disease activity and acute phase reactant.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Short Form-36 (SF-36) Physical Component Score (PCS)</measure>
+    <time_frame>From week 0 to week 14</time_frame>
+    <description>SF-36 is a 36 item participant questionnaire with questions regarding participant health and daily activities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants achieving Clinical remission (CR) (DAS28 [CRP] &lt; 2.6)</measure>
+    <time_frame>At week 14</time_frame>
+    <description>CR based on DAS28 (CRP) response rate is defined as DAS28 (CRP) less than 2.6</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in morning stiffness (severity)</measure>
+    <time_frame>From week 0 to week 14</time_frame>
+    <description>The Patient's Assessment of Severity and Duration of Morning Stiffness Numerical Rating Scale (NRS) is a participant assessment to record the participant's experience with morning stiffness.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Rheumatoid Arthritis</condition>
+  <arm_group>
+    <arm_group_label>ABT-494 Dose A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>ABT-494 Dose A once daily for 240 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ABT-494 Dose B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>ABT-494 Dose B once daily for 240 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Methotrexate followed by ABT-494 Dose A</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Methotrexate for 14 weeks followed by ABT-494 Dose A for 226 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Methotrexate followed by ABT-494 Dose B</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Methotrexate for 14 weeks followed by ABT-494 Dose B for 226 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ABT-494</intervention_name>
+    <description>Oral tablet</description>
+    <arm_group_label>ABT-494 Dose A</arm_group_label>
+    <arm_group_label>ABT-494 Dose B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Methotrexate</intervention_name>
+    <description>Oral capsule</description>
+    <arm_group_label>Methotrexate followed by ABT-494 Dose A</arm_group_label>
+    <arm_group_label>Methotrexate followed by ABT-494 Dose B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ABT-494 matching placebo</intervention_name>
+    <description>Oral tablet</description>
+    <arm_group_label>Methotrexate followed by ABT-494 Dose A</arm_group_label>
+    <arm_group_label>Methotrexate followed by ABT-494 Dose B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Methotrexate matching placebo</intervention_name>
+    <description>Oral capsule</description>
+    <arm_group_label>Methotrexate followed by ABT-494 Dose A</arm_group_label>
+    <arm_group_label>Methotrexate followed by ABT-494 Dose B</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Diagnosis of RA for &gt;= 3 months.
+
+          -  Subjects must have been on oral or parenteral MTX therapy &gt;= 3 months and on a stable
+             dose for &gt;= 4 weeks prior to first dose of study drug.
+
+          -  Must have discontinued all conventional synthetic disease-modifying anti-rheumatic
+             drugs (csDMARDs) (other than MTX) &gt;= 4 weeks prior to first dose of study drug.
+
+          -  Meets the following minimum disease activity criteria: &gt;= 6 swollen joints (based on
+             66 joint counts) and &gt;= 6 tender joints (based on 68 joint counts) at Screening and
+             Baseline Visits.
+
+        Exclusion Criteria:
+
+          -  Prior exposure to any Janus kinase (JAK) inhibitor (including but not limited to
+             tofacitinib, baricitinib, and filgotinib).
+
+          -  Prior exposure to any biological disease-modifying anti-rheumatic drugs (bDMARDs).
+
+          -  Current diagnosis of inflammatory joint disease other than RA. Current diagnosis of
+             secondary Sjogren's Syndrome is permitted.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Heidi Camp, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>AbbVie</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>AbbVie_Call Center</last_name>
+    <phone>847-283-8955</phone>
+    <email>abbvieclinicaltrials@abbvie.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 146012</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 146009</name>
+      <address>
+        <city>Huntsville</city>
+        <state>Alabama</state>
+        <zip>35801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 146009, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 153941</name>
+      <address>
+        <city>Mobile</city>
+        <state>Alabama</state>
+        <zip>36608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 153941, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 143751</name>
+      <address>
+        <city>Gilbert</city>
+        <state>Arizona</state>
+        <zip>85234</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 143751, DO</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 143760</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85018</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 143760, DO</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147175</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85724-5093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147175, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 153125</name>
+      <address>
+        <city>Hot Springs</city>
+        <state>Arkansas</state>
+        <zip>71913</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 153125, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148904</name>
+      <address>
+        <city>Jonesboro</city>
+        <state>Arkansas</state>
+        <zip>72401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148904, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 143762</name>
+      <address>
+        <city>Hemet</city>
+        <state>California</state>
+        <zip>92543</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 143762, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 143758</name>
+      <address>
+        <city>Upland</city>
+        <state>California</state>
+        <zip>91786</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147176</name>
+      <address>
+        <city>Colorado Springs</city>
+        <state>Colorado</state>
+        <zip>80920</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147176, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 143766</name>
+      <address>
+        <city>Fort Lauderdale</city>
+        <state>Florida</state>
+        <zip>33309</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 143766, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 151983</name>
+      <address>
+        <city>Miami Springs</city>
+        <state>Florida</state>
+        <zip>33166</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 151983, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 143767</name>
+      <address>
+        <city>Pinellas Park</city>
+        <state>Florida</state>
+        <zip>33781</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 143767, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 146011</name>
+      <address>
+        <city>Sarasota</city>
+        <state>Florida</state>
+        <zip>34239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 146011, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 151985</name>
+      <address>
+        <city>St. Petersburg</city>
+        <state>Florida</state>
+        <zip>33705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 151985, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 146010</name>
+      <address>
+        <city>Tamarac</city>
+        <state>Florida</state>
+        <zip>33321</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 146010, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148726</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33603</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148726, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 143763</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 143763, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 146004</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 146004, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 151816</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 151816, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 150935</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60640</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 150935, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 143761</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 143761, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 153573</name>
+      <address>
+        <city>Baton Rouge</city>
+        <state>Louisiana</state>
+        <zip>70809</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 153573, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 153124</name>
+      <address>
+        <city>Shreveport</city>
+        <state>Louisiana</state>
+        <zip>71101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 153124, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 159548</name>
+      <address>
+        <city>Frederick</city>
+        <state>Maryland</state>
+        <zip>21702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 159548, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 156415</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 156415, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 146008</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <zip>03756</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 146008, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147618</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147618, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147177</name>
+      <address>
+        <city>Las Cruces</city>
+        <state>New Mexico</state>
+        <zip>88011</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147177, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 156755</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 156755, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 149275</name>
+      <address>
+        <city>New Bern</city>
+        <state>North Carolina</state>
+        <zip>28562</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 149275, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 143770</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45417</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 143770, DO</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147632</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74135</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147632, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 143757</name>
+      <address>
+        <city>Fountain Inn</city>
+        <state>South Carolina</state>
+        <zip>29644</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 143757, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 143754</name>
+      <address>
+        <city>Hixson</city>
+        <state>Tennessee</state>
+        <zip>37343</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 143754, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 159554</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78745</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 159554, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148725</name>
+      <address>
+        <city>Beaumont</city>
+        <state>Texas</state>
+        <zip>77701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148725, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 150138</name>
+      <address>
+        <city>Carrollton</city>
+        <state>Texas</state>
+        <zip>75007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 150138, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147627</name>
+      <address>
+        <city>Corpus Christi</city>
+        <state>Texas</state>
+        <zip>78404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147627, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 143768</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 143768, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 143755</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 143755, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 143769</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77034</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 143769, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 143765</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77099</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 143765, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 151358</name>
+      <address>
+        <city>Lufkin</city>
+        <state>Texas</state>
+        <zip>75904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 151358, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147620</name>
+      <address>
+        <city>Mesquite</city>
+        <state>Texas</state>
+        <zip>75150</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147620, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 150936</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 150936, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 149266</name>
+      <address>
+        <city>San Marcos</city>
+        <state>Texas</state>
+        <zip>78666</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 149266, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 151359</name>
+      <address>
+        <city>Tomball</city>
+        <state>Texas</state>
+        <zip>77375</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 151359, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 143752</name>
+      <address>
+        <city>Waco</city>
+        <state>Texas</state>
+        <zip>76710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 143752, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 143756</name>
+      <address>
+        <city>Arlington</city>
+        <state>Virginia</state>
+        <zip>22205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 143756, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 143759</name>
+      <address>
+        <city>Chesapeake</city>
+        <state>Virginia</state>
+        <zip>23320</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 143759, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 145980</name>
+      <address>
+        <city>Caba</city>
+        <zip>C1128AAF</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 145980, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 145979</name>
+      <address>
+        <city>Ciudad Autonoma Buenos Aires</city>
+        <zip>1428</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 145979, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 152621</name>
+      <address>
+        <city>Salta</city>
+        <zip>4400</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 152621, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 146028</name>
+      <address>
+        <city>Camperdown</city>
+        <zip>2050</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 146028, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144728</name>
+      <address>
+        <city>Vienna</city>
+        <zip>1100</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144728, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148720</name>
+      <address>
+        <city>Aalst</city>
+        <zip>9300</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148720, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 146030</name>
+      <address>
+        <city>Genk</city>
+        <zip>3600</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 146030, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 146029</name>
+      <address>
+        <city>Liege</city>
+        <zip>4000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 146029, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144730</name>
+      <address>
+        <city>Sofia</city>
+        <zip>1505</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144730, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147351</name>
+      <address>
+        <city>Sofia</city>
+        <zip>1612</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147351, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144737</name>
+      <address>
+        <city>Breclav</city>
+        <zip>690 02</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144737, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144823</name>
+      <address>
+        <city>Olomouc</city>
+        <zip>779 00</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144823, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 145985</name>
+      <address>
+        <city>Ostrava - Moravska Ostrava</city>
+        <zip>702 00</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 145985, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 145986</name>
+      <address>
+        <city>Prague 4</city>
+        <zip>140 00</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 145986, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144736</name>
+      <address>
+        <city>Prague 4</city>
+        <zip>14059</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144736, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144821</name>
+      <address>
+        <city>Uherske Hradiste</city>
+        <zip>686 01</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144821, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 145455</name>
+      <address>
+        <city>Tallinn</city>
+        <zip>13419</zip>
+        <country>Estonia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 145455, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 159745</name>
+      <address>
+        <city>Tartu</city>
+        <zip>50107</zip>
+        <country>Estonia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 159745, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144738</name>
+      <address>
+        <city>Athens</city>
+        <zip>11527</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144738, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144739</name>
+      <address>
+        <city>Athens</city>
+        <zip>11527</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144739, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144743</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1062</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144743, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144742</name>
+      <address>
+        <city>Kistarcsa</city>
+        <zip>2143</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144742, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144741</name>
+      <address>
+        <city>Szekesfehervar</city>
+        <zip>8000</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144741, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144740</name>
+      <address>
+        <city>Veszprem</city>
+        <zip>8200</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144740, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144744</name>
+      <address>
+        <city>Ashkelon</city>
+        <zip>7830604</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144744, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144745</name>
+      <address>
+        <city>Haifa</city>
+        <zip>3339419</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144745, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147174</name>
+      <address>
+        <city>Haifa</city>
+        <zip>3436212</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147174, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144824</name>
+      <address>
+        <city>Ramat Gan</city>
+        <zip>5262100</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144824, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144747</name>
+      <address>
+        <city>Catanzaro</city>
+        <zip>88100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144747, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 146031</name>
+      <address>
+        <city>Localita Cona - Ferrara</city>
+        <zip>44124</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 146031, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144746</name>
+      <address>
+        <city>Verona</city>
+        <zip>37134</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144746, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148279</name>
+      <address>
+        <city>Fukuoka-shi, Fukuoka</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148279, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148280</name>
+      <address>
+        <city>Fukuoka-shi, Fukuoka</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148280, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148268</name>
+      <address>
+        <city>Fukuoka-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148268, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148270</name>
+      <address>
+        <city>Hamamatsu-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148270, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148282</name>
+      <address>
+        <city>Hiroshima</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148272</name>
+      <address>
+        <city>Iizuka-shi,Fukuoka</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148272, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148281</name>
+      <address>
+        <city>Kochi-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148281, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148269</name>
+      <address>
+        <city>Kumamoto</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148269, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148286</name>
+      <address>
+        <city>Kumamoto</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148286, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 157944</name>
+      <address>
+        <city>Miyazaki</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 157944, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 149859</name>
+      <address>
+        <city>Nagasaki-shi, Nagasaki</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 149859, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148267</name>
+      <address>
+        <city>Osaka-shi, Osaka</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148267, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 158080</name>
+      <address>
+        <city>Sanuki-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 158080, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148285</name>
+      <address>
+        <city>Sapporo-shi, Hokkaido</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148285, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148274</name>
+      <address>
+        <city>Sapporo-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148274, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148276</name>
+      <address>
+        <city>Sapporo-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148276, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148275</name>
+      <address>
+        <city>Sasebo-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148275, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148277</name>
+      <address>
+        <city>Shirahama</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148277, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148284</name>
+      <address>
+        <city>Shizuoka-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148278</name>
+      <address>
+        <city>Tokyo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148278, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148271</name>
+      <address>
+        <city>Yamaguchi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148271, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 148273</name>
+      <address>
+        <city>Yotsukaido-shi, Chiba</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 148273, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147095</name>
+      <address>
+        <city>Mexico City</city>
+        <zip>06100</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147095, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147379</name>
+      <address>
+        <city>Monterrey, Nuevo Leon</city>
+        <zip>C.P. 64060</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147379, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 146032</name>
+      <address>
+        <city>Auckland</city>
+        <zip>2025</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144753</name>
+      <address>
+        <city>Bialystok</city>
+        <zip>15-351</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144753, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144749</name>
+      <address>
+        <city>Elblag</city>
+        <zip>82-300</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144749, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 149520</name>
+      <address>
+        <city>Gdansk</city>
+        <zip>80-546</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 149520, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144750</name>
+      <address>
+        <city>Katowice</city>
+        <zip>40-036</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144750, DO</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144752</name>
+      <address>
+        <city>Lublin</city>
+        <zip>20-607</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144752, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144751</name>
+      <address>
+        <city>Poznan</city>
+        <zip>60-218</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144751, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 149521</name>
+      <address>
+        <city>Warsaw</city>
+        <zip>02-507</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 149521, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 152916</name>
+      <address>
+        <city>Aveiro</city>
+        <zip>3814-501</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 152916, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 149281</name>
+      <address>
+        <city>Lisbon</city>
+        <zip>1050-034</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 149281, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 146035</name>
+      <address>
+        <city>Lisbon</city>
+        <zip>1649-035</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 146035, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 145987</name>
+      <address>
+        <city>Ponte de Lima</city>
+        <zip>4990-041</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 145987, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 146036</name>
+      <address>
+        <city>Vila Nova de Gaia</city>
+        <zip>4434-502</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 146036, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 146034</name>
+      <address>
+        <city>Viseu</city>
+        <zip>3504 509</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 146034, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 145989</name>
+      <address>
+        <city>Carolina</city>
+        <zip>00983</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 145989, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 145990</name>
+      <address>
+        <city>Ponce</city>
+        <zip>00716</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 145990, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144756</name>
+      <address>
+        <city>Ploiesti</city>
+        <zip>100337</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144756, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 145994</name>
+      <address>
+        <city>Ivanovo</city>
+        <zip>153005</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 145994, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 145997</name>
+      <address>
+        <city>Kazan</city>
+        <zip>420012</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 145997, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147255</name>
+      <address>
+        <city>Moscow</city>
+        <zip>119049</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147255, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 145995</name>
+      <address>
+        <city>Moscow</city>
+        <zip>125284</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 145995, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 145991</name>
+      <address>
+        <city>Moscow</city>
+        <zip>127473</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 145991, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 149832</name>
+      <address>
+        <city>Nishniy Novgorod</city>
+        <zip>603005</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 149832, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144758</name>
+      <address>
+        <city>Novosibirsk</city>
+        <zip>630061</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144758, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 145992</name>
+      <address>
+        <city>Orenburg</city>
+        <zip>460000</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 145992, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 145993</name>
+      <address>
+        <city>Perm</city>
+        <zip>614000</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 145993, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147251</name>
+      <address>
+        <city>Petrozavodsk</city>
+        <zip>185019</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147251, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 145998</name>
+      <address>
+        <city>Ryazan</city>
+        <zip>390026</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 145998, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 150934</name>
+      <address>
+        <city>Samara</city>
+        <zip>443095</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 150934, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147254</name>
+      <address>
+        <city>Tver</city>
+        <zip>170036</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147254, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144757</name>
+      <address>
+        <city>Ufa</city>
+        <zip>450005</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144757, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 150932</name>
+      <address>
+        <city>Voronezh</city>
+        <zip>394036</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 150932, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 147253</name>
+      <address>
+        <city>Yaroslavl</city>
+        <zip>150000</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 147253, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144759</name>
+      <address>
+        <city>Belgrade</city>
+        <zip>11000</zip>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144759, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144761</name>
+      <address>
+        <city>Belgrade</city>
+        <zip>11000</zip>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144761, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144762</name>
+      <address>
+        <city>Belgrade</city>
+        <zip>11000</zip>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144762, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144763</name>
+      <address>
+        <city>Belgrade</city>
+        <zip>11000</zip>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144763, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144760</name>
+      <address>
+        <city>Novi Sad</city>
+        <zip>21000</zip>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144760, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 146037</name>
+      <address>
+        <city>Badalona</city>
+        <zip>8916</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 146037, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 145999</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 145999, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144771</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144771, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144770</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144770, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144772</name>
+      <address>
+        <city>Caddesi Bursa</city>
+        <zip>16080</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144772, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144774</name>
+      <address>
+        <city>Gorukle-Bursa</city>
+        <zip>16059</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144774, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 144773</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34722</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 144773, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 152007</name>
+      <address>
+        <city>Ivano-Frankivsk</city>
+        <zip>76018</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 152007, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 146003</name>
+      <address>
+        <city>Kharkiv</city>
+        <zip>61002</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 152004</name>
+      <address>
+        <city>Kyiv</city>
+        <zip>03680</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 152004, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 146002</name>
+      <address>
+        <city>Vinnytsia</city>
+        <zip>21018</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 146002, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 146000</name>
+      <address>
+        <city>Zaporizhzhya</city>
+        <zip>69600</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 146000, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Australia</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Bulgaria</country>
+    <country>Czech Republic</country>
+    <country>Estonia</country>
+    <country>Greece</country>
+    <country>Hungary</country>
+    <country>Israel</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Mexico</country>
+    <country>New Zealand</country>
+    <country>Poland</country>
+    <country>Portugal</country>
+    <country>Puerto Rico</country>
+    <country>Romania</country>
+    <country>Russian Federation</country>
+    <country>Serbia</country>
+    <country>Spain</country>
+    <country>Turkey</country>
+    <country>Ukraine</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2017</verification_date>
+  <lastchanged_date>January 18, 2017</lastchanged_date>
+  <firstreceived_date>February 18, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Musculoskeletal Disease</keyword>
+  <keyword>anti-inflammatory agents</keyword>
+  <keyword>Arthritis</keyword>
+  <keyword>Joint Disease</keyword>
+  <keyword>antirheumatic agents</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Arthritis</mesh_term>
+    <mesh_term>Arthritis, Rheumatoid</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Methotrexate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

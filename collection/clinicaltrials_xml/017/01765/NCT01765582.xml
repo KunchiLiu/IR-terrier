@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="102848">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01765582</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ML28442</org_study_id>
+    <nct_id>NCT01765582</nct_id>
+  </id_info>
+  <brief_title>A Study of Sequential and Concurrent FOLFOXIRI/Avastin (Bevacizumab) Regimens Versus FOLFOX/Avastin in First-Line in Participants With Metastatic Colorectal Cancer (STEAM)</brief_title>
+  <official_title>Steam (Sequencing Triplet With Avastin and Maintenance): FOLFOXIRI/Bevacizumab Regimens (Concurrent and Sequential) vs. FOLFOX/Bevacizumab in First-Line Metastatic Colorectal Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hoffmann-La Roche</source>
+  <brief_summary>
+    <textblock>
+      This randomized, open-label, multicenter study will evaluate the efficacy and safety of
+      folinic acid (leucovorin), 5-fluorouracil (5-FU), oxaliplatin, and irinotecan (FOLFOXIRI) /
+      bevacizumab regimens (concurrent and sequential) versus folinic acid (leucovorin),
+      5-fluorouracil, and oxaliplatin (FOLFOX) / bevacizumab in first-line in participants with
+      metastatic colorectal cancer. Participants will be randomized to receive bevacizumab 5
+      milligrams per kilogram (mg/kg) intravenously every 2 weeks with either concurrent or
+      sequential FOLFOXIRI or with FOLFOX for 4 to 6 months of induction therapy, followed by
+      maintenance therapy with bevacizumab plus either leucovorin/5-fluorouracil or capecitabine
+      until disease progression occurs. After disease progression, participants will receive
+      treatment with a fluoropyrimidine-based chemotherapy plus bevacizumab.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2013</start_date>
+  <completion_date type="Actual">March 2016</completion_date>
+  <primary_completion_date type="Actual">March 2016</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Participants With Overall Response During First-Line Therapy (ORR1), Assessed by Investigator According to Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST v.1.1)</measure>
+    <time_frame>Randomization up to disease progression during first-line therapy or death, whichever occurs first (up to approximately 3 years)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Progression-Free Survival During First-Line Therapy (PFS1), Assessed by Investigator According to RECIST v.1.1 Criteria</measure>
+    <time_frame>Randomization up to disease progression during first-line therapy or death, whichever occurs first (up to approximately 3 years)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Overall Response During Second-Line Therapy (ORR2), Assessed by Investigator According to RECIST v.1.1</measure>
+    <time_frame>After initiation of second-line therapy up to disease progression or death, whichever occurs first (up to approximately 3 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival During Second-Line Therapy (PFS2) Assessed by Investigator According to RECIST v.1.1 Criteria</measure>
+    <time_frame>After initiation of second-line therapy up to disease progression or death, whichever occurs first (up to approximately 3 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to PFS2, Assessed by Investigator According to RECIST v.1.1 Criteria</measure>
+    <time_frame>Randomization up to disease progression during second-line therapy or death, whichever occurs first (up to approximately 3 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>Randomization until death due to any cause (up to approximately 3 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants who Underwent Liver Metastases Resections</measure>
+    <time_frame>Randomization up to approximately 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Considered by the Investigator to be Unresectable on Study Enrollment Who Subsequently Undergo Attempted Curative Resections of Metastases</measure>
+    <time_frame>Randomization up to approximately 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Adverse Events</measure>
+    <time_frame>Randomization up to approximately 3 years</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">48</enrollment>
+  <condition>Colorectal Neoplasm</condition>
+  <arm_group>
+    <arm_group_label>Arm A: Concurrent FOLFOXIRI + Bevacizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive concurrent FOLFOXIRI along with 5 mg/kg of bevacizumab with treatment cycle of 2 weeks during first 4 month induction phase (plus optional 2 months of induction for participants who exhibit good response and tolerate the regimen) followed by administration of 5-FU with bevacizumab or capecitabine with bevacizumab as per investigator's discretion in maintenance phase. Following progression on first-line therapy (PD1), bevacizumab (dose equivalent, 2.5 mg/kg/week) will be administered as second-line therapy in combination with fluoropyrimidine based chemotherapy at the investigator's discretion.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B: Sequential FOLFOXIRI + Bevacizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive alternating 4-week administrations of FOLFOX/bevacizumab and folinic acid (leucovorin), 5-FU, and irinotecan (FOLFIRI) /Bevacizumab with a treatment cycle of 2 weeks during first 4-month induction phase (plus optional 2 months of induction for participants who exhibit good response and tolerate the regimen) followed by administration of 5-FU with bevacizumab or capecitabine with bevacizumab as per investigator's discretion in maintenance phase. Following progression on first-line therapy (PD1), bevacizumab (dose equivalent, 2.5 mg/kg/week) will be administered as second-line therapy in combination with fluoropyrimidine based chemotherapy at the investigator's discretion.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm C: FOLFOX + Bevacizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive FOLFOX along with 5 mg/kg of bevacizumab with treatment cycle of 2 weeks during first 4-month induction phase (plus optional 2 months of induction for participants who exhibit good response and tolerate the regimen) followed by administration of 5-FU with bevacizumab or capecitabine with bevacizumab as per investigator's discretion in maintenance phase. Following progression on first-line therapy (PD1), bevacizumab (dose equivalent, 2.5 mg/kg/week) will be administered as second-line therapy in combination with fluoropyrimidine based chemotherapy at the investigator's discretion.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>5-fluorouracil</intervention_name>
+    <description>Participants in Arm A will receive 3200 milligrams per square meter (mg/m^2) by 48-hour continuous intravenous (IV) infusion every 2 weeks, during the 4-6 months' induction followed by maintenance therapy including bolus dose of 400 mg/m^2, followed by a 46-hour continuous infusion (2400 mg/m^2) every 2 weeks per investigator's discretion. Participant in Arm B and C will receive a bolus dose of 400 mg/m^2, followed by a 46-hour continuous infusion (2400 mg/m^2) every 2 weeks during the 4-6 months of induction and maintenance per investigator's discretion.</description>
+    <arm_group_label>Arm A: Concurrent FOLFOXIRI + Bevacizumab</arm_group_label>
+    <arm_group_label>Arm B: Sequential FOLFOXIRI + Bevacizumab</arm_group_label>
+    <arm_group_label>Arm C: FOLFOX + Bevacizumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>bevacizumab</intervention_name>
+    <description>Participants will receive 5 mg/kg IV every 2 weeks during the first 4-6 months induction phase, followed by 5 mg/kg IV every 2 weeks or 7.5 mg/kg IV every 3 weeks during maintenance therapy, and 2.5 mg/kg per week reinduction after disease progression.</description>
+    <arm_group_label>Arm A: Concurrent FOLFOXIRI + Bevacizumab</arm_group_label>
+    <arm_group_label>Arm B: Sequential FOLFOXIRI + Bevacizumab</arm_group_label>
+    <arm_group_label>Arm C: FOLFOX + Bevacizumab</arm_group_label>
+    <other_name>Avastin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Capecitabine</intervention_name>
+    <description>Participants will receive 1000 or 850 mg/kg orally twice daily as per investigator's discretion on Day 1 to 14, repeated every 3 weeks in maintenance phase.</description>
+    <arm_group_label>Arm A: Concurrent FOLFOXIRI + Bevacizumab</arm_group_label>
+    <arm_group_label>Arm B: Sequential FOLFOXIRI + Bevacizumab</arm_group_label>
+    <arm_group_label>Arm C: FOLFOX + Bevacizumab</arm_group_label>
+    <other_name>Xeloda</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Irinotecan</intervention_name>
+    <description>Participants will receive IV infusion of 165 mg/m^2 over 1 hour every 2 weeks (Arm A) or IV infusion of 180 mg/m^2 over 1 hour in 2 x 2 weeks cycles alternating months (in Arm B), during 4-6 months induction phase.</description>
+    <arm_group_label>Arm A: Concurrent FOLFOXIRI + Bevacizumab</arm_group_label>
+    <arm_group_label>Arm B: Sequential FOLFOXIRI + Bevacizumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Leucovorin</intervention_name>
+    <description>Participants will receive IV infusion of 200 mg/m^² (Arm A) or 400 mg/m^2 (Arm B or C) over 2 hours every 2 weeks, during 4-6 months induction phase followed by IV infusion of 400 mg/m^2 in the maintenance therapy.</description>
+    <arm_group_label>Arm A: Concurrent FOLFOXIRI + Bevacizumab</arm_group_label>
+    <arm_group_label>Arm B: Sequential FOLFOXIRI + Bevacizumab</arm_group_label>
+    <arm_group_label>Arm C: FOLFOX + Bevacizumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Oxaliplatin</intervention_name>
+    <description>Participants will receive 85 mg/m^2 over 2 hours as IV infusion every 2 weeks (Arm A, C ) or 2 x 2 week cycles alternating months (Arm B), during 4-6 months induction phase .</description>
+    <arm_group_label>Arm A: Concurrent FOLFOXIRI + Bevacizumab</arm_group_label>
+    <arm_group_label>Arm B: Sequential FOLFOXIRI + Bevacizumab</arm_group_label>
+    <arm_group_label>Arm C: FOLFOX + Bevacizumab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histologically confirmed colorectal cancer with at least one measurable metastatic
+             lesion by RECIST v 1.1, that is considered unresectable at baseline
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1 if age less than
+             (&lt;) 71 years; ECOG status of 0 if age 71 to 75 years
+
+          -  Adequate hematological, renal and liver function
+
+          -  Participants with treated brain metastases are eligible for study participation;
+             participants may not receive ongoing treatment with steroids at screening,
+             anticonvulsants (at stable dose) are allowed
+
+          -  Females of childbearing potential and males must agree to use effective contraception
+             as defined by protocol during the treatment period and for at least 6 months after
+             the last dose of study drug
+
+        Exclusion Criteria:
+
+          -  Any prior treatment for metastatic colorectal cancer, except for use of palliative
+             radiosensitizers
+
+          -  Adjuvant chemotherapy for colorectal cancer completed &lt; 12 months prior to study
+             consent
+
+          -  Sensory peripheral neuropathy greater than or equal to (&gt;/=) Grade 2
+
+          -  Evidence of Gilbert's Syndrome or homozygosity for the Uridine
+             5-diphospho-glucuronosyltransferase (UGT) 1A1*28 allele
+
+          -  Positive for human immunodeficiency virus (HIV) infection
+
+          -  Malignancies other than metastatic colorectal cancer within 5 years prior to
+             randomization, except for adequately treated carcinoma in situ of the cervix, basal
+             or squamous cell skin cancer, localized prostate cancer treated surgically with
+             curative intent, and ductal carcinoma in situ treated surgically with curative intent
+
+          -  Radiotherapy to any site for any reason within 28 days prior to randomization, except
+             for palliative radiotherapy to bone lesions within 14 days prior to randomization
+
+          -  Clinically significant third-space fluid collections (e.g. ascites or pleural
+             effusion) that cannot be controlled by drainage or other procedures prior to study
+             entry
+
+          -  Treatment with any other investigational agent, or participation in another
+             investigational drug trial within 28 days prior to randomization
+
+          -  Any disease or condition or laboratory finding giving reasonable suspicion of disease
+             or condition that contraindicates the use of bevacizumab or puts the participant at
+             high risk for treatment-related complications
+
+          -  Inadequately controlled hypertension
+
+          -  Clinically significant (that is [i.e.] active) cardiovascular disease (For example
+             [e.g.] cerebrovascular accident or myocardial infarction within 6 months prior to
+             randomization), unstable angina, congestive heart failure (New York Heart Association
+             Class &gt;/= II) or serious cardiac arrhythmia that is uncontrolled by medication or may
+             interfere with the administration of the study treatment
+
+          -  Known hypersensitivity to bevacizumab or any of its excipients or any other study
+             drug
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>Hoffmann-La Roche</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of South Alabama; Mitchell Cancer Institute</name>
+      <address>
+        <city>Mobile</city>
+        <state>Alabama</state>
+        <zip>36604</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Long Beach Memorial Medical Center; Oncology</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>LAC-USC Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>USC Norris Cancer Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pacific Cancer Care - Monterey</name>
+      <address>
+        <city>Monterey</city>
+        <state>California</state>
+        <zip>93940</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sacramento Center for Hematolo</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95816</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pacific Cancer Care</name>
+      <address>
+        <city>Salinas</city>
+        <state>California</state>
+        <zip>93901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente - Franklin</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Yale Cancer Center</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sibley Memorial Hospital</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Cancer Specialists - Fort Myers (Colonial Center Dr)</name>
+      <address>
+        <city>Fort Myers</city>
+        <state>Florida</state>
+        <zip>33905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Cancer Specialist, North Region</name>
+      <address>
+        <city>St Petersburg</city>
+        <state>Florida</state>
+        <zip>33705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Cancer &amp; Blood Center, LLC</name>
+      <address>
+        <city>Athens</city>
+        <state>Georgia</state>
+        <zip>30607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University Clinic</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Central Georgia Cancer Care PC</name>
+      <address>
+        <city>Macon</city>
+        <state>Georgia</state>
+        <zip>31201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Summit Cancer Care PC</name>
+      <address>
+        <city>Savannah</city>
+        <state>Georgia</state>
+        <zip>31405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ingalls Memorial Hosp</name>
+      <address>
+        <city>Harvey</city>
+        <state>Illinois</state>
+        <zip>60426</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Edward Cancer Center Naperville</name>
+      <address>
+        <city>Naperville</city>
+        <state>Illinois</state>
+        <zip>60540</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Edward Cancer Center Plainfield</name>
+      <address>
+        <city>Plainfield</city>
+        <state>Illinois</state>
+        <zip>60585</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kentucky Medical Center</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40536</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Univ; Bunting Blaustein Cancer Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tufts Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Joseph Mercy Hospital; Cancer Care Center.</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Karmanos Cancer Institute..</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Southeast Nebraska Cancer Center;; Southeast Nebraska Hematology and Oncology</name>
+      <address>
+        <city>Lincoln</city>
+        <state>Nebraska</state>
+        <zip>68510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nebraska Methodist Hospital; Cancer Center</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dartmouth Hitchcock Med Center</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <zip>03756</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oncology Hematology Care Inc</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Oklahoma; Stephenson Oklahoma Canc Ctr</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Milton S. Hershey Medical Center; Penn State Cancer Inst.</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chattanooga Oncology and Hematology Associates, PC</name>
+      <address>
+        <city>Chattanooga</city>
+        <state>Tennessee</state>
+        <zip>37404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>West Clinic</name>
+      <address>
+        <city>Germantown</city>
+        <state>Tennessee</state>
+        <zip>38138</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sarah Cannon Cancer Center and Research Institute</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UT Southwestern MC at Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390-9063</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ctr for Cancer and Blood Disorders</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Scott and White Hospital; Cancer Center</name>
+      <address>
+        <city>Temple</city>
+        <state>Texas</state>
+        <zip>76508</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Cancer Institute</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Seattle Cancer Care Alliance - Evergreen Health</name>
+      <address>
+        <city>Kirkland</city>
+        <state>Washington</state>
+        <zip>98034</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Seattle Cancer Care Alliance</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Oncology Associates</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vince Lombardi Cancer Center</name>
+      <address>
+        <city>Green Bay</city>
+        <state>Wisconsin</state>
+        <zip>54311</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical College of Wisconsin; Dept Froedtert Clin Can Ctr</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Aurora Research Institute</name>
+      <address>
+        <city>Wauwatosa</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cheyenne Oncology &amp; Hematology Associates</name>
+      <address>
+        <city>Cheyenne</city>
+        <state>Wyoming</state>
+        <zip>82001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2017</verification_date>
+  <lastchanged_date>March 7, 2017</lastchanged_date>
+  <firstreceived_date>January 9, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Colorectal Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Bevacizumab</mesh_term>
+    <mesh_term>Oxaliplatin</mesh_term>
+    <mesh_term>Irinotecan</mesh_term>
+    <mesh_term>Capecitabine</mesh_term>
+    <mesh_term>Fluorouracil</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

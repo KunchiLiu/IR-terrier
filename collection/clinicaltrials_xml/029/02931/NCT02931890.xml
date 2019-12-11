@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="13445">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02931890</url>
+  </required_header>
+  <id_info>
+    <org_study_id>M15CRI</org_study_id>
+    <secondary_id>NL 55436.031.015</secondary_id>
+    <secondary_id>2015-004627-31</secondary_id>
+    <nct_id>NCT02931890</nct_id>
+  </id_info>
+  <brief_title>Multicentric Randomised Trial for Resectable Gastric Cancer</brief_title>
+  <acronym>CRITICS-II</acronym>
+  <official_title>A Multicentre Randomised Phase II Trial of Neo-adjuvant Chemotherapy Followed by Surgery vs. Neo-adjuvant Chemotherapy and Subsequent Chemoradiotherapy Followed by Surgery vs. Neo-adjuvant Chemoradiotherapy Followed by Surgery in Resectable Gastric Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Netherlands Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The Netherlands Cancer Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The CRITICS-II trial aims to identify the optimal preoperative regimen in resectable gastric
+      cancer by comparing three investigational treatment arms: chemotherapy vs. chemotherapy and
+      subsequent chemoradiotherapy vs. chemoradiotherapy. The rationale behind this trial design
+      is based on the following concepts:
+
+        -  Preoperative treatment is associated with better patient compliance than postoperative
+           regimens
+
+        -  Preoperative treatment increases the likelihood of disease downsizing/downstaging and
+           radical R0 resections
+
+        -  Preoperative paclitaxel/carboplatin-based concurrent chemoradiotherapy and DOC
+           chemotherapy are effective, feasible and safe regimens
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date>October 2016</start_date>
+  <completion_date type="Anticipated">October 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 2019</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Event-Free survival</measure>
+    <time_frame>1 year</time_frame>
+    <description>Event-free survival will be measured by clinical outcome and CT-scan</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to Event (events: local recurrence, regional recurrence, local-regional recurrence or progression, distant recurrence, or death from any cause)</measure>
+    <time_frame>1 year</time_frame>
+    <description>Interval between randomization and event measured by clinical outcome and CT scan</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to recurrence (events: local recurrence, regional recurrence, local-regional recurrence or progression, distant recurrence)</measure>
+    <time_frame>1 year</time_frame>
+    <description>Interval between randomization and recurrence determined by clinical outcome and CT scan</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Toxicity</measure>
+    <time_frame>1 year</time_frame>
+    <description>Number of patients with treatment-related adverse events as assessed by CTCAE v4.0</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">207</enrollment>
+  <condition>Gastric Cancer</condition>
+  <arm_group>
+    <arm_group_label>neo-adjuvant chemotherapy followed by surgery</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>4 courses of 3 weekly DOC followed by surgery</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>neo-adjuvant chemo and subsequent CRT followed by surgery</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>2 courses of 3 weekly DOC and subsequent CRT followed by surgery</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>neo-adjuvant chemoradiotherapy followed by surgery</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>chemoradiotherapy followed by surgery</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Docetaxel</intervention_name>
+    <description>3 weekly course of docetaxel i.v in arm 1 and 2</description>
+    <arm_group_label>neo-adjuvant chemotherapy followed by surgery</arm_group_label>
+    <arm_group_label>neo-adjuvant chemo and subsequent CRT followed by surgery</arm_group_label>
+    <other_name>Taxotere</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Oxaliplatin</intervention_name>
+    <description>3 weekly course oxaliplatin as a 2 hr i.v. in arm 1 and 2</description>
+    <arm_group_label>neo-adjuvant chemotherapy followed by surgery</arm_group_label>
+    <arm_group_label>neo-adjuvant chemo and subsequent CRT followed by surgery</arm_group_label>
+    <other_name>Eloxatin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Capecitabine</intervention_name>
+    <description>oral capecitabine in arm 1 and 2</description>
+    <arm_group_label>neo-adjuvant chemotherapy followed by surgery</arm_group_label>
+    <arm_group_label>neo-adjuvant chemo and subsequent CRT followed by surgery</arm_group_label>
+    <other_name>Xeloda</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>gastrectomy</intervention_name>
+    <description>resection of gastric cancer after pre-operative chemotherapy for all arms</description>
+    <arm_group_label>neo-adjuvant chemotherapy followed by surgery</arm_group_label>
+    <arm_group_label>neo-adjuvant chemo and subsequent CRT followed by surgery</arm_group_label>
+    <arm_group_label>neo-adjuvant chemoradiotherapy followed by surgery</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>radiotherapy of gastric cancer</intervention_name>
+    <description>5 weeks of radiation, 5 times a week with a total of 45 Gy (in arm 2 and 3)</description>
+    <arm_group_label>neo-adjuvant chemo and subsequent CRT followed by surgery</arm_group_label>
+    <arm_group_label>neo-adjuvant chemoradiotherapy followed by surgery</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Paclitaxel</intervention_name>
+    <description>5 weeks of paclitaxel i.v once a week (in arm 2 and 3)</description>
+    <arm_group_label>neo-adjuvant chemo and subsequent CRT followed by surgery</arm_group_label>
+    <arm_group_label>neo-adjuvant chemoradiotherapy followed by surgery</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carboplatin</intervention_name>
+    <description>5 weeks of carboplatin i.v once a week (in arm 2 and 3)</description>
+    <arm_group_label>neo-adjuvant chemo and subsequent CRT followed by surgery</arm_group_label>
+    <arm_group_label>neo-adjuvant chemoradiotherapy followed by surgery</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  TNM 7th ed stage IB-IIIC gastric cancer (histologically proven); tumour bulk has to
+             be in the stomach but may involve gastro-oesophageal junction
+
+          -  WHO &lt; 2
+
+          -  Age ≥ 18 yrs
+
+          -  Resectable adenocarcinoma of the stomach or gastro-oesophageal junction
+
+          -  No prior abdominal radiotherapy
+
+          -  Haematology: Hb ≥5.0 mmol/l; leukocytes≥3.0x109/l, neutrophils ≥1.5x109/l,
+             thrombocytes ≥100x109/l
+
+          -  Renal function: serum creatinine ≤1.25x ULN, creatinine clearance ≥ 50 ml/min
+             (calculated by Cockcroft and Gault formula) Liver function: total bilirubin ≤1.5x
+             ULN, alkaline phosphatase and ASAT/ALAT ≤ 3x ULN
+
+          -  At staging laparoscopy (mandatory) obtained biopsies of suspected peritoneal lesions
+             and/or substantial free peritoneal fluid if any should be pathologically proven tumor
+             negative
+
+          -  Written informed consent
+
+          -  Expected adequacy of follow-up
+
+          -  Caloric intake≥1500 kcal/day, verified by a dietician before registration.
+
+          -  if caloric intake is &lt; 1500 kcal/day or if bodyweight has decreased &gt; 10% over the
+             last 6 months or &gt; 5% over the last month, dietary intervention such as oral
+             nutritional support or enteral tube feeding is mandatory
+
+        Exclusion Criteria:
+
+          -  T1N0 disease (assessed by endoscopic ultrasound)
+
+          -  Distant metastases
+
+          -  Inoperable patients; due to technical surgery-related factors or general condition
+
+          -  Previous malignancy, except adequately treated non-melanoma skin cancer or in-situ
+             cancer of the cervix uteri; in case of a previous other malignancy with a
+             disease-free period≥5 years, inclusion can be accepted after consultation of the
+             principal investigator
+
+          -  Solitary functioning kidney that will be within the radiation field
+
+          -  Major surgery within 4 weeks prior to study treatment start, or lack of complete
+             recovery from the effects of major surgery
+
+          -  Uncontrolled (bacterial) infections
+
+          -  Significant concomitant diseases preventing the safe administration of study drugs or
+             likely to interfere with study assessments
+
+          -  Uncontrolled angina pectoris, cardiac failure or clinically significant arrhythmias
+
+          -  Continuous use of immunosuppressive agents equivalent to &gt;10 mg daily prednison
+
+          -  Concurrent use of the antiviral agent sorivudine or chemically related analogues,
+             such as brivudine
+
+          -  Neurotoxicity &gt; CTC grade 1
+
+          -  Pregnancy or breast feeding
+
+          -  Patients (M/F) with reproductive potential not implementing adequate contraceptive
+             measures
+
+          -  Gastric or gastro-esophageal stent within radiation field
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marcel Verheij, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Netherlands Cancer Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marcel Verheij, MD, PhD</last_name>
+    <phone>+31 20 512 9111</phone>
+    <email>m.verheij@nki.nl</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Edwin Jansen, MD, PhD</last_name>
+    <phone>+31 20 512 9111</phone>
+    <email>epm.jansen@nki.nl</email>
+  </overall_contact_backup>
+  <verification_date>September 2016</verification_date>
+  <lastchanged_date>October 11, 2016</lastchanged_date>
+  <firstreceived_date>September 14, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>gastric cancer</keyword>
+  <keyword>radiotherapy</keyword>
+  <keyword>chemoradiotherapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Stomach Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Paclitaxel</mesh_term>
+    <mesh_term>Docetaxel</mesh_term>
+    <mesh_term>Oxaliplatin</mesh_term>
+    <mesh_term>Capecitabine</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

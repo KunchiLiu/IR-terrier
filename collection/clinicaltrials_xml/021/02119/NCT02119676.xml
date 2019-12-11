@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="75734">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02119676</url>
+  </required_header>
+  <id_info>
+    <org_study_id>INCB18424-267</org_study_id>
+    <nct_id>NCT02119676</nct_id>
+  </id_info>
+  <brief_title>Study of Ruxolitinib in Colorectal Cancer Patients</brief_title>
+  <official_title>A Randomized, Double-Blind Study of Ruxolitinib or Placebo in Combination With Regorafenib in Subjects With Relapsed or Refractory Metastatic Colorectal Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Incyte Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Incyte Corporation</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine if ruxolitinib, in combination with regorafenib,
+      is safe and effective in the treatment of metastatic colorectal cancer.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study consists of an open-label, Part 1 safety run-in (consisting of 1 to 3 cohorts of 9
+      subjects each), to confirm the safety of the regorafenib/ruxolitinib combination in subjects
+      with relapsed or refractory metastatic colorectal cancer (CRC). If determined to be
+      tolerable, Part 2 will proceed as a randomized, double-blind study evaluating ruxolitinib or
+      placebo in combination with regorafenib in subjects with relapsed or refractory metastatic
+      CRC previously treated with fluoropyrimidine, oxaliplatin, and/or irinotecan based
+      chemotherapy, an anti-vascular endothelial growth factor (VEGF) therapy and if Kirsten rat
+      sarcoma (KRAS) wild type an anti-epidermal growth factor receptor (EGFR) therapy.
+
+      Subjects in the safety run-in will receive open-label ruxolitinib and regorafenib; for the
+      randomized, double-blind portion of the study all subjects will receive regorafenib and
+      either ruxolitinib or placebo in a 1:1 blinded manner. Treatment for all subjects will
+      consist of repeating 28-day cycles. Regorafenib will be self-administered for the first 21
+      days of each cycle, and ruxolitinib/placebo will be self-administered during the entire
+      28-day cycle. Treatment cycles will continue as long as the regimen is tolerated, and the
+      subject does not meet the discontinuation criteria. When subjects discontinue regorafenib,
+      ruxolitinib or placebo they will remain in the study and be followed for subsequent
+      treatment regimens which are initiated and survival.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>March 2014</start_date>
+  <completion_date type="Anticipated">December 2016</completion_date>
+  <primary_completion_date type="Actual">February 2016</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Part 1: Determination of the dose of ruxolitinib that is safe and tolerable in combination with regorafenib as measured by the number of dose-limiting toxicities (DLTs) observed in the evaluation cohort</measure>
+    <time_frame>Baseline through Day 28</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 2: Overall Survival (OS)</measure>
+    <time_frame>Randomization until death due to any cause. Approximately 28 months.]</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>Randomization through disease progression, or death due to any cause if sooner. Approximately 28 months.</time_frame>
+    <description>PFS is defined as the time from randomization until the earliest date of disease progression determined by investigator assessment of objective radiographic disease assessments per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1, or death due to any cause, if sooner</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate</measure>
+    <time_frame>Baseline through end of study. Approximately 28 months.</time_frame>
+    <description>Objective response rate determined by radiographic disease assessments per RECIST v1.1, by investigator assessment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response</measure>
+    <time_frame>Baseline through end of study. 28 months.</time_frame>
+    <description>Duration of response determined by radiographic disease assessment per RECIST v1.1, by investigator assessment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety and tolerability of the treatment regimens assessed by a summary of adverse events and clinical laboratory assessments.</measure>
+    <time_frame>Baseline through approximately 30 days post treatment discontinuation. Approximately 28 months.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control</measure>
+    <time_frame>Baseline through end of study. Approximately 28 months.</time_frame>
+    <description>Disease control as measured by the percentage of subjects whose best response was not progressive disease (PD) (ie, complete response (CR), partial response (PR), or stable disease (SD) per RECIST v.1.1). Stable disease will be included if it occurs at least 6 weeks after randomization</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">407</enrollment>
+  <condition>Metastatic Colorectal Cancer</condition>
+  <arm_group>
+    <arm_group_label>Ruxolitinib plus regorafenib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo plus regorafenib</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ruxolitinib</intervention_name>
+    <description>5 mg tablets to be administered by mouth
+Ruxolitinib 15mg BID (NOTE: Starting dose of randomized portion of study may be 10mg BID based on results from safety run-in study. Dose of ruxolitinib may be increased during randomized study, based on results from safety run-in.)</description>
+    <arm_group_label>Ruxolitinib plus regorafenib</arm_group_label>
+    <other_name>Jakafi ®</other_name>
+    <other_name>Jakavi ®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Regorafenib</intervention_name>
+    <description>Regorafenib 160mg once daily for the first 21 days of each 28-day cycle. (NOTE: Dose interruptions and modifications for regorafenib are expected when toxicities occur in which dose interruptions or modifications are appropriate.)</description>
+    <arm_group_label>Ruxolitinib plus regorafenib</arm_group_label>
+    <arm_group_label>Placebo plus regorafenib</arm_group_label>
+    <other_name>Stivarga ®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>5 mg matching placebo tablets to be administered by mouth</description>
+    <arm_group_label>Placebo plus regorafenib</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histologically or cytologically confirmed adenocarcinoma of the colon or rectum that
+             is metastatic.
+
+          -  Previous treatment with fluoropyrimidine-, oxaliplatin- and irinotecan- based
+             chemotherapy, an anti-VEGF therapy (if no contraindication) and if KRAS wild type and
+             no contraindication, an anti-EGFR therapy.
+
+          -  Radiographically measurable or evaluable disease (per RECIST v1.1)
+
+          -  Life expectancy of ≥ 12 weeks.
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 2
+
+          -  Three or more weeks have elapsed from the completion of previous treatment regimen
+             and subjects must have recovered or be at a new stable baseline from any related
+             toxicities.
+
+          -  Prior radiotherapy to disease sites is allowed with certain protocol-defined
+             restrictions.
+
+        Exclusion Criteria:
+
+          -  Prior treatment with regorafenib.
+
+          -  Presence of active gastrointestinal disease or other condition that will interfere
+             significantly with the absorption of drugs.
+
+          -  Active peptic ulcer disease, inflammatory bowel disease (eg, ulcerative colitis,
+             Crohn's disease), diverticulitis, or other gastrointestinal conditions with increased
+             risk of perforation or gastrointestinal bleeding.
+
+          -  Recent history (≤ 3 months) or ongoing partial or complete bowel obstruction unless
+             due to disease under study and corrected with surgery.
+
+          -  Blood pressure ≥ 140/90 mmHg.
+
+          -  Active bleeding diathesis or history of any major bleeding (eg, requiring transfusion
+             of red blood cells (RBCs), central nervous system (CNS) bleeding, or significant
+             hemoptysis within 6 months of enrollment. Subjects with bleeding secondary to
+             underlying disease (including gastrointestinal (GI) perforation or fistula) that has
+             been corrected by surgery or alternative procedure may be included.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Albert Assad</last_name>
+    <role>Study Director</role>
+    <affiliation>Incyte Corporation</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <address>
+        <city>Chandler</city>
+        <state>Arizona</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Gilbert</city>
+        <state>Arizona</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Mesa</city>
+        <state>Arizona</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Pasadena</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Santa Barbara</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Colorado Springs</city>
+        <state>Colorado</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Altamonte Springs</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Ocala</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Niles</city>
+        <state>Illinois</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lafayette</city>
+        <state>Indiana</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Ames</city>
+        <state>Iowa</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Jefferson City</city>
+        <state>Missouri</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lincoln</city>
+        <state>Nebraska</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Henderson</city>
+        <state>Nevada</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Binghamton</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hudson</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Johnson City</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Canton</city>
+        <state>Ohio</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Easley</city>
+        <state>South Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Greer</city>
+        <state>South Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Sumter</city>
+        <state>South Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Chattanooga</city>
+        <state>Tennessee</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Arlington</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>El Paso</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Paris</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Plano</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tyler</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>American Fork</city>
+        <state>Utah</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bountiful</city>
+        <state>Utah</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Murray</city>
+        <state>Utah</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Provo</city>
+        <state>Utah</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>West Jordan</city>
+        <state>Utah</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Roanoke</city>
+        <state>Virginia</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Vancouver</city>
+        <state>Washington</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2016</verification_date>
+  <lastchanged_date>November 16, 2016</lastchanged_date>
+  <firstreceived_date>April 17, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Metastatic Colorectal Cancer</keyword>
+  <keyword>Colon Cancer</keyword>
+  <keyword>Ruxolitinib</keyword>
+  <keyword>adenocarcinoma</keyword>
+  <keyword>regorafenib</keyword>
+  <keyword>Jakavi ®</keyword>
+  <keyword>Jakafi ®</keyword>
+  <keyword>Stivarga ®</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Colorectal Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,12 @@
+<DOC>
+	<DOC>NCT02866058</DOC>
+	<brief_summary>This study will examine the effect of cesarean section on perinatal mortality, using data provided by the Canadian Institute for Health Information.</brief_summary>
+	<brief_title>Outcomes of Cesarean Section vs Vaginal Delivery: Instrumental Variable Adjusted Analysis</brief_title>
+	<detailed_description>This study will examine administrative data provided by the Canadian Institute for Health Information (CIHI). Maternal obstetrical delivery and neonatal hospitalization records provided by CIHI will be linked before analysis. The primary outcome is in-hospital perinatal mortality. The data will be analyzed by traditional multi-variate logistic regression, and the results from this analysis will be compared to the results from instrumental variable adjusted regression using the Generalized Method of Moments. The instrumental variable is the rate of cesarean delivery among women living within the same hospital catchment area. All analyses will be adjusted for maternal, infant, delivery provider, and hospital factors, as well as for clustering at the level of the delivery hospital.</detailed_description>
+	<mesh_term>Pregnancy Complications</mesh_term>
+	<criteria>Mothers living in Canada and their infants delivering within the study period at Canadian hospitals outside of the province of Quebec. Maternal record not linkable to neonatal record. Multiple gestation. Birthweight &lt; 500 gm. Gestational age at delivery &lt; 20 weeks. Deliveries at hospitals with less than 20 cesarean deliveries during study period. Records with missing data for important covariates</criteria>
+	<gender>All</gender>
+	<minimum_age>N/A</minimum_age>
+	<maximum_age>N/A</maximum_age>
+	<verification_date>August 2016</verification_date>
+</DOC>

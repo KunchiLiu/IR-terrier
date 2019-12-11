@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="22043">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02819882</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GEICAM 2014-03</org_study_id>
+    <nct_id>NCT02819882</nct_id>
+  </id_info>
+  <brief_title>A Prospective Registry Study in Patients With Unresectable Locally Advanced or Metastatic Breast Cancer (MBC)</brief_title>
+  <acronym>REGISTEM</acronym>
+  <official_title>A Prospective Registry Study in Patients With Unresectable Locally Advanced or Metastatic Breast Cancer (MBC)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Spanish Breast Cancer Research Group</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Novartis</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Celgene</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Spanish Breast Cancer Research Group</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a prospective, multicenter non-interventional cohort study designed to develop
+      a registry in unresectable locally advanced or metastatic disease.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date>June 2016</start_date>
+  <completion_date type="Anticipated">June 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>5 Years</target_duration>
+  <primary_outcome>
+    <measure>Number of patients with the different breast cancer subtypes and real distribution of them.</measure>
+    <time_frame>8 years</time_frame>
+    <description>Number of patients with the different breast cancer subtypes (Luminal A-like, Luminal B-like [HER2 negative], Luminal B-like [HER2 positive], HER2-enriched and Triple Negative) of the unresectable locally advanced or metastatic disease</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Breast cancer and heredofamiliar risk according with the patient and tumor characteristics.</measure>
+    <time_frame>8 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Differences in the development disease in the group of male vs female patients.</measure>
+    <time_frame>8 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of number of patients by molecular subtypes of breast cancer.</measure>
+    <time_frame>8 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Influence of primary tumor surgery in patient outcomes</measure>
+    <time_frame>8 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Influence of timing of primary tumor surgery in patients with metastatic disease as first diagnosis</measure>
+    <time_frame>8 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Influence of local therapy (surgery, radiotherapy and radiofrequency) in the outcome of patients with oligometasta</measure>
+    <time_frame>8 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence (at entry) and incidence (during the observation period) of pregnancies, abortions and pregnancy outcomes.</measure>
+    <time_frame>8 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with specific biomarkers on tumor and blood samples.</measure>
+    <time_frame>8 years</time_frame>
+    <description>to improve the understanding of metastatic breast cancer by performing analysis on tumor and blood samples.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>IHC/ISH discrepancies between the primary tumor and the metastasis in patients with biopsy of the metastatic lesions.</measure>
+    <time_frame>8 years</time_frame>
+  </secondary_outcome>
+  <number_of_groups>5</number_of_groups>
+  <enrollment type="Anticipated">1400</enrollment>
+  <condition>Breast Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>Luminal A-like subtype</arm_group_label>
+    <description>Patients that express ER, express PgR+ (≥ 20%), don't express HER2 and have Ki-67 'low' (&lt; 14%).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Luminal B-like (HER2 negative) subtype:</arm_group_label>
+    <description>Patients that express ER and are either PgR- or low (&lt; 20%) and/or Ki67 'high' (≥ 14%).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Luminal B-like (HER2 positive) subtype:</arm_group_label>
+    <description>Patients that express ER and HER2 irrespective of PgR or Ki67 status.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>HER2-enriched subtype</arm_group_label>
+    <description>Patients that express HER2 and don't express ER or PgR.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>TN subtype</arm_group_label>
+    <description>Patients who are negative for the expression of ER, PgR and HER2.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>No intervention</intervention_name>
+    <arm_group_label>Luminal A-like subtype</arm_group_label>
+    <arm_group_label>Luminal B-like (HER2 negative) subtype:</arm_group_label>
+    <arm_group_label>Luminal B-like (HER2 positive) subtype:</arm_group_label>
+    <arm_group_label>HER2-enriched subtype</arm_group_label>
+    <arm_group_label>TN subtype</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood samples Primary and metastatic lesion tissue samples
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The target population for inclusion in this study is breast cancer patients recently
+        diagnosed (from January 2016) with unresectable locally advanced or metastatic disease
+        (either after a recurrence or as first diagnosis).
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients (males or females) diagnosed with unresectable locally advanced or MBC
+             (either after a recurrence or as first diagnosis) from January 2016.
+
+          -  Able and willing to provide written informed consent.
+
+          -  Age ≥ 18 years.
+
+          -  Availability to medical records access and all data related to the disease
+             management.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Carlos CJ Jara, Oncologist</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital Universitario Fundación Alcorcón, Madrid</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Isabel IA Alvarez, Oncologist</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital de Donostia, San Sebastián</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Sara SL López-Tarruella, Oncologist</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital Universitario Gregorio Marañón, Madrid</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Juan JH De la Haba, Oncologist</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital Universitario Reina Sofía,Córdoba</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>María Luisa MS Serrano, Project Manager</last_name>
+    <phone>646 13 02 99</phone>
+    <phone_ext>2003</phone_ext>
+    <email>lserrano@geicam.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital General de Elche</name>
+      <address>
+        <city>Elche</city>
+        <state>Alicante</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Althaia-Xarxa Assistencial de Manresa</name>
+      <address>
+        <city>Manresa</city>
+        <state>Barcelona</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Donostia</name>
+      <address>
+        <city>San Sebastián</city>
+        <state>Donostia</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Dr. Negrín</name>
+      <address>
+        <city>Las Palmas de Gran Canaria</city>
+        <state>Gran Canaria</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Fundación Alcorcón</name>
+      <address>
+        <city>Alcorcón</city>
+        <state>Madrid</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Fuenlabrada</name>
+      <address>
+        <city>Fuenlabrada</city>
+        <state>Madrid</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Severo Ochoa</name>
+      <address>
+        <city>Leganés</city>
+        <state>Madrid</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Infanta Sofía</name>
+      <address>
+        <city>San Sebastián de los Reyes</city>
+        <state>Madrid</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Son Llatzer</name>
+      <address>
+        <city>Palma de Mallorca</city>
+        <state>Mallorca</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Complejo Hospitalario de Navarra</name>
+      <address>
+        <city>Pamplona</city>
+        <state>Navarra</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Canarias</name>
+      <address>
+        <city>Santa Cruz de Tenerife</city>
+        <state>Tenerife</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Sagunto</name>
+      <address>
+        <city>Sagunto</city>
+        <state>Valencia</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Basurto</name>
+      <address>
+        <city>Bilbao</city>
+        <state>Vizcaya</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Complejo Hospitalario Universitario A Coruña</name>
+      <address>
+        <city>A Coruña</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Complejo Hospitalario Universitario de Albacete</name>
+      <address>
+        <city>Albacete</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital San Juan de Alicante</name>
+      <address>
+        <city>Alicante</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinic de Barcelona</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Moisés Broggi_institut Catalá D´Oncologia</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Santa Creu i Sant Pau</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Germans Trias i Pujol</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ICO L´Hospitalet</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital San Pedro de Alcántara</name>
+      <address>
+        <city>Cáceres</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Reina Sofía</name>
+      <address>
+        <city>Córdoba</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de León</name>
+      <address>
+        <city>León</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Lucus Augusti</name>
+      <address>
+        <city>Lugo</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Universitario Gregorio Marañón</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario La Princesa</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínico Universitario Virgen de la Arrixaca</name>
+      <address>
+        <city>Murcia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Málaga</name>
+      <address>
+        <city>Málaga</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Central de Asturias</name>
+      <address>
+        <city>Oviedo</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínico Universitario de Salamanca</name>
+      <address>
+        <city>Salamanca</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Virgen del Rocío</name>
+      <address>
+        <city>Sevilla</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Virgen de la Salud</name>
+      <address>
+        <city>Toledo</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosital General de Valencia</name>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínico Universitario de Valencia</name>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Dr. Peset</name>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IVO-Instituto Valenciano de Oncología</name>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínico de Valladolid</name>
+      <address>
+        <city>Valladolid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínico Lozano Blesa</name>
+      <address>
+        <city>Zaragoza</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Miguel Servet</name>
+      <address>
+        <city>Zaragoza</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Nuestra Señora de Sonsoles</name>
+      <address>
+        <city>Ávila</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>June 2016</verification_date>
+  <lastchanged_date>June 30, 2016</lastchanged_date>
+  <firstreceived_date>June 20, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Unresectable</keyword>
+  <keyword>locally</keyword>
+  <keyword>advanced</keyword>
+  <keyword>metastatic disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="22444">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02814643</url>
+  </required_header>
+  <id_info>
+    <org_study_id>D3250C00033</org_study_id>
+    <nct_id>NCT02814643</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate the Potential Effect of Benralizumab on the Humoral Immune Response to the Seasonal Influenza Vaccination in Adolescent and Young Adult Patients With Severe Asthma</brief_title>
+  <acronym>ALIZE</acronym>
+  <official_title>A Multicenter, Randomized, Double-blind, Parallel Group, Placebo-controlled, Phase 3b Study to Evaluate the Potential Effect of Benralizumab on the Humoral Immune Response to the Seasonal Influenza Vaccination in Adolescent and Young Adult Patients With Severe Asthma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AstraZeneca</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized, double-blind, parallel group, placebo-controlled study designed to
+      investigate the potential effect of a fixed dose of benralizumab administered subcutaneously
+      (SC) on antibody responses following seasonal influenza virus vaccination
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is designed to investigate the potential effect of benralizumab on the antibody
+      response to the seasonal influenza virus vaccine in patients 12-21 years of age with asthma.
+      Benralizumab will be given subcutaneously (SC) at Weeks 0, 4, and 8 weeks, at which time
+      benralizumab levels will reach steady state. Patients will then receive 1 dose of
+      intramuscular (IM) seasonal influenza virus vaccine at Week 8 and samples drawn at Week 8
+      and Week 12 to measure the antibody response to the influenza virus
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 2016</start_date>
+  <completion_date type="Actual">January 2017</completion_date>
+  <primary_completion_date type="Actual">January 2017</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Participant, Investigator, Outcomes Assessor</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Post-dose strain-specific hemagglutination-inhibition (HAI) antibody geometric mean fold rises (GMFRs)</measure>
+    <time_frame>from week 8 to week 12</time_frame>
+    <description>The geometric mean fold rise between the treatments will be assessed with an ANCOVA model on the log-transformed antibody titer fold rise.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Post-dose strain-specific serum HAI antibody geometric meant titers (GMTs)</measure>
+    <time_frame>at week 12</time_frame>
+    <description>The geometric mean titers between the treatments will be assessed with an ANCOVA model on the log-transformed antibody titer.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of patients who experience a strain-specific post-dose antibody response with antibody response defined as a ≥4-fold rise in HAI antibody titer</measure>
+    <time_frame>from week 8 to week 12</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of patients who achieve a strain-specific post-dose HAI antibody titer ≥40</measure>
+    <time_frame>at week 12</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients who achieve a strain-specific post-dose HAI antibody titer ≥320</measure>
+    <time_frame>at week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post-dose strain-specific microneutralization (MN) antibody GMFRs</measure>
+    <time_frame>from week 8 to week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post-dose strain-specific serum MN GMTs obtained</measure>
+    <time_frame>at week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients who experience a strain-specific post-dose antibody response with antibody response defined as a ≥4-fold rise in MN antibody titer</measure>
+    <time_frame>from week 8 to week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in mean Asthma Control Questionnaire-6 (ACQ-6) score</measure>
+    <time_frame>at week 12</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>weeks 0 to 20</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Serious adverse events</measure>
+    <time_frame>weeks 0 to 20</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Laboratory variables for safety and tolerability of benralizumab</measure>
+    <time_frame>weeks 0 to 20</time_frame>
+    <description>Laboratory variables in Serum chemistry, Hematology and Urinalysis</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Physical Examination</measure>
+    <time_frame>weeks 0 to 20</time_frame>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">133</enrollment>
+  <condition>Asthma</condition>
+  <arm_group>
+    <arm_group_label>Benralizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 mL fill volume administered every 4 weeks for 3 doses (Weeks 0, 4, and 8). Patients will receive 1 dose of seasonal influenza virus vaccine Intramuscular (IM) at Week 8.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>1 mL fill volume administered every 4 weeks for 3 doses (Weeks 0, 4, and 8). Patients will receive 1 dose of seasonal influenza virus vaccine Intramuscular (IM) at Week 8.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Benralizumab</intervention_name>
+    <description>Benralizumab SC administered every 4 weeks for 3 doses (Weeks 0, 4, and 8).</description>
+    <arm_group_label>Benralizumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Benralizumab Placebo</intervention_name>
+    <description>Placebo administered every 4 weeks for 3 doses (Weeks 0, 4, and 8).</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Seasonal influenza virus vaccine</intervention_name>
+    <description>Patients will receive 1 dose of seasonal influenza virus vaccine Intramuscular (IM) at Week 8.</description>
+    <arm_group_label>Benralizumab</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Female and male patients aged 12 to 21 years, inclusive, at the time of Visit 1
+
+          -  Weight of ≥40 kg
+
+          -  Documented history of current treatment with Inhaled corticosteroids (ICS) and
+             long-acting β2 agonists (LABA)
+
+          -  Morning pre-bronchodilator forced expiratory volume in 1 second (FEV1) of &gt;50%
+             predicted at Visit 1 or Visit 2.
+
+          -  Airway reversibility (FEV1 &gt;12% and 200 ml) demonstrated at Visit 1 or Visit 2 using
+             the Maximum Post-bronchodilator Procedure OR
+
+          -  Airway reversibility documented in the previous 12 months prior to Visit 1
+
+          -  An exacerbation, 1 or more, that required oral corticosteroids in the previous year
+             OR
+
+          -  Any condition assessed by patient recall over the previous 2-4 weeks
+
+        Exclusion Criteria:
+
+          -  Clinically important pulmonary disease other than asthma
+
+          -  Known history of allergy or reaction to the Investigational Product formulation or
+             influenza vaccine
+
+          -  Receipt of an influenza vaccine within 90 days prior to randomization
+
+          -  Poorly controlled asthma during the screening period that requires treatment with
+             oral corticosteroids or a hospitalization/emergency room visit for the treatment of
+             asthma
+
+          -  Acute illness or evidence of significant active infection or known influenza
+             infection during the current flu season
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>21 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pamela L Zeitlin, M.D. Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Mesa</city>
+        <state>Arizona</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Huntington Beach</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Newport Beach</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Colorado Springs</city>
+        <state>Colorado</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Aventura</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Bellevue</city>
+        <state>Nebraska</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Northfield</city>
+        <state>New Jersey</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Edmond</city>
+        <state>Oklahoma</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Medford</city>
+        <state>Oregon</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>North Charleston</city>
+        <state>South Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Arlington</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>El Paso</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>New Braunfels</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Waco</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Clinton</city>
+        <state>Utah</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2017</verification_date>
+  <lastchanged_date>February 3, 2017</lastchanged_date>
+  <firstreceived_date>June 15, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Male and female adolescent patients</keyword>
+  <keyword>severe asthma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Asthma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

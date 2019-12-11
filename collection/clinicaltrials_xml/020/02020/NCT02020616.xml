@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="83320">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02020616</url>
+  </required_header>
+  <id_info>
+    <org_study_id>14515</org_study_id>
+    <secondary_id>I6I-MC-LMRB</secondary_id>
+    <nct_id>NCT02020616</nct_id>
+  </id_info>
+  <brief_title>A Study of the Safety and Effectiveness of LY3053102 in Participants With Type 2 Diabetes</brief_title>
+  <official_title>Safety, Tolerability, Pharmacokinetics, and Efficacy of LY3053102 With 12 Weeks of Treatment in Patients With Type 2 Diabetes Mellitus</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Eli Lilly and Company</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to investigate the safety and effectiveness of the study drug
+      known as LY3053102 in participants with Type 2 diabetes mellitus. The study drug will be
+      given in different doses as an injection under the skin. The study is expected to last up to
+      6 months for each participant. Participants may remain on stable-dose metformin as
+      prescribed by their personal physician.
+    </textblock>
+  </brief_summary>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Lack of Efficacy
+  </why_stopped>
+  <start_date>December 2013</start_date>
+  <completion_date type="Actual">February 2015</completion_date>
+  <primary_completion_date type="Actual">February 2015</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from Baseline in Hemoglobin A1c (HbA1c) at 12 Week Endpoint</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Achieving Hemoglobin A1c (HbA1c) &lt;7.0% or HbA1c ≤6.5% at 12 Week Endpoint</measure>
+    <time_frame>Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants that Require Rescue Therapy</measure>
+    <time_frame>Baseline through Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Body Weight at 12 Week Endpoint</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in 7-Point Blood Glucose Profile at 12 Week Endpoint</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Lipids at 12 Week Endpoint</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Anti-Drug Antibodies to LY3053102</measure>
+    <time_frame>Baseline through Study Completion (up to 6 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Hypoglycemia</measure>
+    <time_frame>Baseline through Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Bone Metabolism at 12 Week Endpoint</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Plasma Concentration-Time Curve at Steady State (AUCt,ss) of LY3053102</measure>
+    <time_frame>Predose to Steady State after 12 Weeks of Study Drug</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Bone Mineral Density Markers at 12 Week Endpoint</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">60</enrollment>
+  <condition>Type 2 Diabetes Mellitus</condition>
+  <arm_group>
+    <arm_group_label>LY3053102</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Stage 1: Escalating dose (7 milligrams [mg] up to 200 mg) of LY3053102 administered once a week by subcutaneous (SC) injection for 12 weeks. Stage 2: LY3053102 administered once a week by SC injection for 12 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Stage 1 and Stage 2: Placebo to match LY3053102 administered by SC injection once a week for 12 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Exenatide</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Stage 1 and Stage 2: Exenatide extended release 2 mg given by SC injection once a week for 12 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>LY3053102 + Exenatide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Stage 2: LY3053102 administered by SC injection once a week for 12 weeks and exenatide extended release 2 mg administered by SC injection once a week for 12 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>LY3053102</intervention_name>
+    <description>Administered SC</description>
+    <arm_group_label>LY3053102</arm_group_label>
+    <arm_group_label>LY3053102 + Exenatide</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Exenatide extended release</intervention_name>
+    <description>Administered SC</description>
+    <arm_group_label>Exenatide</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Administered SC</description>
+    <arm_group_label>LY3053102</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_label>Exenatide</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+          -  Participants with type 2 diabetes mellitus for at least 6 months before entering the
+             trial based on the disease diagnostic criteria (World Health Organization [WHO])
+             classification managed with diet or exercise alone or with a stable dose of metformin
+             of at least 1000 mg/day for at least 60 days before screening or on metformin and an
+             eligible second oral anti-hyperglycemic medication after a 60-day washout of the
+             second oral anti-hyperglycemic medication
+
+          -  Women not of childbearing potential due to surgical sterilization (hysterectomy or
+             bilateral oophorectomy or tubal ligation) or menopause
+
+          -  Have a hemoglobin A1c value of ≥7.0% and ≤10.5%, if on diet and exercise or diet,
+             exercise, and metformin (stable dose of at least 1000 mg/day for at least 60 days),
+             or have a hemoglobin A1c value of ≥7.0% and ≤9.5%, and are on an appropriate diet and
+             exercise regimen, a stable dose of metformin and willing to discontinue a second oral
+             anti-hyperglycemic medication
+
+          -  Have a body mass index ≥23 and ≤45 kilograms per square meter (kg/m^2)
+
+        Exclusion Criteria
+
+          -  Have used insulin for diabetic control for more than 6 consecutive days within 1 year
+             prior to screening
+
+          -  Have used thiazolidinediones within 3 months, or any other drugs for treatment of
+             hyperglycemia (except metformin) within 2 months, prior to the first week of the
+             study
+
+          -  Have hepatitis B and/or positive hepatitis B surface antigen. hepatitis C or human
+             immunodeficiency virus (HIV) and/or positive HIV antibodies
+
+          -  Have known or suspected cardiac autonomic neuropathy (for example, resting
+             tachycardia or orthostatic hypotension), based on clinical signs, symptoms, or
+             appropriate diagnostic testing
+
+          -  Have cardiac disease with functional status that is New York Heart Association Class
+             II, III, or IV or in the last 6 months have had any of the following: a history of
+             myocardial infarction , unstable angina, coronary artery bypass graft, percutaneous
+             coronary intervention (diagnostic angiograms are permitted), transient ischemic
+             attack, or cerebrovascular accident (for example, stroke)
+
+          -  Have poorly controlled hypertension, malignant hypertension, renal artery stenosis,
+             and/or evidence of labile blood pressure including symptomatic postural hypotension.
+             Doses of antihypertensive medications must be stable for 30 days prior to the first
+             week of the study
+
+          -  Have obvious clinical signs or symptoms of liver disease, acute or chronic hepatitis,
+             or an alanine transaminase or aspartate aminotransferase levels &gt;2 times the upper
+             limit of the reference range
+
+          -  Have evidence of hypothyroidism or hyperthyroidism based on clinical evaluation
+             and/or an abnormal thyroid-stimulating hormone which, in the opinion of the
+             investigator, would pose a risk to participant safety. Participants on a stable dose
+             of thyroid replacement therapy may be eligible if they meet the other criteria
+
+          -  Have clinically significant peripheral vascular disease, or clinical evidence of
+             active diabetic proliferative retinopathy, (known significant autonomic neuropathy)
+             as evidenced by urinary retention, orthostatic hypotension, diabetic diarrhea or
+             gastroparesis
+
+          -  Have an active or untreated malignancy or have been in remission from a clinically
+             significant malignancy (other than basal or squamous cell skin cancer, in situ
+             carcinomas of the cervix, or in situ prostate cancer) for less than 5 years
+
+          -  Have impaired renal function
+
+          -  Have fasting triglycerides &gt;500 milligrams per deciliter (mg/dL) at screening
+
+          -  Have experienced a keto-acidotic episode requiring hospitalization in the last 6
+             months
+
+          -  Have an electrocardiogram (ECG) considered to be indicative of cardiac disease
+
+          -  Have personal or family history of long QT syndrome, family history of sudden death
+             in a first-degree relative before age 40, or personal history of unexplained syncope
+             within the last year. Use of prescription or over-the-counter medications known to
+             prolong the QT or QTc interval
+
+          -  Have a history of bone disease (including osteoporosis or unhealed fractures),
+             evidence of osteoporosis (femoral neck or lumbar spine T-score &lt;-2.5) determined by
+             dual X-ray absorptometry (DXA) scan at screening, evidence of osteopenia (T-score
+             between -1.0 and -2.5 at the femoral neck or lumbar spine) with a high risk of
+             fracture based on risk factors or current active treatment of periodontal disease
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon-Fri 9AM -5PM Eastern time (UTC/GMT - 5 hours, EST)</last_name>
+    <role>Study Director</role>
+    <affiliation>Eli Lilly and Company</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Achieve Clinical Research, LLC</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham Medical</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lynn Institute of the Ozarks</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Anaheim Clinical Trials, LLC</name>
+      <address>
+        <city>Anaheim</city>
+        <state>California</state>
+        <zip>92801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AMCR Institute INC</name>
+      <address>
+        <city>Escondido</city>
+        <state>California</state>
+        <zip>92026</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Valley Endocrine, Fresno</name>
+      <address>
+        <city>Fresno</city>
+        <state>California</state>
+        <zip>93720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Marin Endocrine Associates</name>
+      <address>
+        <city>Greenbrae</city>
+        <state>California</state>
+        <zip>94904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Torrance Clinical Research</name>
+      <address>
+        <city>Lomita</city>
+        <state>California</state>
+        <zip>90717</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Clinical Research</name>
+      <address>
+        <city>North Hollywood</city>
+        <state>California</state>
+        <zip>91606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Orange County Research Center</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mills-Peninsula Diabetes Research Insitute</name>
+      <address>
+        <city>San Mateo</city>
+        <state>California</state>
+        <zip>94401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Innovations, Inc.</name>
+      <address>
+        <city>Santa Ana</city>
+        <state>California</state>
+        <zip>92705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Infosphere</name>
+      <address>
+        <city>West Hills</city>
+        <state>California</state>
+        <zip>91307</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lynn Institute of the Rockies</name>
+      <address>
+        <city>Colorado Springs</city>
+        <state>Colorado</state>
+        <zip>80907</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research of South Florida</name>
+      <address>
+        <city>Coral Gables</city>
+        <state>Florida</state>
+        <zip>33134</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Pharmacology of Miami</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Miami Research Associates</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Compass Research</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Compass Research</name>
+      <address>
+        <city>Oviedo</city>
+        <state>Florida</state>
+        <zip>32765</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Laureate Medical Group</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Solaris Clinical Research</name>
+      <address>
+        <city>Meridian</city>
+        <state>Idaho</state>
+        <zip>83646</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>American Health Network</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46254</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cotton O'Neil Diabetes and Endocrinology Center</name>
+      <address>
+        <city>Topeka</city>
+        <state>Kansas</state>
+        <zip>66606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>L-Marc Research Center</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New Orleans Center for Clinical Research</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70119</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Maine Research Associates</name>
+      <address>
+        <city>Auburn</city>
+        <state>Maine</state>
+        <zip>04210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia Medical Practice</name>
+      <address>
+        <city>Columbia</city>
+        <state>Maryland</state>
+        <zip>21045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UMass Memorial Medical Center</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01655</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wayne State Univ School of Medicine</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gulfside Clinical Research, LLC</name>
+      <address>
+        <city>Gulfport</city>
+        <state>Mississippi</state>
+        <zip>39501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mercury Street Medical Group, PLLC</name>
+      <address>
+        <city>Butte</city>
+        <state>Montana</state>
+        <zip>59701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Om Medical</name>
+      <address>
+        <city>Henderson</city>
+        <state>Nevada</state>
+        <zip>89052</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinilabs, Inc (New York)</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10019</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PharmQuest</name>
+      <address>
+        <city>Greensboro</city>
+        <state>North Carolina</state>
+        <zip>27408</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PMG Research of Raleigh, LLC</name>
+      <address>
+        <city>Raleigh</city>
+        <state>North Carolina</state>
+        <zip>27609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sterling Research Group, LTD</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lynn Institute of Norman</name>
+      <address>
+        <city>Norman</city>
+        <state>Oklahoma</state>
+        <zip>73069</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lynn Health Science Institute</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vital Prospects Clinical Research Institute, P.C.</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Research South</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spartanburg Medical Research</name>
+      <address>
+        <city>Spartanburg</city>
+        <state>South Carolina</state>
+        <zip>29303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dallas Diabetes Endocrine Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Covance</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75247-4989</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ Of Texas Southwestern at Dallas Childrens Med Ctr</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Protenium Clinical Research</name>
+      <address>
+        <city>Hurst</city>
+        <state>Texas</state>
+        <zip>76054</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Trials of Texas, Inc.</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SAM Clinical Research Center</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>HAS Research</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78240</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Martin Diagnostic Clinic</name>
+      <address>
+        <city>Tomball</city>
+        <state>Texas</state>
+        <zip>77375</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>American Telemedicine Center</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00917</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2015</verification_date>
+  <lastchanged_date>May 8, 2015</lastchanged_date>
+  <firstreceived_date>December 13, 2013</firstreceived_date>
+  <firstreceived_results_disposition_date>May 8, 2015</firstreceived_results_disposition_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Exenatide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted, but a results disposition has been submitted -->
+</clinical_study>

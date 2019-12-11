@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="147600">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01178944</url>
+  </required_header>
+  <id_info>
+    <org_study_id>I 169210</org_study_id>
+    <secondary_id>NCI-2010-01583</secondary_id>
+    <secondary_id>I 169210</secondary_id>
+    <secondary_id>P30CA016056</secondary_id>
+    <nct_id>NCT01178944</nct_id>
+  </id_info>
+  <brief_title>Pralatrexate and Oxaliplatin in Treating Patients With Unresectable or Metastatic Esophageal, Stomach, or Gastroesophageal Junction Cancer</brief_title>
+  <official_title>Pralatrexate in Combination With Oxaliplatin in Advanced Esophago-gastric Cancer: A Phase II Trial With Predictive Molecular Correlates</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Roswell Park Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Comprehensive Cancer Network</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Roswell Park Cancer Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial studies how well pralatrexate and oxaliplatin work in treating patients
+      with esophageal, stomach, or gastroesophageal junction cancer that cannot be removed by
+      surgery or has spread from the primary site (place where it started) to other places in the
+      body. Pralatrexate may stop the growth of tumor cells by blocking some of the enzymes needed
+      for cell growth. Drugs used in chemotherapy, such as oxaliplatin, work in different ways to
+      stop the growth of tumor cells, either by killing the cells, by stopping them from dividing,
+      or by stopping them from spreading. Giving pralatrexate with oxaliplatin may be an effective
+      treatment for esophageal, stomach, or gastroesophageal junction cancer.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To determine the overall response rate in patients with advanced esophago-gastric cancer
+      (EGC) to combination pralatrexate and oxaliplatin.
+
+      SECONDARY OBJECTIVES:
+
+      I. To examine the toxicity and tolerability of this regimen. II. To determine the
+      time-to-progression and overall survival using this regimen.
+
+      III. To examine whether functionally relevant polymorphisms of genes of the folate
+      metabolism pathway correlate with efficacy and toxicity of pralatrexate.
+
+      IV. To examine whether response to pralatrexate can be predicted by micro-ribonucleic acid
+      (microRNA) expression profiling of the epithelial component of the tumor.
+
+      OUTLINE:
+
+      Patients receive pralatrexate intravenously (IV) over 3-5 minutes and oxaliplatin IV over 2
+      hours on day 1. Courses repeat every 2 weeks in the absence of disease progression or
+      unacceptable toxicity. Oxaliplatin will be discontinued after 12 courses.
+
+      After completion of study treatment, patients are followed up for 30 days and then
+      periodically thereafter for up to 5 years.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 2010</start_date>
+  <completion_date type="Actual">November 2015</completion_date>
+  <primary_completion_date type="Actual">January 2015</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall response rate to combination pralatrexate and oxaliplatin as assessed by Response Evaluation Criteria in Solid Tumors version 1.1</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Objective responses will be confirmed 4 weeks after first documentation of response.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of toxicity as assessed by National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0</measure>
+    <time_frame>Up to 30 days after the last dose of study drug(s)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>From the date of study enrollment to the time of death from any cause, assessed up to 5 years</time_frame>
+    <description>Estimated using the Kaplan-Meier method and proportional hazards models. Continuous variables will be summarized with commonly used statistics (mean, standard deviation, median, etc.), with sub-group associations tested using the Wilcoxon rank sum test. Categorical variables will be summarized in contingency tables, with associations of interest assessed using Fisher's exact test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to progression (TTP)</measure>
+    <time_frame>From the date of study enrollment to the first observation of progressive disease, assessed up to 5 years</time_frame>
+    <description>Estimated using the Kaplan-Meier method and proportional hazards models. Continuous variables will be summarized with commonly used statistics (mean, standard deviation, median, etc.), with sub-group associations tested using the Wilcoxon rank sum test. Categorical variables will be summarized in contingency tables, with associations of interest assessed using Fisher's exact test.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Dichotomous genomic events (i.e., homozygote/heterozygote, or presence/absence of polymorphisms, etc.)</measure>
+    <time_frame>Baseline or any time during study</time_frame>
+    <description>Correlations of the haplotype-tagged single nucleotide polymorphism (SNPs) with response, OS, and TTP will be explored by multivariate logistic and Cox proportional hazards models, to explore the impact of these germline SNPs on binary and time to event outcomes. These exploratory comparisons will be carried out on the entire cohort, as well as within different patient subgroups such as responders, and progression-free and stable patients if feasible.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>MicroRNA expression profiles</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Initial studies will be conducted to test and optimize individual miRNAs for maximum sensitivity and specificity to predict chemosensitivity, inferring differences in the distributions of biomarkers with stringent statistical multiple testing error control procedures. A 2-sample two-ways test of mean differences in mir log expression by discrete treatment outcome (toxicity or efficacy) will be performed, with a Wilcoxon rank sum test.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">35</enrollment>
+  <condition>Adenocarcinoma of the Gastroesophageal Junction</condition>
+  <condition>Esophageal Undifferentiated Carcinoma</condition>
+  <condition>Gastric Adenocarcinoma</condition>
+  <condition>Gastric Squamous Cell Carcinoma</condition>
+  <condition>Recurrent Esophageal Adenocarcinoma</condition>
+  <condition>Recurrent Esophageal Squamous Cell Carcinoma</condition>
+  <condition>Recurrent Gastric Carcinoma</condition>
+  <condition>Stage IIIB Esophageal Adenocarcinoma</condition>
+  <condition>Stage IIIB Esophageal Squamous Cell Carcinoma</condition>
+  <condition>Stage IIIB Gastric Cancer</condition>
+  <condition>Stage IIIC Esophageal Adenocarcinoma</condition>
+  <condition>Stage IIIC Esophageal Squamous Cell Carcinoma</condition>
+  <condition>Stage IIIC Gastric Cancer</condition>
+  <condition>Stage IV Esophageal Adenocarcinoma</condition>
+  <condition>Stage IV Esophageal Squamous Cell Carcinoma</condition>
+  <condition>Stage IV Gastric Cancer</condition>
+  <condition>Undifferentiated Gastric Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Treatment (pralatrexate, oxaliplatin)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive pralatrexate IV over 3-5 minutes and oxaliplatin IV over 2 hours on day 1. Courses repeat every 2 weeks in the absence of disease progression or unacceptable toxicity. Oxaliplatin will be discontinued after 12 courses.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Laboratory Biomarker Analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Treatment (pralatrexate, oxaliplatin)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Oxaliplatin</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (pralatrexate, oxaliplatin)</arm_group_label>
+    <other_name>1-OHP</other_name>
+    <other_name>Dacotin</other_name>
+    <other_name>Dacplat</other_name>
+    <other_name>Diaminocyclohexane Oxalatoplatinum</other_name>
+    <other_name>Eloxatin</other_name>
+    <other_name>Eloxatine</other_name>
+    <other_name>JM-83</other_name>
+    <other_name>Oxalatoplatin</other_name>
+    <other_name>Oxalatoplatinum</other_name>
+    <other_name>RP 54780</other_name>
+    <other_name>RP-54780</other_name>
+    <other_name>SR-96669</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pralatrexate</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (pralatrexate, oxaliplatin)</arm_group_label>
+    <other_name>10-propargyl-10-deazaaminopterin</other_name>
+    <other_name>Folotyn</other_name>
+    <other_name>PDX</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histologically confirmed carcinoma of the esophagus, stomach or gastro-esophageal
+             junction that is metastatic, or locally advanced and inoperable for cure;
+             histological sub-types permitted include adenocarcinoma, squamous-cell carcinoma, or
+             undifferentiated carcinoma; small-cell carcinoma variant is not eligible
+
+          -  No previous systemic therapy for metastatic or recurrent disease; therapy
+             (chemotherapy, radiotherapy, or both) administered in the neo-adjuvant, adjuvant, or
+             definitive setting for previously localized disease is permitted, provided it was
+             completed more than 6 months prior to enrollment; palliative radiotherapy is
+             permitted provided it is completed &gt;= 3 weeks prior to study therapy initiation
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status 0-2
+
+          -  Life expectancy &gt;= 12 weeks
+
+          -  Hemoglobin &gt;= 9 g/dl
+
+          -  Absolute neutrophil count &gt;= 1500/mm^3
+
+          -  Platelet count &gt;= 100,000/mm^3
+
+          -  Serum creatinine =&lt; institutional upper limit normal (ULN)
+
+          -  Bilirubin =&lt; 1.5 x ULN
+
+          -  Transaminases =&lt; 3 x ULN; for documented liver metastases, transaminases up to 5 x
+             ULN is permitted
+
+          -  No evidence of &gt;= grade 2 peripheral neuropathy
+
+          -  Patients with reproductive potential must be willing to use an adequate contraceptive
+             method (e.g., abstinence, intrauterine device, oral contraceptives, barrier device
+             with spermicide or surgical sterilization) during treatment and for three months
+             after completing treatment; a negative pregnancy test is required for women of
+             child-bearing potential; nursing women are ineligible
+
+          -  Written, informed consent
+
+        Exclusion Criteria:
+
+          -  Hypersensitivity to platinum compounds
+
+          -  Uncontrolled inter-current illness including but not limited to active infection,
+             symptomatic congestive heart failure, unstable angina, uncontrolled cardiac
+             arrhythmia, or psychiatric illness that would limit compliance with study
+             requirements
+
+          -  Presence of brain metastases
+
+          -  Patients with third-space (pleural, peritoneal) fluid not controllable with usual
+             drainage methods are not eligible
+
+          -  History of second primary malignancy within 3 years prior to enrollment, except for
+             in-situ cervix carcinoma or non-melanoma skin cancer
+
+          -  Undergone an allogeneic stem cell transplant
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nikhil Khushalani</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Roswell Park Cancer Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Roswell Park Cancer Institute</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14263</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rochester General Hospital</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14621</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2016</verification_date>
+  <lastchanged_date>January 11, 2016</lastchanged_date>
+  <firstreceived_date>August 9, 2010</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Squamous Cell</mesh_term>
+    <mesh_term>Adenocarcinoma</mesh_term>
+    <mesh_term>Stomach Neoplasms</mesh_term>
+    <mesh_term>Esophageal Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Oxaliplatin</mesh_term>
+    <mesh_term>10-deazaaminopterin</mesh_term>
+    <mesh_term>Aminopterin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="175357">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00812929</url>
+  </required_header>
+  <id_info>
+    <org_study_id>112025</org_study_id>
+    <nct_id>NCT00812929</nct_id>
+  </id_info>
+  <brief_title>A Clinical Trial to Test a Study Drug in Volunteers Who Develop Asthma Following Exercise</brief_title>
+  <official_title>A Multi-centre, Randomized, Double-blind, Five-way Crossover Study Evaluating the Dose Response and Duration of Action of GSK2190915 Compared to Placebo in Subjects With Mild Asthma Who Experience Exercise Induced Bronchoconstriction.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GlaxoSmithKline</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is intended to determine the dose response and duration of action of GSK2190915
+      in mild asthmatic adult subjects who experience exercise-induced bronchoconstriction.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is intended to determine the dose response and duration of action of GSK2190915
+      in mild asthmatic adult subjects who experience exercise-induced bronchoconstriction.
+      Subjects will be invited to complete a screening visit, during which time exercise induced
+      bronchoconstriction must be demonstrated, defined as a decrease between 20-40% in FEV1
+      compared to baseline immediately following exercise challenge. Eligible subjects will
+      complete a randomized, double-blind, five-way crossover study. Subjects will be randomized
+      to a single dose of either 10 mg, 50 mg, 100 mg, 200 mg GSK2190915, or placebo during each
+      treatment period. Each treatment period will last 2 days and will include various
+      assessments following exercise challenge at 2, 9.5, and 24 hours post dose. A minimum 7 day
+      washout between treatment periods will be required. Regardless if a subject completes or
+      prematurely withdraws from the study, a follow up visit will be completed 7-21 days
+      following last dose.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>December 2008</start_date>
+  <completion_date type="Actual">July 2009</completion_date>
+  <primary_completion_date type="Actual">June 2009</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double Blind (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximal percentage change from pre-exercise baseline FEV1 to the minimum FEV1 at 24 hours post dose.</measure>
+    <time_frame>60 minutes following the exercise challenge.</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maximal percentage change from pre-exercise baseline FEV1 to the minimum FEV1 at 2 and 9.5 hours post dose.</measure>
+    <time_frame>60 minutes following the exercise challenge.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Weighted Mean (WM) for FEV1 percentage change from baseline recorded.</measure>
+    <time_frame>0 to 60 minutes following exercise challenge (FEV1 WM0-60)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to FEV1 recovery to within 5% of baseline following exercise challenge.</measure>
+    <time_frame>90 minutes following exercise challenge</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects using a short acting beta-2 agonist (rescue medication).</measure>
+    <time_frame>0 to 90 minutes following exercise challenge.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety assessments: vital signs, ECG, safety laboratory parameters, adverse events.</measure>
+    <time_frame>Study Duration</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Leukotriene biomarkers LTB4 and LTE4 in blood and urine samples, respectively.</measure>
+    <time_frame>24 hours post dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Derived PK parameters for GSK2190915.</measure>
+    <time_frame>24 hours post dose</time_frame>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Actual">47</enrollment>
+  <condition>Asthma</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>GSK2190915 10 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>GSK2190915 50 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>GSK2190915 100 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>GSK2190915 200 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>The current study will include a placebo arm to allow for a valid evaluation of adverse events attributable to GSK2190915 versus those independent of GSK2190915.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GSK2190915</intervention_name>
+    <description>This study will assess FEV1 at various intervals following exercise challenge in subjects who have been administered a single dose of 10 mg, 50 mg, 100 mg, or 200 mg GSK2190915, compared to a placebo control.</description>
+    <arm_group_label>GSK2190915 10 mg</arm_group_label>
+    <arm_group_label>GSK2190915 50 mg</arm_group_label>
+    <arm_group_label>GSK2190915 100 mg</arm_group_label>
+    <arm_group_label>GSK2190915 200 mg</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Males and females aged 18 to 55 years inclusive.
+
+          -  Female subjects must be of non childbearing potential including pre-menopausal
+             females with documented hysterectomy or double oophorectomy or tubal ligation or
+             postmenopausal defined as 12 months of spontaneous amenorrhea or 6 months of
+             spontaneous amenorrhea with serum FSH levels &gt; 40 mIU/mL and estradiol &lt; 40 pg/ml
+             (&lt;140 pmol/L) or 6 weeks postsurgical bilateral oophorectomy with or without
+             hysterectomy. Hormone replacement therapy (HRT) is permitted for post-menopausal
+             females.
+
+          -  Male subjects must agree to use one of the protocol outlined contraception methods.
+             This criterion must be followed from the time of the first dose of study medication
+             until 3 months after administration of last dose.
+
+          -  Body weight greater than or equal to 50 kg and Body mass index within range of
+             18.5-35.0 kg/m2 inclusive.
+
+          -  Pre-bronchodilator FEV1 &gt;70% of predicted at screening.
+
+          -  Exercise induced bronchoconstriction, as defined as a 20-40% decrease in FEV1
+             compared to baseline immediately following exercise challenge at screening.
+
+          -  Current non-smokers who have not used any tobacco products in the 6-month period
+             preceding the screening visit with a pack history of less than or equal to 10 pack
+             years [number of pack years = (number of cigarettes per day/20) x number of years
+             smoked]
+
+          -  Has provided signed and dated written informed consent
+
+          -  Is able to understand and comply with the protocol requirements, instructions and
+             protocol-stated restrictions.
+
+        Exclusion Criteria:
+
+          -  Chronic use of inhaled corticosteroids (ICS) for the treatment of persistent asthma.
+
+          -  Past or present disease, which as judged by the investigator or medical monitor, may
+             affect the outcome of this study or the subject's safety. These diseases include, but
+             are not limited to, cardiovascular disease, malignancy, hepatic disease,
+             gastrointestinal disease, renal disease, haematological disease, neurological
+             disease, endocrine disease or pulmonary disease (with the exception of asthma, but
+             including chronic bronchitis, emphysema, bronchiectasis or pulmonary fibrosis).
+
+          -  Treated for or diagnosed with clinical depression within six months of screening or
+             has a history of significant psychiatric illness.
+
+          -  Known history of hypertension or is hypertensive at screening which, in the opinion
+             of the Investigator, deems the subject unfit to complete exercise challenge.
+             Hypertension at screening is defined as persistent systolic BP &gt;150 mmHg or diastolic
+             BP &gt; 90mmHg.
+
+          -  Known history of gastrointestinal bleeding.
+
+          -  Respiratory tract infection within 2 weeks prior to the first dose of study
+             medication.
+
+          -  Asthma exacerbations requiring treatment with oral corticosteroids: any exacerbations
+             within 4 weeks of the screening visit or two or more exacerbations within 2 months of
+             the screening visit or admittance to hospital for an asthma exacerbation within 6
+             months of the screening visit.
+
+          -  History of life-threatening asthma, defined as an asthma episode that required
+             intubation and/or was associated with hypercapnoea, respiratory arrest and/or hypoxic
+             seizures.
+
+          -  History of alcohol/drug abuse or dependence within 12 months of the study. Abuse of
+             alcohol defined as an average weekly intake of &gt;14 drinks/week for men or &gt;7
+             drinks/week for women. One drink is equivalent to (12 g alcohol) = 5 ounces (150 ml)
+             of wine or 12 ounces (360 ml) of beer or 1.5 ounces (45 ml) of 80 proof distilled
+             spirits.
+
+          -  Use of prescription or non-prescription drugs (including CYP 3A4 inhibitors and
+             inducers, vitamins and dietary or herbal supplements), from 14 days before screening
+             until the follow-up visit, unless in the opinion of the Investigator and sponsor the
+             medication will not interfere with the study. Inhaled beta-2 agonists and
+             acetaminophen (up to 4 g per day) for the treatment of minor ailments, eg headache,
+             are permitted. Hormone replacement therapy (HRT) is also permitted for
+             post-menopausal females.
+
+          -  Unable to washout the following protocol defined prohibited medications within the
+             defined times:
+
+        Medication Exclusion Period Oral or injectable corticosteroids - No use within 5 weeks of
+        the screening visit Inhaled, Intranasal and topical steroids - No use within 4 weeks of
+        the screening visit Long acting beta-2 agonists - No use within 48 hours of an exercise
+        challenge or dosing or lung function testing Short acting beta-2 agonists - No use within
+        6 hours of an exercise challenge or dosing or lung function testing
+
+          -  Following exercise challenge during the screening visit, the subject experiences a
+             greater than 40% fall in FEV1 compared to baseline.
+
+          -  Following exercise challenge during the screening visit, the subject is not able to
+             recover to at least 20% of baseline FEV1 following administration of short acting
+             beta-2 agonists.
+
+          -  Requires rescue medication before all lung function assessments are completed
+             following the exercise challenge at screening
+
+          -  Symptomatic with hay fever at screening or predicted to have symptomatic hayfever
+             during the time of exercise challenge which, in the opinion of the Investigator,
+             would interfere with the outcome of the study.
+
+          -  Participation in a study with a new molecular entity during the previous 3 months or
+             5 half-lives (whichever is longer), or participation in a study without a new
+             molecular entity during the previous month or 5 half-lives (whichever is longer),
+             prior to the first dose of study medication.
+
+          -  Undergoing allergen desensitisation therapy.
+
+          -  There is a risk of subject non-compliance with study procedures.
+
+          -  History of blood donation (500 mL) within 2 months of starting the clinical study.
+
+          -  A screening QTc value of &gt;450msec, PR interval outside the range 120 to 220msec or an
+             ECG that is not suitable for QT measurements (e.g. poorly defined termination of the
+             T-wave).
+
+          -  Positive pregnancy test for females.
+
+          -  Positive test for hepatitis C antibody or hepatitis B surface antigen.
+
+          -  Positive test for HIV antibodies.
+
+          -  Positive pre-study urine cotinine/ breath carbon monoxide test and or urine
+             drug/urine alcohol screen. A minimum list of drugs that will be screened for include
+             Amphetamines, Barbiturates, Cocaine, Opiates, Cannabinoids and Benzodiazepines.
+
+          -  Has an affiliation with the Investigative Site. Participation of site personnel, or
+             their spouses or children, is not allowed.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>GSK Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>GlaxoSmithKline</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>North Dartmouth</city>
+        <state>Massachusetts</state>
+        <zip>02747</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73120</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Orangeburg</city>
+        <state>South Carolina</state>
+        <zip>29118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>El Paso</city>
+        <state>Texas</state>
+        <zip>79925</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.clinicalstudydatarequest.com</url>
+    <description>Researchers can use this site to request access to anonymised patient level data and/or supporting documents from clinical studies to conduct further research.</description>
+  </link>
+  <verification_date>October 2016</verification_date>
+  <lastchanged_date>October 11, 2016</lastchanged_date>
+  <firstreceived_date>December 18, 2008</firstreceived_date>
+  <firstreceived_results_disposition_date>February 5, 2010</firstreceived_results_disposition_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Asthma, Exercise Induced Asthma, Exercise Induced Bronchospasm</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Asthma</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Patient-level data for this study will be made available through www.clinicalstudydatarequest.com following the timelines and process described on this site.</ipd_description>
+  </patient_data>
+  <study_docs>
+    <study_doc>
+      <doc_id>112025</doc_id>
+      <doc_type>Annotated Case Report Form</doc_type>
+      <doc_url>https://www.clinicalstudydatarequest.com</doc_url>
+      <doc_comment>For additional information about this study please refer to the GSK Clinical Study Register</doc_comment>
+    </study_doc>
+    <study_doc>
+      <doc_id>112025</doc_id>
+      <doc_type>Study Protocol</doc_type>
+      <doc_url>https://www.clinicalstudydatarequest.com</doc_url>
+      <doc_comment>For additional information about this study please refer to the GSK Clinical Study Register</doc_comment>
+    </study_doc>
+    <study_doc>
+      <doc_id>112025</doc_id>
+      <doc_type>Informed Consent Form</doc_type>
+      <doc_url>https://www.clinicalstudydatarequest.com</doc_url>
+      <doc_comment>For additional information about this study please refer to the GSK Clinical Study Register</doc_comment>
+    </study_doc>
+    <study_doc>
+      <doc_id>112025</doc_id>
+      <doc_type>Statistical Analysis Plan</doc_type>
+      <doc_url>https://www.clinicalstudydatarequest.com</doc_url>
+      <doc_comment>For additional information about this study please refer to the GSK Clinical Study Register</doc_comment>
+    </study_doc>
+    <study_doc>
+      <doc_id>112025</doc_id>
+      <doc_type>Clinical Study Report</doc_type>
+      <doc_url>https://www.clinicalstudydatarequest.com</doc_url>
+      <doc_comment>For additional information about this study please refer to the GSK Clinical Study Register</doc_comment>
+    </study_doc>
+    <study_doc>
+      <doc_id>112025</doc_id>
+      <doc_type>Dataset Specification</doc_type>
+      <doc_url>https://www.clinicalstudydatarequest.com</doc_url>
+      <doc_comment>For additional information about this study please refer to the GSK Clinical Study Register</doc_comment>
+    </study_doc>
+    <study_doc>
+      <doc_id>112025</doc_id>
+      <doc_type>Individual Participant Data Set</doc_type>
+      <doc_url>https://www.clinicalstudydatarequest.com</doc_url>
+      <doc_comment>For additional information about this study please refer to the GSK Clinical Study Register</doc_comment>
+    </study_doc>
+  </study_docs>
+  <!-- Results have not yet been posted, but a results disposition has been submitted -->
+</clinical_study>

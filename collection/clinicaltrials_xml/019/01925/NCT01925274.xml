@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="90624">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01925274</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B2151005</org_study_id>
+    <secondary_id>2013-002095-40</secondary_id>
+    <nct_id>NCT01925274</nct_id>
+  </id_info>
+  <brief_title>A Study Of PF-05212384 Plus Irinotecan Vs Cetuximab Plus Irinotecan In Patients With KRAS And NRAS Wild Type Metastatic Colorectal Cancer</brief_title>
+  <official_title>A Randomized Phase 2 Study Of PF-05212384 Plus Irinotecan Versus Cetuximab Plus Irinotecan In Patients With KRAS And NRAS Wild Type Metastatic Colorectal Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pfizer</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will investigate whether the combination of PF-05212384 plus Irinotecan improves
+      progression free survival in patients with KRAS and NRAS wild type metastatic colorectal
+      cancer when compared with the combination of cetuximab plus Irinotecan. A Japanese Lead in
+      Cohort will assess the safety of the combination of PF-05212384 + irinotecan in patients
+      enrolled at Japanese sites.
+    </textblock>
+  </brief_summary>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Enrollment to the study was terminated on 11Nvo2014 due to slow recruitment. There were no
+    safety or efficacy issues that contributed to this decision.
+  </why_stopped>
+  <start_date>November 2013</start_date>
+  <completion_date type="Actual">April 2016</completion_date>
+  <primary_completion_date type="Actual">April 2016</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Open Label</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-Free Survival (PFS)</measure>
+    <time_frame>36 weeks</time_frame>
+    <description>Median time from the first dose of study treatment to the first documentation of objective tumor progression or to death due to any cause, whichever occurs first. PFS calculated as (Weeks) = (first event date minus first dose date plus 1) divided by 7</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with Dose-limiting toxicities (DLT)</measure>
+    <time_frame>28 days</time_frame>
+    <description>Determination of unacceptable toxicity in patients enrolled at sites in Japan.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Objective Response</measure>
+    <time_frame>up to 2 years</time_frame>
+    <description>Number of participants with objective response based on assessment of confirmed complete response (CR) or confirmed partial response (PR) according to RECIST. Confirmed CR defined as disappearance of all target lesions. Confirmed PR defined as ≥30% decrease in sum of the longest dimensions (LD) of the target lesions taking as a reference the baseline sum LD according to RECIST. Confirmed responses are those that persist on repeat imaging study ≥4 weeks after initial documentation of response.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DR)</measure>
+    <time_frame>up to 2 years</time_frame>
+    <description>Time in weeks from the first documentation of objective tumor response to objective tumor progression or death due to any cancer. Duration of tumor response was calculated as (the date of the first documentation of objective tumor progression or death due to cancer minus the date of the first CR or PR that was subsequently confirmed plus 1) divided by 7. DR was calculated for the subgroup of participants with a confirmed objective tumor response.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>up to 2 years</time_frame>
+    <description>Overall survival was the duration from enrollment to death. For participants who are alive, overall survival was censored at the last contact.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Using Healthcare Resources</measure>
+    <time_frame>up to 2 years</time_frame>
+    <description>FACT-C</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the Concentration-Time Curve (AUC)</measure>
+    <time_frame>0, 1, 2, 4, 6, 24, 72, 120 hours</time_frame>
+    <description>AUC is a measure of the serum concentration of the drug over time. It is used to characterize drug absorption.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Observed Plasma Concentration (Cmax)</measure>
+    <time_frame>0, 1, 2, 4, 6, 24, 72, 120 hours</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Reach Maximum Observed Plasma Concentration (Tmax)</measure>
+    <time_frame>0, 1, 2, 4, 6, 24, 72, 120 hours</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Levels of signaling proteins in paired and single tumor biopsies</measure>
+    <time_frame>0, 36, 37</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gene sequences and/or gene copy numbers in paired tumor biopsies</measure>
+    <time_frame>0, 36, 37</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">19</enrollment>
+  <condition>Metastatic Colorectal Cancer</condition>
+  <arm_group>
+    <arm_group_label>Arm A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>PF-05212384 plus Irinotecan</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Cetuximab plus Irinotecan</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PF-05212384</intervention_name>
+    <description>30 minute IV infusion of PF-05212384 on days 2, 9, 16 and 23 of each cycle. Intra-patient dose escalation will commence with 110mg and will increase depending on tolerability.</description>
+    <arm_group_label>Arm A</arm_group_label>
+    <other_name>PKI-587</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>irinotecan</intervention_name>
+    <description>90 minutes IV infusion of irinotecan 180mg/m^2 on days 1 and 15 of each cycle</description>
+    <arm_group_label>Arm A</arm_group_label>
+    <other_name>Camptosar, Campto, CPT-11</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cetuximab</intervention_name>
+    <description>120 minute IV infusion of cetuximab 400mg/m^2 on cycle 1 day 1; 60 minute IV infusion of cetuximab on days 8, 15, and 22 of each cycle, and on day 1 of each cycle after cycle 1</description>
+    <arm_group_label>Arm B</arm_group_label>
+    <other_name>Erbitux</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Irinotecan</intervention_name>
+    <description>90 minutes IV infusion of Irinotecan 180mg/m^2 on days 1 and 15 of each cycle</description>
+    <arm_group_label>Arm B</arm_group_label>
+    <other_name>Camptosar, Campto, CPT-11</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  KRAS and NRAS wild type metastatic colorectal cancer
+
+          -  Progression following treatment for colorectal cancer with irinotecan, oxaliplatin
+             and fluoropyrimidine therapy in the metastatic setting.
+
+          -  Eastern Cooperative Oncology Group [ECOG] Performance Status of 0, 1, or 2
+
+          -  At least one measurable lesion by Response Evaluation Criterion in Solid Tumors
+             [RECIST]
+
+        Exclusion Criteria:
+
+          -  More than 2 prior cytotoxic chemotherapy regimens for metastatic colorectal cancer.
+
+          -  Prior treatment with a PI3K, mTOR, AKT or EGFR inhibitor
+
+          -  Patients who have discontinued treatment with prior irinotecan therapy due to
+             toxicity.
+
+          -  Prior radiation to the pelvis or abdomen
+
+          -  Patients with history of interstitial lung disease.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>CBCC Global Research, Inc. at Comprehensive Blood and Cancer Center</name>
+      <address>
+        <city>Bakersfield</city>
+        <state>California</state>
+        <zip>93309</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Drug Management Only: UCLA West Medical Pharmacy, Att: Steven L Wong, Pharm D</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095-7349</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Drug Management Only: UCLA West Medical Pharmacy</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095-7349</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA West Medical Pharmacy</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095-7349</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regulatory Management Only: TRIO-US Central Administration</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>TRIO-US Central Administration (Regulatory Management only)</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>TRIO_US</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>West Valley Hematology/Oncology Group</name>
+      <address>
+        <city>Northridge</city>
+        <state>California</state>
+        <zip>91328</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Siteman Cancer Center - West County</name>
+      <address>
+        <city>Creve Coeur</city>
+        <state>Missouri</state>
+        <zip>63141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Drug Shipping Address: Washington University Infusion Center Pharmacy</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Siteman Cancer Center - South County</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63129</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Barnes Jewish Hospital</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Siteman Cancer Center - St Peters</name>
+      <address>
+        <city>St. Peters</city>
+        <state>Missouri</state>
+        <zip>63376</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regulatory Office: Comprehensive Cancer Centers of Nevada</name>
+      <address>
+        <city>Henderson</city>
+        <state>Nevada</state>
+        <zip>89014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Comprehensive Cancer Centers of Nevada</name>
+      <address>
+        <city>Henderson</city>
+        <state>Nevada</state>
+        <zip>89052</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Comprehensive Cancer Centers of Nevada</name>
+      <address>
+        <city>Henderson</city>
+        <state>Nevada</state>
+        <zip>89074</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Comprehensive Cancer Centers of Nevada</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89128</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Comprehensive Cancer Centers of Nevada</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89148</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Comprehensive Cancer Centers of Nevada</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89169</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Roswell Park Cancer Institute</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14263</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kadlec Clinic Hematology and Oncology</name>
+      <address>
+        <city>Kennewick</city>
+        <state>Washington</state>
+        <zip>99336</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kadlec Medical Center</name>
+      <address>
+        <city>Richland</city>
+        <state>Washington</state>
+        <zip>99352</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Outpatient Imaging Center</name>
+      <address>
+        <city>Richland</city>
+        <state>Washington</state>
+        <zip>99352</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spokane Valley Cancer Center</name>
+      <address>
+        <city>Spokane Valley</city>
+        <state>Washington</state>
+        <zip>99216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Oncology Associates, PS</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Aichi cancer center central hospital</name>
+      <address>
+        <city>Nagoya</city>
+        <state>Aichi</state>
+        <zip>464-8681</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Center Hospital East</name>
+      <address>
+        <city>Kashiwa</city>
+        <state>Chiba</state>
+        <zip>277-8577</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Center</name>
+      <address>
+        <city>Goyang-si</city>
+        <state>Gyeonggi-do</state>
+        <zip>410-769</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital / Department of Internal Medicine</name>
+      <address>
+        <city>Seoul</city>
+        <zip>110-744</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Samsung Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>135-710</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Asan Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>138-736</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Universitario Gregorio Marañón</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Spain</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Belgium</country>
+    <country>Italy</country>
+  </removed_countries>
+  <link>
+    <url>https://trialinfoemail.pfizer.com/pages/landing.aspx?StudyID=B2151005&amp;StudyName=A%20Study%20Of%20PF-05212384%20Plus%20Irinotecan%20Vs%20Cetuximab%20Plus%20Irinotecan%20In%20Patients%20With%20KRAS%20And%20NRAS%20Wild%20Type%20Metastatic%20Colorectal%20Can</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>May 2016</verification_date>
+  <lastchanged_date>May 15, 2016</lastchanged_date>
+  <firstreceived_date>August 15, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>metastatic colorectal cancer</keyword>
+  <keyword>colorectal cancer</keyword>
+  <keyword>KRAS</keyword>
+  <keyword>colon cancer</keyword>
+  <keyword>mCRC</keyword>
+  <keyword>CRC</keyword>
+  <keyword>PF-05212384</keyword>
+  <keyword>KRAS wild type colorectal cancer</keyword>
+  <keyword>irinotecan</keyword>
+  <keyword>cetuximab</keyword>
+  <keyword>NRAS</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Colorectal Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Irinotecan</mesh_term>
+    <mesh_term>Camptothecin</mesh_term>
+    <mesh_term>Cetuximab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

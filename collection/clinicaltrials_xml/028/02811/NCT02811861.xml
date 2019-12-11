@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="22656">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02811861</url>
+  </required_header>
+  <id_info>
+    <org_study_id>E7080-G000-307</org_study_id>
+    <nct_id>NCT02811861</nct_id>
+  </id_info>
+  <brief_title>Lenvatinib/Everolimus or Lenvatinib/Pembrolizumab Versus Sunitinib Alone as Treatment of Advanced Renal Cell Carcinoma</brief_title>
+  <official_title>A Multicenter, Open-label, Randomized, Phase 3 Trial to Compare the Efficacy and Safety of Lenvatinib in Combination With Everolimus or Pembrolizumab Versus Sunitinib Alone in First-Line Treatment of Subjects With Advanced Renal Cell Carcinoma.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eisai Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Eisai Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multicenter, randomized, open-label, Phase 3 study to compare the efficacy and
+      safety of lenvatinib in combination with everolimus (Arm A) or pembrolizumab (Arm B) versus
+      sunitinib (Arm C) as first-line treatment in participants with advanced renal cell
+      carcinoma.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 13, 2016</start_date>
+  <completion_date type="Anticipated">January 15, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 15, 2019</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free Survival (PFS)</measure>
+    <time_frame>up to approximately 37 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate (ORR)</measure>
+    <time_frame>up to approximately 37 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>up to approximately 37 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of treatment-emergent adverse events (TEAEs) and serious adverse events (SAEs)</measure>
+    <time_frame>up to approximately 37 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who discontinued treatment due to toxicity</measure>
+    <time_frame>up to approximately 37 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to treatment failure due to toxicity</measure>
+    <time_frame>up to approximately 37 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health-Related Quality of Life (HRQoL) scores</measure>
+    <time_frame>up to approximately 37 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PFS on next-line of therapy (PFS2)</measure>
+    <time_frame>up to approximately 37 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">735</enrollment>
+  <condition>Renal Cell Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Lenvatinib 18 mg plus everolimus 5 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Lenvatinib 18 milligrams (mg) administered orally, once daily, plus everolimus 5 mg administered orally, once daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lenvatinib 20 mg plus pembrolizumab 200 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Lenvatinib 20 mg administered orally, once daily, plus pembrolizumab 200 mg administered intravenously (IV), every 3 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sunitinib 50 mg</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Sunitinib 50 mg administered orally, once daily, on a schedule of 4 weeks on treatment followed by 2 weeks off treatment</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>lenvatinib</intervention_name>
+    <arm_group_label>Lenvatinib 18 mg plus everolimus 5 mg</arm_group_label>
+    <arm_group_label>Lenvatinib 20 mg plus pembrolizumab 200 mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>everolimus</intervention_name>
+    <arm_group_label>Lenvatinib 18 mg plus everolimus 5 mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>pembrolizumab</intervention_name>
+    <arm_group_label>Lenvatinib 20 mg plus pembrolizumab 200 mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sunitinib</intervention_name>
+    <arm_group_label>Sunitinib 50 mg</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histological or cytological confirmation of renal cell carcinoma (RCC) with a
+             clear-cell component
+
+          -  At least 1 measurable target lesion according to Response Evaluation in Solid Tumors
+             (RECIST) 1.1
+
+          -  Karnofsky Performance Status (KPS) of ≥70
+
+          -  Adequately controlled blood pressure (BP) with or without antihypertensive
+             medications, defined as BP ≤150/90 mmHg at Screening and no change in
+             antihypertensive medications within 1 week prior to Cycle 1/Day 1 (C1/D1)
+
+          -  Adequate organ function per blood work
+
+        Exclusion Criteria:
+
+          -  Subjects who have received any systemic anticancer therapy for RCC, including
+             anti-vascular endothelial growth factor (VEGF) therapy, or any systemic
+             investigational anticancer agent
+
+          -  Subjects with central nervous system (CNS) metastases are not eligible, unless they
+             have completed local therapy (eg, whole brain radiation therapy (WBRT), surgery or
+             radiosurgery) and have discontinued the use of corticosteroids for this indication
+             for at least 4 weeks before starting treatment in this study. Any signs (eg,
+             radiologic) or symptoms of brain metastases must be stable for at least 4 weeks
+             before starting study treatment
+
+          -  Active malignancy (except for RCC, definitively treated basal or squamous cell
+             carcinoma of the skin, and carcinoma in-situ of the cervix or bladder) within the
+             past 24 months. Subjects with history of localized &amp; low risk prostate cancer are
+             allowed in the study if they were treated with curative intent and there is no
+             prostate specific antigen (PSA) recurrence within the past 5 years
+
+          -  Prior radiation therapy within 21 days prior to start of study treatment with the
+             exception of palliative radiotherapy to bone lesions, which is allowed if completed 2
+             weeks prior to study treatment start
+
+          -  Received a live vaccine within 30 days of planned start of study treatment
+
+          -  Subjects with urine protein ≥1 gram/24 hour
+
+          -  Fasting total cholesterol &gt;300 milligram per deciliter (mg/dL) (or ˃7.75 millimole
+             per liter (mmol/L)) and/or fasting triglycerides level ˃2.5 x upper limit of normal
+             (ULN). Note: these subjects can be included after initiation or adjustment of
+             lipid-lowering medication
+
+          -  Uncontrolled diabetes as defined by fasting glucose &gt;1.5 times the ULN. Note: these
+             subjects can be included after initiation or adjustment of glucose-lowering
+             medication
+
+          -  Prolongation of corrected QT (QTc) interval to &gt;480 milliseconds (ms)
+
+          -  Bleeding or thrombotic disorders or subjects at risk for severe hemorrhage. The
+             degree of tumor invasion/infiltration of major blood vessels (eg, carotid artery)
+             should be considered because of the potential risk of severe hemorrhage associated
+             with tumor shrinkage/necrosis following lenvatinib therapy
+
+          -  Clinically significant hemoptysis or tumor bleeding within 2 weeks prior to the first
+             dose of study drug
+
+          -  Significant cardiovascular impairment within 6 months of the first dose of study
+             drug: history of congestive heart failure greater than New York Heart Association
+             (NYHA) Class II, unstable angina, myocardial infarction or stroke, cardiac arrhythmia
+             associated with significant cardiovascular impairment, or a left ventricular ejection
+             fraction (LVEF) below the institutional normal range as determined by multiple gated
+             acquisition scan (MUGA) or echocardiogram
+
+          -  Active infection (any infection requiring systemic treatment)
+
+          -  Human Immunodeficiency Virus (HIV) positive
+
+          -  Known active Hepatitis B (eg, Hepatitis B surface antigen (HBsAg) reactive) or
+             Hepatitis C (eg, hepatitis C virus ribonucleic acid (HCV RNA) [qualitative] is
+             detected)
+
+          -  Known history of, or any evidence of, interstitial lung disease
+
+          -  Has a history of (non-infectious) pneumonitis that required steroids, or current
+             pneumonitis
+
+          -  Subjects with a diagnosis of immunodeficiency or who are receiving systemic steroid
+             therapy or any other form of immunosuppressive therapy within 7 days prior to the
+             first dose of study treatment. The use of physiologic doses of corticosteroids (up to
+             7.5 mg/day of prednisone or equivalent) may be approved after consultation with the
+             sponsor
+
+          -  Active autoimmune disease (with the exception of psoriasis) that has required
+             systemic treatment in the past 2 years (ie, with use of disease modifying agents,
+             corticosteroids or immunosuppressive drugs). Replacement therapy (eg, thyroxine,
+             insulin, or physiologic corticosteroid replacement therapy for adrenal or pituitary
+             insufficiency) is not considered a form of systemic treatment
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Eisai Medical Information</last_name>
+    <phone>1-888-274-2378</phone>
+  </overall_contact>
+  <location>
+    <facility>
+      <address>
+        <city>Joliet</city>
+        <state>Illinois</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Niles</city>
+        <state>Illinois</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Overland Park</city>
+        <state>Kansas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Topeka</city>
+        <state>Kansas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Rockville</city>
+        <state>Maryland</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Johnson City</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>New York City</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>McAllen</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Paris</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tyler</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2017</verification_date>
+  <lastchanged_date>March 21, 2017</lastchanged_date>
+  <firstreceived_date>June 21, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Renal Cell Carcinoma (RCC)</keyword>
+  <keyword>Lenvatinib</keyword>
+  <keyword>First-line RCC</keyword>
+  <keyword>Treatment-naive RCC</keyword>
+  <keyword>Everolimus</keyword>
+  <keyword>Pembrolizumab</keyword>
+  <keyword>Sunitinib</keyword>
+  <keyword>Phase 3 RCC</keyword>
+  <keyword>Phase 3 first-line RCC</keyword>
+  <keyword>Phase 3 treatment-naive RCC</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Renal Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lenvatinib</mesh_term>
+    <mesh_term>Sunitinib</mesh_term>
+    <mesh_term>Pembrolizumab</mesh_term>
+    <mesh_term>Everolimus</mesh_term>
+    <mesh_term>Sirolimus</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>
