@@ -13,7 +13,7 @@
 ```zsh
 python modules/xml/clinicaltrials_xml.py
 ```
-##对预处理后的.xml文件执行去停用词和词形还原
+## 对预处理后的.xml文件执行去停用词和词形还原
 
 执行脚本：
 
