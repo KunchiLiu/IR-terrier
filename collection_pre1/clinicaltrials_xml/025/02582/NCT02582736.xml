@@ -1,0 +1,56 @@
+<DOC>
+	<DOCNO>NCT02582736</DOCNO>
+	<brief_summary>The purpose study determine whether use atypical antipsychotic medication increase risk hospitalization hyperglycemic emergency . The investigator carry separate population-based cohort study use administrative health database eight jurisdiction Canada UK . Cohort entry define initiation new antipsychotic medication . Follow-up continue hospitalization hyperglycemic emergency end 365 day . The result separate site combine provide overall assessment risk hyperglycemic emergency among new user various antipsychotic drug .</brief_summary>
+	<brief_title>Antipsychotics Risk Hyperglycemic Emergencies</brief_title>
+	<detailed_description>The objective study determine whether use atypical antipsychotic associate increase risk hospitalization hyperglycemic emergency ( hyperglycemia , diabetic ketoacidosis , hyperosmolar hyperglycemic state ) . A common-protocol approach use conduct retrospective cohort study use administrative health care data eight jurisdiction ( Canadian province British Columbia , Alberta , Saskatchewan , Manitoba , Ontario , Quebec , Nova Scotia , well United Kingdom ( UK ) General Practice Research Database [ GPRD ] ) . Briefly , Canadian database include population-level data physician billing , diagnose procedure hospital discharge abstract , dispensation prescription drug . The data Nova Scotia , Ontario , Alberta restrict patient age 65 year old , prescription data available young patient . The GPRD clinical database representative UK population contains record patient see 680 general practitioner practice UK . In jurisdiction , investigator assemble study cohort include patient newly prescribe antipsychotic medication ( WHO Anatomical Therapeutic Chemical ( ATC ) code N05A ) April 1 , 1998 ( early date data availability site ) March 31 , 2010 ( last date data availability site earlier ) . The date study cohort entry define date prescription ( GPRD ) dispensation ( site ) newly-prescribed antipsychotic . Patients study cohort follow date study cohort entry event ( define ) , censor due death departure database , 365 day cohort entry , end study period ( March 31 , 2011 ) , whichever occur first . The exposure category separate type antipsychotic medication prescribe upon cohort entry : 1 ) olanzapine user ; 2 ) atypical antipsychotic user ; 3 ) typical antipsychotic user ; 4 ) risperidone user . Exposure olanzapine define prescription olanzapine date cohort entry . Exposure atypical antipsychotic define prescription atypical antipsychotic olanzapine date cohort entry . Exposure typical antipsychotic define prescription typical antipsychotic date cohort entry . Exposure risperidone define prescription risperidone date cohort entry . The investigator use analysis analogous intention-to-treat approach . The primary outcome define first hospitalization hyperglycemic emergency within 365 day initiation cohort define antipsychotic medication . The reference group throughout analyse risperidone user . The primary comparator olanzapine user ; atypical antipsychotic user typical antipsychotic user serve secondary comparators . Inverse probability treatment weighting ( IPTW ) use propensity score estimate marginal treatment effect use . These propensity score estimate use logistic regression model treatment comparator antipsychotic regress number pre-identified covariates influence risk hyperglycemic emergency . The absolute difference probability hyperglycemic emergency estimate . The cause-specific hazard comparator vs. risperidone estimate use Cox-proportional hazard regression model , incorporate IPT weight use robust variance estimator . Meta-analyses site-specific result perform use fixed-effects model inverse variance weighting , amount site heterogeneity estimate use I-squared statistic . Secondary analysis perform mean nest case-control analysis cohort . Cases define subject hyperglycemic event match control experience hyperglycemic event . The event date case serve index date control match case . Exposure define recent antipsychotic medication prescribe prior index date . Conditional logistic regression use estimate odds ratio hyperglycemic event comparator vs. risperidone .</detailed_description>
+	<mesh_term>Disease</mesh_term>
+	<mesh_term>Diabetes Mellitus</mesh_term>
+	<mesh_term>Schizophrenia</mesh_term>
+	<mesh_term>Emergencies</mesh_term>
+	<mesh_term>Bipolar Disorder</mesh_term>
+	<mesh_term>Diabetes Mellitus , Type 2</mesh_term>
+	<mesh_term>Psychotic Disorders</mesh_term>
+	<mesh_term>Mental Disorders</mesh_term>
+	<mesh_term>Perphenazine</mesh_term>
+	<mesh_term>Fluphenazine</mesh_term>
+	<mesh_term>Fluphenazine depot</mesh_term>
+	<mesh_term>Fluphenazine enanthate</mesh_term>
+	<mesh_term>Ziprasidone</mesh_term>
+	<mesh_term>Haloperidol</mesh_term>
+	<mesh_term>Haloperidol decanoate</mesh_term>
+	<mesh_term>Clozapine</mesh_term>
+	<mesh_term>Paliperidone Palmitate</mesh_term>
+	<mesh_term>Loxapine</mesh_term>
+	<mesh_term>Risperidone</mesh_term>
+	<mesh_term>Antipsychotic Agents</mesh_term>
+	<mesh_term>Aripiprazole</mesh_term>
+	<mesh_term>Quetiapine Fumarate</mesh_term>
+	<mesh_term>Olanzapine</mesh_term>
+	<mesh_term>Mesoridazine</mesh_term>
+	<mesh_term>Chlorprothixene</mesh_term>
+	<mesh_term>Methotrimeprazine</mesh_term>
+	<mesh_term>Clopenthixol</mesh_term>
+	<mesh_term>Fluspirilene</mesh_term>
+	<mesh_term>Flupenthixol</mesh_term>
+	<mesh_term>Trifluoperazine</mesh_term>
+	<mesh_term>Thiothixene</mesh_term>
+	<mesh_term>Pimozide</mesh_term>
+	<mesh_term>Thioridazine</mesh_term>
+	<mesh_term>Chlorpromazine</mesh_term>
+	<mesh_term>Flupenthixol decanoate</mesh_term>
+	<mesh_term>Chlormezanone</mesh_term>
+	<mesh_term>Tetrabenazine</mesh_term>
+	<criteria>Patients firsttime prescription antipsychotic medication Patients least 18 year age cohort entry ( except Alberta , Ontario , Nova Scotia , patient least 66 year age ) Patients least 1 year history database Patients age &lt; 18 year date cohort entry ( &lt; 66 year Alberta , Ontario Nova Scotia ) Received prescription antipsychotic medication 365 day prior cohort entry Patients hospitalize primary study outcome &lt; 30 day prior cohort entry Had &lt; 1 year provincial Medicare GPRD enrollment precede cohort entry Hospitalized &gt; 30 consecutive day 365 day prior cohort entry Received renal dialysis palliative care 365 day prior cohort entry Patients long term care facility Patients receive &gt; 1 antipsychotic medication date cohort entry</criteria>
+	<gender>All</gender>
+	<minimum_age>18 Years</minimum_age>
+	<maximum_age>N/A</maximum_age>
+	<verification_date>October 2015</verification_date>
+	<keyword>Antipsychotics</keyword>
+	<keyword>Drug side effect</keyword>
+	<keyword>Psychosis</keyword>
+	<keyword>Hyperglycemic emergency</keyword>
+	<keyword>Diabetes</keyword>
+	<keyword>Epidemiology</keyword>
+	<keyword>Database research</keyword>
+	<keyword>CNODES</keyword>
+</DOC>

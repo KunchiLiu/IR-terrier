@@ -1,0 +1,30 @@
+<DOC>
+	<DOCNO>NCT02910921</DOCNO>
+	<brief_summary>This trial collaboration Mayo Clinic , Second Opinion Health ( Simon Bloch , simon @ somobilehealth.com 408-981-3814 ) Allergan . Mayo Clinic investigator conduct clinical trial , Second Opinion Health provide software use trial ( Migraine Alert app data collection , analysis machine learn algorithm ) , Allergan provide funding . The investigator hypothesize use mobile phone app Fitbit wearable collect daily headache diary data , exposure/trigger data physiologic data predict occurrence migraine attack high accuracy . The objective trial ass ability use daily exposure/trigger symptom data , well physiologic data ( collected Fitbit ) create individual predictive migraine model accurately predict migraine attack individual patient via mobile phone app .</brief_summary>
+	<brief_title>Individualized Prediction Migraine Attacks Using Mobile Phone App Fitbit</brief_title>
+	<detailed_description>Eliminating migraine attack start enormous importance migraine sufferer . But figure onset attack actually start remains major challenge medical community . The widespread use mobile smartphones , availability wearable device measure health information , advance multivariate pattern analysis via machine learn algorithms allow development individual predictive model determine likelihood individual patient develop migraine give day . Such model base upon objectively measure biometric parameter ( e.g . activity , sleep ) , objectively measure environmental condition ( e.g . weather parameter ) , exposures possible migraine trigger , patient report symptom . Using machine-learning algorithm explore large dataset collect patient , optimal combination factor accurately predict likelihood migraine attack determine . Prediction individual migraine attack would substantial positive impact patient migraine . Accurate prediction migraine attack would give migraineur great sense control condition , sense control often lack patient migraine . Most importantly , individual migraine attack could predict high accuracy , treatment inevitable migraine attack development symptom could prevent attack altogether . Eligible subject enter baseline phase subject wear Fitbit device record data daily headache diary use mobile phone app . This phase variable duration subject maximum 75 day . It baseline phase individualize predictive model migraine attack develop optimize . During second phase ( 75 day ) , accuracy predictive model test . The probability develop migraine calculate accuracy prediction test patient report incidence migraine attack within mobile phone app . Subjects blind app 's migraine attack prediction avoid expectancy bias . Migraine prediction suffers 'the curse dimensionality ' ( machine learn parlance ) . Too many factor affect outcome , outcome ( positive migraine attack ) far . To develop accurate machine learn model use traditional approach require long impractical time duration . Migraine Alert effectively address use proprietary algorithm technique generate individual model use few migraine . Covariate analysis perform individual use feature derive raw data . Individual model may differ one specific feature use and/or importance attach model . Proprietary technique use create individual model monitor pre-validation post-validation accuracy recall . Concept drift evidence degradation accuracy recall monitor prediction phase model retrain necessary .</detailed_description>
+	<mesh_term>Disease</mesh_term>
+	<mesh_term>Headache</mesh_term>
+	<mesh_term>Migraine Disorders</mesh_term>
+	<mesh_term>Nervous System Diseases</mesh_term>
+	<mesh_term>Brain Diseases</mesh_term>
+	<mesh_term>Central Nervous System Diseases</mesh_term>
+	<mesh_term>Headache Disorders</mesh_term>
+	<mesh_term>Headache Disorders , Primary</mesh_term>
+	<criteria>Subjects fulfil ICHD3beta criterion migraine average 5 10 migraine attack per month 12 headache day per month Males females 18 year age old Subject report weather one trigger Subject iPhone Subject willing wear Fitbit device duration study Subject active Facebook account willing create one Children young 18 year age Subjects headache migraine probable migraine Inability provide inform consent Not willing maintain daily diary Current participation another clinical trial</criteria>
+	<gender>All</gender>
+	<minimum_age>18 Years</minimum_age>
+	<maximum_age>N/A</maximum_age>
+	<verification_date>September 2016</verification_date>
+	<keyword>Migraine</keyword>
+	<keyword>Prediction</keyword>
+	<keyword>Forecast</keyword>
+	<keyword>App</keyword>
+	<keyword>Fitbit</keyword>
+	<keyword>Individual</keyword>
+	<keyword>Algorithm</keyword>
+	<keyword>Machine Learning</keyword>
+	<keyword>Mayo Clinic</keyword>
+	<keyword>Allergan</keyword>
+	<keyword>Second Opinion</keyword>
+</DOC>

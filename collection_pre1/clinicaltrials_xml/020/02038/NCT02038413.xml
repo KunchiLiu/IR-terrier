@@ -1,0 +1,17 @@
+<DOC>
+	<DOCNO>NCT02038413</DOCNO>
+	<brief_summary>Compared conventional radiotherapy photon ( CRT ) , particle therapy ( PT ) potential inflict maximum damage tumor minimum collateral damage neighbor healthy tissue . Given cost particle therapy ( PT ) considerably high conventional radiotherapy ( RT ) photon , necessary establish whether high cost worthwhile light expect advantage . Thus , clear evidence situation PT outperform conventional photon treatment need . In previous ROCOCO study ( lung stage I-IIIB ) inhomogeneous group patient regard tumor stage size included1 . Conformal radiotherapy Intensity Modulated Radiotherapy use comparison . In study patient small tumor include ( stage I ) . A stereotactic treatment schedule advance treatment technique , CyberKnife , RapidArc , IMRT Tomotherapy , eligible kind lesion . As result comparison demonstrate previous study maybe invalid . We propose investigate extend proton 12C-ion therapy decrease amount irradiate normal tissue compare state art photon modality stage I lung cancer patient .</brief_summary>
+	<brief_title>State Art Photon Therapy Versus Particle Therapy Small Lung Tumors ; Planning Study Based Reference Dataset Patients</brief_title>
+	<detailed_description>For silico planning study treatment plan perform center already operate experience treatment planning . IMRT treatment plan calculate Eindhoven ( NL ) , Tomotherapy plan Deventer ( NL ) , Cyberknife plan Liege ( BE ) RapidArc treatment plan Hasselt ( BE ) . Proton treatment plan perform University Pennsylvania ( USA ) C-ion treatment plan University Marburg ( GE ) . A dataset state-of-the-art image data available . 25 patient include accord a-priori define selection criterion . Each patient function control . For reason , number patient per tumor group limit 25 patient per tumor group ( power = 80 % , alpha = 5 % ) . The datasets store secure website host MAASTRO . High quality CT-images use radiotherapy treatment planning . Secondary image information FDG-PET MRI use GTV delineation . GTV relevant OARs delineate MAASTRO ( NL ) . The GTV PTV margin determine individual institute accord treatment technique treatment modality . Photons plan state art treatment technique . Protons plan use active beam delivery Intensity Modulated proton therapy ( IMPT ) carbon-ions pencil beam delivery treatment planning technique gantry . Each participate center use treatment planning system accord standard practice center . The tumor dose , overall treatment time ( OTT ) equal number fraction use treatment modality . Photon , proton C-ion treatment compare base dosimetric parameter normal tissue . DVH 's calculated OARs . In addition , NTCP fix tumor dose determine . Cobalt Gy equivalent dos use report proton carbon-ion dose . In case proton , constant RBE value 1.1 used tumor normal tissue . The RBE carbon-ions calculate base model use participate center .</detailed_description>
+	<mesh_term>Carcinoma , Non-Small-Cell Lung</mesh_term>
+	<criteria>&gt; 18 year age refer primary radiotherapy chemo radiation NSCLC stage I receive respiratory gate CT ( 4DCT ) scan</criteria>
+	<gender>All</gender>
+	<minimum_age>18 Years</minimum_age>
+	<maximum_age>N/A</maximum_age>
+	<verification_date>January 2016</verification_date>
+	<keyword>NSCLC</keyword>
+	<keyword>cT1/cT2aN0M0</keyword>
+	<keyword>Stereotactic lung treatment</keyword>
+	<keyword>MAASTRO</keyword>
+	<keyword>age &gt; 18 year</keyword>
+</DOC>

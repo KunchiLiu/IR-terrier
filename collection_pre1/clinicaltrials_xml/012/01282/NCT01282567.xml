@@ -1,0 +1,12 @@
+<DOC>
+	<DOCNO>NCT01282567</DOCNO>
+	<brief_summary>The Artificial Pancreas Project develop SUPELEC University Hospital Rennes focus evaluation original control algorithm computes appropriate subcutaneous insulin infusion response continuous glucose measurement The result 24-hour closed-loop period compare open-loop . The implementation algorithm name Error Dynamics Shaping ( EDS ) require preliminary phase identification parameter model ( insulin pharmacokinetics effect glucose metabolism ) follow phase optimization i.e . personalize adjustment damp parameter EDS . The present study aim formalize procedure identification/optimization parameter model controller EDS . They determine type -1 diabetic patient use insulin therapy condition free disturbance generate glucidic meal , i.e . period glucidic fast . Three variable determine procedure : blood glucose , insulin concentration insulin dos .</brief_summary>
+	<brief_title>Study Artificial Pancreas Project : Determination Tuning Strategy Metabolic Profiles</brief_title>
+	<detailed_description />
+	<mesh_term>Pancrelipase</mesh_term>
+	<criteria>Type 1 diabetic patient ( age : 1870 ) Diabetes duration high three year Insulin pump Humalog® Hospitalized 24hour glucidic fast test Written inform consent Pregnancy nursing Acute infectious disease Corticoid treatment Creatinine clearance &lt; 40 ml/mn Patients use Apidra® Novorapid® People major object legal protection ( safeguard justice , supervision , trusteeship )</criteria>
+	<gender>All</gender>
+	<minimum_age>18 Years</minimum_age>
+	<maximum_age>70 Years</maximum_age>
+	<verification_date>February 2012</verification_date>
+</DOC>

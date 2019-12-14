@@ -1,0 +1,15 @@
+<DOC>
+	<DOCNO>NCT02741986</DOCNO>
+	<brief_summary>Brief Summary : The goal study implement test intelligent perioperative system ( IPS ) real-time predicts risk postoperative complication use routine clinical data collect electronic health record . The accuracy computer-generated risk score compare physician 's risk score patient . Physicians also ask provide opinion regard computer-generated risk score use interactive interface program . The information regard risk score performance collect two 6-month period . The accuracy IPS physician compare end two time period .</brief_summary>
+	<brief_title>Integrating Data , Algorithms Clinical Reasoning Surgical Risk Assessment</brief_title>
+	<detailed_description>Postoperative complication significantly increase morbidity , mortality cost surgery . In current clinical practice prediction risk develop complication surgery manly base physician ' clinical judgment . The predictive accuracy judgment limit poorly study . The investigator design intelligent perioperative system ( IPS ) set computer software algorithm real-time predict risk postoperative complication use routine clinical data electronic health record . The system design self-learning system ability interact physician solicit feedback . This study compare clinical judgment physician computer generate risk score patient undergo major surgery . All surgeon anesthesiologist large single-center tertiary academic center recruit participate study . The IPS system implement real time generate risk score postoperative complication patient plan undergo surgery perform physician enrol study . Physicians ask provide risk score ( use visual analog risk scale 0-100 ) patient interact IPS . They also opportunity review computer-generated risk score provide feedback . The information collect two six-month period . At end 6-months period predict risk estimate compare true occurrence complication . Predictive performance physician ' risk score compare IPS generate risk score use comparison area receiver-operating curve ( AUC ) , sensitivity , specificity positive negative predict value .</detailed_description>
+	<mesh_term>Postoperative Complications</mesh_term>
+	<criteria>Inclusion criterion : Surgeons anesthesiologists work adult inpatient operative practice . Exclusion criterion : Surgeons anesthesiologists work obstetric pediatric practice .</criteria>
+	<gender>All</gender>
+	<minimum_age>18 Years</minimum_age>
+	<maximum_age>100 Years</maximum_age>
+	<verification_date>December 2016</verification_date>
+	<keyword>risk assessment</keyword>
+	<keyword>sepsis</keyword>
+	<keyword>acute kidney injury ( AKI )</keyword>
+</DOC>
