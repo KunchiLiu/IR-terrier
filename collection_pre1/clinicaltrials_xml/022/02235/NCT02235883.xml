@@ -1,0 +1,19 @@
+<DOC>
+	<DOCNO>NCT02235883</DOCNO>
+	<brief_summary>The objective HEART Study develop multiscale model coronary circulation base multimodal image data ( angiography , echocardiography ) . The predictive comprehensive multi-scale model , develop proof-of-concept study , use analyze functional aspect coronary artery disease . Model validation perform invasive measurement</brief_summary>
+	<brief_title>High Performance Computing Personalized Cardio Component Models</brief_title>
+	<detailed_description>The main objective HEART development validation patient-specific multiscale computational model coronary circulation high predictive power healthy diseased vessel : - Comprehensive modeling anatomical hemodynamic phenomenon coronary circulation base input data acquire angiography echocardiography ; - Assessment functional parameter subsequent validation model ; - High performance compute architecture efficiently address multi-scale complexity , critical requirement translation clinical decision making . Patient measurement use input data multiscale model , validate computational result include : - Angiography : target angiographic view include LAO 30 , LAO 30/20 cranial , LAO 30/20 caudal , RAO 30 ( RCA view ) RAO 25/25 caudal , RAO 0/40 caudal , RAO 10/40 cranial , LAO 50/20 cranial , LAO 50/20 caudal ( LCA view ) - Echocardiography : - Standard apical acquisition ( 2D harmonic 4-chamber , 2-chamber , 3-chamber ) - Color flow Doppler/spectral Doppler ( MR , AI , TR evaluation ; CW PW spectral Doppler ) - Three-dimensional imaging ( From apical 4-chamber view one ECG-triggered real time complete full volume acquisition include LV LA - 1 acquisition low volume per second ( VPS ) rate one high VPS , real time volumetric color flow Doppler , cover MV AV ) . - Non-invasive pressure measurement : cuff-based measurement leave right arm , echocardiography angiography - Invasive pressure measurement : rest - aortic pressure ( Pa ) , distal pressure ( Pd ) , Pd/Pa ratio ; hyperemia - aortic pressure ( Pa ) , distal pressure ( Pd ) , FFR ( Pd/Pa )</detailed_description>
+	<mesh_term>Coronary Artery Disease</mesh_term>
+	<mesh_term>Myocardial Ischemia</mesh_term>
+	<mesh_term>Coronary Disease</mesh_term>
+	<criteria>age &gt; 18 year provide write informed consent schedule undergo clinicallyindicated nonemergent invasive coronary angiography ( ICA ) likelihood stenosis one main coronary epicardial vessel ( LAD , LCx , RCA ) prior PCI prior bypass surgery prior valve surgery replacement significant arrhythmia low systolic BP ( &lt; 90 mmHg ) abnormally high HR ( &gt; 120 bpm ) significant Left Main disease STEMI NSTEMI suspect microvascular disease</criteria>
+	<gender>All</gender>
+	<minimum_age>18 Years</minimum_age>
+	<maximum_age>N/A</maximum_age>
+	<verification_date>November 2015</verification_date>
+	<keyword>Coronary artery disease</keyword>
+	<keyword>FFR</keyword>
+	<keyword>diagnosis</keyword>
+	<keyword>computational model</keyword>
+	<keyword>non-invasive</keyword>
+</DOC>

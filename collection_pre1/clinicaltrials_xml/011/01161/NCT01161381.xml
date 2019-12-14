@@ -1,0 +1,22 @@
+<DOC>
+	<DOCNO>NCT01161381</DOCNO>
+	<brief_summary>Objective : Obstructive Sleep Apnea-Hypopnea Syndrome ( OSAHS ) common sleep disorder require time money consume full polysomnography diagnose . Alternative method initial evaluation seek . The investigator aim prediction Apnea-Hypopnea Index ( AHI ) patient suspect suffer OSAHS use two model base nonlinear analysis three biosignals sleep . Methods : One hundred patient referred Sleep Unit underwent full polysomnography . Three nonlinear index ( Largest Lyapunov Exponent , Detrended Fluctuation Analysis Approximate Entropy ) extract three biosignals ( airflow nasal cannula , thoracic movement Oxygen saturation ) provide input data mining application creation predictive model AHI .</brief_summary>
+	<brief_title>Evaluation Of Patients With Obstructive Sleep Apnea-Hypopnea Syndrome ( OSAHS ) Based Nonlinear Analysis Of Respiratory Signals</brief_title>
+	<detailed_description>Patients refer Sleep Unit tertiary hospital northern Greece year 2005-2008 accept sign inform consent form include study . One every five consecutive patient select order ensure randomization . The study protocol approve ethic committee hospital . All subject report symptoms consistent OSAHS significant comorbidities . The presence dementia , neuromuscular disorder , overlap syndrome severe cardiac problem exclusion criterion participant . The subject underwent full overnight attend polysomnography ( Somnologica 7000 , Flaga ; Iceland ) accord standard criterion include respiratory recording thoracic abdominal movement , nasal flow pressure cannula , snore , arterial oxygen saturation use pulse oximetry . Apnea hypopnea define accordance standard use criterion . All recording manually score experienced medical doctor . Three nonlinear index ( Largest Lyapunov Exponent-LLE , Detrended Fluctuation Analysis-DFA Approximate Entropy-APEN ) extract two respiratory signal ( nasal cannula flow-F thoracic belt movement-T ) . The oxygen saturation signal ( SpO2 ) pulse oximetry also select . The signal mean duration 317.5 minute first export European Data Format ( EDF ) process use signal processing software ( Matlab Mathworks Inc. ) personal computer . The LLE calculation require use command line application Rosenstein et al well spreadsheet program ( Microsoft Excel ) . The basic statistical analysis perform use SPSS Windows , Version 15.0 ( SPSS Inc , Chicago , Illinois ) . Correlations study derived parameter explore Pearson 's correlation test difference mean observed value various OSAHS severity group analyze use Student 's t-test . The statistical significance level set p &lt; 0.05 . The predictive model create utilizing linear regression tool .</detailed_description>
+	<mesh_term>Syndrome</mesh_term>
+	<mesh_term>Apnea</mesh_term>
+	<mesh_term>Sleep Apnea Syndromes</mesh_term>
+	<mesh_term>Sleep Apnea , Obstructive</mesh_term>
+	<criteria>symptom compatible OSAHS voluntary participation presence dementia neuromuscular disorder overlap syndrome severe cardiac problem</criteria>
+	<gender>All</gender>
+	<minimum_age>18 Years</minimum_age>
+	<maximum_age>75 Years</maximum_age>
+	<verification_date>December 2005</verification_date>
+	<keyword>OSAHS</keyword>
+	<keyword>nonlinear analysis</keyword>
+	<keyword>polysomnography</keyword>
+	<keyword>biosignal analysis</keyword>
+	<keyword>DFA</keyword>
+	<keyword>APEN</keyword>
+	<keyword>LLE</keyword>
+</DOC>

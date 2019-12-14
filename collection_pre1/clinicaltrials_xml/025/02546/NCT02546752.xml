@@ -1,0 +1,18 @@
+<DOC>
+	<DOCNO>NCT02546752</DOCNO>
+	<brief_summary>This primary goal study ass whether patient whose parent watch standardized digital video use integrated digital approach routine office visit likely accept dose HPV vaccine ( 1st , 2nd , 3rd dose ) compare complete program . The study team anticipate eligible patient intervention clinic higher rate HPV vaccine acceptance ( 1st , 2nd , 3rd dos ) patient usual care comparison clinic . Additionally , study team interested determine impact integrated system clinical workflow measure number minute patient office visit use system compare number minute visit office system use . Although descriptive/exploratory aim , expectation THEO system minimal impact patient flow .</brief_summary>
+	<brief_title>Use Patient Education/Messaging Platform Increase Uptake Series Completion HPV Vaccine</brief_title>
+	<detailed_description>Brief Summary Design : This 2-arm randomized study , randomization occur level clinic . Five clinic include ( 2 implement THEO video ; 3 provide usual care ) . All five clinic use Child Health Improvement Computer Automation System ( CHICA ) several year . The evaluation phase study last approximately 6-7 month . The CHICA System The Child Health Improvement Computer Automation system ( CHICA ) computer base decision support system operate front end electronic medical record system ( EMR ) . When child register clinic , registration system send HL7 ADT ( registration ) message CHICA . In response , CHICA request download patient 's record EMR . CHICA apply rule base consist hundred Arden Syntax rule data record select 20 yes/no question display electronic tablet . The family answer question return tablet medical assistant enters child 's height , weight measurement onto another page tablet . At time CHICA produce question family , send HL7 request CHIRP , Indiana immunization registry . In response , CHICA receive download child 's immunization record . The download include CHIRP 's `` forecast '' immunization patient due . At end process , CHICA produce several paper document . The first physician worksheet ( PWS ) . The PWS include six alert reminder physician . The reminder select CHICA , use Arden Syntax rule set base patient 's EMR answer provide tablet . Each alert six check box physician document s/he respond alert . The PWS , complete , scan , cod data correspond check box store , text write physician 's note medical record . CHICA may also produce large number handout help physician assessment patient education . CHICA also produce summary patient 's immunization history well advice shot child due receive . In ongoing study Regenstrief-Merck collaboration , investigator study effect provide physician suggest `` script '' recommend HPV vaccination eligible patient ' family . The study randomize physician whether script provide whether physician receives simple reminder .</detailed_description>
+	<mesh_term>Infection</mesh_term>
+	<mesh_term>Communicable Diseases</mesh_term>
+	<mesh_term>Uterine Cervical Neoplasms</mesh_term>
+	<mesh_term>Virus Diseases</mesh_term>
+	<mesh_term>Papilloma</mesh_term>
+	<mesh_term>Papillomavirus Infections</mesh_term>
+	<mesh_term>Vaccines</mesh_term>
+	<criteria>Parents/legal guardian 1117 year old child . Children receive healthcare one 5 CHICA clinic . Parents able read either English Spanish . Children receive 2 dos HPV vaccine Parents exclude child outside designate age range 1117 year , child complete 3dose HPV vaccine series , parent read either English Spanish .</criteria>
+	<gender>All</gender>
+	<minimum_age>11 Years</minimum_age>
+	<maximum_age>17 Years</maximum_age>
+	<verification_date>May 2016</verification_date>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+	<DOCNO>NCT00081666</DOCNO>
+	<brief_summary>To use new statistical method , Logical Analysis Data ( LAD ) , predict cardiac surgery risk .</brief_summary>
+	<brief_title>Logical Analysis Data Cardiac Surgery Risk</brief_title>
+	<detailed_description>BACKGROUND : One important task cardiovascular clinician perform risk stratification , enable appropriate target aggressive treatment patient likely benefit . Contemporary risk stratification strategy include clinical score system along performance noninvasive test . Although approach commonly use , clinician still find needing incorporate multiple piece clinical information cohesive global risk assessment . The concept utilize data large observational data set develop complex risk score encourage use routine practice therefore gradually evolve gain acceptance . The Logical Analysis Data ( LAD ) potentially useful approach systematically analyze large database purpose develop validate clinically useful risk prediction scheme . Unlike standard regression technique , LAD primarily focus individual risk factor two-way interaction . Rather , LAD design identify complex pattern finding , syndrome , predict outcomes . This method apply problem economics , seismology oil exploration , medicine . DESIGN NARRATIVE : The study three specific aim : 1 ) . apply LAD develop validate risk prediction instrument among patient undergo different type cardiac surgery . 2. compare predictive value LAD predictive instrument predictive instrument develop use standard statistical method , include multiple time-phase parametric modeling . 3. develop predictive instrument use relative risk forest , new Monte Carlo method estimate risk value large survival data setting large number correlate variable . Relative risk forest adaptation random forest introduce Breiman . When possible method compare LAD . Internal estimate generalization error , measure well method generalize data setting , compute use development predictive instrument . Relative risk forest also compare several non-deterministic method , include boost spike slab variable selection . All technique use develop complex model maintain good prediction error ideal high dimensional problem traditional method breakdown . Although project focus risk assessment among patient undergo cardiac surgery , important recognize primarily interested value LAD mean analyze large complex data set within medical sphere . Hence , applicability work go beyond determination risk patient undergoing cardiac surgery . Data use study consist cardiac surgery data Cleveland Clinic Foundation Cardiovascular Information Registry ( CVIR ) . Four cohort data assemble ; Cohort I : 18,914 CABG patient 1990 2000 ; Cohort II : 6952 patient undergoing aortic valve replacement ; Cohort III : 2979 patient undergoing mitral valve replacement ; Cohort IV : 10,482 patient undergoing mitral valve repair . The primary endpoint long term total mortality ; valve surgery patient active follow-up .</detailed_description>
+	<mesh_term>Cardiovascular Diseases</mesh_term>
+	<mesh_term>Heart Diseases</mesh_term>
+	<mesh_term>Constriction , Pathologic</mesh_term>
+	<mesh_term>Coronary Disease</mesh_term>
+	<mesh_term>Coronary Artery Disease</mesh_term>
+	<mesh_term>Aortic Valve Stenosis</mesh_term>
+	<mesh_term>Mitral Valve Stenosis</mesh_term>
+	<criteria>No eligibility criterion</criteria>
+	<gender>All</gender>
+	<minimum_age>N/A</minimum_age>
+	<maximum_age>100 Years</maximum_age>
+	<verification_date>January 2008</verification_date>
+</DOC>

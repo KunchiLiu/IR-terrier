@@ -1,0 +1,11 @@
+<DOC>
+	<DOCNO>NCT02914444</DOCNO>
+	<brief_summary>Monitoring data anesthesia surgical patient operation room collect stored registry automatically . Patients ' information preoperative assessment medical record include . Furthermore , intraoperative event integrate entered registry . The purpose registry establish automatic accessible database surgical patient retrospective study .</brief_summary>
+	<brief_title>Registry Construction Intraoperative Vital Signs Clinical Information Surgical Patients</brief_title>
+	<detailed_description>Capture storage vital sign data perform developed data gathering program , Vital Recorder . The Vital Recorder program Windows® software acquire time-synced patient monitoring data serial port multiple anesthesia device like patient monitor , anesthesia machine , bispectral index monitor , cardiac output monitor , infusion pump , etc . The retrieve data store local network data storage . Variables capture Vital Recorder program follow : heart rate , blood pressure , saturation , temperature , respiratory parameter , bispectral index , infusion history target-controlled infusion pump , cardiac output , cerebral oxygen concentration , etc . Time interval data 1-2 sec numeric variable . Resolution wave ( analog data ECG , plethysmogram , pressure wave ) usually 500 Hz . Captured data patient store *.vital file . A laptop connect 4-6 anesthesia device time via serial connection . Patients enrol ( surgical patient undergo surgery hospital ) receive routine anesthesia surgery . Due program 's automatic function , program identifies start end case automatically record vital sign every patient 24/365 , program start . Patient information additionally gather electronic medical recording system ( EMR ) . Data EMR follow : sex , age , weight , height , diagnosis , operation , anesthesia surgery time , premedical history , perioperative lab data medication . List vital file patient information integrate encrypted spreadsheet file .</detailed_description>
+	<criteria>Patients undergo surgery</criteria>
+	<gender>All</gender>
+	<minimum_age>N/A</minimum_age>
+	<maximum_age>N/A</maximum_age>
+	<verification_date>September 2016</verification_date>
+</DOC>

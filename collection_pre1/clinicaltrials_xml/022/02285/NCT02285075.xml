@@ -1,0 +1,21 @@
+<DOC>
+	<DOCNO>NCT02285075</DOCNO>
+	<brief_summary>The current study aim explore pharmacokinetics temocillin patient treat haemodialysis demonstrate whether pharmacodynamics target time MIC 16 mg/L 40 60 % dose interval could obtain dose schedule 1 gram/24 hour , 2 gram/48 hour 3 gram/72 hour , dos give haemodialysis session .</brief_summary>
+	<brief_title>Temocillin Pharmacokinetic Hemodialysis</brief_title>
+	<detailed_description>Background : Temocillin renally clear penicillin long serum half-live potent activity gram-negative bacteria , make ideal candidate treatment give dialysis day severe gram-negative infection patient ESRD treat haemodialysis . Endpoints : Primary : The current study aim demonstrated measurement AUC whether pharmacodynamics target time MIC 8 16 mg/L 40 60 % dose interval could obtain dose schedule 1 gram/24 hour , 2 gram/48 hour 3 gram/72 hour , dos give haemodialysis session . Secondary : Key pharmacokinetic dialytic parameter determine previously described16 . The following parameter record : volume distribution Vd ( determine Vd = dose / ( Tempeak - Temtrough ) liter ) ; Vd/Wt ( liter/kg body weight ) ; non-dialysis clearance temocillin ( Ke ( non-dialysis ) = [ ln ( Tempeak ) - ln ( Tempre ) ] / time peak level start next dialysis ) ; non-dialysis half-life ( T1/2 ( non-dialysis ) = 0.693 / Ke ( non-dialysis ) hour ) ; dialysis clearance temocillin ( Ke ( dialysis ) = [ ln ( Tempre ) - ln ( Tempost ) ] / dialysis duration ) ; dialysis half-life ( T1/2 ( dialysis ) = 0.693 / Ke ( dialysis ) hour ) ; Urea Reduction Ratio ( URR = ( BUNpre - BUNpost ) / BUNpre ) ; Temocillin Reduction Ratio TRR = ( Tempre - Tempost ) / Tempre ) ; Temocillin Removal Ratio ( total amount temocillin recover dialysate , base area curve temocillin removal rate treatment time ) ; AUC temocillin . For PK/PD analysis , non-compartmental method use RStudio 0.98.501 R 3.0.2 software use . Methods : Pharmacokinetic study measure total free temocillin concentration patient treat intermittent haemodialysis temocillin . Blood sample drawn , 0.5 , 3 , 6 , 12 , 20 ( dialysis ) 24 ( end dialysis ) hour start infusion patient dialyse 1-day interval ; 0.5 , 3 , 6 , 12 , 24 , 36 , 44 ( dialysis ) 48 ( end dialysis ) hour start infusion patient dialyse 2-day interval , 0.5 , 3 , 6 , 12 , 24 , 36 , 48 , 68 ( dialysis ) 72 ( end dialysis ) hour start infusion patient dialyse 3-day interval . Patients follow 1 6 subsequent AUC . Dialysate sample take 1 , 2 , 3 4 h start dialysis . All sample take arterial venous catheter , thorough rinsing . Serum ( obtain centrifugation blood clot ) dialysate frozen ( -80 C ) immediately sample analysis . Temocillin total free concentration determine high performance liquid chromotography ( HPLC ) LiChrospher 100 RP-18 5 μm column ( Merck AG ) , use elution buffer 100 mM Na acetate buffer pH 7/acetonitrile ( 95:5 , v/v ) , flow rate 1 mL/min Waters 2690 Alliance System ( Waters Corp. , Milford , MA , USA ) , quantification 235 nm previously describe .</detailed_description>
+	<mesh_term>Infection</mesh_term>
+	<mesh_term>Renal Insufficiency</mesh_term>
+	<mesh_term>Bacterial Infections</mesh_term>
+	<mesh_term>Kidney Failure , Chronic</mesh_term>
+	<mesh_term>Gram-Negative Bacterial Infections</mesh_term>
+	<mesh_term>Temocillin</mesh_term>
+	<mesh_term>Penicillins</mesh_term>
+	<criteria>patient treatment haemodialysis ESRD treatment temocillin indicate accord attend physician eligible study . age le 18 year estimate lifeexpectance &lt; 24 hour due major comorbid condition pregnancy IgEmediated allergy penicillin patient give informed consent .</criteria>
+	<gender>All</gender>
+	<minimum_age>18 Years</minimum_age>
+	<maximum_age>N/A</maximum_age>
+	<verification_date>January 2016</verification_date>
+	<keyword>temocillin</keyword>
+	<keyword>PD/PD</keyword>
+	<keyword>T &gt; MIC</keyword>
+</DOC>

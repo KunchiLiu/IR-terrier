@@ -1,0 +1,15 @@
+<DOC>
+	<DOCNO>NCT02287220</DOCNO>
+	<brief_summary>The purpose study test accuracy web cam-based biomedical device develop UVA ( FDA-approved ) design measure heart rate , respiratory rate , oxygen saturation without require patient contact . One potential application device would field infant monitoring allow parent ( physician ) monitor vital sign infant continuously . The investigator therefore propose record heart rate , respiratory rate , oxygen saturation 100 infant ( defined child age 12 month less ) receive continuous oxygen , heart rate , respiratory rate monitoring traditional vital sign monitor . The relationship `` non-contact '' `` gold standard '' ( GE monitoring equipment ) heart rate , respiratory rate , oxygen saturation analyze use regression limit agreement analysis .</brief_summary>
+	<brief_title>Non Contact Measurement Vital Signs</brief_title>
+	<detailed_description>While multiple investigator attempt develop non-contact pulse oximeter , none device achieve accuracy sufficient clinical use , device approve Food Drug Administration , currently device market United States . While device typically able measure heart respiratory rate accuracy , v accurate calculation oxygen saturation arterial pulse ( SpO2 ) use `` non-contact '' reflectance oximetry probe complicate interference ambient light , patient temperature change , well inherent limitation sense device currently utilize . Poh et al somewhat successful calculate heart rate video record use independent component analysis . However , Poh 's method calculate instantaneous rate require facial recognition component track facial orientation image , capable measure respiratory rate , relies primarily analysis reflect green light ( used calculation oxygen saturation ) . Our work involve modify commercial shelf ( COTS ) 3-channel ( red , green , blue ) CCD ( charge couple device ) CMOS ( complementary metal oxide semiconductor ) camera form web cam detect near infrared infrared spectrum radiation apply algorithm base fast Fourier transformation ( FFT ) individual red pixel intensity detect motion color change . Because algorithm analyzes first derivative red pixel intensity , face-tracking component unnecessary , able calculate heart rate respiratory rate real time .</detailed_description>
+	<mesh_term>Anoxia</mesh_term>
+	<criteria>Infant age 0 12 month Receiving care UVA Heart rate , respiratory rate , oxygenation ( SpO2 ) monitor continuously Greater 12 month age Not receive continuous monitor heart rate , respiratory rate , oxygenation ( SpO2 ) Intubated and/or mechanically ventilated History retinopathy prematurity Inability directly visualize child 's head Family unwilling consent Parents le 18 year age</criteria>
+	<gender>All</gender>
+	<minimum_age>N/A</minimum_age>
+	<maximum_age>12 Months</maximum_age>
+	<verification_date>November 2016</verification_date>
+	<keyword>Non-Contact Oximetry</keyword>
+	<keyword>video plethysmography</keyword>
+	<keyword>oxygen desaturation</keyword>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+	<DOCNO>NCT01202344</DOCNO>
+	<brief_summary>The purpose study develop computer program might able accurately assess risk artery re-narrowing follow angioplasty stenting base computer image . After angioplasty ( procedure re-open narrow block blood vessel ) patient extra image take order ass result procedure ; use see whether image help predict outcome patient come back hospital procedure do .</brief_summary>
+	<brief_title>Computer Prediction Restenosis Following Peripheral Angioplasty</brief_title>
+	<detailed_description>The study involve medical imaging patient undergo angioplasty intervention peripheral artery . It similar observational study , except additional imaging perform standard-of-care . Some risk may associate additional imaging due small increase radiation exposure intravenous contrast administration . No investigational drug device test study . No control group use . Logistic regression analysis perform use NCSS statistical software identify explanatory variable ( ) , select simulation result , use predict binary restenosis , categorical dependent variable . For subject , binary restenosis determine compare CT-scan image obtain 1 hour post-intervention obtain 6 month follow-up study . The CT-scan image segment mesh target vessel reconstruct described objective 1 . The lumen area measure every cross-section mesh perpendicular vessel centerline , 2 mm step cross-sections . The minimum lumen diameter calculate minimum lumen area . If minimum lumen diameter follow-up less 50 % minimum lumen diameter post-intervention , binary restenosis positive . Otherwise negative . Objective 1 : Evaluate accuracy computer prediction artery dilatation stent implantation CT-scan image . This information hypothesize indicative accuracy quantity predict computer simulation angioplasty , use independent variable objective 2 . Objective 2 : Establish regression model 80 % sensitivity 80 % specificity predict binary restenosis base one several injury parameter patient undergo angioplasty . The candidate injury parameter : - endothelium denudation ( % total endothelium area ) - descriptor magnitude spatial distribution stretch ratio arterial wall - descriptor magnitude spatial distribution intramural stress arterial wall All injury parameter predict computer simulation angioplasty .</detailed_description>
+	<mesh_term>Polystyrene sulfonic acid</mesh_term>
+	<criteria>schedule percutaneous dilation peripheral artery ; age 18 year ; inform consent sign subject ; target lesion native artery ; baseline lumen diameter great 4 mm . previous revascularization target lesion ; subject undergoing chemotherapy .</criteria>
+	<gender>All</gender>
+	<minimum_age>18 Years</minimum_age>
+	<maximum_age>N/A</maximum_age>
+	<verification_date>October 2016</verification_date>
+	<keyword>Angioplasty</keyword>
+	<keyword>Stenosis</keyword>
+	<keyword>Restenosis</keyword>
+	<keyword>Elastic Recoil</keyword>
+	<keyword>cheduled percutaneous dilation peripheral artery</keyword>
+	<keyword>Target lesion native artery</keyword>
+	<keyword>Baseline lumen diameter great 4 mm</keyword>
+</DOC>

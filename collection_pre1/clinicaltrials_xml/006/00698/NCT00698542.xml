@@ -1,0 +1,18 @@
+<DOC>
+	<DOCNO>NCT00698542</DOCNO>
+	<brief_summary>The Patient Safety Screening Tool ( PSST ) Sepsis solution tool assist early detection Sepsis management administration bundle package define Institute Healthcare Improvement ( IHI ) . This web base application relies integration bedside medical equipment ( BME ) data well Lab Registration data clinical workflow item automate fight Sepsis .</brief_summary>
+	<brief_title>Evaluation Patient Safety Screening Tool ( PSST ) Sepsis</brief_title>
+	<detailed_description>The workflow automate PSST Sepsis solution tightly integrate Registration , Bedside Monitoring Equipment ( BME ) , Lab data . As patient arrive unit , workflow activity start patient context . Typical implementation IHI guideline Sepsis screen dictate patient rescreened regular interval detect Sepsis . The PSST Sepsis solution monitor Lab BME data store continually update screen form particular patient . It also alert clinician manual screen require Microsoft InfoPath form . The constant screening loop manage PSST Sepsis solution continue run patient screen positive Severe Sepsis , move next workflow audit patient Sever Sepsis . When patient reach state `` positive screen '' ( either manually , automate data monitor ) PSST Sepsis solution move patient screen workflow audit workflow automatically . The PSST Sepsis solution monitor treatment process Microsoft InfoPath form post alert clinician treatment goal meet . After successful audit process completion 6 24 hour bundle , patient place back screen workflow . The end result patient remain screening/auditing workflow loop patient discharge unit .</detailed_description>
+	<mesh_term>Sepsis</mesh_term>
+	<mesh_term>Toxemia</mesh_term>
+	<criteria>Patients hospitalize Neuro Care Unit ( NCU ) Patients hospitalize Vanderbilt Burn Center Patients must &gt; 18 year age Patients &lt; 18 year age</criteria>
+	<gender>All</gender>
+	<minimum_age>18 Years</minimum_age>
+	<maximum_age>N/A</maximum_age>
+	<verification_date>December 2008</verification_date>
+	<keyword>PSST</keyword>
+	<keyword>sepsis</keyword>
+	<keyword>Neuro Care Unit</keyword>
+	<keyword>Surviving Sepsis Campaign</keyword>
+	<keyword>SSC</keyword>
+</DOC>

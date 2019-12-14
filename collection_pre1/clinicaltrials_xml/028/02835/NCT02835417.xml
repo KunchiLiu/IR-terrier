@@ -1,0 +1,17 @@
+<DOC>
+	<DOCNO>NCT02835417</DOCNO>
+	<brief_summary>Background The fetal heart rate ( FHR ) commonly monitor labor detect early fetal acidosis . FHR variability traditionally investigate use Fourier transform , however , fetal condition differ adult ( high frequency , widely instable signal ) modify spectrum repartition along frequency , make approach inappropriate . New mathematic approach , include Multifractal analysis , adaptative multiscale complexity analysis , nearest-neighbor base wavelet entropy rate measure , scatter transform , may identify parameter associate fetal acidosis . Modern classification system , drive data , base relevant parameter help dsiccriminate fetus risk acidosis help clinician decision make management termination labor . Analysing 20 30 minute slide window different method limit number case ( foetus bear acidosis ) control ( foetus without acidosis ) lead identify relevant parameter , submit classification tool . For external validation , large database , include 4500 FHR record document foetal outcome , use evaluate performance combination parameter identify classification system use discriminate foetus risk short term acidosis , order give relevant information clinician acidosis occur , make appropriate decision .</brief_summary>
+	<brief_title>Fetal Evaluation Term Using Statistical ECG Signal Processing ( FETUSES )</brief_title>
+	<detailed_description />
+	<criteria>woman singleton pregnancy fetal ECG record use scalp electrode , record last 60 minute , le 20 % miss data less 20 minute end record birth . Women recirdin last less 60 minute , 20 % miss data , 20 minute end record birth .</criteria>
+	<gender>Female</gender>
+	<minimum_age>18 Years</minimum_age>
+	<maximum_age>45 Years</maximum_age>
+	<verification_date>March 2017</verification_date>
+	<keyword>fetal heart rate variability</keyword>
+	<keyword>entropy</keyword>
+	<keyword>multifractal analysis</keyword>
+	<keyword>scatter transform</keyword>
+	<keyword>sparse vector machine</keyword>
+	<keyword>acidosis</keyword>
+</DOC>
