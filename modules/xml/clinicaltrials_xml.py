@@ -5,7 +5,6 @@
 # @Date  : 2019/12/11
 
 import os
-import re
 from xml.etree.ElementTree import parse, Element, SubElement, ElementTree
 
 # elemnt为传进来的Elment类，参数indent用于缩进，newline用于换行
