@@ -5,23 +5,23 @@
 
 ## 数据预处理成.xml格式
 
-执行脚本：
+cd modules/xml 下，执行脚本：
 
 ```zsh
-python modules/xml/clinicaltrials_xml.py
+python3 clinicaltrials_xml.py
 ```
 ## 对预处理后的.xml文件执行去停用词和词形还原
 
-执行脚本：
+cd modules/xml 下，执行脚本：
 
 ```zsh
-python3 modules/xml/process.py
+python3 process.py
 ```
 
 ## 收集数据文档并建立索引
 ### 收集数据文档
 ```zsh
-bin/trec_setup.sh    collection_pre1
+bin/trec_setup.sh collection_pre1
 ```
 
 ### 建立索引
