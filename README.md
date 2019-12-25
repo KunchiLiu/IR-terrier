@@ -18,6 +18,18 @@ cd modules/xml 下，执行脚本：
 python3 process.py
 ```
 
+## topics处理
+cd modules/xml 下，执行脚本：
+
+```zsh
+python3 topics2018_xml.py
+```
+
+处理后topics文件存放在：
+```zsh
+collection_pre/topics2018.xml
+```
+
 ## 收集数据文档并建立索引
 ### 收集数据文档
 ```zsh
