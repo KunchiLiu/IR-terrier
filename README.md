@@ -18,15 +18,16 @@ cd modules/xml 下，执行脚本：
 python3 process.py
 ```
 
-## topics处理
+## 病例Age和topic的Age处理+topic提出主要字段
 cd modules/xml 下，执行脚本：
-
 ```zsh
-python3 topics2018_xml.py
+python3 clinicaltrials_age.py
+python3 topics2018_XmlAndAge.py
 ```
-
-处理后topics文件存放在：
+处理后病例、topic的Age和topic主要字段文件存放在：
 ```zsh
+collection_pre/clinicaltrials_AgeInfo.csv
+collection_pre/topics2018_Age.csv
 collection_pre/topics2018.xml
 ```
 

@@ -47,8 +47,9 @@ def mkdir(path):
 
 
 if __name__ == "__main__":
-    root = '../../collection'
-    root_store_pre = '../../collection_pre'     # 预处理之后存储路径
+    root = os.path.abspath(os.path.join(os.getcwd(), '../../collection'))
+    root_store_pre = os.path.abspath(os.path.join(os.getcwd(), '../../collection_pre'))     # 预处理之后存储路径
+
     mkdir(root_store_pre)
 
     root_cli = os.path.join(root, 'clinicaltrials_xml')

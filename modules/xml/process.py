@@ -96,8 +96,9 @@ def pre_process(text):
     #str = ' '
     #text=str.join(lemma_text)
 if __name__ == "__main__":
-    root = '../../collection_pre'
-    root_store_pre = '../../collection_pre1'     # 预处理之后存储路径
+    root = os.path.abspath(os.path.join(os.getcwd(), '../../collection'))
+    root_store_pre = os.path.abspath(os.path.join(os.getcwd(), '../../collection_pre1'))  # 预处理之后存储路径
+
     mkdir(root_store_pre)
 
     root_cli = os.path.join(root, 'clinicaltrials_xml') #原始数据
